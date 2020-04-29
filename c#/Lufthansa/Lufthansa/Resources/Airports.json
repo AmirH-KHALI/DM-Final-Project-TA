@@ -1,0 +1,659 @@
+{
+    "AirportResource": {
+        "Airports": {
+            "Airport": [{
+                "AirportCode": "AAA",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": -17.3525,
+                        "Longitude": -145.51
+                    }
+                },
+                "CityCode": "AAA",
+                "CountryCode": "PF",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Anaa"
+                    }, {
+                        "@LanguageCode": "EL",
+                        "$": "Αναά"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Anaa"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Anaa"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Anaa"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Anaa"
+                    }, {
+                        "@LanguageCode": "TR",
+                        "$": "Anaa"
+                    }]
+                },
+                "UtcOffset": "-10:00",
+                "TimeZoneId": "Pacific/Tahiti"
+            }, {
+                "AirportCode": "AAB",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": -26.6911,
+                        "Longitude": 141.0472
+                    }
+                },
+                "CityCode": "AAB",
+                "CountryCode": "AU",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Arrabury"
+                    }, {
+                        "@LanguageCode": "EL",
+                        "$": "Αραμπέρι"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Arrabury"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Arrabury"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Arrabury"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Arrabury"
+                    }, {
+                        "@LanguageCode": "TR",
+                        "$": "Arrabury"
+                    }]
+                },
+                "UtcOffset": "+10:00",
+                "TimeZoneId": "Australia/Brisbane"
+            }, {
+                "AirportCode": "AAC",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 31.0733,
+                        "Longitude": 33.8358
+                    }
+                },
+                "CityCode": "AAC",
+                "CountryCode": "EG",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "El Arish International"
+                    }
+                },
+                "UtcOffset": "+02:00",
+                "TimeZoneId": "Africa/Cairo"
+            }, {
+                "AirportCode": "AAD",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 6.0961,
+                        "Longitude": 46.6375
+                    }
+                },
+                "CityCode": "AAD",
+                "CountryCode": "SO",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "Adado"
+                    }
+                },
+                "UtcOffset": "+03:00",
+                "TimeZoneId": "Africa/Mogadishu"
+            }, {
+                "AirportCode": "AAE",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 36.8222,
+                        "Longitude": 7.8092
+                    }
+                },
+                "CityCode": "AAE",
+                "CountryCode": "DZ",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "Annaba Rabah Bitat"
+                    }
+                },
+                "UtcOffset": "+01:00",
+                "TimeZoneId": "Africa/Algiers"
+            }, {
+                "AirportCode": "AAF",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 29.7333,
+                        "Longitude": -85.0333
+                    }
+                },
+                "CityCode": "AAF",
+                "CountryCode": "US",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "Apalachicola Regional"
+                    }
+                },
+                "UtcOffset": "-05:00",
+                "TimeZoneId": "America/New_York"
+            }, {
+                "AirportCode": "AAG",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": -24.1036,
+                        "Longitude": -49.79
+                    }
+                },
+                "CityCode": "AAG",
+                "CountryCode": "BR",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "Arapoti Avelino Vieira"
+                    }
+                },
+                "UtcOffset": "-03:00",
+                "TimeZoneId": "America/Araguaina"
+            }, {
+                "AirportCode": "AAH",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 50.8231,
+                        "Longitude": 6.1864
+                    }
+                },
+                "CityCode": "AAH",
+                "CountryCode": "DE",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "Aachen Merzbrueck"
+                    }
+                },
+                "UtcOffset": "+01:00",
+                "TimeZoneId": "Europe/Berlin"
+            }, {
+                "AirportCode": "AAI",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": -12.9167,
+                        "Longitude": -46.9333
+                    }
+                },
+                "CityCode": "AAI",
+                "CountryCode": "BR",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Arraias"
+                    }, {
+                        "@LanguageCode": "EL",
+                        "$": "Αράϊας"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Arraias"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Arraias"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Arraias"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Arraias"
+                    }, {
+                        "@LanguageCode": "TR",
+                        "$": "Arraias"
+                    }]
+                },
+                "UtcOffset": "-03:00",
+                "TimeZoneId": "America/Araguaina"
+            }, {
+                "AirportCode": "AAJ",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 3.9,
+                        "Longitude": -55.3667
+                    }
+                },
+                "CityCode": "AAJ",
+                "CountryCode": "SR",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "Awaradam Cajana"
+                    }
+                },
+                "UtcOffset": "-03:00",
+                "TimeZoneId": "America/Paramaribo"
+            }, {
+                "AirportCode": "AAK",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 0.1853,
+                        "Longitude": 173.6369
+                    }
+                },
+                "CityCode": "AAK",
+                "CountryCode": "KI",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Aranuka"
+                    }, {
+                        "@LanguageCode": "EL",
+                        "$": "Αρανούκα"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Aranuka"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Aranuka"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Aranuka"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Aranuka"
+                    }, {
+                        "@LanguageCode": "TR",
+                        "$": "Aranuka"
+                    }]
+                },
+                "UtcOffset": "+12:00",
+                "TimeZoneId": "Pacific/Tarawa"
+            }, {
+                "AirportCode": "AAL",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 57.0928,
+                        "Longitude": 9.8492
+                    }
+                },
+                "CityCode": "AAL",
+                "CountryCode": "DK",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "BG",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "CS",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "DE",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "HU",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "JA",
+                        "$": "オールボア"
+                    }, {
+                        "@LanguageCode": "KA",
+                        "$": "奧爾堡"
+                    }, {
+                        "@LanguageCode": "KO",
+                        "$": "올보르그"
+                    }, {
+                        "@LanguageCode": "KR",
+                        "$": "올보르그"
+                    }, {
+                        "@LanguageCode": "PL",
+                        "$": "Aalbork"
+                    }, {
+                        "@LanguageCode": "PT",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "RO",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "RU",
+                        "$": "Ольборг"
+                    }, {
+                        "@LanguageCode": "SV",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "UK",
+                        "$": "Aalborg"
+                    }, {
+                        "@LanguageCode": "ZH",
+                        "$": "奥尔堡"
+                    }]
+                },
+                "UtcOffset": "+01:00",
+                "TimeZoneId": "Europe/Copenhagen"
+            }, {
+                "AirportCode": "AAM",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": -24.8181,
+                        "Longitude": 31.5447
+                    }
+                },
+                "CityCode": "AAM",
+                "CountryCode": "ZA",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Mala Mala"
+                    }, {
+                        "@LanguageCode": "EL",
+                        "$": "Μάλα Μάλα"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Mala Mala"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Mala Mala"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Mala Mala"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Mala Mala"
+                    }, {
+                        "@LanguageCode": "TR",
+                        "$": "Mala Mala"
+                    }]
+                },
+                "UtcOffset": "+02:00",
+                "TimeZoneId": "Africa/Johannesburg"
+            }, {
+                "AirportCode": "AAN",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 24.2617,
+                        "Longitude": 55.6092
+                    }
+                },
+                "CityCode": "AAN",
+                "CountryCode": "AE",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "Al Ain International"
+                    }
+                },
+                "UtcOffset": "+04:00",
+                "TimeZoneId": "Asia/Dubai"
+            }, {
+                "AirportCode": "AAO",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 9.4167,
+                        "Longitude": -64.4667
+                    }
+                },
+                "CityCode": "AAO",
+                "CountryCode": "VE",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Anaco"
+                    }, {
+                        "@LanguageCode": "EL",
+                        "$": "Ανάκο"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Anaco"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Anaco"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Anaco"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Anaco"
+                    }, {
+                        "@LanguageCode": "TR",
+                        "$": "Anaco"
+                    }]
+                },
+                "UtcOffset": "-04:00",
+                "TimeZoneId": "America/Caracas"
+            }, {
+                "AirportCode": "AAP",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": -0.3731,
+                        "Longitude": 117.2508
+                    }
+                },
+                "CityCode": "SRI",
+                "CountryCode": "ID",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": {
+                        "@LanguageCode": "EN",
+                        "$": "Samarinda Ap Tumenggung"
+                    }
+                },
+                "UtcOffset": "+08:00",
+                "TimeZoneId": "Asia/Makassar"
+            }, {
+                "AirportCode": "AAQ",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 45.0022,
+                        "Longitude": 37.3472
+                    }
+                },
+                "CityCode": "AAQ",
+                "CountryCode": "RU",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "BG",
+                        "$": "Anapa"
+                    }, {
+                        "@LanguageCode": "CS",
+                        "$": "Anapa"
+                    }, {
+                        "@LanguageCode": "DE",
+                        "$": "Anapa"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Anapa"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Anapa"
+                    }, {
+                        "@LanguageCode": "HU",
+                        "$": "Anapa"
+                    }, {
+                        "@LanguageCode": "RO",
+                        "$": "Anapa"
+                    }, {
+                        "@LanguageCode": "SV",
+                        "$": "Anapa"
+                    }, {
+                        "@LanguageCode": "UK",
+                        "$": "Anapa"
+                    }]
+                },
+                "UtcOffset": "+03:00",
+                "TimeZoneId": "Europe/Moscow"
+            }, {
+                "AirportCode": "AAR",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 56.3039,
+                        "Longitude": 10.6194
+                    }
+                },
+                "CityCode": "AAR",
+                "CountryCode": "DK",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Aarhus"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Aarhus Tirstrup"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Aarhus"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Aarhus"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Aarhus"
+                    }, {
+                        "@LanguageCode": "JA",
+                        "$": "オールフス"
+                    }, {
+                        "@LanguageCode": "KO",
+                        "$": "오르후스"
+                    }, {
+                        "@LanguageCode": "PL",
+                        "$": "Aarhus"
+                    }, {
+                        "@LanguageCode": "PT",
+                        "$": "Aarhus"
+                    }, {
+                        "@LanguageCode": "RU",
+                        "$": "Орхус"
+                    }, {
+                        "@LanguageCode": "ZH",
+                        "$": "奥胡斯"
+                    }]
+                },
+                "UtcOffset": "+01:00",
+                "TimeZoneId": "Europe/Copenhagen"
+            }, {
+                "AirportCode": "AAS",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": -3.9167,
+                        "Longitude": 139.25
+                    }
+                },
+                "CityCode": "AAS",
+                "CountryCode": "ID",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Apalapsili"
+                    }, {
+                        "@LanguageCode": "EL",
+                        "$": "Απαλαψίλι"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Apalapsili"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Apalapsili"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Apalapsili"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Apalapsili"
+                    }, {
+                        "@LanguageCode": "TR",
+                        "$": "Apalapsili"
+                    }]
+                },
+                "UtcOffset": "+09:00",
+                "TimeZoneId": "Asia/Jayapura"
+            }, {
+                "AirportCode": "AAT",
+                "Position": {
+                    "Coordinate": {
+                        "Latitude": 47.7506,
+                        "Longitude": 88.0858
+                    }
+                },
+                "CityCode": "AAT",
+                "CountryCode": "CN",
+                "LocationType": "Airport",
+                "Names": {
+                    "Name": [{
+                        "@LanguageCode": "DE",
+                        "$": "Altay"
+                    }, {
+                        "@LanguageCode": "EL",
+                        "$": "Αλτάϊ"
+                    }, {
+                        "@LanguageCode": "EN",
+                        "$": "Altay"
+                    }, {
+                        "@LanguageCode": "ES",
+                        "$": "Altay"
+                    }, {
+                        "@LanguageCode": "FR",
+                        "$": "Altay"
+                    }, {
+                        "@LanguageCode": "IT",
+                        "$": "Altay"
+                    }, {
+                        "@LanguageCode": "TR",
+                        "$": "Altay"
+                    }]
+                },
+                "UtcOffset": "+08:00",
+                "TimeZoneId": "Asia/Shanghai"
+            }]
+        },
+        "Meta": {
+            "@Version": "1.0.0",
+            "Link": [{
+                "@Href": "https://api.lufthansa.com/v1/mds-references/airports/?limit=20&offset=0&LHoperated=0",
+                "@Rel": "self"
+            }, {
+                "@Href": "https://api.lufthansa.com/v1/mds-references/airports/?limit=20&offset=20&LHoperated=0",
+                "@Rel": "next"
+            }, {
+                "@Href": "https://api.lufthansa.com/v1/mds-references/airports/?limit=20&offset=11660&LHoperated=0",
+                "@Rel": "last"
+            }, {
+                "@Href": "https://api.lufthansa.com/v1/mds-references/cities/{cityCode}",
+                "@Rel": "related"
+            }, {
+                "@Href": "https://api.lufthansa.com/v1/mds-references/countries/{countryCode}",
+                "@Rel": "related"
+            }],
+            "TotalCount": 11661
+        }
+    }
+}
