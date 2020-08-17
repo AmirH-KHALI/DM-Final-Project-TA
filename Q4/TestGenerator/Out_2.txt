@@ -1,0 +1,1663 @@
+09II -86.445 38.447 Gibbons Field
+09IL -88.052 41.536 Silver Cross Hospital Heliport
+09IN -85.425 41.121 Gordon Airport
+09IS -89.074 42.265 Swedish American Heliport
+09KS -95.138 38.707 Coffman Airport
+09KY -85.639 38.239 Baptist Hospital East Heliport
+09LA -90.202 29.123 Era Helicopters Fourchon Helibase Heliport
+09LL -88.743 42.468 Pine Hill Airport
+09LS -91.385 30.824 West Feliciana Sheriff's Office Heliport
+09MA -71.506 42.304 Kallander Field
+09ME -70.855 43.341 Perrotti Skyranch Airfield
+09MI -84.561 42.708 Michigan National Guard Headquarters Heliport
+09MN -95.664 44.78 W Johnson Field
+09MO -93.363 37.378 Hogue Farm Airport
+09N -73.876 41.833 Airhaven Airport
+09NC -79.03 35.329 William Irving Lewis Airport
+09NE -96.194 41.333 Summer Hill Farm Airport
+09NJ -74.687 40.654 Stonebridge Farm Helistop
+09NR -79.65 35.65 Dakota Air Ranch Airport
+09NY -74.049 41.929 Spring Lake Fire Department Heliport
+09OK -95.864 36.354 Ragtime Aerodrome
+09OR -121.164 45.587 Mid-Columbia Medical Center Heliport
+09PA -77.988 40.827 Eagle Field
+09PN -75.143 40.562 Hundley Residence Heliport
+09S -117.284 48.841 Sullivan Lake State Airport
+09TA -97.497 33.282 Lazy G Bar Ranch Airport
+09TE -97.867 32.267 Running M Ranch Airport
+09TN -83.944 35.942 Univ of Tennessee Medical Center Heliport
+09TS -103.165 29.482 Pitcock Rosillos Mountain Ranch Airport
+09TX -102.024 30.739 Smokey Mtn Ranch Airport
+09VA -80.494 36.977 Alum Ridge STOLport
+09VG -78.985 38.091 Augusta Medical Center Heliport
+09W -77.007 38.869 South Capitol Street Heliport
+09WA -117.407 47.71 Holy Family Hospital Heliport
+09WI -91.308 44.004 Parkway Farm Strip
+09XS -98.492 29.433 Baptist Medical Center Heliport
+09Y -93.016 44.817 Wipline Seaplane Base
+0AA6 -136.014 59.403 Big Salmon Heliport
+0AA7 -151.235 60.492 Kalifonsky Meadows Airport
+0AK -162.9 61.935 Pilot Station Airport
+0AK0 -146.862 64.393 Scotts Airport
+0AK1 -149.322 61.617 Anderson Lake Airport
+0AK2 -150.679 61.726 Yentna Bend Strip
+0AK3 -150.494 62.036 Parker Lake Airport
+0AK5 -142.732 61.355 Young Creek Airport
+0AK6 -147.944 61.803 Victory Airport
+0AK7 -150.959 59.776 Bradley Lake Hydroelectri Project Airstrip
+0AK8 -147.498 64.896 Pollux Heliport
+0AK9 -150.059 61.333 Falcon Lake Strip
+0AL0 -86.589 34.688 Huntsville Field
+0AL1 -87.657 30.444 Resort Airport
+0AL2 -85.833 33.275 Clay County Hospital Heliport
+0AL3 -86.94 31.431 Hospital Pad Heliport
+0AL4 -85.756 34.442 Dekalb Regional Medical Center Heliport
+0AL5 -87.253 31.032 Flomaton Airport
+0AL6 -87.073 31.127 D.W. Mcmillian Memorial Hospital Heliport
+0AL7 -85.965 34.008 Gadsden Regl Medical Center Heliport
+0AL8 -86.773 33.464 Brookwood Medical Center Heliport
+0AL9 -87.632 34.85 Wilson Creek Airport
+0AR0 -94.137 36.181 Smh Heliport
+0AR1 -93.202 35.095 Hooterville South Airport
+0AR2 -90.35 35.267 Mission Field-Marotti Memorial Airport
+0AR3 -93.261 35.899 Taylor's Air Strip
+0AR4 -94.46 36.409 Ozarks Community Hospital Heliport
+0AR5 -90.702 35.836 Rgnl Medical Center Heliport
+0AR6 -93.031 34.481 Ami National Park Medical Center Heliport
+0AR7 -91.181 33.95 Yancopin Airport
+0AR8 -93.852 33.95 Howard Memorial Hospital Heliport
+0AR9 -93.743 36.4 Eureka Springs Hospital Heliport
+0AZ0 -112.04 33.481 Arizona Heart Hospital Heliport
+0AZ1 -111.324 32.301 Taylor Field
+0AZ2 -113.642 33.778 Western Sky Airport
+0AZ4 -112.287 32.982 Flying Bucket Ranch Airport
+0AZ5 -112.603 33.866 Castle Well Airport
+0AZ6 -112.077 33.482 St Joseph's Hospital Heliport
+0AZ7 -111.963 33.444 Sunstate Heliport
+0B2 -68.768 44.764 Brewer Airport
+0B7 -72.827 44.117 Warren-Sugarbush Airport
+0C1 -94.781 39.488 Triple R Airport
+0C2 -88.703 41.771 Hinckley Airport
+0C5 -85.281 43.576 Canadian Lakes Airport
+0C7 -89.133 41.522 Grandpas' Farm Mendota Airport
+0C8 -88.606 41.52 Cushing Field Ltd Airport
+0C9 -74.976 40.638 Coach & Paddock Heliport
+0CA0 -118.242 33.923 Drew Medical Center Heliport
+0CA1 -120.458 34.988 Northside Airpark
+0CA2 -118.456 34.049 Va Greater Los Angeles Health Care Center Heliport
+0CA3 -120.013 34.588 Crawford Airport
+0CA4 -120.065 34.622 Shepherd Farm Airport
+0CA5 -116.745 33.143 Hoffman Private Airport
+0CA6 -116.016 32.749 Emory Ranch Airport
+0CA7 -118.088 33.757 Boeing Seal Beach (Rooftop) Heliport
+0CA8 -116.843 33.428 Ward Ranch Airport
+0CA9 -120.339 35.595 Blech Ranch Airport
+0CD0 -108.048 38.745 Delta County Memorial Hospital Heliport
+0CD1 -103.796 40.261 Colorado Plains Medical Center Heliport
+0CD2 -104.234 38.653 Foxx Valley Airport
+0CD3 -104.528 40.348 Branch's Heliport
+0CD4 -104.887 40.146 Kauffman Heliport
+0CD5 -104.144 37.491 Pinon Canyon Airport
+0CD6 -105.085 39.972 Exempla Good Samaritan Heliport
+0CD7 -105.072 40.005 Fox Hole Airport
+0CD8 -102.609 38.071 Prowers Medical Center Heliport
+0CD9 -105.091 39.603 Swedish S.W. Medical Heliport
+0CL0 -119.913 37.118 Yosemite Hidden Lake Ranch Airport
+0CL1 -117.556 34.569 Krey Field Airport
+0CL2 -117.085 32.594 Parking Lot Heliport
+0CL3 -116.893 32.633 John Nichol's Field Airport
+0CL4 -118.255 34.157 Glen Fed Heliport
+0CL5 -117.858 33.671 The Atrium Heliport
+0CL6 -118.283 34.695 Bohunk's Airpark
+0CL7 -118.265 34.055 Good Samaritan Hospital Heliport
+0CL8 -117.634 35.591 Tera Ultralightport
+0CL9 -117.151 33.741 Sce San Jacinto Valley Service Center Heliport
+0CN1 -120.765 37.452 Fiorini Ranch Airport
+0CN2 -121.688 39.229 Sutter Butte Dusters Airport
+0CO0 -105.126 40.179 Longmont United Hospital Heliport
+0CO1 -105.124 40.033 Dave's Airport
+0CO2 -106.928 38.852 Crested Butte Airpark
+0CO3 -104.545 39.889 Greggs Nr 1 Airport
+0CO4 -105.046 40.59 Geo-Seis Helicopters Heliport
+0CO5 -103.59 39.833 Chenoweth Airport
+0CO6 -108.213 38.219 Flying M & M Ranch Airport
+0CO7 -105.04 40.585 Century Helicopters Heliport
+0CO8 -105.013 40.208 Cartwheel Airport
+0CO9 -106.034 37.658 Van Treese Airport
+0CT0 -73.481 41.881 Sharon Hospital Heliport
+0CT1 -72.756 41.485 Bristol-Myers Squibb Company Heliport
+0CT2 -72.226 41.717 Windham Hospital Heliport
+0CT3 -72.788 41.662 N B G H Heliport
+0CT4 -72.94 41.506 Burke Heliport
+0CT5 -72.699 41.775 St Francis Hospital Heliport
+0CT6 -72.704 41.597 Middletown Heliport
+0CT7 -73.166 41.188 Bridgeport Hospital Heliport
+0CT8 -73.445 41.406 Danbury Hospital Heliport
+0CT9 -72.679 41.755 Hartford Hospital Heliport
+0D6 -96.988 40.475 Wilber Municipal Airport
+0D7 -83.829 40.791 Ada Airport
+0D9 -84.959 44.958 Air Park North
+0E9 -93.241 40.755 Corydon Airport
+0FA0 -80.339 25.813 Doral Resort & Country Club Heliport
+0FA1 -81.88 27.304 Ott's Landing Airport
+0FA2 -83.593 30.12 Doctors Memorial Hospital #2 Heliport
+0FA5 -81.629 28.573 Briley Farm Seaplane Base
+0FD0 -81.23 29.268 The 2A Ranch Airport
+0FD1 -85.872 30.214 Panhandle Helicopter Llc Heliport
+0FD2 -80.237 25.96 Dolphin Stadium Heliport
+0FD3 -86.094 30.496 Dugger Field
+0FD4 -82.208 29.361 Cloverleaf Farms Ii Inc. Heliport
+0FD5 -86.344 30.82 Breezy Knoll Airport
+0FD6 -80.486 27.907 Fulton Seaplane Base
+0FD9 -86.109 30.652 Joy Farms Airport
+0FL0 -81.164 26.731 Harper's Fly-In Ranch Airport
+0FL1 -82.836 29.983 Thompson Airfield
+0FL2 -81.164 28.788 Alligator Drink Seaplane Base
+0FL3 -82.982 29.603 Old Town Ems Heliport
+0FL4 -85.378 30.705 Jackson Heliport
+0FL5 -81.35 28.459 Lake Conway South Seaplane Base
+0FL6 -82.14 27.806 Stanchester Airport
+0FL7 -81.419 28.61 Wcpx Tv-6 Heliport
+0FL8 -81.682 30.194 Gary Gale Seaplane Base
+0FL9 -81.023 26.394 Mc Daniel Ranch Inc. Airport
+0G0 -78.703 43.103 North Buffalo Suburban Airport
+0G5 -90.384 47.826 Grand Marais/Cook County Seaplane Base
+0GA0 -84.367 33.356 Halls Flying Ranch Airport
+0GA1 -82.897 34.478 Mustang Field
+0GA2 -82.946 34.378 Airnautique, Inc. Airport
+0GA3 -85.061 33.77 Ayresouth Airport
+0GA4 -83.506 33.813 Paradise Falls Airport
+0GA5 -84.289 34.455 Big Canoe Heliport
+0GA6 -83.819 33.733 Sunset Strip
+0GA7 -85 33.683 Hickory Level Airfield
+0GA8 -83.416 30.887 Paso Fino Farm Airport
+0GA9 -84.027 32.714 Roberta Industrial Park Airport
+0GE0 -84.801 33.782 Pinewood Airport
+0GE1 -83.447 31.666 Crystal Lake Airpark
+0GE3 -85.46 34.905 Lookout Mountain Airport
+0GE4 -84.267 33.331 Pecan Patch Airstrip
+0GE5 -83.714 34.562 Mountain Airpark
+0GE7 -82.372 33.52 Carpenter Airport
+0GE9 -81.799 32.694 Pegasus Ranch Airport
+0H7 -91.706 40.422 Kahoka Municipal Airport
+0I2 -87.1 39.477 Brazil Clay County Airport
+0IA0 -93.096 41.317 Knoxville Area Community Hospital Heliport
+0IA1 -94.868 42.058 St Anthony Regional Hospital Heliport
+0IA2 -94.939 41.715 Audubon County Memorial Hospital Heliport
+0IA3 -92.328 42.435 Hawkeye Airport
+0IA4 -91.05 41.033 Sharar Field
+0IA5 -93.263 40.872 Moore Private Airport
+0IA6 -92.29 41.66 Rinehart Airport
+0IA7 -94.467 41.039 Cromwell Heliport
+0IA8 -91.751 42.228 Hannen Airport
+0IA9 -91.3 40.833 Army Reserve Heliport
+0ID0 -115.107 43.606 South Fork Ranch Airport
+0ID1 -114.605 42.641 Ziggy's Airport
+0ID2 -113.773 44.443 Flying Joseph Ranch Airport
+0ID3 -115.673 43.076 Coyote Run Airport
+0ID4 -114.47 43.048 Black Butte Ranch Airport
+0ID5 -116.462 43.053 Ez Lope Ranch Airport
+0ID6 -113.891 45.174 Steele Memorial Heliport
+0ID7 -116.763 43.23 Z X Ranch Airport
+0ID8 -116.178 45.775 Pinnacle Airport
+0ID9 -116.471 46.785 Corral Creek Airport
+0II0 -85.253 40.26 Chuck's Airport
+0II1 -86.153 40.428 Unsicker Airport
+0II2 -86.124 41.457 Creighton Airport
+0II3 -86.038 40.628 Miller Strip
+0II5 -86.857 40.66 Marshall Field
+0II6 -85.83 41.643 Kropf Airport
+0II7 -85.786 39.796 Frost Field
+0II8 -87.476 41.325 Sutton's Field
+0II9 -86.577 39.534 Winters Airport
+0IL0 -88.539 38.087 Hamilton Memorial Hospital Heliport
+0IL1 -87.836 41.861 Loyola University Medical Center Heliport
+0IL2 -88.998 38.803 Griffin Airport
+0IL3 -87.674 40.157 Flying B Ranch Airport
+0IL4 -88.008 41.819 Good Samaritan Hospital Heliport
+0IL5 -89.948 41.222 OSF St Luke Medical Center Heliport
+0IL6 -88.717 41.963 Kishwaukee Community Hospital Heliport
+0IL8 -88.724 41.873 Walter Airport
+0IL9 -88.787 41.855 Jack W. Watson Airport
+0IN1 -87.596 38.5 Snider Field
+0IN2 -85.086 40.828 The Lazy K Airport
+0IN3 -86.667 41.117 Graves Landing Strip
+0IN4 -84.947 41.128 Air Park Field
+0IN5 -86.034 38.329 Byrne Field
+0IN7 -86.226 39.923 Roto-Whirl/Holiday Heliport
+0IN8 -86.119 39.837 Roto-Whirl/Vantage Heliport
+0IN9 -87.951 37.993 Parrish Airport
+0IS0 -90.571 41.481 Trinity Medical Center West Heliport
+0IS2 -87.853 42.093 Evanston/Glenbrook Heliport
+0IS3 -89.694 41.661 Cady Aerial RLA Restricted Landing Area
+0IS4 -88.672 39.763 Dawson Farms Airport
+0IS6 -89.164 37.366 Dongola Heliport
+0IS8 -91.399 39.936 Blessing Hospital At 11th St Heliport
+0IS9 -89.203 41.708 Bernardin Heliport
+0J0 -85.239 31.6 Abbeville Municipal Airport
+0J8 -82.509 29.618 Flying Ten Airport
+0K6 -95.58 36.178 Dobie's Airport
+0KS0 -95.925 38.633 J V Ranch Airport
+0KS2 -95.309 38.56 Kellie Mann Airfield
+0KS3 -95.367 38.567 Camp Chippewa Airport
+0KS4 -95.37 38.807 Norris Airport
+0KS6 -97.318 37.452 Kendrigan Airport
+0KS7 -97.886 37.693 Mono Aircraft Airport
+0KS8 -95.375 37.382 Pearce Field
+0KS9 -96.92 37.516 Lmn 120 Airport
+0KY0 -84.779 38.623 Owen Air Park
+0KY1 -86.618 36.766 Arnemann Farms Airport
+0KY2 -86.838 37.506 Mgt Station 2105 Heliport
+0KY3 -83.953 38.561 Tennessee Gas Heliport
+0KY4 -87.082 37.564 Cambron Field
+0KY5 -86.375 36.812 Falin Landing Strip
+0KY6 -82.577 38.268 Tennessee Gas Heliport
+0KY7 -88.999 36.636 Clinton-Hickman County Airport
+0KY8 -83.736 37.117 Sky Airport
+0KY9 -82.804 37.114 Pine Mountain Aero Heliport
+0L4 -117.191 37.486 Lida Junction Airport
+0L5 -117.236 37.723 Goldfield Airport
+0L6 -92.646 31.923 Winn Parish Medical Center Heliport
+0LA0 -93.4 30.008 West Hackberry Heliport
+0LA1 -90.973 30.229 Double H Ranch Airport
+0LA2 -90.963 30.278 Don Babin-Private Airport
+0LA3 -93.873 32.749 Belcher Airpatch Airport
+0LA4 -93.989 32.864 North Caddo Medical Center Heliport
+0LA5 -89.964 29.258 Conoco Inc Heliport
+0LA6 -89.959 29.259 Freeport Sulphur Heliport
+0LA7 -89.968 29.256 Exxon Heliport
+0LA8 -92.713 32.252 Jackson Parish Hospital Heliport
+0LA9 -90.862 30.586 Rebel Field
+0LL0 -88.73 42.265 Kaufield Airport
+0LL1 -90.313 39.094 Jerseyville Aviation Inc Airport
+0LL2 -90.381 40.739 Murk's Strip
+0LL3 -90.342 39.055 Koenig Airport
+0LL4 -89.123 41.419 Flaherty Field
+0LL5 -88.078 40.11 Busboom RLA Restricted Landing Area
+0LL6 -88.608 41.698 Gord Airport
+0LL7 -88.621 41.658 Valley West Hospital Heliport
+0LL9 -90.256 42.183 Savanna Army Depot Helipad
+0LS0 -90.736 29.75 Theriot Field
+0LS2 -90.202 29.116 Evergreen Fourchon Heliport
+0LS3 -89.374 29.297 Evergreen Venice Heliport
+0LS4 -92.188 30.809 Buller's Airstrip
+0LS5 -92.13 30.307 Trahan Ultralightport
+0LS6 -92.05 30.788 Dufour Airport
+0LS7 -91.484 30.613 Morgan Field
+0LS8 -92.941 30.286 Lonesome Dove Airfield
+0LS9 -91.982 32.504 Huenefeld Airport
+0MA1 -71.069 42.364 Massachusetts General Hospital Heliport
+0MA2 -71.763 42.541 Healthalliance Hospital-Leominster Heliport
+0MA3 -71.232 41.787 Reh Heliport
+0MA4 -71.072 42.334 Boston Medical Center Hospital Heliport
+0MA5 -71.056 42.056 Brockton Usar Center Heliport
+0MA6 -71.133 42.365 Wbz Heliport
+0MA8 -71.071 42.404 Textron/Everett Heliport
+0MA9 -71.908 42.503 Lleia Kyle O'Meara Heliport
+0MD0 -76.623 39.138 Baltimore Washington Medical Center Heliport
+0MD1 -75.793 39.187 Taylor Field
+0MD2 -76.868 38.288 Squier Landing Airport
+0MD3 -76.593 39.297 The Johns Hopkins Hospital Heliport
+0MD4 -76.187 39.267 Pond View Private Airport
+0MD5 -76.882 39.088 Greater Laurel Beltsville Hospital Heliport
+0MD6 -77.106 39.381 Walters Airport
+0MD7 -76.12 38.909 The Aspen Institute Heliport
+0MD8 -76.676 39.246 Security Ford Heliport
+0MD9 -76.597 38.561 Calvert Memorial Hospital Heliport
+0ME4 -68.474 44.742 Peasley Field
+0MI0 -85.666 42.97 Sumner Heliport
+0MI1 -84.438 44.14 Sugar Springs Airpark
+0MI2 -83.683 44.522 Stier Airstrip
+0MI3 -84.483 44.633 Kelleys Airport
+0MI4 -87.386 46.27 Lesterson-Dempsey Airstrip
+0MI6 -85.184 46.388 Young's Airport
+0MI7 -83.359 42.043 Four Star Heliport
+0MI8 -84.3 44.9 Twin Lakes Airport
+0MI9 -83.084 42.368 Henry Ford Hospital Heliport
+0MN0 -92.984 44.797 Winner's Landing Seaplane Base
+0MN1 -94.07 44.263 Brinkman Airport
+0MN2 -93.003 46.133 Grindstone Lake Seaplane Base
+0MN3 -94.293 46.678 Lower Hay Lake Seaplane Base
+0MN4 -94.303 46.477 Paul's Seaplane Base
+0MN5 -94.917 44.307 Pankratz Airport
+0MN6 -92.404 43.662 Matson Field
+0MN7 -91.873 47.899 Ely Bloomenson Community Hospital Heliport
+0MN8 -92.859 45.136 Keller Airport
+0MN9 -93.718 45.313 Triple H Heliport
+0MO0 -93.85 38.41 Ferros Ranch-Aero Airport
+0MO1 -94.095 38.544 Flying G Airport
+0MO2 -90.78 37.787 Short-N-Ruff Airport
+0MO3 -94.593 38.44 Arvin Ranch Airport
+0MO4 -94.574 39.085 Bert Walter Berkowitz Heliport
+0MO5 -92.1 40.133 Joe D Lewis Airport
+0MO6 -92.267 40.117 Hall Airport
+0MO7 -90.776 38.803 St Joseph Hospital West Heliport
+0MO8 -90.737 39.141 Sloan's Airport
+0MO9 -90.278 38.729 Emerson Heliport
+0MS0 -88.617 32.475 Topton Air Estates Airport
+0MS1 -90.903 31.425 Franklin Field
+0MS2 -89.392 31.542 Morgan Field
+0MS3 -89.519 34.348 Baptist Memorial Hospital-North Ms Heliport
+0MS4 -89.086 30.376 Sheriff's Courthouse Heliport
+0MS5 -90.917 33.392 Lewis Air Service Airport
+0MS6 -89.234 30.301 Levert Heliport
+0MS7 -89.143 34.343 Hale Field
+0MS8 -91.165 33.699 Catfish Point Airport
+0MS9 -89.027 33.801 Shenandoah Valley Farms Airport
+0MT1 -112.391 47.498 Williams Field
+0MT2 -110.109 48.18 Big Sandy Medical Center Heliport
+0MT3 -114.067 46.251 Stock Farm Heliport
+0MT4 -114.141 46.279 Kimp Airport
+0MT5 -108.849 45.634 Cottonwood Airport
+0MT6 -114.679 48.041 Hanson Airport
+0MT7 -115.404 47.661 Pinehurst Ranch Airport
+0MT8 -113.998 48.487 Glacier Heli Tours Heliport
+0MT9 -114.493 48.483 Lone Hawk Airport
+0MU0 -91.094 37.235 Eagle Field
+0MU1 -94.174 37.247 Sunderland Airport
+0MU2 -90.239 38.775 Christian Hospital Northeast Heliport
+0MU3 -91.451 39.711 Hannibal Regional Hospital Heliport
+0MU4 -92.867 39.616 Slaughter Airport
+0MU5 -93.994 38.72 Holden Heliport
+0MU6 -93.736 39.073 Bradbury-Rolf Memorial Heliport
+0MU7 -94.14 38.875 Lambs Field
+0MU8 -89.759 37.439 Prince STOLport
+0MY0 -92.943 44.334 Kenyon Heliport
+0MY1 -111.019 45.67 Bozeman Deaconess Hospital Heliport
+0N0 -94.442 39.291 Roosterville Airport
+0N4 -75.485 39.202 Chandelle Airport
+0N5 -75.505 39.15 Deldot Helistop
+0N6 -75.534 39.013 Albanna Aviation Airport
+0NA1 -97.038 46.245 Goerger Airport
+0NA5 -99.563 48.001 Sorlie Airport
+0NA9 -103.801 46.75 Boyd's Turf Airport
+0NC0 -77.95 35.399 Wayne Memorial Hospital Inc. Heliport
+0NC1 -82.375 35.457 Bearwallow Farm Airport
+0NC2 -79.457 35.205 Moore Regional Hospital Heliport
+0NC3 -76.7 35.875 Washington County Hospital Heliport
+0NC4 -78.586 35.787 Wake Medical Center Heliport
+0NC5 -77.789 35.919 Nash General Hospital Heliport
+0NC6 -77.419 36.131 Our Community Hospital Heliport
+0NC7 -79.997 36.357 Lindsay Airport
+0NC8 -80.735 35.756 Flying S Ranch Airport
+0NC9 -78.45 36.331 Maria Parham Health DLP Affiliate Heliport
+0ND0 -99.4 47.929 Gilbertson Field
+0ND6 -99.917 46.055 Schumacher Strip
+0ND7 -100.105 46.465 Saville Private Airport
+0NE0 -101.95 41.85 Merrihew Airport
+0NE1 -101.932 42.407 Runner Landing Area Airport
+0NE2 -101.917 41.867 Merry Airport
+0NE3 -96.186 40.667 Syracuse Hospital Heliport
+0NE4 -98.95 40.097 Franklin County Memorial Hospital Heliport
+0NE5 -102.018 41.021 Newman Airport
+0NE6 -98.071 40.433 Frager Field
+0NH7 -70.847 43.152 Leinsing Heliport
+0NJ0 -74.435 39.359 Atlantic City Medical Center Heliport
+0NJ1 -74.235 39.907 Berkeley Township Police Heliport
+0NJ2 -74.44 40.753 Ballymere Heliport
+0NJ3 -74.8 39.967 Mount Holly Heliport
+0NJ4 -74.462 40.941 Weichert Headquarters Heliport
+0NJ5 -74.706 40.886 Fla-Net Airport
+0NJ6 -74.633 39.317 Dix Field
+0NJ7 -74.119 40.738 Essex Generating Station Heliport
+0NJ8 -74.151 40.702 Port Newark Helistop
+0NJ9 -74.408 40.477 Jersey Tpke New Brunswick Helistop
+0NK0 -78.791 42.334 Berdick Field
+0NK1 -76.22 43.362 Spring Brook Airport
+0NK2 -74.016 42.983 Westwind Farm Airport
+0NK3 -77.792 42.696 Seven Gullies Airport
+0NK4 -73.554 40.726 Medical Center Heliport
+0NK5 -73.828 41.606 Mid-Hudson Helicopter Service Heliport
+0NK6 -76.089 42.438 Lapeer Flyer Airport
+0NK7 -73.726 41.103 Ibm King St Heliport
+0NK8 -73.67 41.921 Rocky Reef Farm Airport
+0NK9 -75.826 43.009 Lakeview Airport
+0NM0 -107.627 31.824 Columbus Municipal Airport
+0NM7 -108.543 33.521 Negrito Airstrip
+0NV1 -115.301 36.194 Summerlin Medical Center Heliport
+0NY0 -73.983 43.7 Bennetts Airport
+0NY1 -73.653 43.139 Russell Field
+0NY3 -74.932 43.314 Kermizian Airport
+0NY5 -75.65 43.094 State Police Troop D Heliport
+0NY6 -76.616 42.928 New York State Police Heliport
+0NY7 -74.184 43.038 Murphys Landing Strip
+0NY8 -74.245 42.997 Wenskoski Field
+0O0 -121.126 37.058 San Luis Reservoir Seaplane Base
+0O4 -122.171 39.944 Corning Municipal Airport
+0O9 -123.985 41.846 Ward Field
+0OH1 -81.328 41.444 Cirino Heliport
+0OH2 -83.912 39.971 Jenkins Field
+0OH3 -84.565 39.279 Hamilton County Sheriff's Patrol Heliport
+0OH4 -84.229 40.086 Upper Valley Medical Center Heliport
+0OH6 -84.02 39.601 Fry Field
+0OH7 -84.172 40.143 Apple Airport
+0OH8 -84.256 40.188 Fry Airport
+0OH9 -83.23 40.072 Parknavy Airport
+0OI0 -81.247 40.736 Foltz Heliport
+0OI1 -83.415 41.179 Autolite Heliport
+0OI2 -83.418 39.36 Unger Field
+0OI3 -82.716 41.382 Galloway Airport
+0OI4 -81.159 41.324 Salt Box Airport
+0OI6 -80.644 41.838 Victor's Landing Airport
+0OI9 -83.114 38.895 Hidden Quarry Airport
+0OK0 -97.434 35.683 Edmond Airport
+0OK1 -97.402 34.657 Mckey Airport
+0OK2 -97.984 35.53 Parkview Hospital Heliport
+0OK3 -98.523 35.619 Mckinley Ranch Airport
+0OK4 -96.254 34.661 Rock Creek Farm Airport
+0OK5 -97.4 35.889 Chappell Airport
+0OK6 -97.386 35.802 Ellis/Harvey Airport
+0OK7 -99.875 36.25 Shattuck Hospital Heliport
+0OK8 -97.593 36.292 Cade's Airport
+0OK9 -96.637 36.213 Crystal Airport
+0OR0 -122.862 42.339 Providence Hospital Heliport
+0OR2 -123.451 42.133 Hendershots Heliport
+0OR3 -121.704 42.019 Long Ranch Airport
+0OR4 -121.268 44.617 Round Butte Heliport
+0OR5 -122.855 42.504 East Oregon Cattle Co Airport
+0OR6 -117.629 42.834 Rome Service Airport
+0OR7 -123.264 44.854 Marr Field
+0OR8 -122.866 42.485 Sutton on Rogue Airport
+0OR9 -121.549 45.593 Hanel Field
+0P0 -75.406 40.121 Valley Forge Bicentennial Heliport
+0P1 -99.569 39.832 Van Pak Airport
+0P2 -76.647 39.795 Shoestring Aviation Airfield
+0PA0 -75.248 40.331 Philadelphia Gliderport
+0PA1 -75.401 40.118 Phoenix Technologies Heliport
+0PA2 -77.125 40.317 Haunstein Ultralightport
+0PA3 -76.76 41.75 Robbins Farm Airport
+0PA4 -76.725 40.238 Ecko Field
+0PA5 -79.831 41.494 Fisher Airport
+0PA6 -77.85 40.631 Hostetler Airport
+0PA7 -75.415 39.885 Linvill Airport
+0PA8 -75.646 41.4 Geisinger Community Medical Center Nap Heliport
+0PA9 -75.216 40.333 Carson Heliport
+0PN0 -80.154 41.444 Fletcher Airport
+0PN1 -79.619 40.699 Pete's Water Landing Seaplane Base
+0PN2 -80.07 41.073 Flying Acres Airport
+0PN3 -75.463 40.159 Wyeth-Ayerst Nr Heliport
+0PN4 -77.241 40.413 Kitner Airport
+0PN5 -79.598 41.779 Nichols Airport
+0PN6 -77.993 40.169 Memmi Airport
+0PN7 -77.631 40.128 Drillmore Acres Airport
+0PN8 -79.683 41.617 Shriver Airport
+0PN9 -79.678 41.72 Paul Personal Use Airport
+0PS0 -79.342 41.371 Frederick Airpark
+0PS1 -76.671 39.981 Mc Crory Stores Heliport
+0PS2 -75.751 40.989 Marian Heliport
+0PS3 -76.767 40.49 Carsonville Airport
+0PS4 -78.561 41.008 Old Orchard Airport
+0PS5 -75.193 40.879 Used Parts Heliport
+0PS6 -76.553 39.95 Herbst Heliport
+0PS7 -76.845 40.522 Harman Airport
+0PS8 -80.086 42.133 Bayfront Garage Heliport
+0PS9 -74.868 40.183 Jefferson Health Bucks County Campus Heliport
+0Q3 -122.45 38.223 Sonoma Valley Airport
+0Q4 -119.658 36.582 Selma Airport
+0Q6 -121.818 40.522 Shingletown Airport
+0Q9 -122.434 38.258 Sonoma Skypark Airport
+0R2 -93.333 38.404 Lincoln Municipal Airport
+0R7 -93.307 31.991 The Red River Airport
+0R9 -99.303 39.194 Plainville Airpark
+0S1 -113.409 47.846 Meadow Creek Usfs Airport
+0S2 -99.295 39.377 Stockton Municipal Airport
+0S5 -116.243 46.237 Nez Perce Municipal Airport
+0SD0 -100.892 45.425 Lenling Airport
+0SD1 -96.98 42.972 Lodi Airport
+0SD2 -97.119 44.911 Prairie Lakes West Heliport
+0SD3 -103.217 45.269 Bledsoe Ranch Airport
+0SD4 -96.765 44.308 Brookview Manor Heliport
+0SD5 -103.637 43.806 The Fort Heliport
+0SD6 -101.826 44.289 Oasis Ranch Airport
+0SD7 -101.734 43.524 Porch Ranch Airport
+0SD8 -100.293 43.783 Juhnke Airport
+0SD9 -103.636 43.825 Crazy Horse Heliport
+0T3 -89.997 37.314 Ira Biffle Airfield
+0T7 -96.684 33.126 Kittyhawk Airport
+0TA0 -94.985 29.393 Mainland Regional Health Care System Heliport
+0TA1 -101.98 34.22 Buddy Harmel Airport
+0TA2 -101.925 34.217 Smith Farms Airport
+0TA3 -102.138 30.304 Tate Ranch Airport
+0TA4 -96.271 32.498 Erco Field
+0TA5 -95.355 29.615 Metro Heli-Pad Heliport
+0TA6 -97.223 27.848 Arco Ingleside Shorebase Heliport
+0TA7 -103.893 30.148 Alta Vista Ranch Airport
+0TA8 -95.407 33.849 Womack Plantation Airport
+0TA9 -94.764 29.391 Houston Oil & Minerals Port Bolivar Nr 2 Heliport
+0TE0 -101.162 29.693 Robertson Ranch Airport
+0TE1 -97.414 27.78 Christus Spohn Hospital Memorial Heliport
+0TE2 -97.167 32.8 Bell Helicopter Hurst Heliport
+0TE3 -100.842 33.929 Buzz Field
+0TE4 -96.215 31.081 Hilltop Lakes Airport
+0TE5 -99.186 27.434 Santa Maria Ranch Airport
+0TE6 -98.666 32.204 Gorman Airport
+0TE7 -98.622 30.252 LBJ Ranch Airport
+0TE8 -96.223 30.541 Texas World Speedway Helistop Nr 1 Heliport
+0TE9 -96.226 30.54 Texas World Speedway Helistop Nr 2 Heliport
+0TN0 -86.897 35.677 R & S Buzzard Airport
+0TN1 -86.22 35.222 Tims Ford Seaplane Base
+0TN2 -84.186 35.656 Village Airport
+0TN3 -84.1 35.918 Park West Heliport
+0TN4 -83.927 35.991 Physicians Medical Regional Center Heliport
+0TN5 -86.498 35.867 Mc Donald Airport
+0TN6 -84.099 36.183 Riner Farm Airport
+0TN7 -84.091 35.924 Horne Properties Heliport
+0TN8 -85.29 35.049 Erlanger Medical Center Heliport
+0TN9 -83.938 35.956 East Tennessee Children's Hospital Heliport
+0TS0 -97.122 33.023 Flower Mound Airport
+0TS1 -97.272 33.099 Dooley Airport
+0TS2 -97.329 32.949 Ultralight International Ultralightport
+0TS3 -95.663 29.817 Houston Heliport
+0TS4 -96.795 30.092 Ullrich Airport
+0TS5 -95.186 30.442 Lake Bay Gall Airport
+0TS6 -95.477 29.716 Harris County Courthouse Heliport
+0TS7 -98.125 32.833 Flying U Airport
+0TS8 -97.884 26.15 Flying 'K' Ranch Ultralightport
+9LA0 -90.044 29.841 Air Logistics (Belle Chasse) Heliport
+9LA1 -91.759 31.907 Turkey Creek Lake Airport
+9LA2 -91.411 32.14 Norris Airstrip
+9LA3 -90.197 29.115 Air Logistics (Fourchon) Heliport
+9LA4 -91.172 29.687 Texaco Heliport
+9LA5 -92.445 31.321 Huey P Long Regional Medical Center Heliport
+9LA6 -92.612 31.307 Chandler Airport
+9LA7 -91.097 29.668 Air Logistics;  Amelia Base Heliport
+9LA8 -90.275 29.959 Cornerstone Chemical Company Helistop
+9LA9 -90.45 30.733 Skyline Airpark
+9LL0 -91.221 39.82 Krutmeier Airport
+9LL2 -89.579 38.034 Hepp Airport
+9LL3 -88.032 39.549 John R Reed Airport
+9LL5 -89.459 39.651 Tommy's Airpark
+9LL7 -89.925 39.877 Brandt Heliport
+9LL8 -88.885 39.867 Refreshment Services Inc Heliport
+9LL9 -88.469 39.485 Townley Farms Airport
+9LS1 -91.383 32.7 Bayou Meadows Airport
+9LS5 -91.128 32.284 Red Beard Dusting Service Airport
+9LS9 -91.349 32.41 4B Ranch Airport
+9M0 -92.168 47.015 North Country Seaplane Base
+9MA8 -70.761 41.847 Wayne West Heliport
+9MD9 -75.689 38.852 G W Farm Airport
+9MI0 -83.654 42.264 C M H S Heliport
+9MI1 -85.297 42.332 Custer Main Heliport
+9MI2 -83.308 41.988 Newport Woods Airport
+9MI3 -85.671 42.966 Amway Downtown Heliport
+9MI4 -84.36 41.862 Thorn Health Center Heliport
+9MI5 -83.524 43.238 Grass Roots STOLport
+9MI6 -83.755 42.739 Trollman's Field
+9MI7 -83.465 42.49 Glen Oaks Heliport
+9MI8 -82.996 42.661 Jott Heliport
+9MI9 -85.581 42.287 Bronson Methodist Hospital Heliport
+9MN0 -92.828 47.418 Carey Lake Seaplane Base
+9MN1 -93.197 45.612 Troll Farm Airport
+9MN2 -93.519 47.419 Wabana Seaplane Base
+9MN3 -96.441 46.665 Barnesville Municipal Airport
+9MN4 -93.237 44.967 Fairview Riverside Medical Center Heliport
+9MN5 -96.352 46.712 Janssen Airport
+9MN6 -93.7 44.643 Merill L Harris Field
+9MN7 -94.617 43.98 Watonwan Memorial Hospital Heliport
+9MN8 -95.576 45.973 Whiskey Lake Seaplane Base
+9MN9 -90.824 47.588 Tofte Airport
+9MO0 -90.208 38.592 Anheuser/Busch Inc Heliport
+9MO1 -90.446 38.635 Missouri Baptist Hospital Heliport
+9MO2 -93.189 39.112 Fitzgibbon Hospital Heliport
+9MO3 -94.814 39.642 Lawlor-Justus Airport
+9MO4 -94.874 39.979 Worth Airport
+9MO5 -93.099 37.061 Wakefield Wings Airport
+9MO6 -92.992 38.193 Ivy Bend Airport
+9MO7 -93.167 37.842 Urbana Area Medical Heliport
+9MO8 -91.502 38.356 Owensville Ambulance District Heliport
+9MO9 -93.25 39.55 Eagle Lodge Airport
+9MS7 -88.507 30.357 Martin Heliport Area
+9MS9 -89.75 31.203 Beets Airport
+9MT0 -107.775 45.403 Pale Morning Dun Ranch Airport
+9MT8 -111.083 45.758 Monger Airport
+9MT9 -111.125 45.791 Mc Kenna Airport
+9N1 -75.1 40.484 Vansant Airport
+9N2 -75.3 39.859 Philadelphia Seaplane Base
+9N3 -75.756 41.589 Seamans Field
+9N7 -76.442 40.443 Farmers Pride Airport
+9NA2 -99.292 46.894 Dakota Clinic Heliport
+9NA4 -101.891 48.666 Bodmer Airport
+9NC0 -78.437 35.798 Raleigh East Airport
+9NC1 -80.195 35.363 Stanley Memorial Hospital Heliport
+9NC2 -78.796 35.218 Flyers Airpark
+9NC3 -80.566 35.071 Edwards Airport
+9NC4 -76.664 36.509 Jiles Field
+9NC5 -82.211 35.24 Saint Luke's Hospital Heliport
+9NC6 -78.161 34.275 Sandy Run Acres Airport
+9NC7 -80.44 35.37 Willow Creek Airport
+9NC8 -79.219 35.687 Eagles Landing Airport
+9NC9 -79.895 36.21 Meylor Field
+9ND1 -97.268 48.648 Elliott Farms Airport
+9ND8 -97.672 48.785 Hinkle Airport
+9NE1 -101.927 41.144 El-Co Airport
+9NE2 -97.723 40.292 Folkerts Airport
+9NE3 -101.789 42.188 Davis Ranch Airport
+9NE4 -97.744 41.703 Johnston Field
+9NE6 -96.088 41.338 Bates Airpark
+9NE7 -100.484 41.433 Bay Field
+9NE8 -100.479 41.402 Brosius Field
+9NE9 -97.567 40.194 Dog Leg Airport
+9NJ0 -74.071 40.955 Lag's Landing Heliport
+9NJ1 -74.555 40.564 Bound Brook Nr 1 Heliport
+9NJ2 -74.562 40.556 Bound Brook Nr 2 Heliport
+9NJ3 -74.55 40.717 At&T Helistop
+9NJ4 -74.452 40.496 Robert Wood Johnson Hospital Heliport
+9NJ5 -75.252 39.68 Stallone Airport
+9NJ6 -75.268 39.366 Halka Nurseries Airport
+9NJ7 -74.668 40.574 Rca Sommerville Heliport
+9NJ8 -75 40.896 High Meadow Farms Airport
+9NJ9 -74.131 39.715 Ash Personal Heliport
+9NK4 -73.856 42.024 Greig Farm Airport
+9NR7 -78.566 35.018 Triple F Airpark
+9NR8 -79.194 34.793 Buie Field
+9NR9 -77.861 34.359 210 Investors Heliport
+9NY1 -75.959 42.113 Wilson Memorial Regional Medical Center Heliport
+9NY2 -79.571 42.329 Westfield Memorial Hospital Heliport
+9NY3 -76.225 42.097 Susquehanna Heliport
+9NY4 -79.082 42.101 Kennedy Airfield
+9NY5 -72.917 40.8 Norman Kurrass Contractor Heliport
+9NY6 -74.986 42.325 Mason Airway Airport
+9NY7 -74.151 43.033 Hart Airport
+9NY8 -73.701 40.842 Thomson Industries Inc Heliport
+9NY9 -73.936 41.657 Poughkeepsie Main Plant Heliport
+9OA2 -84.763 39.583 Hueston Woods Lodge Heliport
+9OA3 -81.778 39.083 Bellville Dam Landing Strip
+9OA4 -84.51 39.83 Gilmer Airport
+9OA5 -82.55 39.962 Buckeye Executive Airport
+9OA6 -82.033 39.53 Burr Oak Lodge Heliport
+9OA7 -83.116 41.31 Jenkins Airport
+9OA8 -81.949 41.282 Crocker Airport
+9OA9 -82.534 40.621 Bender Airport
+9OG1 144.812 13.476 Barrigada Readiness Center Heliport
+9OH1 -83.265 41.454 Haar Airport
+9OH2 -83.306 41.516 Toussaint Airpark
+9OH3 -84.298 39.283 C.C.A. Heliport
+9OH4 -82.106 41.404 Richards Airport
+9OH5 -83.227 40.048 Miami Valley Heliport
+9OH6 -83.569 41.035 Weaver Airport
+9OH7 -83.595 40.962 Lutz Airport
+9OH8 -83.642 40.976 Ferrell Airport
+9OH9 -83.514 40.829 Forest Field
+9OI1 -83.69 41.601 Dice's Personal Heliport
+9OI3 -82.11 39.899 Johns Landing Airport
+9OI4 -83.781 39.455 Quail Lakes Heliport
+9OI5 -83.542 40.308 Transportation Research Center of Ohio Airport
+9OI6 -82.177 40.633 Nesta Airport
+9OI7 -83.284 40.34 Bayes Airport
+9OI8 -81.465 40.032 Brothers Aviation Airport
+9OI9 -83.035 40.031 Riverside Methodist Hospital Heliport
+9OK0 -97.521 35.494 Governor's Mansion Heliport
+9OK1 -97.499 35.481 Omh Heliport
+9OK2 -96.8 36.333 Pawnee Municipal Hospital Heliport
+9OK3 -95.84 36.704 Flying Eagle Estates Airport
+9OK4 -95.217 36.092 Vo-Tech Heliport
+9OK5 -96.927 34.778 Diamond C Ranch Airport
+9OK6 -95.591 35.311 Community Hospital Lakeview Heliport
+9OK7 -96.55 36.185 Cimarron Strip
+9OK8 -97.5 35.533 Central Park Helistop
+9OK9 -94.486 35.544 Strang Airpark
+9OR0 -123.025 44.315 Lafferty Field
+9OR1 -120.74 45.003 Shaniko Ranch Airport
+9OR2 -123.023 44.868 Reforestation Services Heliport
+9OR3 -121.784 42.254 Sky Lakes Medical Center Heliport
+9OR4 -118.448 45.934 King's Airport
+9OR5 -122.558 45.514 Portland Adventist Medical Center Heliport
+9OR6 -122.685 45.499 Oregon Health Sciences University Emerg Heliport
+9OR7 -123.079 45.604 Fishback Heliport
+9OR8 -123.056 44.733 Wooldridge Agstrip Airport
+9OR9 -122.535 45.558 Wallace Heliport
+9PA0 -75.59 40.187 Lance Airport
+9PA1 -75.579 41.654 Carbondale-Clifford Airport
+9PA2 -75.441 40.395 Old Plains Airport
+9PA3 -75.31 40.476 Meadow Strip Ultralightport
+9PA4 -75.15 39.953 S & C 8th & Market Helistop
+9PA5 -75.716 40.78 Solt Field
+9PA6 -75.25 40.033 State Police Area Six Heliport
+9PA7 -79.211 39.773 Keystone Airport
+9PA8 -75.159 39.949 Thomas Jefferson University Hospital Heliport
+9PA9 -75.261 39.988 Lankenau Hospital Heliport
+9PN1 -79.79 40.039 Seitz Field
+9PN2 -75.196 39.947 Childrens Hospital Of Philadelphia Heliport
+9PN5 -75.881 41.22 Franklin Heliport
+9PN6 -75.993 41.125 Baratta Heliport
+9PN7 -76.413 41.818 Veit Airport
+9PN8 -75.533 41.625 Malinchak Private Airport
+9PN9 -75.244 40.847 Perin Heliport
+9PS0 -80.033 40.609 Zokaites Heliport
+9PS1 -75.255 40.076 Eagle Lodge-Lafayette Hill Heliport
+9PS2 -79.67 40.809 J T Willie Airport
+9PS3 -75.147 40.307 Doylestown Heliport
+9PS4 -75.21 40.75 Pheasant Run Heliport
+9PS5 -75.95 40.331 Reading Hospital Heliport
+9PS6 -75.656 39.971 Siepsers Eye Port Heliport
+9PS7 -78.429 40.447 W S Lee & Sons Inc Heliport
+9PS8 -77.295 39.813 Manor Landing Airport
+9PS9 -74.923 40.202 St Mary Medical Center Heliport
+9R5 -97.354 27.888 Hunt Airport
+9R7 -98.578 29.642 Camp Bullis Heliport
+9S3 -124.18 43.583 Lakeside State Airport
+9S7 -109.378 47.552 Winifred Airport
+9SD7 -100.035 45.475 Beaman Airport
+9SD8 -96.95 43.583 Oakleaf Airport
+9SD9 -96.709 43.807 Weelborg Airport
+9TA0 -97.664 30.45 Aero Heliport
+9TA1 -98.138 29.659 Hilltop Ranch Airport
+9TA2 -100.307 35.929 Urschel Ranch Airport
+9TA3 -94.99 29.873 Rogers Airport
+9TA4 -96.798 32.782 Placid Heliport
+9TA5 -96.878 32.644 Charlton-Careflite Heliport
+9TA6 -95.317 28.977 Buccaneer Shore Facility Heliport
+9TA7 -94.778 29.312 U of Texas Medical Branch Emergency Room Heliport
+9TA8 -94.977 31.684 Taylor Ranch Airport
+9TA9 -95.409 29.852 Delta Mechanical Inc Heliport
+9TE0 -96.384 32.399 Twin Acres Airport
+9TE1 -95.342 28.924 M-I Drilling Fluids Company Heliport
+9TE2 -100.445 30.568 JL Bar Ranch
+9TE3 -101.931 32.578 Thorp Airport
+9TE4 -96.63 28.57 Tanner's Airport
+9TE5 -96.977 28.154 Kalt Ranch Airport
+9TE6 -96.8 29.917 Rocky Creek Ranch Airport
+9TE7 -97.083 30.245 Flying G H Ranch Airport
+9TE8 -94.787 29.323 Shell Pelican Island Heliport
+9TE9 -94.783 29.323 Dresser Industries/Magcobar/ Heliport
+9TN0 -86.608 36.178 Summit Medical Center Heliport
+9TN1 -86.538 35.73 Versailles Aerodrome
+9TN2 -88.205 36.164 Meadowlark Airport
+9TN3 -89.524 35.114 Mehrhoff Field
+9TN4 -86.946 36.458 Foreman Field
+9TN5 -86.957 35.458 Askey Field
+9TN6 -89.674 35.289 Performance Helicopters Heliport
+9TN7 -89.735 35.534 Baskin Airport
+9TN8 -86.699 36.313 Dollar General Heliport
+9TN9 -86.288 36.019 Toy Box Airport
+9TS0 -96.043 29.786 Diamond E Ranch Heliport
+9TS1 -97.006 28.801 One O'Connor Plaza-Tower Heliport
+9TS2 -94.701 29.861 Cig 816 Heliport
+9TS3 -95.967 30.148 Simaron Ranch Airport
+9TS4 -96.507 33.007 Ladue Ranch Heliport
+9TS5 -98.624 29.397 Wilford Hall Medical Center Heliport
+9TS6 -97.178 32.379 Goodlett Field
+9TS7 -94.777 29.313 U of Texas Medical Branch Ewing Hall Heliport
+9TS8 -96.879 32.849 Dallas Rehabilitation Institute Heliport
+9TS9 -96.891 32.908 Toyota of Dallas Inc Heliport
+9TX0 -95.32 29.657 Houston Police Command Station Heliport
+9TX1 -96.856 30.143 Bar S Ranch Airport
+9TX2 -96.408 32.637 Bennetts Airport
+9TX3 -101.635 34.169 Horan Airport
+9TX4 -97.911 30.66 Flying H Ranch Airport
+9TX5 -98.537 29.745 Camp Bullis Als (Cals) Airport
+9TX6 -101.024 33.175 Beggs Ranch Airport
+9TX7 -96.67 33.842 Hitex Private Airport
+9TX8 -96.821 32.803 Infomart Heliport
+9TX9 -101.965 30.748 Canon Ranch Airport
+9U1 -110.685 46.05 Wilsall Airport
+9V1 -99.74 42.829 Springview Municipal Airport
+9V2 -101.025 40.188 Trenton Municipal Airport
+9V3 -103.875 42.696 Harrison Skyranch Airport
+9VA0 -79.729 38.053 Bath Alum Airport
+9VA1 -76.388 37.405 Holly Point Airport
+9VA2 -77.104 38.823 Inova Alexandria Hospital Heliport
+9VA3 -75.572 37.763 Crippen Creek Farm Airport
+9VA4 -78.63 38.691 Franwood Farms Inc. Airport
+9VA5 -77.889 39.064 Bluegrass Heliport
+9VA6 -76.586 36.753 Louise Obici Memorial Hospital Heliport
+9VA7 -77.415 37.355 Fire Station No. 14 Heliport
+9VA8 -77.585 37.649 Innsbrook Pavilion Heliport
+9VA9 -76.938 36.699 Southampton Memorial Hospital Heliport
+9VG -75.879 37.458 Campbell Field
+9VG9 -78.304 39.372 Jucapa Farms Airport
+9W3 -80.026 39.093 Simpson Airport
+9W8 -76.486 39.852 Baublitz Commercial Airport
+9W9 -79.538 34.561 Clio Crop Care Airport
+9WA0 -122.313 47.537 Boeing Plant 2 Heliport
+9WA1 -119.868 47.231 Quincy Valley Hospital Ems Heliport
+9WA2 -118.681 47.331 Odessa Memorial Hospital Ems Heliport
+9WA3 -117.29 48.47 River Bend Airport
+9WA4 -120.956 45.803 Piper Canyon Airport
+9WA5 -119.546 48.729 Mid-Valley Hospital Ems Heliport
+9WA6 -122.332 47.608 Puget Sound Plaza Heliport
+9WA7 -122.133 47.216 Albritton Airport
+9WA8 -123.112 47.225 Mason General Hospital Heliport
+9WA9 -122.715 47.704 Naval Submarine Base Bangor Heliport
+9WI0 -87.975 42.963 All-State Equipment Co. Heliport
+9WI1 -88.624 44.329 Black Otter Airport
+9WI2 -87.796 44.287 Flying Dollar Ranch Airport
+9WI3 -87.987 44.285 Buchholz Farm Airport
+9WI4 -88.135 42.979 Faken Airport
+9WI5 -88.575 42.828 Tamarack Airport
+9WI6 -89.017 45.104 Kitty Hawk Estates Airport
+9WI8 -88.379 42.694 Fletcher Airport
+9WI9 -92.082 46.621 Carlson Airport
+9WN1 -88.684 44.107 Courtney Plummer Airport
+9WN2 -92.146 45.967 Voyager Village Airstrip
+9WN3 -87.889 43.421 Ozaukee Airport
+9WN4 -89.03 45.084 Rag Wing Airport
+9WN5 -89.521 43.333 Lodi Lakeland Airport
+9WN6 -89.778 43.607 Medos Lake Delton Seaplane Base
+9WN9 -89.567 44.06 Coloma Municipal Airport
+9WS2 -88.159 44.368 Antique Aerodrome
+9WY0 -106.975 44.808 Sheridan Memorial Hospital Heliport
+9X9 -95.827 29.913 Sack-O-Grande Acroport Airport
+9XA1 -95.67 29.701 ESD 100 Training Field Heliport
+9XA4 -97.04 32.356 Chimera Aerodrome
+9XS0 -96.955 29.098 Dobbs Ranch Airport
+9XS1 -96.953 31.836 The Landing Airport
+9XS2 -96.776 33.654 Beaver Creek Airport
+9XS3 -101.465 33.103 Macy Ranch Airport
+9XS4 -96.627 33.734 Mc Keon Aviation Airport
+9XS5 -101.642 33.35 Kitten Farm Private Airport
+9XS6 -102.522 34.053 Sudan Airport
+9XS7 -95.959 32.947 Reeder Airport
+9XS8 -95.426 30 Goodson Honda Heliport
+9XS9 -96.448 30.283 Rancho Verde Airport
+9Y0 -93.867 47.55 Bowstring Airport
+9Y2 -94.375 46.386 East Gull Lake Airport
+9Y5 -92.477 47.46 Sky Harbor Seaplane Base
+9Y7 -91.834 45.408 Barron Municipal Airport
+9Z3 -152.383 57.803 Kodiak /Lilly Lake/ Seaplane Base
+9Z7 -156.932 58.963 Kvichak /Diamond J/ Airport
+9Z8 -156.859 59.128 Levelock Airport
+9Z9 -149.37 60.411 Lawing Airport
+A05 -115.518 45.521 Dixie US Forest Service Airport
+A13 -148.999 61.341 Bold Airport
+A23 -134.158 56.886 Saginaw Seaplane Base
+A26 -120.952 41.186 Adin Airport
+A27 -151.708 59.434 Seldovia Seaplane Base
+A28 -120.147 41.876 Fort Bidwell Airport
+A29 -135.346 57.052 Sitka Seaplane Base
+A43 -134.015 58.069 Taku Harbor Seaplane Base
+A51 -85.289 29.758 Costin Airport
+A57 -138.447 59.199 Alsek River Airport
+A61 -162.667 60.335 Tuntutuliak Airport
+A63 -160.273 59.076 Twin Hills Airport
+A67 -139.025 59.414 Harlequin Lake Airport
+A68 -139.509 59.552 Situk Airport
+A69 -138.504 59.248 Tanis Mesa Airport
+A70 -139.194 59.413 Dangerous River Airport
+A77 -156.367 63.002 Yankee Creek 2 Airport
+A79 -158.775 56.255 Chignik Lake Airport
+A88 -147.317 61.901 Gunsight Mountain Airport
+AA00 -149.927 62.51 Shump Airport
+AA01 -149.847 61.585 West Beaver Seaplane Base
+AA02 -149.924 61.571 Horseshoe Lake Seaplane Base
+AA03 -146.259 70.171 Central Pad Heliport
+AA04 -149.839 61.225 Viking Heliport
+AA05 -149.079 61.508 Shelby Strip
+AA06 -149.806 61.29 Sixmile Lake Airport
+AA07 -149.927 61.522 Saddleback Island Heliport
+AA08 -149.154 61.595 Alaska Heliworx Heliport
+AA09 -147.775 62.478 Busch Creek Airport
+AA11 -149.676 61.551 Misty Lake Seaplane Base
+AA12 -135.296 57.041 Dove Island Lodge Seaplane Base
+AA14 -149.589 68.628 Toolik Heliport
+AA16 -151.294 60.625 Treasure Chest Airport
+AA22 -145.804 64.133 Delta Daves Airport
+AA27 -150.019 70.414 Otp Heliport
+AA30 -149.871 61.648 Trio Estates Airport
+AA33 -149.77 61.604 Gus Landing
+AA35 -136.229 59.438 35 Mile Lodge Heliport
+AA38 -149.853 70.482 Nikaitchuq Operations Center Heliport
+AA44 -134.46 58.329 Barlett Regional Hospital Heliport
+AA50 -146.35 70.181 Point Thomson Sea Ice Airstrip
+AA51 -149.911 70.556 Spy Island Drill-Site Heliport
+AA76 -147.329 64.769 Timber Trails Airport
+AA85 -149.221 61.616 Walby Lake Seaplane Base
+AAD 46.638 6.096 Adado Airport
+AAXX -68.127 -67.567 Rothera Point Airport
+ABE -2.604 53.113 RAF Calveley
+ABL -1.307 50.82 RNAS/RAF Calshot
+ABP 141.095 -6.066 Atkamba Airport
+ABW 148.739 -10.196 Abau Airport
+AD-0001 1.519 42.546 Cam\u00c3\u00ad Heliport
+AD-ALV 1.534 42.511 Andorra la Vella Heliport
+ADC 145.745 -7.137 Andakombe Airport
+ADJ -3.348 58.585 RAF Castletown
+ADV 26.119 11.402 El Daein Airport
+AE-0001 51.45 24.215 Batha Airport
+AE-0002 55.185 25.141 Burj al Arab Resort Helipad
+AE-0003 55.137 25.09 Dubai Skydive
+AE-0004 55.175 25.123 Sheikh Sultan Bin Khalifa bin Zayed Al Nahyan palace Heliport Complex
+AE-0005 54.321 24.462 Kempinski Emirates Palace Twin Heliport
+AE-0006 55.024 24.989 Jebel Ali Seaplane Base
+AE-0007 51.601 24.12 Al Ghuwaifat Border Post helipad
+AE-0008 51.617 24.128 Al Ghuwaifat Customs Post helipad
+AE-0009 52.31 24.476 Delma Hospital Helipad
+AE-0010 55.139 25.222 Schumacher Heliport
+AE-0011 55.114 25.127 Palm Jumeirah Heliport
+AE-0012 55.15 25.133 Waldorf Astoria Dubai Palm Jumeirah Helipad
+AE-0013 55.135 25.11 Oceana Palm Jumeirah Helipad
+AE-0014 54.906 24.868 Ghantoot Racing & Polo Club Helipad
+AE-0015 54.895 24.859 Golden Tulip Al Jazira Helipad
+AE-0016 54.888 24.866 Ghantoot Hotel 1 Helipad
+AE-0017 54.882 24.865 Ghantoot Hotel 2 Helipad
+AE-0018 54.86 24.895 Ghantoot Hotel 3 Helipad
+AE-0019 55.349 25.221 Dubai Festival City Helipad
+AE-0020 54.61 24.468 Yas Marina Heliport
+AE-0021 54.603 24.469 Yas Marina Circuit Heliport
+AE-0022 54.377 24.452 Al Mushrif Palace Helipad
+AE-0023 54.544 24.407 Al Forsan Helipad
+AE-0024 52.007 24.221 Yasat Higher Airport
+AE-0025 51.763 24.068 Sila Hospitals Helipad
+AEE 32.959 10.054 Adareil Airport
+AEI -5.441 36.129 Algeciras Heliport
+AEK 146.194 -7.351 Aseki Airport
+AEQ 120.16 43.87 Ar Horqin Airport
+AF-0001 67.144 33.485 Ajrestan Airport
+AF-0002 67.032 36.646 Dehdadi Airport
+AF-0003 69.314 35.143 Charikar Airport
+AF-0004 64.154 31.045 Dostmohammadkhan Kalay Airport
+AF-0005 69.807 33.285 Khost International Airport (U.C.)
+AF04 61.897 30.33 Helmand Airport
+AF06 69.495 37.071 Khvej Ghar North Airport
+AF07 69.488 37.061 Khvej Ghar South Airport
+AF08 69.136 34.193 Kotubkhel Airport
+AF09 66.893 34.687 Nayak Airport
+AF10 66.631 32.903 Or\u00c5\u00abzg\u00c4\u0081n Airport
+AF11 69.956 33.364 Salerno Airport
+AF12 68.82 33.156 Sarhawdza Landing Zone Airport
+AF13 67.487 34.779 Sheber Too Landing Zone Airport
+AF14 62.599 32.745 Tapa Airport
+AF15 69.43 37.423 Qara Tepa Heliport
+AFK 81.644 7.284 Kondavattavana Tank Seaplane Base
+AFR 148.391 -9.142 Afore Airstrip
+AGAF 160.949 -9.191 Afutara Aerodrome
+AGAR 161.98 -9.861 Ulawa Airport
+AGAT 161.011 -8.873 Uru Harbour Airport
+AGBA 156.706 -7.913 Barakoma Airport
+AGEV 156.597 -7.576 Geva Airport
+AGG 144.074 -4.056 Angoram Airport
+AGGA 160.682 -8.703 Gwaunaru'u Airport
+AGGB 159.798 -11.302 Bellona/Anua Airport
+AGGC 156.396 -6.712 Choiseul Bay Airport
+AGGE 155.887 -6.991 Ballalae Airport
+AGGF 159.577 -8.108 Fera/Maringe Airport
+AGGH 160.055 -9.428 Honiara International Airport
+AGGI 159.839 -9.748 Babanakira Airport
+AGGJ 160.411 -9.868 Avu Avu Airport
+AGGK 161.898 -10.45 Ngorangora Airport
+AGGL 165.795 -10.72 Santa Cruz/Graciosa Bay/Luova Airport
+AGGM 157.263 -8.328 Munda Airport
+AGGN 156.864 -8.098 Nusatupe Airport
+AGGO 155.565 -7.417 Mono Airport
+AGGP 161.425 -9.642 Parasi Airport
+AGGQ 159.528 -5.515 Ontong Java Atoll Airstrip
+AGGR 160.063 -11.534 Rennell/Tingoa Airport
+AGGS 157.876 -8.579 Sege Airport
+AGGT 162.454 -10.848 Santa Ana Airport
+AGGU 160.825 -9.862 Marau Airport
+AGGV 158.731 -7.586 Suavanao Airport
+AGGY 159.218 -9.093 Yandina Airport
+AGI -73.585 8.129 El Para\u00c3\u00adso Airport
+AGK 143.854 -6.396 Kagua Airport
+AGKG 157.585 -7.33 Kaghau Airport
+AGKU 156.948 -8.026 Kukudu Airport
+AGKW 160.775 -8.361 Kwailabesi Airport
+AGL 149.156 -9.338 Wanigela Airport
+AGNA 162.205 -10.676 Nana Airport
+AGRC 157.143 -8.126 Ringi Cove Airport
+AGRM 157.643 -8.168 Ramata Airport
+AGTI 160.149 -9.108 Tulaghi Heliport
+AGY 128.924 -16.514 Argyle Downs Airport
+AHJ 102.352 32.532 Hongyuan Airport
+AHT 179.259 51.378 Amchitka Army Airfield
+AHY 45.535 -20.016 Ambatolhy Airport
+AIE 144.731 -5.146 Aiome Airport
+AIH 141.268 -7.343 Aiambak Airport
+AIP 168.826 7.279 Ailinglaplap Airok Airport
+AK0 -142.89 61.219 Jakes Bar Airport
+AK00 -151.863 59.797 Anchor River Airpark
+AK01 -150.625 60.529 Alaska Airpark
+AK02 -161.062 65.54 Bear Creek 1 Airport
+AK04 -147.169 61.937 Skelton Airport
+AK05 -150.599 60.541 Breeden Airport
+AK06 -148.798 63.645 Denali Airport
+AK07 -151.877 59.241 Dog Fish Bay Airport
+AK08 -150.106 61.79 Thomas Strip
+AK09 -145.502 64.05 Wingsong Estates Airport
+AK1 -149.018 61.53 Butte Municipal Airport
+AK10 -150.109 61.717 AK-10 Airstrip
+AK11 -148.682 70.402 Point Mcintyre Airport
+AK12 -149.864 61.107 Flying Crown Airport
+AK13 -146.047 65.052 Chena Hot Springs Airport
+AK14 -150.089 61.351 Turinsky Airstrip
+AK16 -149.715 61.523 Sunset Strip
+AK17 -151.223 59.764 Glacierview Strip
+AK18 -153.081 59.828 Camp Point Airport
+AK19 -150.064 62.174 Carl's Landing Airport
+AK20 -150.887 70.421 CD-3 Airstrip
+AK21 -157.777 59.133 Nushagak Airport
+AK22 -147.522 64.822 Lakloey Air Park
+AK24 -149.439 61.418 Hilltop Airport
+AK25 -149.615 61.618 Piper Landing Airport
+AK26 -164.446 64.561 Solomon State Field
+AK27 -149.624 61.643 Valley Flying Crown Airport
+AK28 -147.919 64.814 Chena Marina Airport
+AK29 -149.852 61.613 Reids Landing Airport
+AK30 -146.097 60.391 Strawberry Point Airport
+AK31 -143.001 61.411 Swift Creek Airport
+AK32 -150.253 70.495 Oooguruk Island Heliport
+AK33 -160.899 55.801 Herendeen Bay Airport
+AK34 -150.08 61.835 Kashwitna Lake Seaplane Base
+AK35 -145.739 64.039 Buffalo Row Heliport
+AK36 -150.122 61.436 Point Mac Airport
+AK37 -150.036 61.25 Point Mackenzie Heliport
+AK38 -149.822 61.189 Providence Hospital Heliport
+AK39 -150.18 60.697 South Gasline Airport
+AK40 -154.76 63.229 Nixon Fork Mine Airport
+AK41 -146.844 64.544 Greg'n Sage Airport
+AK42 -149.106 61.601 Valley Hospital - Palmer Heliport
+AK43 -149.539 61.579 Jacobsen Lake Seaplane Base
+AK44 -150.116 62.319 Talkeetna Village Strip
+AK45 -167.176 65.456 Lost River 2 Airport
+AK46 -149.043 61.629 Abi Airport
+AK47 -149.563 61.586 Shawn Field
+AK48 -149.425 61.585 Valley Hospital, Wasilla Heliport
+AK49 -164.799 65.679 Taylor Airport
+AK5 -151.303 60.256 Encelewski Lake Seaplane Base
+AK50 -149.144 61.555 Sky Ranch At Pioneer Peak Airport
+AK51 -154.323 60.199 Wilder/Natwick LLC Airport
+AK52 -147.536 64.889 Moen's Ranch Airport
+AK53 -148.997 61.582 Maud Road Strip Airport
+AK54 -149.326 61.657 Stro's Airport
+AK55 -150.802 60.489 Moose Run Airstrip
+AK56 -158.477 59.963 Tikchik Lodge Seaplane Base
+AK57 -150.091 61.726 Long Lake Seaplane Base
+AK58 -149.549 61.54 Fairview West Airport
+AK59 -148.355 61.796 King Ranch Airport
+AK60 -157.097 57.885 Fort Jensen Airport
+AK61 -148.907 62.7 Stephan Lake Lodge Airport
+AK62 -133.228 55.85 Naukati Bay Seaplane Base
+AK63 -149.143 61.589 Pat-Mar Strip
+AK64 -157.392 60.868 Taylor Mountain Airport
+AK65 -149.351 61.598 Green's Strip
+AK66 -148.804 61.463 Hunter Creek Airport
+AK67 -150.073 61.739 Skid Marks Airport
+AK68 -150.054 61.72 Minuteman Strip
+AK69 -150.098 61.729 Long Lake Airport
+AK71 -153.242 70.911 Lonely Air Station
+AK72 -150.601 61.705 Jewell Airport
+AK73 -151.302 60.725 McGahan Industrial Airpark
+AK74 -152.354 57.808 Kodiak Emergency/Spruce Cape Heliport
+AK75 -161.926 65.908 Candle 2 Airport
+AK76 -138.407 59.126 East Alsek River Airport
+AK77 -145.422 63.941 All West Airport
+AK79 -149.566 61.594 Jolly Field
+AK8 -150.069 62.313 Christiansen Lake Seaplane Base
+AK80 -151.176 65.105 American Creek Airport
+AK81 -153.815 57.472 Amook Bay Seaplane Base
+AK82 -149.792 61.156 Campbell BLM Heliport
+AK83 -149.609 61.627 Gannon's Landing Airport
+AK84 -150.831 60.529 Scooter's Landing Strip
+AK85 -149.764 61.482 Birchwater Airport
+AK86 -149.911 61.574 Kramer Airport
+AK87 -149.929 61.515 Team Levine Heliport
+AK88 -149.04 61.605 Eagle Nest Airport
+AK89 -149.837 61.657 Black Spruce Airport
+AK90 -150.115 61.745 Shirley Lake Airport
+AK91 -149.749 61.24 Elmendorf Hospital Heliport
+AK92 -149.029 61.638 Martin Airport
+AK93 -149.273 61.655 Grouse Ridge Airport
+AK94 -134.777 58.391 Alascom/Coastal Lena Point Heliport
+AK95 -149.779 61.57 Twin Lake Airport
+AK96 -157.352 58.216 Bartletts Airport
+AK97 -146.146 60.423 Boswell Bay Airport
+AK98 -167.486 65.639 Buck Creek Airport
+AK99 -149.761 61.447 Grand Home Airport
+AKM 19.817 10.89 Zakuoma Airport
+AL-0001 19.791 41.333 Lapraka Heliport
+AL-0002 20.91 42.605 Aeroporti i Korrotic\u00c3\u00abs s\u00c3\u00ab Ul\u00c3\u00abt
+AL-0003 19.426 40.606 Aeroporti i Mifoit
+2NC6 -80.396 35.8 Flying M Airport
+2NC7 -77.399 36.168 Scotland Neck East Airport
+2NC8 -80.64 35.525 Goodnight's Airport
+2NC9 -79.468 34.753 Scotland Memorial Heliport
+2ND0 -97.05 46.814 Kraft Airport
+2ND1 -100.7 47.493 Westerlind Airport
+2ND2 -100.721 47.567 Makeeff Airport
+2ND3 -97.122 48.001 Casslindan Airport
+2ND4 -101.292 48.232 Trinity Medical Center Heliport
+2ND7 -100.814 48.752 Johnson Airport
+2ND9 -101.917 48.817 Brekhus Field
+2NE0 -99.834 40.697 Johnson Lake Airport
+2NE4 -102.134 42.45 Spring Lake Airport
+2NE5 -100.095 40.9 Fiese Airstrip
+2NE6 -101.297 40.921 Coppersmith Airport
+2NE7 -101.943 40.851 Kumor Airport
+2NH2 -71.474 42.855 Westport Heliport
+2NH3 -71.498 43.114 Scott Heliport
+2NH4 -71.696 43.757 Spear Memorial Hospital Heliport
+2NH5 -72.402 42.99 Pilgrim's Home Airfield
+2NH6 -71.456 43.366 Speedway Northside Heliport
+2NH9 -72.011 44.028 Brookside Heliport
+2NJ0 -74.079 40.925 Alexanders-Paramus Heliport
+2NJ1 -75.066 40.633 Jugtown Mountain Airport
+2NJ2 -74.801 39.99 Sportland Pier Heliport
+2NJ3 -74.854 40.34 Weidel/Private/ Airport
+2NJ4 -74.435 40.146 Six Flags Great Adventure Heliport
+2NJ5 -75.186 40.652 Sanduff Farms Landing Field
+2NJ6 -75.159 40.774 Markle Airport
+2NJ7 -74.488 40.55 Foley Machinery Heliport
+2NJ8 -74.52 40.262 Peddie School Heliport
+2NJ9 -74.091 40.665 Bayonne Golf Club Heliport
+2NK0 -73.625 43.593 Northwest Waterbird Seaplane Base
+2NK1 -77.466 42.296 Gaskin's Hilltop Airport
+2NK2 -73.491 40.884 Cove Neck Heliport
+2NK3 -72.28 41.154 Rose Field
+2NK4 -73.94 41.277 Westchester Resco Heliport
+2NK5 -75.955 44.302 NCH Heliport
+2NK6 -78.658 42.508 Bertrand Chaffee Hospital Heliport
+2NK7 -75.148 42.158 Walton Airport
+2NK8 -73.826 40.782 Landmark Plaza Heliport
+2NK9 -74.077 41.657 Old Orchard Airpark
+2NR4 -78.872 35.747 Apex Healthplex Heliport
+2NV2 -119.675 39.835 Gibb Ranch Airport
+2NV3 -114.05 36.838 Vista Del Monte Lot 55 Heliport
+2NV8 -115.986 36.192 Mercy Air-Pahrump Heliport
+2NY0 -73.953 42.281 Catskill Valley Airpark
+2NY2 -74.333 41.35 High View Too Heliport
+2NY3 -74.088 41.99 Kwp Heliport
+2NY4 -78.05 43.074 Byron Airpark
+2NY5 -77.623 43.122 Strong Memorial Hospital Heliport
+2NY6 -74.508 41.372 Slate Hill Heliport
+2NY7 -77.211 42.121 Towner Farm Airport
+2NY8 -74.183 41.803 Benbyre Farm Heliport
+2NY9 -76.723 42.37 Kayutah Lake Airport
+2OA1 -80.884 41.415 Bristol Airstrip
+2OA2 -83.915 39.248 Mackie's Airport
+2OA3 -82.597 41.41 Sawmill Creek Resort Heliport
+2OA4 -83.908 39.932 Victory Field
+2OA5 -83.351 40.182 Fl-Airfield
+2OA6 -81.588 40.086 Hilltop Airport
+2OA7 -84.106 38.851 Utter Field
+2OG2 -122.907 42.43 Erickson Air-Crane Whetstone Heliport
+2OG3 -122.65 45.431 Wiley's Seaplane Base
+2OG4 -118.647 42.33 El Rancho Airport
+2OG5 -123.506 45.118 Mendenhall Airstrip
+2OH0 -82.94 40.346 Bohannan Airport
+2OH1 -82.933 41.506 Magruder Memorial Heliport
+2OH2 -83.49 39.472 Merritt Airport
+2OH3 -83.583 38.934 Adams County Regional Medical Center Heliport
+2OH4 -82.635 40.625 Cedar Creek Airport
+2OH5 -84.168 39.775 Childrens Medical Center Heliport
+2OH6 -84.281 40.012 Smith Field Airport
+2OH7 -84.026 38.911 Jbr Airport
+2OH8 -83.223 39.795 Port-O-John Airport
+2OH9 -84.094 39.477 Caesar Creek Soaring Club Gliderport
+2OI2 -84.052 39.561 Air Jordan Airport
+2OI3 -83.528 41.568 Railway Stop Heliport
+2OI4 -81.937 41.045 Aero Lake Farm Airport
+2OI5 -84.369 39.358 West Chester Hospital Heliport
+2OI6 -82.962 39.97 Park Medical Center Heliport
+2OI7 -82.982 40.112 Worthington Industries Heliport
+2OI8 -82.421 40.864 K & D Airways Airport
+2OI9 -82.908 39.84 Comprix Heliport
+2OK -149.827 61.212 Alaska Regional Hospital Heliport
+2OK0 -97.41 34.832 Burford Corp. Airport
+2OK1 -97.011 35.59 Frost Ranch Airport
+2OK2 -97.27 35.329 Twin Lakes Airport
+2OK3 -97.484 35.354 Moore Airpark
+2OK4 -96.059 35.817 Ragwing Acres Airport
+2OK5 -98.74 34.929 Ferrell Ranch Airport
+2OK6 -97.021 35.482 Flying N Ranch Airport
+2OK7 -97.663 35.258 Cole Landing Area Airport
+2OK8 -97.646 35.225 D & G Farms Airport
+2OK9 -97.308 35.196 Pata Skyhaven Airport
+2OL2 -95.92 35.888 Myers Field Airstrip
+2OR0 -122.518 45.344 Nielsen Airport
+2OR1 -120.495 44.828 Big Muddy Ranch Airport
+2OR2 -120.838 44.312 Pioneer Memorial Hospital Heliport
+2OR3 -123.098 44.795 Davidson Field
+2OR4 -123.346 43.475 Heavens Gate Ranch Airport
+2OR5 -122.551 45.533 Woodland Park Hospital Heliport
+2OR6 -118.215 44.181 Lockhart Airport
+2OR7 -122.685 44.399 Sweet Home Airport
+2OR9 -122.674 45.517 World Trade Center Heliport
+2P2 -86.924 45.386 Washington Island Airport
+2P4 -88.578 46.785 Baraga Airport
+2P5 -75.074 39.369 Holly City Heliport
+2P7 -80.963 40.057 Alderman Airport
+2PA0 -75.698 40.557 Zettlemoyer Airport
+2PA1 -75.008 41.443 Boehm's Field
+2PA3 -75.416 41.5 Reed Airport
+2PA4 -75.446 41.847 Boden Airport
+2PA5 -78.269 41.781 Johnson Airport
+2PA6 -76.098 40.491 The Old Commonwealth Aerodrome
+2PA7 -77.3 40.333 Egolf Airport
+2PA8 -77.3 40.3 Shulls Airport
+2PA9 -75.3 40.2 Wilson Heliport
+2PN0 -79.818 42.015 Strawberry Acres Airport
+2PN1 -77.525 41.983 Malco Airport
+2PN2 -76.647 39.787 Fortman Heliport
+2PN3 -77.1 39.961 Market Garden Airport
+2PN4 -78.946 40.082 Quemahening Flightpark Ultralightport
+2PN5 -78.361 40.248 Baker-Sell Airport
+2PN7 -80.071 40.856 Brennan Personal Use Airport
+2PN8 -75.15 39.937 Federal Reserve Bank Heliport
+2PN9 -75.358 40.047 Sun Company-Radnor Heliport
+2PR2 -66.094 18.315 Caribbean Constr Main Office Heliport
+2PS0 -75.299 40.198 Rotelle Heliport
+2PS2 -76.692 39.966 Memorial Hospital Heliport
+2PS3 -77.041 40.017 Mathna Airport
+2PS4 -76.338 40.037 Wgal-Tv Heliport
+2PS5 -76.585 40.787 Rosini Residence Heliport
+2PS6 -75.784 40.009 Brandywine Hospital Heliport
+2PS7 -75.166 40.217 Merck Sharp & Dohme Heliport
+2PS8 -76.778 40.862 UPMC Susquehanna Sunbury Heliport
+2PS9 -75.144 40.037 Albert Einstein Medical Center Heliport
+2Q5 -119.683 39.202 Parker Carson Airport
+2Q9 -118.006 37.61 Dyer Airport
+2R3 -151.311 60.704 Island Lake Seaplane Base
+2RI7 -71.311 41.506 Malbone Estate Heliport
+2S0 -120.094 48.351 Twisp Municipal Airport
+2S1 -122.474 47.459 Vashon Municipal Airport
+2S2 -121.818 43.129 Beaver Marsh State Airport
+2S3 -84.472 42.907 Archer Memorial Field
+2S5 -120.056 47.656 Waterville Airport
+2S6 -122.955 45.296 Sportsman Airpark
+2SC2 -80.911 34.07 South Carolina Pipeline Heliport
+2SC3 -80.868 32.139 Melrose Landing Seaplane Base
+2SC4 -80.754 32.234 Salty Fare Landng Seaplane Base
+2SC5 -82.054 34.292 Ridgewood Air Airport
+2SC6 -81.116 34.066 Sled Heliport
+2SC7 -79.541 33.052 Laurel Hill Farms Airport
+2SC8 -81.095 33.787 Gaston Airport
+2SC9 -79.958 33.75 McIntosh Airport
+2SD0 -103.479 44.164 Paradise Valley Airport
+2SD1 -96.715 43.534 Mc Kennan Hospital Heliport
+2SD2 -98.93 43.106 Pepper Port Airport
+2SD3 -99.725 44.563 Bollweg Farm Airport
+2SD4 -98.265 43.683 Nicolaisen Airport
+2SD5 -103.509 44.398 Sturgis Heliport
+2SD6 -96.78 43.491 Avera Heart Hospital of South Dakota Heliport
+2SD7 -97.063 43.333 Dangel Airport
+2SD8 -96.939 43.046 Bixler Ridge Airport
+2SD9 -99.01 45.452 Tc Field
+2T2 -88.539 39.014 Percival Springs Airport
+2T5 -88.291 43.466 Hahn Sky Ranch Airport
+2T7 -83.849 42.019 Van Camp's Heliport
+2TA0 -95.8 29.789 Darmar Medical Emergency Heliport
+2TA1 -94.691 31.39 Gravco STOLport
+2TA2 -96.601 32.779 The Medical Center of Mesquite Heliport
+2TA3 -104.598 31.718 Triangle Ranch Private Airport
+2TA4 -96.293 29.748 Mario's Flying Pizza Airport
+2TA5 -96.492 28.47 Port O'Connor Base (Ehi) Heliport
+2TA6 -96.198 31.863 Pyramid Ranch Airport
+2TA7 -93.957 29.696 Era Helicopters Sabine Base Heliport
+2TA8 -98.222 26.858 El Coyote Ranch Airport
+2TA9 -97.842 32.66 A M I G O For Christ Airport
+2TE0 -95.58 28.982 Eagle Air Park
+2TE1 -95.062 29.329 Republic Helicopters Heliport
+2TE2 -97.534 32.831 Flying Oaks Airport
+2TE3 -96.928 33.294 Weems Farm Airport
+2TE4 -96.323 29.179 Frels Airport
+2TE5 -97.163 29.695 Piano Ranch Airport
+2TE6 -98.05 28.888 Burris Ranch Airport
+2TE7 -101.135 33.228 Beach Ranch Airport
+2TE8 -99.799 28.678 Wagner-Braxdale Airport
+2TE9 -97.283 29.113 Cuero Community Hospital Heliport
+2TN0 -90.027 35.142 Hospital Wing Heliport
+2TN1 -89.539 35.743 Baptist Memorial Hospital Heliport
+2TN2 -89.189 35.224 Wings Field
+2TN3 -84.247 36.001 Oak Ridge Heliport
+2TN4 -90.035 35.318 Shoemaker-Shelby Forest Airport
+2TN5 -84.6 35.436 Athens Regional Medical Center Heliport
+2TN6 -86.802 36.154 Saint Thomas Midtown Hospital Heliport
+2TN7 -84.416 35.804 Wolf Creek Airport
+2TN8 -85.936 36.018 Soggy Bottom Airport
+2TN9 -89.047 36.414 Baptist Memorial Hospital Heliport
+2TS0 -97.138 33.156 Myska Field
+2TS1 -94.971 33.176 Titus Regional Medical Center Heliport
+2TS2 -97.734 26.168 Shofner Farms Airport
+2TS3 -97.241 31.679 Tigerbird Field
+2TS4 -95.97 32.14 Circle R Ranch Airport
+2TS5 -100.61 34.894 Hedley Airport
+2TS6 -96.927 32.513 Eagle's Nest Estates Airport
+2TS7 -97.816 32.781 Jamak Fabrication Heliport
+2TS8 -97.872 29.221 Bailey Airport
+2TS9 -95.239 32.314 DPS-Tyler Heliport
+2TX0 -101.849 35.064 Blue Sky Airfield
+2TX1 -98.384 29.225 Russell Paradise Airport
+2TX2 -98.01 32.027 Ray Smith Farm Airport
+2TX3 -100.617 29.217 La Fonda Ranch Airport
+2TX4 -99.377 27.984 Lewis Ranch Airport
+2TX5 -97.751 31.454 Berry Airport
+2TX6 -101.668 33.682 Everitt Airport
+2TX7 -97.396 33.095 Jw Airport
+2TX8 -97.38 33.308 Eagle's Landing Airport
+2TX9 -95.171 29.741 Ethyl Corp Heliport
+2U0 -115.548 43.499 Smith Prairie Airport
+2U4 -112.532 43.19 Rockford Municipal Airport
+2U5 -114.841 45.992 Shearer US Forest Service Airport
+2U7 -114.935 44.208 Stanley Airport
+2U8 -115.003 44.726 Thomas Creek Airport
+2UT2 -112.642 37.521 High Meadow Ranch Airport
+2UT3 -112.591 41.492 Fort Ranch Airport
+2UT4 -111.406 40.49 Heber Valley Hospital Heliport
+2V3 -89.147 41.181 Hartenbower Hectares Airport
+2VA -96.406 43.451 Zangger Vintage Airpark
+2VA0 -79.609 37.113 Red Birds Airyard Airport
+2VA1 -76.355 37.896 Jett Airpark
+2VA2 -76.79 37.146 Melville Airstrip
+2VA3 -77.866 37.315 Merlin Aerodrome
+2VA4 -78.192 39.195 Winchester Medical Center Heliport
+2VA5 -76.565 37.631 Rosegill Farm Airstrip
+2VA6 -76.601 37.624 Arrowhead Point Airport
+2VA7 -76.026 36.866 Virginia Beach General Hospital Heliport
+2VA8 -76.83 36.684 Brandywyne Farms Airport
+2VA9 -77.787 38.758 Airlie Airport
+2VE2 -115.239 36.091 Spring Valley Hospital Heliport
+2VG2 -77.87 38.972 Upperville Airport
+2VG3 -78.871 38.549 Cub Haven Airport
+2VG4 -78.862 37.888 Deer Run Heliport
+2VG5 -76.066 36.831 Breeden Company Heliport
+2VG6 -77.63 38.761 Rychlk Heliport
+2VG7 -77.85 38.164 Seven Gables Airport
+2VG8 -76.731 37.872 Folly Neck Airport
+2VG9 -76.741 37.335 Sentara Williamsburg Regional Medical Center Heliport
+2VI2 -152.355 60.419 Redoubt View Seaplane Base
+2VT2 -73.282 44.873 Northern Lights Seaplane Base
+2W1 -120.853 47.178 De Vere Field
+2W2 -77.017 39.467 Clearview Airpark
+2W3 -122.257 46.872 Swanson Airport
+2WA0 -121.636 47.145 Pcfd Nr 26 Heliport
+2WA1 -122.929 48.093 Diamond Point Airstrip
+2WA2 -122.445 47.38 Quartermaster Harbor Seaplane Base
+2WA3 -123.21 48.685 Stuart Island West Airport
+2WA5 -119.001 47.946 Coulee Community Hospital Heliport
+2WA6 -119.089 47.998 Rice Ranch Airport
+2WA8 -118.297 47.382 Kramer Ranch Airport
+2WA9 -118.101 46.289 Touchet Valley Airport
+2WI0 -89.6 44.853 Bender's Airport
+2WI1 -89.287 42.944 Uff-Da Airport
+2WI2 -90.228 42.557 Shullsburg Airport
+2WI3 -88.023 43.042 Milwaukee County Medical Complex Heliport
+2WI4 -88.399 42.643 Plows & Props Airport
+2WI5 -90.163 46.097 Blair Lake Airport
+2WI6 -89.186 42.914 Matson Airport
+2WI7 -89.665 42.97 Hecklers' Strip
+2WI8 -87.779 43.597 Davies Airport
+2WI9 -89.635 43.76 Bulldog Ranch Airport
+2WN2 -89.63 43.654 Gaffney Airport
+2WN3 -88.761 44.358 Curns Airport
+2WN4 -88.781 44.339 Mcfaul Airport
+2WN5 -90.019 44.006 Murmuring Springs Airport
+2WN6 -90.419 44.53 Cunningham Airport
+2WN7 -88.673 43.949 Planeacres Airport
+2WN8 -88.714 44.015 Oshkosh Sky Ranch Airport
+2WN9 -120.701 45.845 Hillcrest Airport
+2WS2 -92.293 45.914 Connor'S Lake Landing
+2WS3 -88.094 44.28 C. R. Acres Airport
+2WS4 -88.976 42.67 SSM Health St. Mary's Hospital-Jansville Heliport
+2WV2 -80.362 39.102 Louis A. Johnson Va Medical Center Heliport
+2WV3 -81.392 39.117 Hales Landing Airport
+2WV5 -80.518 37.547 Willow Bend Airport
+2WV6 -80.725 40.053 West Virginia State Police Heliport
+2WY3 -110.317 43.007 Haas Airport
+2WY4 -104.446 41.158 Raco 1 Heliport
+2WY8 -109.282 44.404 Bar Flying E Airport
+2X2 -150.059 61.744 Willow Seaplane Base
+2XA0 -99.713 33.979 Foard County Airport
+2XA1 -98.932 28.132 El Caballero Airport
+2XA2 -95.311 29.22 Knape Airport
+2XA3 -95.632 29.926 North Cypress Medical Center Heliport
+2XA4 -96.8 33.581 Flying S Ranch Airport
+2XA5 -97.691 29.804 Someday Ranch Airport
+2XA6 -98.418 29.435 Red Berry Heliport
+2XA7 -94.766 32.615 Tailwheel Airport
+2XA8 -96.17 31.694 Air Evac 53 Heliport
+2XA9 -100.397 32.452 Rolling Plains Hospital Heliport
+2XS0 -97.516 25.978 Columbia Valley Regional Heliport
+2XS1 -98.303 30.22 Harris Ranch Airport
+2XS2 -100.162 28.263 Indio-Faith Airport
+2XS3 -95.7 32.017 Glad Oaks Airport
+2XS4 -96.406 33.661 Skida Patch Airport
+2XS5 -98.425 30.01 Cross Triangle Ranch Airport
+2XS6 -99.571 29.721 Foster Ranch Airport
+2XS7 -99.684 29.45 Annandale Ranch Airport
+2XS8 -99.824 29.229 Benson Airstrip
+2XS9 -99.768 29.214 Uvalde County Hospital Authority Heliport
+2Y0 -95.614 43.078 Primghar Airport
+2Y1 -93.417 42.317 Drake Airport
+2Y2 -96.493 43.037 Hawarden Municipal Airport
+2Y3 -139.741 59.562 Yakutat Seaplane Base
+2Z1 -133.438 57.412 Entrance Island Seaplane Base
+2Z2 -150.221 65.176 Eureka Creek Airport
+2Z3 -148.863 64.042 Eva Creek Airport
+2Z5 -147.848 64.833 Chena River Seaplane Base
+2Z6 -135.213 57.532 False Island Seaplane Base
+30AK -151.26 60.503 Doyle Estates Airport
+30AL -87.08 34.373 Med Flight 2 Heliport
+30AR -92.056 35.544 Phalanx Airport
+30AZ -112.813 33.25 Gila Compressor Station Airport
+30CA -120.937 40.141 Indian Valley Hospital Heliport
+30CL -118.187 33.809 Long Beach Memorial Medical Center Heliport
+30CO -105.336 38.673 Coyote Creek Ranch Airport
+30F -97.014 33.132 Lakeview Airport
+30FA -81.37 27.32 Florida Hospital Lake Placid Heliport
+30FD -80.144 26.124 City of Fort Lauderdale Heliport
+30FL -81.693 29.643 Columbia Putnam Community Hospital Heliport
+30GA -84.181 34.459 Elliott Field
+30ID -114.166 42.432 Mason Airport
+30II -84.885 39.846 Reid Hospital Heliport
+30IL -88.473 38.679 Clay County Hospital Heliport
+30IN -85.458 41.209 Wigent Airport
+30IS -88.625 42.077 Aero Lake Estates Airport
+30KS -97.073 37.132 Tyler Airport
+30KY -84.867 36.819 Wayne County Hospital Heliport
+30LA -89.356 29.271 Venice Base Heliport & Seaplane Base
+30LL -90.365 39.754 Williams Airpark
+30LS -91.951 30.152 Rotorcraft Heliport
+30M -90.376 34.659 Ralph M Sharpe Airport
+30MA -71.693 42.428 Clinton Hospital Heliport
+30MI -86.328 41.859 Wolverton's Field
+30MN -93.372 43.653 Albert Lea Medical Center Heliport
+30MO -92.495 37.646 Matzie Airport
+30NC -80.457 36.049 Happy Bottom Airport
+30NE -98.686 40.356 Nebraskaland Aviation Airport
+30NJ -74.779 40.392 Hillside Farm Heliport
+30NM -103.097 36.116 Crusader Heliport
+30NR -78.571 34.71 Bladen Lakes State Forest Tactical Landing Zone Heliport
+30NY -77.558 42.75 Coye Field
+30OH -82.55 40.757 Bahl Helistop
+30OK -96.234 34.917 Lobo Field
+30OR -123.28 45.803 Bero Field
+30PA -75.437 40.268 Kings Airport
+30PN -79.953 40.466 Pittsburgh Children'S Hospital Heliport
+30TA -97.723 30.592 Tri-Modal Air Park
+30TE -101.396 33.811 Cone Airport
+30TS -94.717 32.83 Hall Airport
+30TX -98.655 30.232 Burg Lake Aero Airport
+30VA -81.821 37.095 Clinch Valley Medical Center Heliport
+30W -87.808 44.952 Sweetwater Bay Seaplane Base
+30WA -118.178 46.315 Weller Canyon Airport
+30WI -87.359 45.192 Chambers Island Airport
+30XA -96.914 33.22 Emergency Room At Magnolia Heliport
+30XS -103.018 34.382 Farwell Spraying Service, Inc Airport
+31A -80.511 35.985 Sugar Valley Airport
+31AK -147.425 64.833 Dalrymple's Airport
+31AR -92.453 35.576 Van Buren County Memorial Hospital Heliport
+31AZ -110.26 31.964 Benson Airport
+31CA -117.832 33.694 Baldwin Base Heliport
+31CL -118.049 33.971 Presbyterian Intercommunity Hospital Heliport
+31CO -107.869 38.48 Montrose Memorial Hospital Heliport
+31CT -71.928 41.855 Quiet Corner Heliport
+31D -79.779 40.333 Inter County Airport
+31FA -82.134 28.959 S & S Avion Ranch Airport
+31FD -84.842 30.706 Florida State Hospital Heliport
+31FL -81.019 28.043 Forever Florida Airport
+31GA -84.401 33.787 Wgcl-Tv Heliport
+31II -84.912 38.926 Rising Sun Airport
+31IL -89.281 37.253 Tamms Correctional Center Heliport
+31IN -86.856 40.285 Timber House Airport
+31IS -90.055 40.308 Mason District Hospital Heliport
+31KS -97.929 37.996 Mills Field
+31KY -84.322 38.111 Wild Blue Airport
+31LA -92.497 30.33 Iota Volunteer Fire Department Heliport
+31LL -88.666 40.779 Seeman Airport
+31LS -91.864 30.034 Helicopter Management Heliport
+31MA -72.408 42.262 Norm's Field
+31MD -75.211 38.34 AGH Heliport
+31MI -86.177 41.78 Rentz Ultralight Airport
+31MN -93.42 45 Peterson Seaplane Base
+31MO -94.743 40.105 Hannah Airport
+31MT -111.302 47.236 Reverse 5 Bar M Airport
+31NC -80.859 35.407 NH HMC Heliport
+31NE -97.705 42.755 Grimm Farm Airport
+31NH -71.251 43.224 Johnson's Heliport
+31NJ -74.539 39.479 Atlantic City Medical Center-Mainland Division Heliport
+31NY -77.337 42.958 Troop E Heliport
+31OH -82.563 40.773 Au Heliport
+31OK -94.991 36.486 Siegfried Point Heliport
+31OR -123.145 44.062 Heli-Jet Heliport
+31PA -75.415 39.998 Foxcatcher Farm Heliport
+31PN -75.081 40.209 Control Dynamics Heliport
+31TA -97.425 30.729 Vitek Field
+31TE -95.471 29.723 Tenneco Lab Helistop
+31TN -87.337 35.223 Crockett Hospital Heliport
+31TS -96.189 33.19 Flyers Field
+31TX -97.33 31.597 Scott Airport
+31VA -76.589 37.024 Aberdeen Field
+31WA -122.454 47.262 Mary Bridge Heliport
+31WI -88.602 43.007 Sullivan Airport
+31WN -88.962 43.991 Berlin Field LLC
+31XS -96.27 33.184 Fly-N-Ski Airport
+32AK -147.914 64.909 Hardrock Field
+32AR -91.56 34.518 Stuttgart Memorial Hospital Heliport
+32AZ -111.922 33.67 Scottsdale Healthcare Thompson Peak Hosp Heliport
+32CA -119.825 36.333 Stone Airstrip
+32CL -121.718 38.833 Bob's Flying Service Inc Airport
+32CN -118.382 33.98 Pacific Bell-2300 Imperial Hwy Heliport
+32CO -105.084 38.455 Braun Airport
+32FA -80.904 27.234 Sunset Strip Airpark
+32FD -82.383 27.904 Kearney Construction Heliport
+32FL -81.444 28.501 Meyer Heliport
+32GA -83.278 33.454 Sebastian Cove Airport
+32II -85.106 38.816 Roberts Airport
+32IL -89.266 37.239 Village of Tamms Heliport
+32IN -86.297 39.155 Roto-Whirl/Ski World Heliport
+32IS -91.01 40.135 Baker Airport
+32KS -100.613 38.593 Wilkens Airport
+32KY -84.557 39.01 St Elizabeth Medical Center South Heliport
+32LA -93.35 29.774 A B Dock Services Heliport
+32LL -90.26 41.704 The Sandbox Airport
+32LS -90.359 30.42 Stevens Strip
+32MA -73.11 42.708 Berkshire Medical Center Heliport
+32MD -75.877 39.189 Roseland Airport
+32MI -83.193 42.515 William Beaumont Hospital Heliport
+32MN -94.399 45.368 Don's Landing Field
+32MO -90.226 37.577 Phillips Airport
+32MS -89.952 31.194 Browns Landing
+32NC -79.043 34.896 Hall Field
+32NE -100.088 41.721 Mc Ginn Ranch Airport
+32NJ -74.175 40.208 George Harms Const Heliport
+32NK -74.311 42.753 Schoharie Creek Airport
+32NY -72.217 42.43 S J M Landing Heliport
+32OH -82.418 40.761 Rall Field
+32OK -95.518 34.832 Flying A Ranch Airport
+32OR -121.294 45.255 Pine Hollow Airport
+32PA -77.177 40.33 Yost Personal Use Airport
+32PN -80.276 40.734 Black Rock Airport
+32TA -97.434 29.692 Wilbourn Ranch Airport
+32TE -98.37 30.589 Granite Shoals/ Bob Sylvester Airpark
+32TN -86.09 35.174 Southern Tennessee Medical Center Heliport
+32TS -97.746 30.304 Seton Medical Center H-4 Heliport
+32TX -96.359 30.058 Hinson Airport
+32VA -81.929 36.678 Old South Aerodrome
+32WA -119.467 48.723 Whitestone Airport
+32WI -88.701 44.316 Dalonia Airport
+32WN -88.42 45.1 Bowman Airstrip
+32XA -102.375 31.846 Medical Center Hospital Heliport
+32XS -97.009 32.461 Cedar Circle Heliport
+33A -82.122 35.157 Fairview Airport
+33AK -150.945 62.517 Nugget Bench Airport
+33AR -92.143 35.602 Skypoint Estates Airport
+33AZ -112.97 34.799 Yolo Ranch Airport
+33C -86.095 43.082 Jablonski Airport
+33CA -118.302 34.905 Lloyd's Landing Airport
+33CL -120.797 35.568 Oak Country Ranch Airport
+33CN -119.604 34.331 Platform Hillhouse Heliport
+33CO -105.464 37.065 Melby Ranch Airstrip
+33CT -73.24 41.609 Irish Hills Farms Airport
+33FA -80.846 27.598 Recreation Corporation Airport
+33FD -83.267 29.914 R O Ranch STOLport
+33FL -81 27.861 Flying S Ranch Airport
+33GA -83.287 34.26 Hudson River Landing Airport
+33IA -96.058 43.01 Orange City Hospital Heliport
+33ID -114.769 43.379 Ozzy's Airport
+33II -85.144 39.658 Lifeline Landing Area Heliport
+33IL -88.898 40.166 John Scharff Airport
+33IN -86.058 38.443 Rusby Field
+33IS -88.758 39.544 Howell Airport
+33KS -95.609 39.153 Buena Terra Airport
+33KY -87.057 37.612 Bigger (Stol) STOLport
+33LA -91.986 30.07 Sky Ranch Airport
+33LL -88.289 39.088 Isley Airport
+33LS -92.026 30.173 Our Lady of Lourdes Heart Hospital Heliport
+33MA -70.772 42.56 Seagate Heliport
+33MI -88.008 46.067 Great Lakes Airport
+33MN -96.097 46.09 Swift Private Airport
+33MO -94.057 37.251 Leaming Field
+33MT -114.001 48.481 Kruger Heliport
+33NC -78.089 34.427 Pettigrew Moore Aerodrome
+33NE -102.575 42.386 Orr Ranch Airport
+33NJ -74.311 40.237 Centra State Medical Center Heliport
+33NR -82.507 35.942 Wolf Ridge Airport
+33NY -73.866 42.4 Wayne Delp Airport
+33OH -83.174 40.185 Sunset Strip
+33OI -82.043 41.083 Soaring Horse Airport
+33OK -97.406 35.743 Myrick Airport
+33OR -123.391 44.064 Crow-Mag Airport
+33PA -76.25 41.167 Sutliff Private Airport
+33PN -75.438 40.389 Skepton Heliport
+33SC -79.754 34.161 Triad Carolinas Hospital Heliport
+33TA -95.612 30.333 Lake Bonanza Airport
+33TE -95.452 29.689 Sw Police Station Nr 4 Heliport
+33TN -84.869 35.178 Bradley Memorial Hospital Heliport
+33TS -96.717 30.521 Burleson County Hospital Heliport
+33TX -97.846 27.744 Tgp 1 Heliport
+33VA -79.05 36.784 Fox Fire Airport
+33WA -118.851 47.05 Franz Ranch Airport
+33WI -88.066 44.532 St Mary's Hospital Heliport
+33XS -93.779 31.25 Six Mile Volunteer Fire Department Heliport
+34AK -149.289 61.625 Cardwell Strip
+34AL -86.469 33.247 Gaston Steam Plant Heliport
+34AR -90.385 35.581 Woodbridge Field
+34AZ -111.913 33.243 Gila River Memorial Airport
+34CA -121.373 38.792 Fiddyment Field
+34CD -105.448 40.263 Elk Park Ranch Airport
+34CL -121.65 40.895 Burney Service Center Heliport
+34CN -120.398 37.523 Bonanza Hills Airport
+34CO -104.732 39.716 Simons Airport
+34FA -80.669 28.252 Gezik Seaplane Base
+34FD -80.907 28.857 Blue Ridge Flightpark Airport
+34FL -86.303 30.965 Ellis Agricultural Field
+34G -83.925 41.975 Merillat Airport
+34GA -84.607 33.857 Cobb General Hospital Heliport
+34ID -116.344 46.57 Freeman Creek Airport
+34II -85.603 40.051 Burk Personal Use Airport
+34IL -90.108 40.362 G. Bray Airport
+34IN -85.018 40.34 Windy P Ridge Airport
+34IS -88.717 41.445 Jim Wehrli Memorial Airport
+34KS -97.291 37.672 St Joseph Heliport
+34KY -86.783 36.912 Lone Pine Aerodrome
+34LA -93.271 30.772 Swamp Smith Airport
+34LL -87.908 38.728 Il Dept of Corrections/Lawrence County Heliport
+34LS -92.015 30.029 Coastal Ridge Airpark
+34MA -70.739 42.576 Crowhurst Heliport
+34MI -86.223 43.1 De Witt Property Airport
+34MN -93.649 44.96 Peil/Juliar Seaplane Base
+34MO -91.44 39.833 Cyanamid-Hannibal Heliport
+34MS -88.696 30.474 Colle Field
+34NC -80.842 35.206 Carolinas Medical Center Heliport
+34ND -97.157 46.706 Plath Farms Airport
+34NE -100.935 41.224 Evans Ranch Airport
+34NH -71.661 42.815 Stone Song Heliport
+34NJ -74.31 40.958 Chilton Memorial Hospital Heliport
+34NY -77.827 43.29 Hendershot Airport
+34OH -84.642 41.257 Arend Airport
+34OI -82.118 40.694 Snoddy Air Strip
+34OK -96.55 35.9 Double Bar S Ranches Airport
+34OR -122.612 45.528 Providence Medical Center Heliport
+34PA -77.193 39.761 Waltz Airport
+34PN -77.221 40.486 Fox Field
+34TA -96.487 33.167 Jsi Airport

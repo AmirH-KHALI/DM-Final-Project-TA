@@ -1,0 +1,15 @@
+6 6
+0NK6 -76.089 42.438 Lapeer Flyer Airport 
+0FL5 -81.35 28.459 Lake Conway South Seaplane Base 
+0PN5 -79.598 41.779 Nichols Airport 
+9TX8 -96.821 32.803 Infomart Heliport 
+31OK -94.991 36.486 Siegfried Point Heliport 
+0OK8 -97.593 36.292 Cade's Airport 
+31OK 0PN5 13.28
+0PN5 0NK6 4.00
+0OK8 31OK 7.00
+31OK 0FL5 10.83
+0NK6 0FL5 14.94
+31OK 9TX8 2.00
+31OK
+0OK8

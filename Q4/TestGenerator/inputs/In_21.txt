@@ -1,0 +1,4832 @@
+803 4026
+9OK1 -97.499 35.481 Omh Heliport 
+32TX -96.359 30.058 Hinson Airport 
+AK26 -164.446 64.561 Solomon State Field 
+0ID0 -115.107 43.606 South Fork Ranch Airport 
+2WY3 -110.317 43.007 Haas Airport 
+AE-0010 55.139 25.222 Schumacher Heliport 
+9OG1 144.812 13.476 Barrigada Readiness Center Heliport 
+0AL2 -85.833 33.275 Clay County Hospital Heliport 
+0O9 -123.985 41.846 Ward Field 
+31CO -107.869 38.48 Montrose Memorial Hospital Heliport 
+0AZ2 -113.642 33.778 Western Sky Airport 
+0SD6 -101.826 44.289 Oasis Ranch Airport 
+31MA -72.408 42.262 Norm's Field 
+2NY3 -74.088 41.99 Kwp Heliport 
+0MN0 -92.984 44.797 Winner's Landing Seaplane Base 
+0CD2 -104.234 38.653 Foxx Valley Airport 
+0MD6 -77.106 39.381 Walters Airport 
+2NY7 -77.211 42.121 Towner Farm Airport 
+0MO1 -94.095 38.544 Flying G Airport 
+2SD0 -103.479 44.164 Paradise Valley Airport 
+09WI -91.308 44.004 Parkway Farm Strip 
+AGEV 156.597 -7.576 Geva Airport 
+2XA4 -96.8 33.581 Flying S Ranch Airport 
+9XA4 -97.04 32.356 Chimera Aerodrome 
+9WI4 -88.135 42.979 Faken Airport 
+2WN3 -88.761 44.358 Curns Airport 
+32OK -95.518 34.832 Flying A Ranch Airport 
+33PA -76.25 41.167 Sutliff Private Airport 
+9R5 -97.354 27.888 Hunt Airport 
+0LS6 -92.05 30.788 Dufour Airport 
+2VG4 -78.862 37.888 Deer Run Heliport 
+AK50 -149.144 61.555 Sky Ranch At Pioneer Peak Airport 
+0OK6 -97.386 35.802 Ellis/Harvey Airport 
+0FL9 -81.023 26.394 Mc Daniel Ranch Inc. Airport 
+0OI4 -81.159 41.324 Salt Box Airport 
+0AK8 -147.498 64.896 Pollux Heliport 
+2U5 -114.841 45.992 Shearer US Forest Service Airport 
+2W1 -120.853 47.178 De Vere Field 
+0FL7 -81.419 28.61 Wcpx Tv-6 Heliport 
+9MD9 -75.689 38.852 G W Farm Airport 
+0IA4 -91.05 41.033 Sharar Field 
+2V3 -89.147 41.181 Hartenbower Hectares Airport 
+AGAT 161.011 -8.873 Uru Harbour Airport 
+0MU1 -94.174 37.247 Sunderland Airport 
+9TX9 -101.965 30.748 Canon Ranch Airport 
+09LL -88.743 42.468 Pine Hill Airport 
+9MI8 -82.996 42.661 Jott Heliport 
+34NC -80.842 35.206 Carolinas Medical Center Heliport 
+0MS0 -88.617 32.475 Topton Air Estates Airport 
+2OA4 -83.908 39.932 Victory Field 
+30NM -103.097 36.116 Crusader Heliport 
+9OI7 -83.284 40.34 Bayes Airport 
+31WA -122.454 47.262 Mary Bridge Heliport 
+32OH -82.418 40.761 Rall Field 
+9TN1 -86.538 35.73 Versailles Aerodrome 
+0II3 -86.038 40.628 Miller Strip 
+0AK7 -150.959 59.776 Bradley Lake Hydroelectri Project Airstrip 
+9NY2 -79.571 42.329 Westfield Memorial Hospital Heliport 
+33ID -114.769 43.379 Ozzy's Airport 
+0IS2 -87.853 42.093 Evanston/Glenbrook Heliport 
+9VA0 -79.729 38.053 Bath Alum Airport 
+2OA5 -83.351 40.182 Fl-Airfield 
+2NR4 -78.872 35.747 Apex Healthplex Heliport 
+09NE -96.194 41.333 Summer Hill Farm Airport 
+AGGE 155.887 -6.991 Ballalae Airport 
+0AL8 -86.773 33.464 Brookwood Medical Center Heliport 
+32AK -147.914 64.909 Hardrock Field 
+0CO4 -105.046 40.59 Geo-Seis Helicopters Heliport 
+2OK9 -97.308 35.196 Pata Skyhaven Airport 
+0CT7 -73.166 41.188 Bridgeport Hospital Heliport 
+32MO -90.226 37.577 Phillips Airport 
+34CD -105.448 40.263 Elk Park Ranch Airport 
+34AR -90.385 35.581 Woodbridge Field 
+9X9 -95.827 29.913 Sack-O-Grande Acroport Airport 
+9WN5 -89.521 43.333 Lodi Lakeland Airport 
+0PN8 -79.683 41.617 Shriver Airport 
+0KS2 -95.309 38.56 Kellie Mann Airfield 
+0KS9 -96.92 37.516 Lmn 120 Airport 
+ABW 148.739 -10.196 Abau Airport 
+31NY -77.337 42.958 Troop E Heliport 
+2ND3 -97.122 48.001 Casslindan Airport 
+9NJ6 -75.268 39.366 Halka Nurseries Airport 
+09MI -84.561 42.708 Michigan National Guard Headquarters Heliport 
+AK72 -150.601 61.705 Jewell Airport 
+2TS3 -97.241 31.679 Tigerbird Field 
+0PS5 -75.193 40.879 Used Parts Heliport 
+31AZ -110.26 31.964 Benson Airport 
+9OR1 -120.74 45.003 Shaniko Ranch Airport 
+2Z6 -135.213 57.532 False Island Seaplane Base 
+9OK5 -96.927 34.778 Diamond C Ranch Airport 
+30LL -90.365 39.754 Williams Airpark 
+09KS -95.138 38.707 Coffman Airport 
+0Q3 -122.45 38.223 Sonoma Valley Airport 
+0TE3 -100.842 33.929 Buzz Field 
+A68 -139.509 59.552 Situk Airport 
+AK31 -143.001 61.411 Swift Creek Airport 
+AK54 -149.326 61.657 Stro's Airport 
+0NK4 -73.554 40.726 Medical Center Heliport 
+0MD0 -76.623 39.138 Baltimore Washington Medical Center Heliport 
+0MU4 -92.867 39.616 Slaughter Airport 
+0NV1 -115.301 36.194 Summerlin Medical Center Heliport 
+AK90 -150.115 61.745 Shirley Lake Airport 
+AK74 -152.354 57.808 Kodiak Emergency/Spruce Cape Heliport 
+9OK4 -95.217 36.092 Vo-Tech Heliport 
+0AR0 -94.137 36.181 Smh Heliport 
+2NK4 -73.94 41.277 Westchester Resco Heliport 
+AK51 -154.323 60.199 Wilder/Natwick LLC Airport 
+0II2 -86.124 41.457 Creighton Airport 
+30TS -94.717 32.83 Hall Airport 
+34ID -116.344 46.57 Freeman Creek Airport 
+0TA7 -103.893 30.148 Alta Vista Ranch Airport 
+2PA0 -75.698 40.557 Zettlemoyer Airport 
+0AK6 -147.944 61.803 Victory Airport 
+2U0 -115.548 43.499 Smith Prairie Airport 
+2TS7 -97.816 32.781 Jamak Fabrication Heliport 
+32GA -83.278 33.454 Sebastian Cove Airport 
+AD-0001 1.519 42.546 Cam\u00c3\u00ad Heliport 
+AK98 -167.486 65.639 Buck Creek Airport 
+9OH1 -83.265 41.454 Haar Airport 
+0NM0 -107.627 31.824 Columbus Municipal Airport 
+0CT3 -72.788 41.662 N B G H Heliport 
+9OI6 -82.177 40.633 Nesta Airport 
+AA30 -149.871 61.648 Trio Estates Airport 
+AK87 -149.929 61.515 Team Levine Heliport 
+9Y2 -94.375 46.386 East Gull Lake Airport 
+30KS -97.073 37.132 Tyler Airport 
+9WI1 -88.624 44.329 Black Otter Airport 
+31MO -94.743 40.105 Hannah Airport 
+0CA4 -120.065 34.622 Shepherd Farm Airport 
+0MS2 -89.392 31.542 Morgan Field 
+2SC8 -81.095 33.787 Gaston Airport 
+32NE -100.088 41.721 Mc Ginn Ranch Airport 
+0Q4 -119.658 36.582 Selma Airport 
+2NJ0 -74.079 40.925 Alexanders-Paramus Heliport 
+9PA8 -75.159 39.949 Thomas Jefferson University Hospital Heliport 
+0SD4 -96.765 44.308 Brookview Manor Heliport 
+2OK6 -97.021 35.482 Flying N Ranch Airport 
+2VT2 -73.282 44.873 Northern Lights Seaplane Base 
+0FL5 -81.35 28.459 Lake Conway South Seaplane Base 
+2TX6 -101.668 33.682 Everitt Airport 
+9VA2 -77.104 38.823 Inova Alexandria Hospital Heliport 
+2VA5 -76.565 37.631 Rosegill Farm Airstrip 
+0MD9 -76.597 38.561 Calvert Memorial Hospital Heliport 
+0C2 -88.703 41.771 Hinckley Airport 
+2OH8 -83.223 39.795 Port-O-John Airport 
+09W -77.007 38.869 South Capitol Street Heliport 
+0T7 -96.684 33.126 Kittyhawk Airport 
+9MO3 -94.814 39.642 Lawlor-Justus Airport 
+0TA2 -101.925 34.217 Smith Farms Airport 
+30TA -97.723 30.592 Tri-Modal Air Park 
+ADC 145.745 -7.137 Andakombe Airport 
+0LS3 -89.374 29.297 Evergreen Venice Heliport 
+9V2 -101.025 40.188 Trenton Municipal Airport 
+34LA -93.271 30.772 Swamp Smith Airport 
+0PS8 -80.086 42.133 Bayfront Garage Heliport 
+0FL2 -81.164 28.788 Alligator Drink Seaplane Base 
+2NE4 -102.134 42.45 Spring Lake Airport 
+AK88 -149.04 61.605 Eagle Nest Airport 
+0N0 -94.442 39.291 Roosterville Airport 
+31GA -84.401 33.787 Wgcl-Tv Heliport 
+31KY -84.322 38.111 Wild Blue Airport 
+9WS2 -88.159 44.368 Antique Aerodrome 
+33OH -83.174 40.185 Sunset Strip 
+AK96 -157.352 58.216 Bartletts Airport 
+33CL -120.797 35.568 Oak Country Ranch Airport 
+0LS8 -92.941 30.286 Lonesome Dove Airfield 
+34MS -88.696 30.474 Colle Field 
+0GA7 -85.0 33.683 Hickory Level Airfield 
+9LS9 -91.349 32.41 4B Ranch Airport 
+0MN2 -93.003 46.133 Grindstone Lake Seaplane Base 
+2TE2 -97.534 32.831 Flying Oaks Airport 
+0PN5 -79.598 41.779 Nichols Airport 
+9WI9 -92.082 46.621 Carlson Airport 
+0MI2 -83.683 44.522 Stier Airstrip 
+2PS0 -75.299 40.198 Rotelle Heliport 
+0MN8 -92.859 45.136 Keller Airport 
+9V1 -99.74 42.829 Springview Municipal Airport 
+0IS3 -89.694 41.661 Cady Aerial RLA Restricted Landing Area 
+2OK2 -97.27 35.329 Twin Lakes Airport 
+9WI6 -89.017 45.104 Kitty Hawk Estates Airport 
+AGGU 160.825 -9.862 Marau Airport 
+32IS -91.01 40.135 Baker Airport 
+2SD5 -103.509 44.398 Sturgis Heliport 
+AK83 -149.609 61.627 Gannon's Landing Airport 
+9MO6 -92.992 38.193 Ivy Bend Airport 
+32KS -100.613 38.593 Wilkens Airport 
+33KS -95.609 39.153 Buena Terra Airport 
+9PS0 -80.033 40.609 Zokaites Heliport 
+A29 -135.346 57.052 Sitka Seaplane Base 
+2TA3 -104.598 31.718 Triangle Ranch Private Airport 
+2OK7 -97.663 35.258 Cole Landing Area Airport 
+2OK4 -96.059 35.817 Ragwing Acres Airport 
+33OK -97.406 35.743 Myrick Airport 
+2WN7 -88.673 43.949 Planeacres Airport 
+09OK -95.864 36.354 Ragtime Aerodrome 
+2PA4 -75.446 41.847 Boden Airport 
+0TS6 -95.477 29.716 Harris County Courthouse Heliport 
+0NJ1 -74.235 39.907 Berkeley Township Police Heliport 
+2RI7 -71.311 41.506 Malbone Estate Heliport 
+2PA3 -75.416 41.5 Reed Airport 
+0MD5 -76.882 39.088 Greater Laurel Beltsville Hospital Heliport 
+9TN4 -86.946 36.458 Foreman Field 
+2Z5 -147.848 64.833 Chena River Seaplane Base 
+9MT8 -111.083 45.758 Monger Airport 
+AF09 66.893 34.687 Nayak Airport 
+0CD6 -105.085 39.972 Exempla Good Samaritan Heliport 
+2VA1 -76.355 37.896 Jett Airpark 
+2NY8 -74.183 41.803 Benbyre Farm Heliport 
+0MS4 -89.086 30.376 Sheriff's Courthouse Heliport 
+0IN3 -86.667 41.117 Graves Landing Strip 
+32WI -88.701 44.316 Dalonia Airport 
+09IS -89.074 42.265 Swedish American Heliport 
+9NC2 -78.796 35.218 Flyers Airpark 
+9NY6 -74.986 42.325 Mason Airway Airport 
+AGGY 159.218 -9.093 Yandina Airport 
+9WA6 -122.332 47.608 Puget Sound Plaza Heliport 
+9OI9 -83.035 40.031 Riverside Methodist Hospital Heliport 
+2WI8 -87.779 43.597 Davies Airport 
+0MA2 -71.763 42.541 Healthalliance Hospital-Leominster Heliport 
+AA85 -149.221 61.616 Walby Lake Seaplane Base 
+A69 -138.504 59.248 Tanis Mesa Airport 
+AK84 -150.831 60.529 Scooter's Landing Strip 
+2NC8 -80.64 35.525 Goodnight's Airport 
+2T7 -83.849 42.019 Van Camp's Heliport 
+0ID2 -113.773 44.443 Flying Joseph Ranch Airport 
+2Y3 -139.741 59.562 Yakutat Seaplane Base 
+0AL5 -87.253 31.032 Flomaton Airport 
+9TS6 -97.178 32.379 Goodlett Field 
+2SD2 -98.93 43.106 Pepper Port Airport 
+0OK2 -97.984 35.53 Parkview Hospital Heliport 
+0TN6 -84.099 36.183 Riner Farm Airport 
+AK57 -150.091 61.726 Long Lake Seaplane Base 
+AFK 81.644 7.284 Kondavattavana Tank Seaplane Base 
+0MT5 -108.849 45.634 Cottonwood Airport 
+9LA4 -91.172 29.687 Texaco Heliport 
+31NJ -74.539 39.479 Atlantic City Medical Center-Mainland Division Heliport 
+2VA7 -76.026 36.866 Virginia Beach General Hospital Heliport 
+9WN3 -87.889 43.421 Ozaukee Airport 
+2TE4 -96.323 29.179 Frels Airport 
+0CL7 -118.265 34.055 Good Samaritan Hospital Heliport 
+2PS7 -75.166 40.217 Merck Sharp & Dohme Heliport 
+AK92 -149.029 61.638 Martin Airport 
+9TA1 -98.138 29.659 Hilltop Ranch Airport 
+AK63 -149.143 61.589 Pat-Mar Strip 
+09TA -97.497 33.282 Lazy G Bar Ranch Airport 
+9OR6 -122.685 45.499 Oregon Health Sciences University Emerg Heliport 
+32FA -80.904 27.234 Sunset Strip Airpark 
+9PA5 -75.716 40.78 Solt Field 
+0KY9 -82.804 37.114 Pine Mountain Aero Heliport 
+9OK8 -97.5 35.533 Central Park Helistop 
+0OH7 -84.172 40.143 Apple Airport 
+09II -86.445 38.447 Gibbons Field 
+0FD3 -86.094 30.496 Dugger Field 
+AHT 179.259 51.378 Amchitka Army Airfield 
+9TN2 -88.205 36.164 Meadowlark Airport 
+0MS9 -89.027 33.801 Shenandoah Valley Farms Airport 
+0NJ6 -74.633 39.317 Dix Field 
+34NY -77.827 43.29 Hendershot Airport 
+2NY2 -74.333 41.35 High View Too Heliport 
+9TS2 -94.701 29.861 Cig 816 Heliport 
+0Q6 -121.818 40.522 Shingletown Airport 
+9TE1 -95.342 28.924 M-I Drilling Fluids Company Heliport 
+34PA -77.193 39.761 Waltz Airport 
+AK91 -149.749 61.24 Elmendorf Hospital Heliport 
+AGGL 165.795 -10.72 Santa Cruz/Graciosa Bay/Luova Airport 
+2XA5 -97.691 29.804 Someday Ranch Airport 
+0AL9 -87.632 34.85 Wilson Creek Airport 
+9TA9 -95.409 29.852 Delta Mechanical Inc Heliport 
+0FA0 -80.339 25.813 Doral Resort & Country Club Heliport 
+9WI3 -87.987 44.285 Buchholz Farm Airport 
+0AR7 -91.181 33.95 Yancopin Airport 
+AK69 -150.098 61.729 Long Lake Airport 
+0MS5 -90.917 33.392 Lewis Air Service Airport 
+0MO4 -94.574 39.085 Bert Walter Berkowitz Heliport 
+9PN8 -75.533 41.625 Malinchak Private Airport 
+AGGV 158.731 -7.586 Suavanao Airport 
+2TX4 -99.377 27.984 Lewis Ranch Airport 
+0NY5 -75.65 43.094 State Police Troop D Heliport 
+0O4 -122.171 39.944 Corning Municipal Airport 
+2Y2 -96.493 43.037 Hawarden Municipal Airport 
+AK19 -150.064 62.174 Carl's Landing Airport 
+0LL5 -88.078 40.11 Busboom RLA Restricted Landing Area 
+30VA -81.821 37.095 Clinch Valley Medical Center Heliport 
+2WV6 -80.725 40.053 West Virginia State Police Heliport 
+31KS -97.929 37.996 Mills Field 
+0MU7 -94.14 38.875 Lambs Field 
+0OH4 -84.229 40.086 Upper Valley Medical Center Heliport 
+0GA0 -84.367 33.356 Halls Flying Ranch Airport 
+9OA2 -84.763 39.583 Hueston Woods Lodge Heliport 
+0LS2 -90.202 29.116 Evergreen Fourchon Heliport 
+31CT -71.928 41.855 Quiet Corner Heliport 
+0ID8 -116.178 45.775 Pinnacle Airport 
+0NE6 -98.071 40.433 Frager Field 
+AA44 -134.46 58.329 Barlett Regional Hospital Heliport 
+2NY9 -76.723 42.37 Kayutah Lake Airport 
+09PN -75.143 40.562 Hundley Residence Heliport 
+0NJ3 -74.8 39.967 Mount Holly Heliport 
+2TX7 -97.396 33.095 Jw Airport 
+9NY4 -79.082 42.101 Kennedy Airfield 
+32NJ -74.175 40.208 George Harms Const Heliport 
+9OK2 -96.8 36.333 Pawnee Municipal Hospital Heliport 
+0KS4 -95.37 38.807 Norris Airport 
+0FL4 -85.378 30.705 Jackson Heliport 
+9N2 -75.3 39.859 Philadelphia Seaplane Base 
+AE-0024 52.007 24.221 Yasat Higher Airport 
+0KY4 -87.082 37.564 Cambron Field 
+2UT2 -112.642 37.521 High Meadow Ranch Airport 
+32MS -89.952 31.194 Browns Landing 
+9WN4 -89.03 45.084 Rag Wing Airport 
+34NH -71.661 42.815 Stone Song Heliport 
+09VG -78.985 38.091 Augusta Medical Center Heliport 
+33NR -82.507 35.942 Wolf Ridge Airport 
+9NK4 -73.856 42.024 Greig Farm Airport 
+34CL -121.65 40.895 Burney Service Center Heliport 
+0N4 -75.485 39.202 Chandelle Airport 
+9TN5 -86.957 35.458 Askey Field 
+9ND1 -97.268 48.648 Elliott Farms Airport 
+0TS2 -97.329 32.949 Ultralight International Ultralightport 
+AE-0004 55.175 25.123 Sheikh Sultan Bin Khalifa bin Zayed Al Nahyan palace Heliport Complex 
+33LS -92.026 30.173 Our Lady of Lourdes Heart Hospital Heliport 
+AA09 -147.775 62.478 Busch Creek Airport 
+0CN2 -121.688 39.229 Sutter Butte Dusters Airport 
+09XS -98.492 29.433 Baptist Medical Center Heliport 
+2SC9 -79.958 33.75 McIntosh Airport 
+9NC8 -79.219 35.687 Eagles Landing Airport 
+2XA9 -100.397 32.452 Rolling Plains Hospital Heliport 
+2WV5 -80.518 37.547 Willow Bend Airport 
+0IA3 -92.328 42.435 Hawkeye Airport 
+31OH -82.563 40.773 Au Heliport 
+9NY3 -76.225 42.097 Susquehanna Heliport 
+33OI -82.043 41.083 Soaring Horse Airport 
+31NE -97.705 42.755 Grimm Farm Airport 
+9W3 -80.026 39.093 Simpson Airport 
+2PN8 -75.15 39.937 Federal Reserve Bank Heliport 
+9PS3 -75.147 40.307 Doylestown Heliport 
+2NK9 -74.077 41.657 Old Orchard Airpark 
+2WA8 -118.297 47.382 Kramer Ranch Airport 
+0CL8 -117.634 35.591 Tera Ultralightport 
+0NC7 -79.997 36.357 Lindsay Airport 
+9TX2 -96.408 32.637 Bennetts Airport 
+2SD1 -96.715 43.534 Mc Kennan Hospital Heliport 
+9XA1 -95.67 29.701 ESD 100 Training Field Heliport 
+9PA3 -75.31 40.476 Meadow Strip Ultralightport 
+30W -87.808 44.952 Sweetwater Bay Seaplane Base 
+AA51 -149.911 70.556 Spy Island Drill-Site Heliport 
+09TX -102.024 30.739 Smokey Mtn Ranch Airport 
+2NK8 -73.826 40.782 Landmark Plaza Heliport 
+9NC5 -82.211 35.24 Saint Luke's Hospital Heliport 
+AGGS 157.876 -8.579 Sege Airport 
+0R9 -99.303 39.194 Plainville Airpark 
+9TE9 -94.783 29.323 Dresser Industries/Magcobar/ Heliport 
+33XS -93.779 31.25 Six Mile Volunteer Fire Department Heliport 
+AE-0009 52.31 24.476 Delma Hospital Helipad 
+30IN -85.458 41.209 Wigent Airport 
+2OR1 -120.495 44.828 Big Muddy Ranch Airport 
+0II6 -85.83 41.643 Kropf Airport 
+0G0 -78.703 43.103 North Buffalo Suburban Airport 
+0MN9 -93.718 45.313 Triple H Heliport 
+AA16 -151.294 60.625 Treasure Chest Airport 
+09LS -91.385 30.824 West Feliciana Sheriff's Office Heliport 
+2PS5 -76.585 40.787 Rosini Residence Heliport 
+30AZ -112.813 33.25 Gila Compressor Station Airport 
+09IL -88.052 41.536 Silver Cross Hospital Heliport 
+AGGH 160.055 -9.428 Honiara International Airport 
+AA02 -149.924 61.571 Horseshoe Lake Seaplane Base 
+0FA2 -83.593 30.12 Doctors Memorial Hospital #2 Heliport 
+9PA4 -75.15 39.953 S & C 8th & Market Helistop 
+2P5 -75.074 39.369 Holly City Heliport 
+AE-0012 55.15 25.133 Waldorf Astoria Dubai Palm Jumeirah Helipad 
+0ID7 -116.763 43.23 Z X Ranch Airport 
+AK62 -133.228 55.85 Naukati Bay Seaplane Base 
+AGGF 159.577 -8.108 Fera/Maringe Airport 
+AK85 -149.764 61.482 Birchwater Airport 
+0NK5 -73.828 41.606 Mid-Hudson Helicopter Service Heliport 
+0PA3 -76.76 41.75 Robbins Farm Airport 
+0ND6 -99.917 46.055 Schumacher Strip 
+2S0 -120.094 48.351 Twisp Municipal Airport 
+0LA8 -92.713 32.252 Jackson Parish Hospital Heliport 
+31IN -86.856 40.285 Timber House Airport 
+2XA6 -98.418 29.435 Red Berry Heliport 
+2P2 -86.924 45.386 Washington Island Airport 
+0CL0 -119.913 37.118 Yosemite Hidden Lake Ranch Airport 
+AK28 -147.919 64.814 Chena Marina Airport 
+2XA8 -96.17 31.694 Air Evac 53 Heliport 
+9TX4 -97.911 30.66 Flying H Ranch Airport 
+0MD8 -76.676 39.246 Security Ford Heliport 
+0IA8 -91.751 42.228 Hannen Airport 
+2OR2 -120.838 44.312 Pioneer Memorial Hospital Heliport 
+2XA2 -95.311 29.22 Knape Airport 
+9MI5 -83.524 43.238 Grass Roots STOLport 
+31MD -75.211 38.34 AGH Heliport 
+0MN4 -94.303 46.477 Paul's Seaplane Base 
+AA01 -149.847 61.585 West Beaver Seaplane Base 
+31TA -97.425 30.729 Vitek Field 
+2VA -96.406 43.451 Zangger Vintage Airpark 
+2OH7 -84.026 38.911 Jbr Airport 
+AK60 -157.097 57.885 Fort Jensen Airport 
+2NJ7 -74.488 40.55 Foley Machinery Heliport 
+9LA0 -90.044 29.841 Air Logistics (Belle Chasse) Heliport 
+AK35 -145.739 64.039 Buffalo Row Heliport 
+2XA0 -99.713 33.979 Foard County Airport 
+0NA9 -103.801 46.75 Boyd's Turf Airport 
+AK43 -149.539 61.579 Jacobsen Lake Seaplane Base 
+2VG8 -76.731 37.872 Folly Neck Airport 
+0IA6 -92.29 41.66 Rinehart Airport 
+31FD -84.842 30.706 Florida State Hospital Heliport 
+9OK9 -94.486 35.544 Strang Airpark 
+AK42 -149.106 61.601 Valley Hospital - Palmer Heliport 
+2ND4 -101.292 48.232 Trinity Medical Center Heliport 
+0L4 -117.191 37.486 Lida Junction Airport 
+0IL4 -88.008 41.819 Good Samaritan Hospital Heliport 
+0CT0 -73.481 41.881 Sharon Hospital Heliport 
+A05 -115.518 45.521 Dixie US Forest Service Airport 
+9PN6 -75.993 41.125 Baratta Heliport 
+33NY -73.866 42.4 Wayne Delp Airport 
+2NK0 -73.625 43.593 Northwest Waterbird Seaplane Base 
+2NH5 -72.402 42.99 Pilgrim's Home Airfield 
+ABP 141.095 -6.066 Atkamba Airport 
+09VA -80.494 36.977 Alum Ridge STOLport 
+0MD7 -76.12 38.909 The Aspen Institute Heliport 
+AA06 -149.806 61.29 Sixmile Lake Airport 
+2TX9 -95.171 29.741 Ethyl Corp Heliport 
+33CN -119.604 34.331 Platform Hillhouse Heliport 
+0KY1 -86.618 36.766 Arnemann Farms Airport 
+9VA6 -76.586 36.753 Louise Obici Memorial Hospital Heliport 
+0MI3 -84.483 44.633 Kelleys Airport 
+2NE6 -101.297 40.921 Coppersmith Airport 
+33LL -88.289 39.088 Isley Airport 
+9MI3 -85.671 42.966 Amway Downtown Heliport 
+2PN9 -75.358 40.047 Sun Company-Radnor Heliport 
+09NC -79.03 35.329 William Irving Lewis Airport 
+9OR4 -118.448 45.934 King's Airport 
+AK81 -153.815 57.472 Amook Bay Seaplane Base 
+0IA0 -93.096 41.317 Knoxville Area Community Hospital Heliport 
+32XA -102.375 31.846 Medical Center Hospital Heliport 
+0ID3 -115.673 43.076 Coyote Run Airport 
+AK24 -149.439 61.418 Hilltop Airport 
+31NH -71.251 43.224 Johnson's Heliport 
+2VA2 -76.79 37.146 Melville Airstrip 
+A57 -138.447 59.199 Alsek River Airport 
+AF15 69.43 37.423 Qara Tepa Heliport 
+AF-0005 69.807 33.285 Khost International Airport (U.C.) 
+0IN8 -86.119 39.837 Roto-Whirl/Vantage Heliport 
+9MO4 -94.874 39.979 Worth Airport 
+AGGO 155.565 -7.417 Mono Airport 
+9W8 -76.486 39.852 Baublitz Commercial Airport 
+9NE9 -97.567 40.194 Dog Leg Airport 
+9OK7 -96.55 36.185 Cimarron Strip 
+9VA8 -77.585 37.649 Innsbrook Pavilion Heliport 
+2WA6 -119.089 47.998 Rice Ranch Airport 
+0MU5 -93.994 38.72 Holden Heliport 
+9OR2 -123.023 44.868 Reforestation Services Heliport 
+0OI2 -83.418 39.36 Unger Field 
+9PA1 -75.579 41.654 Carbondale-Clifford Airport 
+0PS7 -76.845 40.522 Harman Airport 
+2PN3 -77.1 39.961 Market Garden Airport 
+AK61 -148.907 62.7 Stephan Lake Lodge Airport 
+0TE4 -96.215 31.081 Hilltop Lakes Airport 
+2Z1 -133.438 57.412 Entrance Island Seaplane Base 
+0L5 -117.236 37.723 Goldfield Airport 
+2TN9 -89.047 36.414 Baptist Memorial Hospital Heliport 
+9NJ1 -74.555 40.564 Bound Brook Nr 1 Heliport 
+31WI -88.602 43.007 Sullivan Airport 
+9VA7 -77.415 37.355 Fire Station No. 14 Heliport 
+2NJ5 -75.186 40.652 Sanduff Farms Landing Field 
+9MO9 -93.25 39.55 Eagle Lodge Airport 
+32II -85.106 38.816 Roberts Airport 
+2XS4 -96.406 33.661 Skida Patch Airport 
+9MT0 -107.775 45.403 Pale Morning Dun Ranch Airport 
+0MY1 -111.019 45.67 Bozeman Deaconess Hospital Heliport 
+AA38 -149.853 70.482 Nikaitchuq Operations Center Heliport 
+AEQ 120.16 43.87 Ar Horqin Airport 
+0NE5 -102.018 41.021 Newman Airport 
+0LA0 -93.4 30.008 West Hackberry Heliport 
+0PS9 -74.868 40.183 Jefferson Health Bucks County Campus Heliport 
+30IL -88.473 38.679 Clay County Hospital Heliport 
+0TN4 -83.927 35.991 Physicians Medical Regional Center Heliport 
+A77 -156.367 63.002 Yankee Creek 2 Airport 
+2VA3 -77.866 37.315 Merlin Aerodrome 
+AE-0001 51.45 24.215 Batha Airport 
+09NJ -74.687 40.654 Stonebridge Farm Helistop 
+2OH4 -82.635 40.625 Cedar Creek Airport 
+9WA4 -120.956 45.803 Piper Canyon Airport 
+0TE5 -99.186 27.434 Santa Maria Ranch Airport 
+9TX0 -95.32 29.657 Houston Police Command Station Heliport 
+2XA3 -95.632 29.926 North Cypress Medical Center Heliport 
+9Z9 -149.37 60.411 Lawing Airport 
+9VA9 -76.938 36.699 Southampton Memorial Hospital Heliport 
+2TA9 -97.842 32.66 A M I G O For Christ Airport 
+9PA0 -75.59 40.187 Lance Airport 
+9PA6 -75.25 40.033 State Police Area Six Heliport 
+2T2 -88.539 39.014 Percival Springs Airport 
+0LS0 -90.736 29.75 Theriot Field 
+9PS5 -75.95 40.331 Reading Hospital Heliport 
+AIH 141.268 -7.343 Aiambak Airport 
+0ME4 -68.474 44.742 Peasley Field 
+9MI2 -83.308 41.988 Newport Woods Airport 
+9PA7 -79.211 39.773 Keystone Airport 
+09IN -85.425 41.121 Gordon Airport 
+0MT1 -112.391 47.498 Williams Field 
+2WI9 -89.635 43.76 Bulldog Ranch Airport 
+2NY0 -73.953 42.281 Catskill Valley Airpark 
+0LA7 -89.968 29.256 Exxon Heliport 
+0OK1 -97.402 34.657 Mckey Airport 
+9MI4 -84.36 41.862 Thorn Health Center Heliport 
+AE-0011 55.114 25.127 Palm Jumeirah Heliport 
+ADV 26.119 11.402 El Daein Airport 
+0LL7 -88.621 41.658 Valley West Hospital Heliport 
+2TS6 -96.927 32.513 Eagle's Nest Estates Airport 
+0II9 -86.577 39.534 Winters Airport 
+0FL8 -81.682 30.194 Gary Gale Seaplane Base 
+9TX6 -101.024 33.175 Beggs Ranch Airport 
+33IS -88.758 39.544 Howell Airport 
+AGNA 162.205 -10.676 Nana Airport 
+0CL4 -118.255 34.157 Glen Fed Heliport 
+9NR9 -77.861 34.359 210 Investors Heliport 
+30AK -151.26 60.503 Doyle Estates Airport 
+2Q9 -118.006 37.61 Dyer Airport 
+30XS -103.018 34.382 Farwell Spraying Service, Inc Airport 
+31MI -86.177 41.78 Rentz Ultralight Airport 
+9LA7 -91.097 29.668 Air Logistics; Amelia Base Heliport 
+0NC4 -78.586 35.787 Wake Medical Center Heliport 
+AK64 -157.392 60.868 Taylor Mountain Airport 
+33MN -96.097 46.09 Swift Private Airport 
+0LS5 -92.13 30.307 Trahan Ultralightport 
+0IN4 -84.947 41.128 Air Park Field 
+9NC1 -80.195 35.363 Stanley Memorial Hospital Heliport 
+9XS2 -96.776 33.654 Beaver Creek Airport 
+0AL4 -85.756 34.442 Dekalb Regional Medical Center Heliport 
+9VA4 -78.63 38.691 Franwood Farms Inc. Airport 
+2TS2 -97.734 26.168 Shofner Farms Airport 
+2U8 -115.003 44.726 Thomas Creek Airport 
+AA22 -145.804 64.133 Delta Daves Airport 
+0MI1 -84.438 44.14 Sugar Springs Airpark 
+0NC3 -76.7 35.875 Washington County Hospital Heliport 
+0OK7 -99.875 36.25 Shattuck Hospital Heliport 
+2ND1 -100.7 47.493 Westerlind Airport 
+0MO8 -90.737 39.141 Sloan's Airport 
+AK86 -149.911 61.574 Kramer Airport 
+9W9 -79.538 34.561 Clio Crop Care Airport 
+2NE5 -100.095 40.9 Fiese Airstrip 
+0CA0 -118.242 33.923 Drew Medical Center Heliport 
+2WV3 -81.392 39.117 Hales Landing Airport 
+2PS9 -75.144 40.037 Albert Einstein Medical Center Heliport 
+0LL3 -90.342 39.055 Koenig Airport 
+9MS7 -88.507 30.357 Martin Heliport Area 
+0OH6 -84.02 39.601 Fry Field 
+2TX3 -100.617 29.217 La Fonda Ranch Airport 
+0AK3 -150.494 62.036 Parker Lake Airport 
+0OR2 -123.451 42.133 Hendershots Heliport 
+2OG4 -118.647 42.33 El Rancho Airport 
+0IL1 -87.836 41.861 Loyola University Medical Center Heliport 
+9TE7 -97.083 30.245 Flying G H Ranch Airport 
+0CL9 -117.151 33.741 Sce San Jacinto Valley Service Center Heliport 
+AA35 -136.229 59.438 35 Mile Lodge Heliport 
+AK39 -150.18 60.697 South Gasline Airport 
+32IL -89.266 37.239 Village of Tamms Heliport 
+0KS7 -97.886 37.693 Mono Aircraft Airport 
+0SD3 -103.217 45.269 Bledsoe Ranch Airport 
+AGGI 159.839 -9.748 Babanakira Airport 
+2NH6 -71.456 43.366 Speedway Northside Heliport 
+0OI3 -82.716 41.382 Galloway Airport 
+9TN9 -86.288 36.019 Toy Box Airport 
+0MI7 -83.359 42.043 Four Star Heliport 
+31CA -117.832 33.694 Baldwin Base Heliport 
+31AK -147.425 64.833 Dalrymple's Airport 
+0CO7 -105.04 40.585 Century Helicopters Heliport 
+0OR9 -121.549 45.593 Hanel Field 
+0OR5 -122.855 42.504 East Oregon Cattle Co Airport 
+AK1 -149.018 61.53 Butte Municipal Airport 
+31XS -96.27 33.184 Fly-N-Ski Airport 
+2NH3 -71.498 43.114 Scott Heliport 
+34FD -80.907 28.857 Blue Ridge Flightpark Airport 
+30NJ -74.779 40.392 Hillside Farm Heliport 
+0NC8 -80.735 35.756 Flying S Ranch Airport 
+2OH6 -84.281 40.012 Smith Field Airport 
+9PN1 -79.79 40.039 Seitz Field 
+9NJ2 -74.562 40.556 Bound Brook Nr 2 Heliport 
+0N5 -75.505 39.15 Deldot Helistop 
+9M0 -92.168 47.015 North Country Seaplane Base 
+33II -85.144 39.658 Lifeline Landing Area Heliport 
+A79 -158.775 56.255 Chignik Lake Airport 
+33FA -80.846 27.598 Recreation Corporation Airport 
+32LS -90.359 30.42 Stevens Strip 
+32WA -119.467 48.723 Whitestone Airport 
+AGGQ 159.528 -5.515 Ontong Java Atoll Airstrip 
+33VA -79.05 36.784 Fox Fire Airport 
+9WA1 -119.868 47.231 Quincy Valley Hospital Ems Heliport 
+9MN1 -93.197 45.612 Troll Farm Airport 
+9WA7 -122.133 47.216 Albritton Airport 
+9XS0 -96.955 29.098 Dobbs Ranch Airport 
+AGK 143.854 -6.396 Kagua Airport 
+2WV2 -80.362 39.102 Louis A. Johnson Va Medical Center Heliport 
+AF12 68.82 33.156 Sarhawdza Landing Zone Airport 
+0MO2 -90.78 37.787 Short-N-Ruff Airport 
+0OK5 -97.4 35.889 Chappell Airport 
+30PN -79.953 40.466 Pittsburgh Children'S Hospital Heliport 
+0OR0 -122.862 42.339 Providence Hospital Heliport 
+AK66 -148.804 61.463 Hunter Creek Airport 
+2PA8 -77.3 40.3 Shulls Airport 
+9WI2 -87.796 44.287 Flying Dollar Ranch Airport 
+30NE -98.686 40.356 Nebraskaland Aviation Airport 
+AK08 -150.106 61.79 Thomas Strip 
+0FD0 -81.23 29.268 The 2A Ranch Airport 
+0CA1 -120.458 34.988 Northside Airpark 
+0LL2 -90.381 40.739 Murk's Strip 
+2SD8 -96.939 43.046 Bixler Ridge Airport 
+0GA9 -84.027 32.714 Roberta Industrial Park Airport 
+9MN2 -93.519 47.419 Wabana Seaplane Base 
+31NC -80.859 35.407 NH HMC Heliport 
+0NK9 -75.826 43.009 Lakeview Airport 
+0MN3 -94.293 46.678 Lower Hay Lake Seaplane Base 
+30AL -87.08 34.373 Med Flight 2 Heliport 
+2OK3 -97.484 35.354 Moore Airpark 
+32MD -75.877 39.189 Roseland Airport 
+2TS9 -95.239 32.314 DPS-Tyler Heliport 
+0MA5 -71.056 42.056 Brockton Usar Center Heliport 
+9NE8 -100.479 41.402 Brosius Field 
+2PN2 -76.647 39.787 Fortman Heliport 
+0MN1 -94.07 44.263 Brinkman Airport 
+0FA1 -81.88 27.304 Ott's Landing Airport 
+32PA -77.177 40.33 Yost Personal Use Airport 
+2NK7 -75.148 42.158 Walton Airport 
+0SD0 -100.892 45.425 Lenling Airport 
+2PS4 -76.338 40.037 Wgal-Tv Heliport 
+0NJ2 -74.44 40.753 Ballymere Heliport 
+2NJ1 -75.066 40.633 Jugtown Mountain Airport 
+0FD2 -80.237 25.96 Dolphin Stadium Heliport 
+0NK8 -73.67 41.921 Rocky Reef Farm Airport 
+0CA3 -120.013 34.588 Crawford Airport 
+0NE1 -101.932 42.407 Runner Landing Area Airport 
+30NY -77.558 42.75 Coye Field 
+9N1 -75.1 40.484 Vansant Airport 
+2S3 -84.472 42.907 Archer Memorial Field 
+2VA4 -78.192 39.195 Winchester Medical Center Heliport 
+2OR0 -122.518 45.344 Nielsen Airport 
+9OA8 -81.949 41.282 Crocker Airport 
+0PS1 -76.671 39.981 Mc Crory Stores Heliport 
+0LA5 -89.964 29.258 Conoco Inc Heliport 
+0GE0 -84.801 33.782 Pinewood Airport 
+0D7 -83.829 40.791 Ada Airport 
+2WI1 -89.287 42.944 Uff-Da Airport 
+AK47 -149.563 61.586 Shawn Field 
+AA27 -150.019 70.414 Otp Heliport 
+32CL -121.718 38.833 Bob's Flying Service Inc Airport 
+AD-ALV 1.534 42.511 Andorra la Vella Heliport 
+32LA -93.35 29.774 A B Dock Services Heliport 
+30WA -118.178 46.315 Weller Canyon Airport 
+AK97 -146.146 60.423 Boswell Bay Airport 
+9XS5 -101.642 33.35 Kitten Farm Private Airport 
+2PS8 -76.778 40.862 UPMC Susquehanna Sunbury Heliport 
+9TE5 -96.977 28.154 Kalt Ranch Airport 
+2SD9 -99.01 45.452 Tc Field 
+2TA4 -96.293 29.748 Mario's Flying Pizza Airport 
+30IS -88.625 42.077 Aero Lake Estates Airport 
+2TE1 -95.062 29.329 Republic Helicopters Heliport 
+2XA7 -94.766 32.615 Tailwheel Airport 
+9XS3 -101.465 33.103 Macy Ranch Airport 
+2W2 -77.017 39.467 Clearview Airpark 
+9VG -75.879 37.458 Campbell Field 
+0GA2 -82.946 34.378 Airnautique, Inc. Airport 
+0C5 -85.281 43.576 Canadian Lakes Airport 
+AK25 -149.615 61.618 Piper Landing Airport 
+30PA -75.437 40.268 Kings Airport 
+0CO9 -106.034 37.658 Van Treese Airport 
+9TA7 -94.778 29.312 U of Texas Medical Branch Emergency Room Heliport 
+AK93 -149.273 61.655 Grouse Ridge Airport 
+33A -82.122 35.157 Fairview Airport 
+0CT8 -73.445 41.406 Danbury Hospital Heliport 
+32AZ -111.922 33.67 Scottsdale Healthcare Thompson Peak Hosp Heliport 
+AGKG 157.585 -7.33 Kaghau Airport 
+2VA0 -79.609 37.113 Red Birds Airyard Airport 
+0OR7 -123.264 44.854 Marr Field 
+2TN3 -84.247 36.001 Oak Ridge Heliport 
+0CL1 -117.556 34.569 Krey Field Airport 
+AE-0007 51.601 24.12 Al Ghuwaifat Border Post helipad 
+0OI1 -83.415 41.179 Autolite Heliport 
+0NY6 -76.616 42.928 New York State Police Heliport 
+0FL6 -82.14 27.806 Stanchester Airport 
+9PA2 -75.441 40.395 Old Plains Airport 
+2W3 -122.257 46.872 Swanson Airport 
+AIP 168.826 7.279 Ailinglaplap Airok Airport 
+32TS -97.746 30.304 Seton Medical Center H-4 Heliport 
+AGG 144.074 -4.056 Angoram Airport 
+9PS6 -75.656 39.971 Siepsers Eye Port Heliport 
+0CL3 -116.893 32.633 John Nichol's Field Airport 
+33AZ -112.97 34.799 Yolo Ranch Airport 
+2WN9 -120.701 45.845 Hillcrest Airport 
+AF10 66.631 32.903 Or\u00c5\u00abzg\u00c4\u0081n Airport 
+2OR3 -123.098 44.795 Davidson Field 
+AA33 -149.77 61.604 Gus Landing 
+2TX5 -97.751 31.454 Berry Airport 
+AA11 -149.676 61.551 Misty Lake Seaplane Base 
+0IL0 -88.539 38.087 Hamilton Memorial Hospital Heliport 
+0TE8 -96.223 30.541 Texas World Speedway Helistop Nr 1 Heliport 
+33MT -114.001 48.481 Kruger Heliport 
+2TN2 -89.189 35.224 Wings Field 
+9MO0 -90.208 38.592 Anheuser/Busch Inc Heliport 
+0MD4 -76.187 39.267 Pond View Private Airport 
+33MA -70.772 42.56 Seagate Heliport 
+0MT7 -115.404 47.661 Pinehurst Ranch Airport 
+0G5 -90.384 47.826 Grand Marais/Cook County Seaplane Base 
+0LL0 -88.73 42.265 Kaufield Airport 
+2PN4 -78.946 40.082 Quemahening Flightpark Ultralightport 
+9NA4 -101.891 48.666 Bodmer Airport 
+AFR 148.391 -9.142 Afore Airstrip 
+2XS7 -99.684 29.45 Annandale Ranch Airport 
+32IN -86.297 39.155 Roto-Whirl/Ski World Heliport 
+AGRC 157.143 -8.126 Ringi Cove Airport 
+9MN8 -95.576 45.973 Whiskey Lake Seaplane Base 
+0NK1 -76.22 43.362 Spring Brook Airport 
+33TN -84.869 35.178 Bradley Memorial Hospital Heliport 
+9TS4 -96.507 33.007 Ladue Ranch Heliport 
+2NY4 -78.05 43.074 Byron Airpark 
+9PN2 -75.196 39.947 Childrens Hospital Of Philadelphia Heliport 
+0TA3 -102.138 30.304 Tate Ranch Airport 
+2Y1 -93.417 42.317 Drake Airport 
+0NJ7 -74.119 40.738 Essex Generating Station Heliport 
+9LL2 -89.579 38.034 Hepp Airport 
+2T5 -88.291 43.466 Hahn Sky Ranch Airport 
+2PN5 -78.361 40.248 Baker-Sell Airport 
+2VG3 -78.871 38.549 Cub Haven Airport 
+0OK0 -97.434 35.683 Edmond Airport 
+0CO5 -103.59 39.833 Chenoweth Airport 
+0MA4 -71.072 42.334 Boston Medical Center Hospital Heliport 
+30NR -78.571 34.71 Bladen Lakes State Forest Tactical Landing Zone Heliport 
+2ND7 -100.814 48.752 Johnson Airport 
+0TA4 -96.271 32.498 Erco Field 
+30GA -84.181 34.459 Elliott Field 
+31II -84.912 38.926 Rising Sun Airport 
+AK45 -167.176 65.456 Lost River 2 Airport 
+0S5 -116.243 46.237 Nez Perce Municipal Airport 
+2U7 -114.935 44.208 Stanley Airport 
+33WI -88.066 44.532 St Mary's Hospital Heliport 
+9VG9 -78.304 39.372 Jucapa Farms Airport 
+0LS4 -92.188 30.809 Buller's Airstrip 
+33FD -83.267 29.914 R O Ranch STOLport 
+34IS -88.717 41.445 Jim Wehrli Memorial Airport 
+0CO0 -105.126 40.179 Longmont United Hospital Heliport 
+0SD2 -97.119 44.911 Prairie Lakes West Heliport 
+0TN9 -83.938 35.956 East Tennessee Children's Hospital Heliport 
+0CA6 -116.016 32.749 Emory Ranch Airport 
+AK21 -157.777 59.133 Nushagak Airport 
+0CD5 -104.144 37.491 Pinon Canyon Airport 
+31FL -81.019 28.043 Forever Florida Airport 
+9MI9 -85.581 42.287 Bronson Methodist Hospital Heliport 
+9MN6 -93.7 44.643 Merill L Harris Field 
+0MO5 -92.1 40.133 Joe D Lewis Airport 
+2XS5 -98.425 30.01 Cross Triangle Ranch Airport 
+34MA -70.739 42.576 Crowhurst Heliport 
+31AR -92.453 35.576 Van Buren County Memorial Hospital Heliport 
+31LS -91.864 30.034 Helicopter Management Heliport 
+2NV2 -119.675 39.835 Gibb Ranch Airport 
+9NY1 -75.959 42.113 Wilson Memorial Regional Medical Center Heliport 
+0CL2 -117.085 32.594 Parking Lot Heliport 
+2R3 -151.311 60.704 Island Lake Seaplane Base 
+0MT3 -114.067 46.251 Stock Farm Heliport 
+AE-0017 54.882 24.865 Ghantoot Hotel 2 Helipad 
+09LA -90.202 29.123 Era Helicopters Fourchon Helibase Heliport 
+2ND2 -100.721 47.567 Makeeff Airport 
+09PA -77.988 40.827 Eagle Field 
+ADJ -3.348 58.585 RAF Castletown 
+2SC4 -80.754 32.234 Salty Fare Landng Seaplane Base 
+0FA5 -81.629 28.573 Briley Farm Seaplane Base 
+9PN7 -76.413 41.818 Veit Airport 
+0TA9 -94.764 29.391 Houston Oil & Minerals Port Bolivar Nr 2 Heliport 
+AA50 -146.35 70.181 Point Thomson Sea Ice Airstrip 
+34FA -80.669 28.252 Gezik Seaplane Base 
+32TN -86.09 35.174 Southern Tennessee Medical Center Heliport 
+9TA2 -100.307 35.929 Urschel Ranch Airport 
+2VG7 -77.85 38.164 Seven Gables Airport 
+0MI9 -83.084 42.368 Henry Ford Hospital Heliport 
+2PN7 -80.071 40.856 Brennan Personal Use Airport 
+9ND8 -97.672 48.785 Hinkle Airport 
+AGGK 161.898 -10.45 Ngorangora Airport 
+0LA3 -93.873 32.749 Belcher Airpatch Airport 
+31TE -95.471 29.723 Tenneco Lab Helistop 
+0AR9 -93.743 36.4 Eureka Springs Hospital Heliport 
+2PN1 -77.525 41.983 Malco Airport 
+2OI8 -82.421 40.864 K & D Airways Airport 
+2NC9 -79.468 34.753 Scotland Memorial Heliport 
+9NJ8 -75.0 40.896 High Meadow Farms Airport 
+0TE9 -96.226 30.54 Texas World Speedway Helistop Nr 2 Heliport 
+33AK -150.945 62.517 Nugget Bench Airport 
+9LA1 -91.759 31.907 Turkey Creek Lake Airport 
+0AK0 -146.862 64.393 Scotts Airport 
+0AK9 -150.059 61.333 Falcon Lake Strip 
+0CA2 -118.456 34.049 Va Greater Los Angeles Health Care Center Heliport 
+0OI9 -83.114 38.895 Hidden Quarry Airport 
+0NM7 -108.543 33.521 Negrito Airstrip 
+AE-0002 55.185 25.141 Burj al Arab Resort Helipad 
+2PS6 -75.784 40.009 Brandywine Hospital Heliport 
+0PA8 -75.646 41.4 Geisinger Community Medical Center Nap Heliport 
+0C8 -88.606 41.52 Cushing Field Ltd Airport 
+2VI2 -152.355 60.419 Redoubt View Seaplane Base 
+9TA6 -95.317 28.977 Buccaneer Shore Facility Heliport 
+0TE0 -101.162 29.693 Robertson Ranch Airport 
+0NE0 -101.95 41.85 Merrihew Airport 
+31TN -87.337 35.223 Crockett Hospital Heliport 
+33IL -88.898 40.166 John Scharff Airport 
+2TN0 -90.027 35.142 Hospital Wing Heliport 
+2NK3 -72.28 41.154 Rose Field 
+9OA9 -82.534 40.621 Bender Airport 
+AE-0010 9PA2 130.46
+9VA7 09PA 0.00
+9NE9 0LS2 16.30
+0LS2 0NJ7 16.84
+0AK0 30PA 71.39
+0MT3 31MO 16.28
+2SD2 31CA 19.12
+9TN1 33NR 6.00
+2PN4 0NJ1 7.00
+0OR9 0NJ7 49.68
+2VA 0IA4 1.88
+0CO9 0NJ2 27.75
+2WA6 0FD0 45.24
+AIH 33MT 259.30
+2TN3 0AZ2 32.48
+0GA0 0D7 9.45
+A68 0MI7 60.82
+32XA 2NJ5 31.58
+32TS AK86 64.82
+ADC 9MI2 229.26
+33FD 2VA 13.86
+0TE4 30VA 17.60
+2SD1 9XA4 6.18
+AIH 2VA3 227.64
+2PA3 9WN3 12.62
+0OK2 2OK6 2.00
+0N5 0TA3 32.06
+0CA6 9OI6 37.75
+9MS7 0NJ3 15.74
+9XS3 0ID7 15.35
+0MO4 AA35 47.36
+2TS2 9LL2 11.40
+2VA7 0OR9 46.35
+0TA9 AGEV 249.06
+9WA1 2Y2 19.75
+ABW 2TN9 238.31
+31NY 0MN9 17.55
+0LS5 2OR2 31.94
+0MS4 9XA4 4.20
+0OI4 2ND4 24.29
+0AR0 0LL2 7.91
+0OR0 9TE5 26.52
+2XS4 30GA 13.25
+30TA 2TN2 6.71
+2Z6 9V1 34.40
+0CL7 9WI4 32.42
+AK64 0MI3 70.69
+0CA6 34CL 13.90
+AK45 2OR0 49.98
+2PS7 2TX7 18.34
+09LL 2TE4 14.30
+0NJ1 34CD 28.22
+30IL 2Y3 57.36
+30AK 0FA5 71.60
+AGGL 0CA1 293.88
+2OR0 9TA7 31.04
+2SC9 0N0 19.51
+9TA1 2NH5 31.98
+2TX4 2PN7 23.20
+2PS5 0OI1 2.84
+0NE1 AGGY 270.18
+2TA9 A77 69.92
+0KS2 2VT2 21.91
+0NK4 2PS8 2.00
+AA85 2XA2 66.90
+09NE 2NJ0 19.12
+2PS8 0MD9 7.00
+9WI6 2NK9 15.33
+2WY3 AD-ALV 108.85
+9OK1 0AR9 0.00
+31AK 2NK9 71.92
+9WN4 0NV1 28.73
+0NE5 9NE8 8.00
+0LS8 2PS5 19.44
+9MI3 30NY 9.12
+0KY1 9TE1 7.73
+32MO 0AL5 10.19
+2PN5 0MU5 11.71
+9NR9 9WN4 17.48
+2NY7 9VA0 6.00
+0TE3 0NC4 21.33
+A69 2PN2 65.85
+2RI7 2TS3 27.73
+31MA 0PN5 3.21
+AK83 09IN 66.38
+31II AK45 85.44
+2NK8 0NJ7 0.00
+2PS7 2VG3 0.00
+ADC 0OR5 274.15
+2SD2 09PA 19.07
+2NH5 33A 7.48
+31NY 2UT2 37.72
+9OK4 9NY3 18.92
+2NY4 2NJ0 0.00
+0ND6 33MA 28.35
+9Y2 0CD6 9.48
+0Q4 9V2 22.98
+2NY9 AIP 247.04
+2SD2 2WN3 6.25
+09W 9TN5 11.52
+2NY0 2OA4 7.23
+2VG3 9MO6 14.13
+0TN4 9V1 13.23
+AGGS 9NK4 240.19
+0CL1 2OH4 30.44
+0NJ2 9WI9 14.59
+9WN5 0KY1 10.18
+9W8 AK35 76.36
+2PS0 0FL6 15.15
+9VA6 2OK4 16.50
+2ND7 0MD4 22.39
+AK87 30IS 68.31
+0CD6 2OK2 5.09
+09PN 9NJ1 9.00
+0LS5 0MS4 4.00
+0FD0 AA11 79.68
+9WI1 2PN1 14.34
+2XS7 0MN9 16.95
+9PN6 0AL4 15.83
+2WV3 0CL4 32.20
+0GE0 33AZ 26.19
+0LA3 9W3 17.23
+0MU5 AGGH 256.57
+9TE1 0C5 14.77
+09WI 32AK 57.34
+0NE1 0NE1 8.00
+0IN3 0LS6 8.65
+31FL 0LL0 18.18
+32XA 32IS 18.07
+AA09 2XA4 54.60
+31NJ 30XS 23.93
+0GA0 31MI 6.62
+9TA2 2W2 27.56
+0KS2 0OR2 26.37
+31WI 0SD0 8.53
+0MS0 34PA 8.55
+2TE2 2ND7 20.26
+9TN1 9M0 8.61
+33A AK21 81.36
+0C2 32XA 15.89
+0MT3 0CL7 9.90
+31AZ 9NA4 13.68
+0MN0 A68 48.81
+0T7 0LA3 8.00
+2WN7 2ND1 10.54
+09TA 2WI8 16.17
+2NH5 31AR 19.38
+33ID 2PN4 37.97
+9PA2 2NH6 8.00
+AK62 32FA 54.64
+0FL5 0CO4 25.62
+AK50 9XS3 51.52
+9WI2 2NY0 9.99
+2R3 9VG 79.93
+31CO 2XA8 15.52
+0PA8 AA11 76.72
+09KS 9WN3 12.65
+9TX9 2TX7 5.14
+0SD2 0NJ7 24.38
+AD-ALV 0GE0 85.78
+2XA8 30IL 10.39
+AK47 0LL7 65.12
+0CL8 0CA3 9.00
+2XA2 31MO 5.90
+2WI8 9PA7 11.38
+9PA2 32AK 77.51
+2PS7 2WV3 10.32
+9WI3 2NY3 12.09
+2TN0 0CL0 30.95
+0MU1 0MO4 5.00
+9OG1 2PS4 223.74
+0CL0 9OH1 34.90
+0OR2 9NJ1 45.92
+0L5 31FL 37.49
+2NK8 9MI9 10.85
+0TE4 2NK0 20.82
+0NC3 AA35 62.02
+0NC4 0OK7 16.29
+32OK 34IS 7.49
+0IA8 2TN3 9.75
+2PS0 0CO7 24.74
+2WV2 0MN9 18.73
+2NY8 9TE9 26.09
+0MA4 AA51 79.74
+2OK2 2TN2 12.08
+2PA3 9PN1 2.00
+2NY0 2SD1 20.80
+AGGS 0OK7 264.62
+33II 9LA1 9.19
+9TE9 0TE8 0.00
+9OI7 9MT0 27.01
+33II 0NE0 17.95
+2NC9 0NY5 9.17
+9WN4 0MS9 15.28
+0FD0 2NC9 1.76
+0ID2 2NY0 37.88
+2NE6 AA35 36.54
+AK93 AK92 1.00
+9OK1 09IS 10.82
+AK28 0AL2 67.64
+0LS4 9MT8 19.09
+30NY AGEV 235.50
+9MS7 0C2 12.42
+31II 2XA2 11.22
+9PN8 30AZ 38.21
+0LS2 9TN2 5.33
+30LL 0OR7 37.29
+9MN8 9MO9 4.83
+0MO4 34ID 21.02
+34NC 0MA5 6.95
+AK43 0PA3 76.43
+9OH1 0KS9 17.21
+34MS 2VA7 13.19
+0MD6 0LS4 21.35
+0TN4 2VA0 2.00
+AK83 2RI7 82.84
+0NC3 AE-0009 130.51
+0TA2 9MO6 6.78
+9TX0 0PN8 17.69
+2WN9 9ND8 23.22
+2ND4 9ND1 3.00
+9MT8 9LS9 25.82
+2TA3 09PN 30.75
+30IS 2T5 9.00
+0PS9 34PA 2.00
+9MI3 2XA6 14.59
+2NJ0 2XA6 26.91
+09PN 9TX0 17.94
+09MI 2NV2 30.23
+09II 0ID8 30.62
+9TE1 31OH 21.43
+0MN0 AE-0010 149.41
+2W3 9PS5 46.77
+0AL9 AE-0024 135.04
+31WA 09LL 29.05
+9N1 31NE 24.72
+2W1 2Z6 20.70
+AK98 9W8 97.58
+0II6 0G0 9.28
+9MI3 A68 58.33
+0IS2 AK25 59.77
+AK47 30NR 79.91
+2TS9 31OH 17.24
+0CD5 2NY7 24.33
+30IL AFK 174.99
+34ID 2VG4 34.47
+AK21 0CT3 86.77
+AGK AE-0011 90.17
+ADV 9PS5 110.09
+33NR 0CD6 17.93
+0CO4 33OK 10.05
+0TE8 0GA0 9.19
+AGGL 2W3 296.75
+0MA2 9PA1 2.00
+2NV2 2OA5 32.33
+9WA6 AF09 189.67
+9ND1 9OK5 15.87
+2VA0 AK85 76.27
+2Y1 2NH5 22.03
+33OI 33WI 7.94
+2TX3 0PS8 28.26
+AK61 AGK 299.80
+0CL8 0L4 1.00
+9MT8 0FD2 34.65
+0D7 2Y1 8.71
+33AK 34FA 74.18
+30KS 0LA3 3.43
+AE-0002 2NV2 179.48
+2SC8 2SC4 4.00
+2TA4 9NY2 20.93
+0GA0 0CA2 35.10
+9NE8 2ND2 6.17
+0OR9 30AK 31.24
+0IA6 9OR1 24.65
+9PN2 0NA9 32.40
+2Q9 0IA0 26.18
+0FL9 2SC9 7.43
+2NC9 AK97 75.45
+AK90 0MD0 71.89
+AGGF 9OR2 287.52
+2XS7 AGGQ 256.56
+AA30 31II 68.82
+2XS7 0MD8 21.01
+2XA5 9MI9 21.39
+09PN A77 81.27
+32CL 0NJ2 45.32
+9TS4 32CL 28.88
+9PA4 9TN4 8.30
+2NR4 9MO6 10.33
+2NC9 0NM0 23.31
+09TA 9OA8 20.49
+0KY1 A69 59.55
+2NJ7 0OR5 48.41
+32XA AA11 53.85
+0CD6 0LL2 16.72
+9VG9 9OA2 2.46
+0TE3 AA30 55.32
+0OK7 0NY6 28.20
+9MT0 AK51 49.84
+2T5 2U7 29.65
+0ID3 0FL8 34.35
+9TE7 2XA7 0.00
+0OK5 2U0 21.68
+0CD5 0TA9 15.39
+0CN2 AGRC 285.82
+0T7 AK08 62.63
+33ID 9WI4 30.64
+9MI2 33TN 2.99
+0II6 AA11 61.88
+0IN3 9W8 10.26
+2U8 2TS9 23.34
+0PS7 AGGK 246.12
+A79 32MO 75.05
+0ID0 31GA 36.24
+AK85 0LA8 67.10
+9TX4 0FL7 18.62
+ABP 2VG4 224.31
+09LL A68 52.56
+31NH 33AZ 37.56
+AK92 2OR3 25.92
+AE-0004 0LL7 141.74
+AIP 0MT1 282.08
+0TE9 AA30 59.01
+9MI9 31GA 5.58
+9WA1 0CO5 21.88
+9NE8 34MA 26.76
+2TE2 0FL8 13.07
+09MI 33XS 9.71
+0AK0 9WI6 59.98
+0NC8 0ND6 16.77
+9M0 30PN 11.86
+9XS2 9OA9 16.85
+09WI 9W3 11.30
+0MN0 2Z6 41.11
+0AK7 0NM0 47.57
+0SD2 9TX0 10.36
+2NJ0 0CO9 35.12
+0MN4 09XS 15.55
+0CT8 2NE5 21.65
+0R9 0FL8 19.79
+AK62 A69 1.28
+2TS6 AIP 270.95
+0TN6 0TE0 15.26
+34NH 32KS 28.26
+0LA7 9OR1 34.57
+9VA6 AE-0002 133.28
+33CL AHT 300.47
+9WI6 2S0 27.25
+0AZ2 30KS 17.91
+30NE AK83 58.19
+9NA4 9PN7 27.38
+2T5 AGGF 252.18
+2TE1 33LS 0.00
+0C8 0IS3 3.00
+2OI8 9PS5 3.49
+AK93 2PA0 76.54
+2OK7 AK19 59.91
+AK24 9NY1 77.97
+31II 0OR9 34.24
+31IN 2OA4 9.00
+0KS9 31TE 5.93
+2PA8 2TS2 20.84
+09LL 31TA 9.60
+9VA9 0G5 14.45
+31KY 0NC3 4.94
+0OI3 9WA7 36.85
+32FA 09NE 23.80
+31TN 0MI1 12.38
+AK64 2VA3 85.94
+2PS0 0TE9 23.05
+9XA1 A77 69.23
+33AK 31TE 60.44
+0GA0 9WI2 12.46
+0CO5 0NC3 23.18
+32TX AK43 61.82
+30NE AK50 57.73
+0AK8 9WA1 29.79
+9TE9 9Y2 20.07
+2TX5 2WN7 11.44
+0GA9 AK64 82.58
+0MT5 9MO3 11.26
+0TA9 0ID8 27.96
+AE-0024 2NE5 153.01
+0KY4 2NH3 17.54
+9XA1 0CO7 18.36
+31MO 0SD0 6.13
+2WV5 32II 0.00
+2OH4 2PN4 0.00
+AA02 2VG4 78.90
+0AL9 0CL2 27.54
+0AL5 09NJ 13.83
+2TS2 9MO4 13.10
+2NH6 9TE5 32.71
+2Y1 0CA2 27.37
+AK47 0GA0 70.05
+32TX 0OH6 15.60
+9ND1 30NJ 22.96
+2NY8 2Y3 64.92
+0AK8 AE-0009 199.86
+0OR5 0N0 28.59
+0FL5 2SD5 29.30
+0CO4 31NY 28.81
+0MD7 AD-ALV 81.74
+0KS7 2VA5 23.32
+09LL 9NY6 9.76
+9TX0 2S3 21.12
+9NY6 33WI 9.26
+0MI3 AE-0004 145.01
+0MI3 32OH 0.00
+0NJ7 33ID 35.74
+9OK8 31FD 16.55
+33NR AK19 69.47
+0II2 A57 52.25
+0GA7 33AZ 31.99
+AK69 9WI1 64.89
+0IA4 33IS 3.00
+9X9 AK50 59.00
+9NY6 AK31 69.64
+2PA4 2NY2 4.00
+31MO 0SD4 6.00
+9PS5 AIP 244.00
+0MN9 9PA0 16.84
+0CA6 2WI8 31.25
+0CA2 2WV3 34.41
+30PN 0MD7 3.00
+09OK 2WI8 13.85
+2PA8 2NE5 21.80
+0AK0 2WV2 74.15
+0CL2 0NK1 39.26
+2OK9 30NE 7.34
+2T5 0PA8 15.81
+9V2 0LA5 12.55
+AK26 0MD6 89.90
+9NJ2 0OK5 23.31
+30TS 0MN3 9.85
+32GA 9PA4 12.41
+AGGH 2PS7 236.40
+0D7 0CL0 36.27
+AA16 2SC8 71.15
+9PA4 31LS 17.44
+33ID 9LA4 30.28
+34CD 9NY6 29.53
+0ID3 0TE4 21.86
+2TS6 33XS 5.00
+2U5 9MD9 40.80
+9MO0 0CT8 19.00
+0OH4 9MD9 6.63
+AF12 2NY3 140.18
+0LL0 0AL4 4.37
+2XA2 0CO9 14.64
+9WI3 0MI7 8.14
+0II9 2Q9 31.49
+2TX6 0OH7 14.65
+ADJ 0SD6 94.51
+0IN4 2PN9 8.65
+0MO4 33ID 20.65
+09XS 33KS 14.14
+AK24 0CL0 40.24
+09VG 9NK4 10.46
+32MD 9LA0 11.97
+0OK7 2PS8 21.55
+0MA4 0TS2 26.88
+2TS7 32CL 19.66
+9MI4 9TN1 7.51
+30NR 0NK4 8.83
+2NV2 ABW 270.04
+2VA4 9PS0 1.00
+AK08 0TA4 60.29
+2VI2 0OR2 37.20
+9NJ6 0GA0 8.90
+0KY1 0NK4 17.65
+2NJ0 2P2 13.60
+9TN9 2TA4 15.81
+9OI7 AA44 56.25
+2Y1 2NK0 21.83
+9NE9 0NE0 3.00
+0LL0 31NJ 13.46
+30NJ 0N0 21.69
+AK31 AGGI 314.09
+9PA3 0AK0 77.44
+0OH6 9PA5 5.39
+2Q9 33OK 19.68
+AGK 2SC8 230.51
+0IN3 2R3 65.55
+2ND4 09NJ 30.66
+32AZ 9LA7 23.21
+0LS2 AA27 74.69
+AGGS 2XS5 257.19
+2PN2 2OH6 8.64
+AD-0001 2NH3 73.02
+A69 0LL7 50.89
+9Y2 30PN 18.59
+AA22 0TE0 59.38
+9OK9 0GA2 13.60
+9MI4 AIH 225.93
+2NY3 32MS 23.19
+0TA4 2NY9 18.90
+0TS6 0CO7 15.48
+9PN7 34CL 48.25
+AE-0007 AA27 201.87
+AK62 2WV2 56.46
+AE-0002 0LS0 143.99
+9OI7 9LA0 9.49
+33NY 32CL 42.98
+2NY2 9XS2 27.73
+2PS4 AK92 70.83
+2NE6 2OH6 18.04
+0LL5 0OK1 5.80
+AGGI 0FL4 246.53
+0D7 0FL6 9.09
+9NY3 9TX0 23.79
+A68 0MT7 22.88
+0C2 ADC 243.50
+0MD4 0KS7 19.76
+2PA4 2ND2 25.91
+9VA6 AK72 73.11
+33AZ 2OK3 18.50
+0R9 2OH6 11.04
+9NY2 9NJ6 0.22
+2OK6 9VG9 14.12
+9PA2 34IS 13.32
+9WS2 9VA7 10.83
+0LL7 31TA 14.03
+34MS 9MI8 13.45
+2WI8 9TX0 17.85
+AGK 0AL9 239.13
+2T5 0KS4 10.47
+9OI6 2W3 43.56
+30VA 0NJ3 11.59
+0TE5 0CT8 32.29
+9TN9 0FL5 11.03
+0TN9 0TE3 15.03
+34CD AE-0011 160.27
+0OH7 31CT 15.36
+9ND1 32TN 12.51
+0AK6 0OR0 35.75
+AK25 0NV1 37.71
+33XS 9WA1 28.59
+AK96 2WV2 76.33
+0TA2 32OH 22.58
+9NY1 30IS 7.67
+9OK7 0II2 11.68
+9WN4 0NK4 13.08
+0MI9 0FL4 12.89
+9PN7 9WI1 16.47
+AGGF 0OI4 241.76
+31GA 9MT0 30.10
+AEQ 32IS 210.20
+2NJ7 2RI7 2.00
+0KS2 2NE5 6.33
+31NJ 2TX4 30.37
+9OA2 AGGL 252.56
+0OR0 A79 41.51
+0Q3 9M0 34.53
+9V1 34NC 18.38
+0IS3 AA06 63.24
+0NY5 AF-0005 140.79
+0NC8 2NH5 12.03
+0LA0 2NR4 16.62
+0MT7 9MO4 20.92
+2OK6 2WN9 27.85
+9TE9 09MI 17.84
+9NC1 32IN 11.18
+9WS2 AK57 60.32
+9TA7 32TX 8.00
+30TS 9TA9 2.00
+0CT7 0KY1 14.16
+AF09 30AZ 181.71
+9PA3 2NH6 4.00
+0II3 9WI2 6.00
+0GA7 0MD7 5.30
+9LA4 AE-0002 148.43
+2SD8 33VA 13.95
+0Q4 9Z9 34.09
+0AL8 9NC8 6.87
+0LS0 0IL0 5.62
+0S5 9LS9 32.48
+9R5 33LS 9.80
+32XA 9MI2 17.60
+0OK0 0NY5 18.01
+31KY 2T2 7.00
+0CO4 9OA9 24.51
+0MY1 AK25 38.76
+0CL4 9NE9 25.55
+0C2 31TN 8.69
+2OK4 0AL4 10.39
+2OR1 9WA1 8.00
+09LA 9W9 9.97
+2SD8 32PA 16.95
+9TN2 AK54 62.22
+9X9 0CT8 21.16
+9PA1 9TX9 23.55
+2NK9 0IN3 15.60
+9LL2 09PN 10.66
+AK98 0AK8 15.00
+09PN 33OK 21.78
+0MT3 2TN3 30.53
+9MN1 0FA1 16.52
+33MN 2PS0 23.62
+9NJ2 2SC4 12.37
+09IS 9MO3 5.31
+AK69 AD-ALV 148.85
+31MI AA27 72.97
+9TA1 09NE 11.83
+0OK7 2T7 13.03
+0II2 0LA3 11.66
+33OH 9TX0 15.07
+0MD4 9OG1 218.50
+AA50 0C2 64.27
+0MA4 2PA0 7.00
+09MI AA38 70.95
+2PA0 AA38 80.97
+0CA6 0ID3 6.33
+30AL 2PA4 11.83
+33LS 0C8 14.85
+0MO8 9M0 12.00
+2TX6 2VA0 19.32
+9VG AK93 73.28
+2NH3 0OK5 21.89
+AK50 0MI7 66.62
+30TS 9XS3 8.75
+2ND7 2Z6 31.50
+2WA8 34LA 30.04
+9LL2 0Q3 29.87
+2OA4 9VA8 8.72
+0NE6 2W3 25.03
+31MI A05 25.58
+9PA7 30AK 74.97
+AK97 AEQ 270.82
+30NR 2OH4 10.18
+AK35 30GA 64.30
+9PN8 ADJ 72.15
+09OK 0NK4 21.73
+0OK1 0S5 22.12
+0OK0 0GA9 13.73
+2VA0 31OH 4.00
+2SD1 0AR7 9.07
+2OK6 31NJ 18.83
+A68 0FD3 61.81
+AA06 9NC1 69.28
+0LL0 0MI7 5.38
+31XS 2SC8 17.19
+0CA4 0NJ1 41.13
+0MO4 AF-0005 162.48
+AF12 9X9 159.68
+0ID0 9TA1 16.97
+9OH1 AE-0009 140.63
+A57 0OK1 43.82
+0AK8 0AR0 55.60
+9LS9 0CD5 8.77
+31WA 0FA5 40.90
+0GE0 31FL 1.87
+2NY4 AE-0011 134.37
+9PA5 0AK8 74.72
+09PN 9M0 19.21
+30IS 0IL1 8.00
+0O9 0GA0 39.52
+2SD5 2OH7 21.24
+30IN 30PA 6.07
+0MO5 0G0 13.72
+0C8 9VA6 7.93
+0L4 0GA2 30.39
+30TS 2VA 11.75
+AE-0009 AGRC 106.79
+0TA7 9PA3 30.39
+0OH4 2NR4 5.89
+9NY4 09LA 17.09
+2TX4 2OI8 22.29
+AK98 AGGS 333.72
+0AL5 09VA 11.00
+32GA 0ID2 36.41
+AK60 31FL 82.72
+2NH5 0II6 10.50
+2XA5 09VG 18.46
+2OK7 9MI8 19.43
+32FA AGGK 246.71
+2XA4 0FL5 11.28
+AF10 AA50 217.22
+9MO4 9WS2 8.02
+0IA6 0LS4 12.85
+2TA9 9PA5 18.57
+0MT5 09LS 23.90
+0MD6 2VG3 5.00
+0KS2 31MD 19.10
+30IN 2T2 4.00
+9MD9 2TS2 25.43
+2ND7 30PA 26.76
+AA27 AA30 6.77
+0CN2 2OK7 19.35
+0MT7 0LA7 26.40
+A57 AK47 15.37
+30IL 2NY0 17.96
+AF-0005 9ND1 167.78
+9WA6 ADC 274.61
+ADV 9MT8 139.44
+33IS 0PN5 10.43
+31LS AK63 61.40
+9OK7 9OK1 3.00
+0CL0 2P5 43.90
+0FL2 9MI3 12.88
+AK39 2XS5 60.17
+9OK4 9Y2 5.33
+0MS0 2XA5 11.46
+0LS3 0NE5 18.24
+AK88 31NH 76.93
+0PA8 9OK9 14.73
+0CT3 0LS4 23.23
+0CD6 2TN9 18.43
+0CD5 09TA 7.87
+0PA3 31MI 5.42
+0GA7 32KS 17.37
+33A AK42 70.01
+0MO8 9N2 10.45
+AK88 09VA 73.84
+32IL 34CD 13.46
+2NY0 2VA7 1.80
+0OR0 09LA 33.23
+9TA7 32LS 4.00
+9TE5 2XA7 8.00
+2WV6 2SD9 23.07
+2NK4 9WI3 16.37
+9TA2 2SD9 12.61
+0TA4 AE-0004 150.63
+33AK 32IS 60.98
+0ME4 2WN7 17.21
+2OR0 2ND3 26.53
+2NY2 0L4 46.03
+0MT3 AE-0002 168.56
+2NK8 32MS 16.76
+AGGI 32TX 261.27
+33MT 0NY5 41.73
+AE-0010 30NJ 129.80
+2VA7 AK62 55.27
+0LL7 2PA4 16.18
+0G5 0TN4 10.48
+AK51 0AL4 76.25
+0MO4 0LL5 4.58
+30XS 0C8 17.08
+0KY9 0NV1 28.51
+33II 0AL5 10.88
+0AL2 9PA0 16.36
+A29 9VA6 64.17
+30W 2VA5 13.42
+0II3 09IS 8.00
+AGGQ 33OH 247.97
+0TS6 0LA3 2.00
+9Y2 2NE6 4.82
+0MO4 2VA1 19.26
+2XA4 9OK4 7.00
+0MD5 0AR0 18.50
+9VA7 2PA4 4.00
+AGK 09IN 234.15
+31MI 34LA 16.10
+0SD2 2VI2 59.37
+2S3 2W2 6.21
+0PS7 AIH 219.30
+9WS2 2PN3 11.90
+AFR 0FA1 235.14
+0MN3 AK60 66.80
+2WN3 9PA6 12.19
+09NE 2PA0 24.51
+9WI2 2SD5 14.71
+2NV2 0ID2 9.49
+2Z5 09II 61.83
+2NK8 9WA4 49.40
+0GA2 2XA3 12.44
+0NY6 9MN6 19.17
+0CT8 2WI8 11.50
+2NK9 2NY9 9.00
+0IN4 0FA0 14.99
+9WA6 9MI4 35.40
+31XS AF-0005 162.08
+A29 09LL 48.83
+0TS6 9MN1 12.06
+9OK8 33NR 19.00
+09TX 34IS 18.08
+2PN7 0MD6 7.00
+9OH1 9VA9 4.91
+0IA4 9OR4 26.83
+9MO3 2OH6 8.54
+AD-ALV 32LA 96.74
+0D7 32KS 13.93
+2VA2 2P5 4.00
+0AK0 2OK6 54.62
+0TE9 9TA7 0.00
+9XS0 0FL6 18.87
+0MD8 2PN4 3.00
+2OK7 2WY3 10.84
+0CD6 2OG4 10.77
+2OA4 30AK 73.42
+2XS5 0MN4 18.98
+AK25 2NV2 36.03
+0AL8 2TX9 6.19
+2NK0 2OA5 13.31
+AF15 0LA8 166.23
+0AL8 2VG3 12.40
+9TA2 2TA4 8.37
+0FA5 AFK 159.66
+AK66 0CL4 43.97
+2VG3 2VA4 3.00
+32AK 31IN 62.84
+0MT1 9VA7 32.42
+0KY1 31TA 10.38
+9WN5 32OK 7.40
+2NK4 34FA 11.66
+0CD5 2U7 8.71
+0CO4 0C2 12.39
+2VA AF09 159.53
+2OR1 32KS 22.84
+2PS5 9PA2 2.00
+AA02 0NK9 78.39
+AK50 9PA8 74.08
+0TE3 32LA 5.57
+9VA0 2P5 5.00
+09TA 0II6 9.35
+09KS 31AR 4.00
+32TX 9NJ6 26.05
+9MI9 AA16 70.22
+33CL 2Z1 29.24
+2PS4 9V1 21.57
+2TN0 0MO4 1.02
+9TN5 AGEV 246.33
+0OI3 0PN5 7.00
+0TN6 9OR4 35.71
+0OR0 33TN 40.66
+0MI2 0CO5 19.45
+0CD2 32AZ 8.16
+0NC7 0LA7 16.24
+31MD 0OK1 26.49
+2VA0 0OH7 4.48
+9NK4 33OI 6.24
+9W3 2VT2 7.88
+A77 33NR 75.66
+9W8 0LS6 18.01
+9VA7 0OK1 15.17
+AGGY 0MD8 244.80
+2WN7 0LA3 7.35
+AIH 0LL3 234.21
+0PA3 0TE3 25.32
+9OK1 9TX0 5.22
+AGKG 32KS 261.25
+9WN4 0C8 4.00
+31NH 32TN 13.88
+34NH 2U5 42.30
+9XS0 AA85 57.56
+0MD4 2XA5 26.49
+2VI2 9MS7 72.57
+AA22 0CD2 45.76
+30NY 2VA0 2.00
+09OK 0CL7 26.52
+0II9 0MI1 7.08
+33A 0NK5 10.51
+AE-0009 2OH7 132.10
+2WY3 33NY 35.46
+09NE 2OR2 21.82
+0AK6 9TN1 62.71
+9LS9 2Y3 59.49
+0CL2 0ID8 12.21
+33PA 9PA5 3.00
+34MA 2WY3 34.58
+9XS2 2XA8 6.00
+2OI8 0N4 7.13
+0NC7 9W8 5.00
+0ID3 2S0 4.88
+2OK7 2RI7 25.08
+09NC 33OH 8.38
+0TA3 AGAT 269.05
+9WN5 9XS3 17.73
+0MN0 2XA2 13.75
+0CL8 2WA6 15.49
+9NJ6 0NC4 1.00
+0IS3 9NJ8 14.71
+2NY8 9TX9 31.90
+30KS 2OH8 10.10
+33WI 2TA9 17.38
+30TS 0NK5 18.66
+2NY0 AK45 97.06
+0MU4 0NK1 17.06
+31FD AK62 54.53
+9TA1 9LA0 11.10
+0MD0 AK31 70.02
+0LL5 0LL7 3.00
+9TX2 0KS2 9.02
+09W AK19 79.68
+2WV3 33A 7.00
+0OR2 9WN4 38.55
+0CL4 2NY4 36.18
+31LS AE-0001 138.43
+2TN3 30AZ 28.70
+2T2 2PS4 7.24
+AF10 2XA8 165.81
+2PN4 0MA5 6.13
+0SD4 0MA4 22.77
+0AL9 0PS8 7.49
+0IA0 AGGF 254.46
+9PA7 9NK4 2.81
+31TA 33WI 16.68
+9TA2 2WN3 16.30
+AF-0005 AE-0007 23.38
+0R9 0OR0 18.77
+0IA0 0G0 17.50
+2XA7 2SD9 8.52
+9VA4 0MS5 13.38
+AK98 2PA0 98.15
+9NY4 9PA8 6.00
+0CL9 09NE 19.29
+9OA8 2WY3 27.42
+31GA AK50 66.45
+AK69 AA27 9.69
+30XS 9OI6 22.76
+0MN9 2XA2 15.17
+0ID0 0MD0 40.74
+AK24 33NY 74.93
+33VA 0MT5 29.09
+2ND4 0IN3 15.26
+0AL4 2VG4 7.71
+9LA4 2SD2 14.50
+0MD9 AGAT 243.30
+9MI5 ADJ 84.63
+0OH7 9PN6 3.24
+0FD3 32MO 7.20
+9MO3 0FL4 10.00
+0MU1 0GA7 10.84
+0MU4 2PN8 19.72
+34NH AK84 76.13
+31KS 9TS2 9.75
+0LS4 31CT 23.08
+2TA9 0NJ3 24.17
+2TX7 0IS2 8.12
+0AK0 AK69 8.00
+34FA 32TX 12.79
+33CN AK66 43.86
+2NJ1 0Q6 46.75
+2OA4 2S0 39.15
+33IL AGEV 248.09
+9OI7 31TE 19.16
+2NK0 0MT3 39.53
+30AL 0Q3 31.58
+0ME4 AGGF 233.09
+AE-0010 AK28 207.88
+31CA 9WN3 35.48
+9WN4 33IS 9.55
+0MO1 32WI 8.90
+32TN 0CT7 13.25
+9TA1 AA11 55.61
+2XA9 9LA0 13.68
+9LA4 0MD4 15.79
+2NC8 ADJ 76.66
+9LA7 0S5 32.11
+9TS6 0MD8 23.62
+AE-0010 AGRC 105.32
+2P5 9TA6 17.75
+9PN7 2SD8 23.56
+32PA 9MO3 16.65
+AFR 2XA9 251.24
+34MA 2WV6 14.30
+2VG8 9TN4 5.31
+AA51 AK21 12.87
+30AL 9MN6 10.22
+2OK9 31MO 9.54
+0TS2 AK39 59.69
+30AK 0CO4 52.32
+2TE4 2NE6 8.75
+0MD9 9XS3 29.46
+09IL 32OK 10.03
+9MO6 34CD 12.63
+2WV6 0IS2 3.41
+2TX7 2NR4 15.71
+9TE1 2XS4 8.00
+2VG3 0MN2 17.04
+0KY1 9TE5 11.47
+2Q9 0LS6 30.84
+0MN3 0CA1 31.66
+AK92 2TA4 63.63
+9R5 2VA7 22.14
+32II 0LS0 13.67
+31NH 0O4 46.03
+33LS 2NJ1 22.93
+9MT0 2XS5 21.01
+0OK2 0CO4 10.69
+AA27 9OG1 304.28
+9MN8 AK81 61.36
+9OH1 0OK5 18.19
+9PA1 0SD0 25.59
+9NY2 2WN3 12.41
+AA30 AA44 13.76
+2PN7 0CL2 40.92
+2VG8 0KY4 6.36
+0LS4 31WI 12.71
+9OK1 2NH5 22.20
+9NJ1 0CO0 34.57
+0OI4 30NR 2.10
+33VA 2WA6 37.58
+0OR2 2SD5 18.07
+32NJ 0TA9 26.26
+0TE0 0MO5 14.82
+0C8 0IS2 6.00
+9TN2 2VA3 7.40
+2PA8 0IN8 8.83
+0SD2 2PN3 22.62
+2OK2 31WA 25.87
+9WA7 9OI6 37.49
+0CA3 AA33 37.19
+0PA8 2Y3 64.62
+9TE5 AA85 64.04
+2NY3 0ID0 36.05
+9OK8 AD-ALV 99.28
+30AZ 30NE 18.81
+33TN 2NY7 13.34
+0MI1 9NY3 4.46
+9VA0 2NK7 5.15
+AGG 0CL3 264.53
+2WI9 9TN5 7.72
+0Q4 0AR9 21.92
+0CO5 0N5 28.09
+0KY9 09LL 6.00
+33MN 0TN4 10.81
+AK83 0N5 77.44
+0CL3 2WN7 32.40
+9MO6 0TE4 5.81
+09XS 09PA 23.46
+2TX4 0MO1 13.81
+2OG4 09WI 24.39
+0MO5 0MU1 4.00
+2VG3 0MO5 12.32
+9VA7 AGGY 244.15
+31GA 31IN 5.95
+0PS8 09PA 5.00
+0NK8 0LA3 20.19
+0PS7 2Y2 14.81
+30IL AA22 62.73
+30AK 0CA2 41.14
+34MS 2TX4 7.97
+0CL4 0T7 18.60
+2NK9 0TE3 28.86
+2OK9 0IS2 12.70
+AK1 2PS9 73.94
+9M0 AK81 59.53
+0TS2 2WV2 15.05
+AE-0012 9NK4 129.11
+2WN7 0PS7 13.31
+A69 9TN1 52.04
+9OI7 AK91 64.67
+0CD2 AK51 50.53
+AK87 9PN7 72.11
+2NR4 0MY1 32.64
+0II3 31XS 12.65
+2NJ5 9OR4 42.58
+2PS0 33LL 15.04
+AA27 9PS3 82.70
+0D7 2NK4 12.90
+2SD5 0N4 26.50
+09NC 09KS 20.46
+2VA3 2NY7 1.00
+32MO 0AL2 7.15
+0MT3 9VA6 39.67
+AGGQ 9NY3 235.51
+9PA2 0AK8 76.11
+9PA2 32NJ 4.00
+0KS7 32AZ 16.60
+0OH6 30GA 4.14
+30NM 2XA2 9.40
+31WI 30IN 6.00
+32MS 33CN 33.82
+0MD4 0LA5 12.03
+0TN4 9TS4 12.93
+AK98 0OR0 49.34
+AK47 0OR7 28.17
+2SD1 33VA 21.91
+0FD3 34ID 30.26
+AK60 0AZ2 48.69
+2TA3 0L5 13.99
+31II 2VA7 5.12
+AIP 0MA5 237.39
+9TX2 30XS 8.84
+0TA4 0MY1 19.77
+2OK2 9PA3 19.56
+2V3 2WV2 11.03
+0IN3 0PS5 7.48
+AA02 32CL 31.23
+2PS6 2XS5 26.75
+9MO4 33AK 58.43
+0FA1 34IS 10.71
+AGGE 0KS9 251.69
+0KS4 9PS0 13.44
+2SD0 2SD2 2.00
+2XA0 32OH 20.58
+9VA8 0Q3 47.87
+2Z1 32MO 46.55
+0OK1 2OR0 26.30
+AK24 0CA0 39.58
+9XA1 34AR 11.91
+AK1 2NH6 81.66
+2TN9 0MN4 8.35
+2OR0 2TS2 26.34
+31CO 9OK7 9.55
+0IN4 33WI 7.00
+0MT5 0MT5 9.00
+2NE6 0SD0 5.00
+32IL 9TX9 14.26
+9TA7 0II9 14.11
+2TA4 9W8 22.24
+2U8 0AL2 32.34
+2TE1 0ID0 26.61
+0CO5 2NK9 28.57
+2OK7 0LS6 6.18
+2W2 2OG4 44.73
+AD-0001 0IS3 93.22
+AK63 AGGF 319.49
+2PN7 0O9 41.93
+AK98 33MA 94.43
+33XS 30NR 15.60
+0IN3 0IL1 3.00
+9LA4 9PN6 19.01
+0SD0 33VA 22.49
+2WN9 AK69 36.41
+9N2 9TX4 22.41
+2WA6 33LL 28.06
+AK86 0G0 72.56
+0NY5 0TA7 30.07
+9WI2 AK21 74.54
+0ND6 0R9 4.89
+0CD2 9XA4 6.56
+30NR AA16 74.20
+9TN1 2VG3 7.17
+0LL7 33PA 16.38
+30LL 0OI4 10.34
+0CA3 0TN6 31.95
+32MS 09IS 13.11
+9VA6 9WI6 18.98
+09VG AA38 80.92
+30KS 0MO1 5.00
+9MN2 30PN 15.24
+AE-0010 0MN4 145.95
+2PA4 0OH7 3.89
+9NE9 AGG 248.66
+0KY1 9NE9 14.47
+AA02 0FA0 78.23
+0FL2 0AL9 9.86
+0TN4 0MN8 7.78
+2TS6 9LL2 7.19
+0AR7 0TA2 11.75
+0MI9 2VA0 6.30
+31AR 34MS 9.34
+9VA0 9MT0 24.99
+AGGH 33KS 258.24
+2WV6 9OK5 20.04
+09PN 09LL 17.73
+9VA7 9MN8 24.10
+AK61 2P5 77.43
+AGGK 9TN2 254.41
+9TA6 9OA2 18.96
+2NY8 33NR 13.18
+9ND1 2TS7 14.88
+09MI 0MT7 35.24
+9MI8 0PS1 9.87
+0NJ3 9MT8 36.74
+AGRC 0MS0 245.09
+0GA2 2NE5 20.35
+31LS 0NK9 18.63
+2NY7 0LL3 12.48
+2TA4 34MA 23.59
+0R9 30IL 9.84
+AK47 0CL3 41.65
+AK63 AF-0005 221.77
+2Y2 0SD3 7.08
+0PS7 31XS 15.76
+2VA7 2TS9 20.74
+0MN8 2NJ7 18.93
+AA33 9XS0 65.02
+0CL0 0CA0 9.00
+9OI9 0C8 2.77
+9WA1 9TA7 29.83
+AE-0010 9MT8 164.49
+2TX3 0AK0 57.10
+0MT1 32AK 40.56
+AGGY 2VA0 239.26
+34AR 9WN4 12.60
+0NJ3 0OR2 48.70
+0AL5 9OG1 231.73
+0TA7 32IN 23.77
+32NJ 30KS 27.10
+2W3 0TN4 35.84
+0NE5 2WV2 19.74
+0CA6 9LS9 20.67
+31TN 2PN3 14.28
+30PN 2PS7 3.00
+0N5 AK31 69.07
+30AL 2U8 24.78
+0G5 2VA 8.44
+0IA3 2VA2 11.41
+0SD3 9TN9 21.29
+9PA5 33OK 26.27
+2NK8 32IS 14.20
+0OK5 9X9 8.18
+9WI2 0NE6 14.97
+34FD 9OK5 16.08
+2PN3 2PN4 4.00
+31CO 2NJ1 28.87
+2NK8 9PS5 2.00
+9TN1 A77 77.97
+0CT3 9W8 5.00
+32LS 9OR2 34.72
+31AK 31GA 72.26
+2PS7 0CD5 32.11
+33LL 0OK0 10.76
+2WY3 0MI2 24.68
+AGAT 31AK 317.12
+2U0 2TA9 15.76
+2NR4 2NY7 9.59
+0PS5 0KY9 6.49
+9MI3 A57 50.22
+AE-0007 AK26 219.80
+2TN3 AGGI 245.34
+2PN4 2WI8 10.51
+0Q4 2NH3 43.60
+2ND1 2WI1 9.29
+0LS2 34NC 14.17
+0MA2 2TX9 25.68
+2PN3 2PS4 8.00
+0IL0 AE-0001 136.67
+0GA7 2TN9 6.00
+9NA4 2SD0 9.00
+9PA5 31CT 6.00
+0FL2 2TX3 16.46
+2SC8 2Z6 56.10
+0CN2 0LA3 27.56
+9MO4 09LL 8.62
+0PA8 2ND3 22.47
+0MI7 9WN3 3.00
+32AZ 9PA5 39.90
+34CD 0MS5 13.07
+0AK9 9XS0 62.12
+2OK4 0MY1 18.91
+0MN1 0CA2 23.44
+31LS 2WA6 36.62
+AFR 2XA2 244.70
+0MN1 2OH4 8.00
+0IA0 2TX4 14.74
+0CA3 0CO4 16.13
+0MD4 AK42 75.26
+9TX0 AK31 52.29
+34ID 9N1 36.69
+0FL4 0TA7 22.52
+2TE2 AK51 58.04
+9N1 09LS 19.93
+A77 9Z9 10.46
+0SD4 0LA8 9.72
+2XA8 AE-0010 148.45
+2ND1 2ND2 3.00
+0TE0 0OH7 15.95
+0MD9 ADV 110.25
+33ID 9PA4 38.77
+09VA 0AK8 72.59
+09WI 0R9 7.33
+AK97 9TN5 66.24
+AGGV 0NC3 239.41
+0OK5 AGGY 258.53
+0FA5 2TA9 18.72
+AF12 9M0 163.58
+2OK3 2WV6 16.41
+0NY5 0OI2 10.62
+AGGO 2PS7 233.60
+31FD 9NR9 10.88
+30IL 9NJ8 8.65
+AK64 2TA9 62.89
+AIP 9OK1 262.81
+9NY4 0NJ3 0.00
+2PS4 0MN2 13.74
+0FL9 0KS7 20.30
+9WN3 9VG9 14.41
+9OK2 33KS 5.00
+0MT3 0LA0 26.29
+0IA6 0CN2 30.50
+9OR4 AK91 29.84
+33PA AK74 76.90
+0LL0 9NY3 10.51
+9TE1 09PN 23.31
+31FL 2NK7 19.29
+AK96 32II 71.81
+0C2 2SD0 18.97
+0FL6 9TN4 8.90
+0IL4 2NV2 34.73
+AK93 0MT7 34.65
+09NC AK43 77.24
+A05 32WI 25.84
+2WI9 30PA 10.62
+34CD 09OK 8.35
+0II6 31GA 11.98
+33FA 2Q9 39.49
+0NK8 09TA 23.34
+AHT 2PA8 252.80
+0NJ1 A57 69.05
+31LS 2R3 66.89
+AK92 2NY2 74.40
+AA06 0AK7 9.00
+AE-0017 0NK5 127.79
+0II6 9MD9 11.52
+0OI3 9TX2 11.25
+AE-0002 0OH4 137.21
+0MS5 0OK2 7.38
+AK26 0OK5 69.92
+2NC9 34CD 30.56
+33NR AGEV 240.03
+09PA 34IS 8.75
+2VG7 2NE5 25.41
+0NE5 0NY5 27.45
+AA16 2TX9 63.06
+31OH 34AR 12.39
+9MD9 0GA9 10.35
+2TA3 31NC 27.02
+9W8 2WY3 28.98
+32GA 2V3 5.70
+AA85 2NY2 76.58
+9PS3 09VA 5.30
+0T7 0NK4 21.35
+9MI5 0TN9 6.29
+2WV6 9PN6 3.00
+9LS9 2WV3 8.01
+2U5 9OK2 19.46
+2OK3 2Z6 41.76
+09OK 0MD0 19.44
+9TS4 AK47 63.26
+32MO 2XA6 13.55
+9VG AA50 74.70
+2PA0 0MN9 18.64
+AK25 34MA 77.14
+09NE 2XA4 8.78
+30NY 2WI9 7.12
+2P2 0MT1 22.55
+09NC 9LL2 10.89
+2WI8 32II 8.48
+30IS 2TX6 17.51
+2SD5 0ME4 30.04
+9VA9 0ND6 28.81
+2XA5 0D7 16.69
+0PA8 0O4 47.55
+30AZ 31CT 38.78
+0KS2 9OA8 16.63
+0MS5 33VA 16.34
+0G0 0TA9 18.12
+9MN8 2WN3 10.00
+2TX4 0CO4 8.82
+2OK3 09NC 21.45
+0AZ2 0AL5 29.53
+ADJ 31KS 92.80
+9OI7 9TA7 18.93
+2TN3 AA30 70.46
+AGGF 9TX2 257.21
+34AR 2OK7 2.29
+AK85 AA85 6.00
+0C5 0CD5 19.82
+2R3 9OK1 63.43
+32TN 0FA0 7.99
+32KS 31OH 22.18
+30NR 9W9 7.00
+9TA9 9OK8 5.05
+AK45 AK92 22.54
+0GA9 2ND4 24.21
+2XS4 AK08 63.62
+9NC5 09II 7.31
+2NJ1 0CA3 47.35
+AK72 0ID7 37.55
+9NY4 2WV5 4.00
+2TE2 0KS9 6.00
+AK24 ABP 300.27
+0AK9 9NC1 71.53
+09XS 0MA4 33.30
+2VA0 31WI 14.75
+9MS7 AA44 56.80
+34NY 09MI 1.76
+0FL2 9PS6 13.47
+9VA9 2W1 46.15
+AA09 ADV 177.24
+0SD6 2XA3 12.64
+9WI3 9VA9 13.40
+9PA7 0FL9 10.50
+30AL 9NJ2 8.96
+32LA AK85 62.71
+0AR0 9WA4 29.49
+09NJ 0IA6 14.63
+0OK5 0LA5 13.96
+0PS7 9WI4 11.55
+9TE9 0NJ1 22.11
+9MO3 9MN2 3.88
+2OR3 32OK 32.32
+AD-ALV 2NH6 77.00
+9OA9 AA30 72.54
+2XA7 0AL8 6.04
+9MN2 9VG9 14.21
+9PS5 33NY 9.00
+2XA5 AK19 56.57
+30VA 32PA 4.66
+9TS6 0AK8 59.91
+0II2 9PA1 12.55
+AK26 9OR2 45.87
+2XS4 31MI 13.06
+0KS9 34NC 18.24
+AK31 2S0 26.37
+2NH3 30XS 30.71
+32OH 9MS7 12.05
+0OK5 9NY3 17.07
+9OI9 9OK5 17.85
+2OR3 0S5 11.01
+2OR3 9WI6 33.08
+9MO6 31WA 33.83
+32IL 0KY1 0.00
+9LA7 0MD5 13.05
+31AZ A79 54.26
+2PS4 2OH4 6.32
+9NJ6 2TE4 21.39
+0LA5 9TE5 10.10
+2PS6 AK96 84.58
+2TX6 9VA7 26.53
+2OK4 0NC7 13.07
+AK97 31CT 75.51
+AGG 2WN3 236.82
+2OH7 33VA 4.41
+0NA9 2TS6 12.81
+0LL7 0G0 10.02
+9TA1 2ND4 20.84
+0R9 0PN8 22.77
+0LL2 9TX4 16.58
+AGEV 9NY2 239.38
+AE-0024 2TX3 147.71
+2P2 0SD6 16.94
+AE-0010 0Q4 174.17
+2OR2 0OI1 41.55
+AK31 0LA0 54.71
+32KS AA27 59.77
+AK93 2PS0 80.02
+2VA0 AK51 77.20
+2P2 AK64 70.15
+34ID 0OR0 10.77
+0OK2 0OH4 10.49
+9VG 09TX 24.99
+9TE7 9WN4 11.88
+9OR6 09OK 26.34
+9PN6 AGK 223.92
+AK93 0GE0 72.24
+2TE4 2Y1 12.46
+34IS 9ND8 13.58
+2OH8 32LS 13.78
+09PA AE-0010 133.04
+31NY 30AK 78.98
+9NY1 31AZ 38.77
+9MT0 2WN9 10.93
+9XA4 34CD 15.54
+2S3 31WA 40.23
+2W1 AGGY 289.67
+0CL0 2NC8 34.31
+34CD 32IL 18.46
+9MT8 2PA4 35.85
+9NY1 AGGI 238.43
+34CL 09W 41.69
+AIH ABW 12.00
+0CO4 9XS2 5.79
+0PS1 9N2 2.00
+9WA1 2OA5 39.19
+2WV3 2VA2 1.01
+0LS2 34NH 23.05
+AGK 0FL6 228.57
+AK93 32II 68.11
+0MO8 9PA8 13.60
+2VA 9MI3 14.75
+AK62 9XA1 44.76
+2VA4 32XA 26.27
+ABP 0OI1 230.43
+A77 AD-ALV 158.23
+33AZ 2WV6 32.67
+09MI AGK 236.63
+9XS5 0AK7 56.95
+2TE1 32NE 12.37
+AK42 ABW 304.38
+AA27 0MD5 79.56
+AE-0017 2OK7 147.90
+33AZ 34CL 13.61
+2TX7 9LS9 3.09
+9TS6 0OK5 6.00
+0TE8 9MI3 12.30
+0PN8 0LS6 15.44
+2PN9 AGGE 231.98
+2Y1 9NY4 16.34
+9X9 9PA5 20.86
+2NJ1 AE-0007 124.74
+2VT2 2SC8 15.56
+0CO0 2NV2 14.55
+9ND8 2OH6 15.01
+2TN0 33PA 15.04
+0CO4 AGGH 271.78
+30IS 0MO1 6.51
+34FA 09W 15.23
+0MN9 0MD5 18.95
+09NE 0CL8 18.20
+AK98 0R9 69.13
+0OH6 0NA9 17.03
+2OR2 0NK9 46.03
+AA51 34FA 81.14
+9WS2 AK51 63.03
+33MA 2Z5 77.23
+0CN2 2SD8 24.04
+0TA2 2NE6 6.73
+09WI 2XA4 8.78
+0MU4 2TX3 13.97
+0ID7 9NJ6 37.67
+AK93 09TA 57.04
+0NJ1 0FL8 15.24
+2XA8 9LS9 0.00
+2PS6 33IS 12.98
+2R3 32WA 29.02
+A68 9TE9 49.98
+2Z6 9PA4 64.58
+9VA6 2NE6 28.06
+31AR AA50 66.05
+2PN1 33ID 33.27
+0II6 AGG 233.40
+0MS0 9OK9 7.62
+AA33 9WN3 60.50
+0L4 0KS2 19.91
+2OR0 AK08 30.12
+9VA0 2PN5 2.00
+2SD2 9OG1 244.54
+32NJ 0CO0 27.95
+0NC7 2SD1 15.19
+2XA3 AK85 65.66
+AGRC 33VA 237.42
+0GA9 33FD 5.00
+0CN2 AK63 34.41
+AA85 30PN 75.42
+AK90 30KS 57.47
+30LL 0MN8 9.93
+0OI4 AK85 67.51
+2TE1 0KS4 10.48
+9MN1 0MN3 1.00
+0IA6 AK66 59.88
+33AK 9MT0 41.44
+0FD2 0KS4 17.85
+AGGK 2VA0 247.15
+9MO4 9WI3 10.12
+34IS 09PN 17.60
+0NC3 AGNA 238.40
+0CL3 0IA6 26.21
+2WV2 2OR1 39.54
+0MN8 9MN8 9.00
+0MD9 0TS6 22.85
+2PN3 2SD0 29.71
+2SD2 9MI9 17.37
+31AR 2OH8 14.15
+0FL9 34AR 17.12
+33II AK63 70.65
+AK21 32CL 40.38
+2OR3 2SD5 14.59
+30W AK19 61.59
+AE-0024 34PA 127.13
+31MD 9TX2 21.95
+0OH4 34NY 4.16
+31FL 0CD5 20.98
+AK64 9TX9 67.08
+2XA2 0GA9 10.81
+2VT2 0SD2 23.84
+34MA 0OR5 56.12
+AA06 AFK 237.67
+9PN1 2T2 8.81
+31MD 2WN7 17.58
+2VA1 2S3 9.54
+0MU7 0OI4 10.21
+AA44 AF-0005 205.80
+AK81 AA11 5.81
+2NV2 9Y2 28.13
+32TS 32MO 7.46
+32TX 9WI1 16.23
+9LL2 32IS 4.00
+9ND1 9TN5 18.74
+0S5 0PS9 43.82
+2WV3 33AZ 31.87
+2OK6 31TE 2.96
+2WV6 9TA2 15.01
+0MO2 2WN3 4.87
+AHT 2TS3 274.20
+AK60 0NY6 82.86
+0KS4 9TA9 11.96
+9PN2 2NR4 0.58
+9Z9 0O9 30.45
+9TN5 0OH7 8.45
+2SD2 2VG4 20.74
+2VA3 9VA6 2.00
+0C5 9NJ2 9.14
+09PA 2PA8 0.00
+0MU7 9ND8 10.52
+0GA9 0PN8 6.91
+0AK6 0OI1 63.74
+0AK6 9PA2 74.60
+2PS8 2S3 8.96
+9PS0 2PS5 6.00
+31MD 34MS 16.61
+33CL 0CO9 14.91
+AK45 2P2 77.72
+2TN2 9OA8 13.44
+9MT8 2SD8 13.40
+33NY AK47 77.09
+2S3 30AL 4.92
+AIH 0OK6 238.52
+2TX5 2VA5 25.07
+0AK6 ADJ 146.63
+0NK4 2PN3 5.00
+9PA6 33VA 5.00
+9PA7 31WA 47.89
+0NE5 AK72 53.80
+0NK9 30PN 6.00
+AE-0011 0C5 142.60
+0MD5 0LL0 9.27
+0MY1 32WA 5.98
+9PA6 0GA0 8.30
+0MU5 32LS 12.06
+31CO AK66 44.95
+0SD0 2XA6 17.18
+2OK2 2R3 58.70
+0CL3 0MU4 28.02
+2NJ7 0PS7 7.00
+0NJ1 09KS 23.94
+2R3 09VG 73.78
+0MI1 2WA6 32.87
+34IS 0IA4 4.00
+2VG8 0LA3 14.89
+2XA7 0NE6 5.49
+9VA6 2VA5 4.00
+32AK 32II 71.01
+0TN6 33II 1.00
+2W1 9TS4 30.17
+0OR7 0L4 13.55
+AGGE 0N5 234.95
+9PN7 2SC8 4.30
+2PA4 2XS4 19.50
+0NM0 09LA 17.63
+0NE6 30NR 16.32
+2NJ5 09W 9.00
+2WI9 0SD3 15.67
+31FD 33ID 35.50
+0MO5 31AK 60.59
+2WA8 0TA4 25.58
+0OK7 2PN8 21.00
+2PN7 2XA4 16.24
+0MO8 0IL0 9.00
+2ND3 2TS6 14.49
+0LS5 34MA 22.66
+9OA2 0TA2 18.98
+2VA1 2XA8 24.76
+2TE1 0LL7 11.91
+32NJ 0NK5 8.00
+9TN9 9PA8 11.80
+2ND3 0KY4 12.48
+0O9 2TX4 31.24
+AK60 33OI 71.91
+2RI7 0OK6 24.69
+9WA4 32TX 24.20
+33VA 31TE 18.87
+2V3 A77 68.67
+0FA2 AF-0005 156.43
+9NK4 2TX3 30.67
+9MI8 0LA0 14.38
+0TN6 ADV 113.97
+9VA7 9MN1 16.81
+2NK7 9TS6 26.10
+32XA 33AZ 7.00
+9VG9 34IS 7.62
+0O4 9PN7 47.80
+2SD9 2U8 12.01
+AFK 0TA7 186.94
+9MD9 AA27 76.75
+9TN5 33OI 10.47
+09TA 9WI4 15.48
+AA33 AK08 3.00
+AE-0002 0MO8 145.59
+9OR4 9LA7 29.82
+0OR2 9VA0 47.91
+AA27 0MU7 68.17
+2VA2 0LS2 11.63
+0R9 2VA3 21.52
+2PN8 33KS 17.47
+2NY4 2OR1 40.48
+9VG 2NR4 6.00
+0IS3 9PA3 17.43
+9TN2 AGEV 252.68
+0KY1 30IL 1.00
+AK93 0MS5 59.84
+32CL 30XS 23.22
+9OK4 2ND1 11.65
+2NY0 0CT3 5.00
+31TE 2W1 27.80
+0MO4 32LS 11.64
+9WA4 0MN8 23.10
+09VG 9MI9 2.82
+0TA9 AGGI 261.59
+0NV1 9WI4 29.00
+AA02 33MN 53.01
+31TN 9W9 10.83
+9PA1 0MU1 22.11
+30AK 31NC 73.74
+9XS0 9ND8 22.70
+2OI8 9MO6 5.90
+9XA1 0MI2 14.06
+0NM7 34PA 30.96
+31KS AK31 52.79
+2PS0 0LA7 14.30
+0NJ7 2VI2 80.67
+0C8 2NH3 21.18
+30GA 9LS9 2.46
+2PA4 9VA4 5.00
+09II 2NK7 11.89
+AE-0011 0MI2 143.15
+AA09 2P2 62.21
+0ID0 34AR 28.99
+30NY AFR 228.83
+2NY7 0N4 4.00
+0TA9 30LL 14.26
+31AR 2NR4 13.58
+9TX9 9NY2 24.21
+9WI6 2NV2 28.11
+2WI8 9VG 9.39
+0N4 0MD9 6.00
+30TA 9TE7 1.00
+2WI9 31FL 13.92
+9TN2 0NJ7 9.81
+9VA7 0NM7 33.36
+0OH4 0Q3 37.27
+34ID 0MO5 25.08
+09NC AE-0012 130.57
+0OK2 AK91 60.80
+2VA7 2TS2 23.20
+0OR0 2WV6 42.20
+9TE5 0AL2 7.26
+2WV5 2XS5 21.43
+0CA3 0CT7 43.31
+9TX9 0MI1 17.06
+9OK2 2VA4 20.83
+31WA 34CL 4.42
+AGAT 9MN8 264.38
+0IA0 9WI6 6.57
+0MO1 2T5 10.61
+31NH 0MY1 43.84
+9TS4 2WV6 20.28
+0TN9 0CL3 32.12
+32GA 2SD0 25.86
+0NK8 2PA8 9.00
+9PN7 0LS6 16.14
+33FD 9NJ1 17.76
+0GA0 2S3 8.55
+30TA 2TA4 4.00
+2PS6 0OK5 17.01
+09LA 2TN9 4.38
+31TN 32FA 5.26
+9VG 09LL 14.81
+2TX7 2NK0 26.99
+30NR 2TX5 16.45
+AGAT 33NR 242.61
+33VA 09VA 8.00
+AE-0017 34NH 129.81
+2PS0 0C8 12.37
+0S5 2TX6 15.24
+0IA4 0TS2 5.24
+2ND2 33LS 17.45
+AGGH 2OH6 252.29
+9MS7 0FL4 4.00
+09LL 09KS 7.42
+9OR2 9PN1 39.50
+0KS7 0NC3 22.26
+0G5 AA02 64.11
+33A 0CL1 32.44
+31AK 0S5 37.31
+0MY1 2Q9 14.67
+31LS 30NM 11.77
+AE-0004 2PN2 131.64
+0MN9 30W 0.92
+2PN9 AGGQ 236.26
+9MD9 0MN0 22.29
+2NK8 0NK8 7.00
+0SD2 0IA3 5.39
+AE-0010 0TE0 155.36
+0NK8 9NR9 5.65
+9LA0 31LS 4.00
+9W3 AK28 68.60
+AGGE 0FD3 247.87
+2OH8 9OK1 10.91
+2WV3 33LL 2.90
+9PN7 33IL 13.59
+2TN9 2TA4 12.85
+ADC 32TS 250.35
+09WI 33FA 22.46
+2TN2 0LA8 1.00
+0AK0 0IA4 60.50
+AEQ 9ND1 219.48
+30GA 0TE9 8.67
+0IL4 9TA1 12.83
+0MS4 2OH7 6.92
+09LL AGEV 249.39
+2SD1 A68 47.69
+0NC3 0PA8 1.62
+0LS8 2XS4 2.00
+AK85 30TS 58.06
+AEQ 31CT 191.10
+0NK4 2OA4 7.38
+2XA0 9V2 10.35
+0Q3 32AZ 15.47
+30AK 2U0 41.55
+33LS 2U8 30.20
+0CD2 AHT 281.78
+0ID8 32MO 28.22
+2ND3 AK60 58.78
+9WA7 2XA8 32.25
+9MD9 9VA6 8.00
+0LA5 AA30 70.10
+AK28 9PA4 78.90
+0CT3 0MD0 3.00
+9VA0 2U7 30.74
+0MS0 2VA2 14.72
+2VA3 2TN2 6.51
+33FA AGGO 239.99
+0FD0 0II3 12.34
+09TX 0LS4 13.84
+30W AK26 74.11
+9OR1 32MO 32.40
+0MD5 AK83 77.14
+33CL 0NM0 16.69
+0CL2 AF-0005 189.89
+32PA 2OR3 45.14
+0NY6 AK85 75.46
+2T7 2Y1 13.57
+9TS2 2NY0 26.18
+0FL8 0LS8 12.26
+2VG3 31CA 40.26
+9TX2 0O4 21.78
+34CD AGG 256.43
+2NY2 AE-0004 129.52
+AA35 AE-0024 186.50
+9V2 9MS7 19.92
+AK72 33AZ 46.26
+ADV AK85 185.87
+2OH4 31OH 4.00
+32CL AK47 35.96
+31MD 33ID 41.88
+33IS 0MU5 1.30
+2NR4 AGGO 233.38
+9NY1 2NK9 8.00
+33NY AGGY 242.70
+0Q6 2SD5 13.71
+9VA9 2NY8 8.80
+0S5 2WV6 32.05
+AK84 AFR 310.23
+AK86 2WV6 76.46
+AK85 2XS4 59.18
+32XA 9TA6 10.62
+0OK1 9MI8 11.48
+AK93 0MD5 77.83
+AK24 9X9 57.18
+0NJ2 AE-0012 127.53
+0NC7 2OA5 3.09
+9WS2 9TE1 17.03
+30IS 9WN3 8.00
+33ID 9M0 19.89
+0KY4 0GE0 2.00
+0AL8 0MI2 6.48
+AK72 9PA7 77.68
+2ND4 34MS 22.77
+0II3 33MT 30.04
+2NY7 9MN6 19.68
+2U7 AGKG 277.35
+0GE0 9XS3 20.68
+30AK 31TA 65.52
+0C8 33MN 12.77
+31NC 0NK5 9.37
+9TE9 0FA0 17.86
+0CL9 9TA7 21.81
+9OR1 9TN4 34.86
+AK84 2NK7 73.88
+AGNA 9OR1 289.37
+9XA1 33NR 18.57
+0CL2 9WA6 15.90
+9MN1 32PA 15.87
+0TE0 0NY6 29.89
+0MT7 2PS0 36.79
+0LS6 2TE4 2.00
+AGGE 0TA4 254.23
+0KY9 2NK7 10.17
+2PA4 31KY 9.63
+9TA6 0MS0 4.56
+0FA1 AK74 75.79
+31XS 32GA 8.99
+AD-ALV 0AR7 94.11
+34CD 9OR6 21.01
+0OR9 09VA 38.95
+0TE5 2SC8 22.17
+30WA 2Q9 6.71
+2Y2 9WI2 8.79
+0ID7 0OR0 5.16
+9XA4 2TA4 0.00
+0NJ2 2VG4 4.27
+2VA0 0MA5 6.88
+9XS3 0FA0 21.35
+9MS7 0LL0 6.91
+9LA0 2OR2 38.02
+31CO 9OK2 13.28
+2OA5 09W 3.48
+AK97 31NE 55.56
+AHT 9VA4 259.20
+09KS AK31 47.97
+9WN5 9OA2 10.06
+0NE6 2OG4 19.66
+0FD3 AK28 72.71
+0MO8 2NK4 19.93
+2TE4 0MU1 4.35
+9XS0 2ND2 13.85
+2TX3 AK45 79.78
+30AL 0TE0 12.84
+9MI4 2TS9 9.47
+32OH 2WI8 10.06
+2TA4 9LS9 7.62
+9OI9 0GA7 5.65
+2VA5 9R5 25.96
+31CA 2NV2 6.41
+9PA7 9TA2 21.44
+0MT5 AGGU 277.33
+32IN 0OR0 32.70
+2OK2 33LS 8.35
+9MI3 AA16 62.96
+AK21 AA51 8.87
+9OH1 AA30 72.60
+9WA1 32TN 37.87
+2OH7 0MN2 13.52
+31AZ 33XS 11.50
+9NE8 0MO1 9.99
+9VG 0MT3 43.19
+2WI8 2W3 32.63
+34PA 33LL 9.12
+2OH7 9TA7 17.41
+0SD0 34CD 7.89
+0AL4 0FA5 8.17
+0OK2 0NJ3 18.60
+0TE8 9LA7 7.20
+9VA7 2WN7 17.05
+AE-0007 9WI2 140.85
+0MN3 9NC1 14.08
+2VA0 0CO9 21.43
+AK51 9PA2 82.33
+0FD0 9TX9 20.79
+0IA8 2TS9 11.51
+0II9 9TA9 15.11
+2TX3 0OK2 9.84
+0NM7 2NK9 36.41
+0FD0 31GA 9.52
+2ND4 30NR 26.44
+9OK5 9PN1 13.93
+0AK6 9MI9 67.35
+9LA4 0TA4 6.82
+2WI8 09IN 8.00
+2OG4 AK74 34.09
+0MT1 0AR9 16.70
+32KS 2WN7 12.09
+0IL4 2WV2 3.11
+ADJ 2VA5 78.16
+AK47 0MN9 62.17
+33NR 9LA1 5.09
+9NA4 AK63 49.99
+2PS6 32FA 16.76
+2VG3 9MI5 8.61
+9XS3 32TX 8.95
+0LS3 31NH 18.86
+AK86 0NM0 50.70
+31MD ABW 225.15
+0AR9 0OR2 31.26
+AGGL 0GE0 249.52
+AK90 9NE8 48.64
+32XA 9TS4 1.98
+0FA1 31XS 17.54
+0MT3 9WN4 25.06
+2NY8 0NC3 10.44
+32NJ 0PS9 2.00
+33MN 34NY 14.48
+2TA4 0SD2 18.19
+2XA4 31NH 27.31
+9NY4 0MU1 11.85
+0IL4 9TE1 13.83
+0PS9 0MN8 13.66
+33FD 31LS 12.60
+30IL 34NC 3.38
+9MI4 0NK4 9.87
+0AK8 9TS2 58.36
+30NM 9WA4 22.32
+9NE9 2VA 1.00
+32IL 2W1 36.11
+0CT0 2OA4 14.61
+9LA0 30VA 5.97
+2UT2 0NJ6 37.05
+0MN2 2NC9 21.68
+09TX 31CO 10.70
+34ID AE-0012 171.83
+0N4 34CD 32.98
+30NM AK47 53.99
+2VG7 0FL6 11.21
+9PN8 9V1 19.24
+2VA4 AE-0007 127.67
+9OK5 AK47 57.07
+32IL AK08 61.61
+31KY 0L4 28.87
+9M0 9NE8 7.03
+0PS7 09W 8.00
+0C2 AK25 62.06
+9OK4 09W 19.42
+2NK4 2NY2 1.00
+31WA 9MO6 34.83
+0OR9 AA85 34.98
+2WN9 0II2 33.85
+9WN3 9MD9 9.03
+09IL 0MD7 12.22
+2PS0 0NC3 2.00
+0MD8 0OK1 18.23
+30XS 9NY2 22.76
+2U8 32FA 36.32
+2Z1 AK61 13.35
+0PA8 2NY7 2.00
+2TS2 2VA0 17.17
+0NY5 0FL7 14.59
+0L5 32XA 15.98
+34CL 0LA0 32.28
+31WA A77 33.39
+2S0 32MS 37.68
+32NE AK39 56.57
+9VA8 0AL9 7.43
+2UT2 0AK0 47.51
+AA06 2NY2 77.06
+0AK8 33AZ 47.80
+31NC 9TS4 11.83
+9XA4 2OA4 16.16
+0C5 9MI5 3.00
+30NJ 2TN2 10.31
+2SD0 32II 18.14
+0MI7 32NJ 11.37
+0MD4 9TX2 23.28
+2PS5 30AZ 41.00
+A77 09NC 81.14
+AF-0005 0PS7 146.83
+9TS4 A79 63.47
+AK74 30PA 79.89
+0ID0 32MS 27.05
+2XS5 0CA0 15.20
+2PA4 9W8 3.00
+9TN1 AE-0004 146.11
+0CL4 0CA0 4.00
+AE-0002 2WV6 135.73
+0C5 2OH4 9.00
+9X9 0II9 13.35
+9OH1 2OR1 35.38
+0FL5 0TA3 17.87
+2TA3 0FL7 27.39
+9LA1 A79 68.30
+0IL4 0MI3 9.00
+AK88 9XA1 60.18
+33OH 2OK7 11.30
+9WI6 9MI5 8.80
+0NY5 09TX 26.12
+0CA4 9PS3 44.28
+2PN3 2XS5 27.53
+33IS 31AK 59.89
+AE-0001 0MD9 132.85
+2PN4 31GA 8.33
+0AK9 33WI 62.23
+2OK3 2VA5 22.04
+9M0 AGNA 262.83
+31KS 0CL7 16.71
+9OK7 A57 44.80
+33NR 9VA6 1.98
+AK92 9OK5 62.62
+34MS 2NK4 22.29
+0CA0 2NK8 41.94
+0NE5 AA85 52.50
+30NM 0KY1 12.49
+A57 0NK9 61.68
+0ID7 33TN 33.89
+30NJ AK43 74.70
+9TN5 AGRC 250.96
+9TS2 0IA8 10.71
+AEQ 32NE 222.26
+2NE6 2NJ0 30.22
+2XA3 31WI 11.85
+AE-0001 9TA1 149.69
+2VA3 AIH 222.64
+AE-0012 34AR 140.91
+AA06 0MS9 61.71
+A69 0MT1 31.63
+30KS 32TS 4.86
+0KY9 ABP 232.02
+2Y2 9TN1 12.35
+AK72 0OK0 54.19
+9VA6 9NJ8 0.00
+2XA5 AGGH 260.71
+0FL2 0CT7 18.76
+0NC7 9VA7 5.00
+32AZ AK85 45.96
+9MI3 33A 5.58
+0NJ6 AA35 64.80
+9WN5 9OR1 31.26
+0FD2 AK26 94.63
+0OH4 A69 61.56
+0NC8 0ME4 13.20
+9LA0 31CA 24.05
+34NC 32WA 37.92
+32II 32MO 5.27
+9TE9 32AK 61.95
+AK50 9NJ6 75.14
+2S3 AK97 64.11
+2OH8 AGAT 246.04
+0AK0 ADV 179.92
+0MO2 AA22 64.01
+AK96 09MI 78.42
+0MO4 0LL2 5.00
+2U7 9XS0 21.49
+2PS8 9PN7 6.00
+09MI 0NK8 12.92
+0NJ6 AA30 82.48
+09WI 2SD9 8.84
+0OI1 AD-0001 81.95
+2NJ5 09II 10.47
+0CT7 9OK7 19.91
+9OA2 33MT 27.56
+0FA0 AK39 79.07
+9MI8 2WN3 5.01
+0NK8 09IS 10.41
+2NJ1 0OH4 6.18
+09IN 0MI9 4.00
+9MN8 31NC 13.12
+32TX 2TE1 0.00
+9OA9 0NM0 28.59
+9WN5 34MA 18.80
+AE-0024 33LS 142.16
+0CL9 34AR 23.83
+0CL8 30W 27.26
+30AK AE-0012 204.42
+2ND1 0LL5 11.62
+2NE6 0MI1 16.16
+2WN7 9MN1 1.00
+2OA5 0IA8 11.65
+9LA7 0CA1 28.84
+AE-0017 A29 194.93
+0MU5 09OK 4.00
+0SD2 AA35 42.72
+9TS6 9MO9 10.18
+0MD4 31FD 7.17
+0AL2 31OH 9.18
+9VA9 9NY3 9.44
+30LL 0GE0 11.16
+2SD8 2PN7 12.01
+9VA0 09IN 9.47
+0AL9 9WA6 33.97
+AGGI 0CO9 273.07
+2OA4 9W8 6.42
+31MA 33IS 17.57
+2OH6 0IL1 4.00
+0NJ7 0OK7 29.14
+AK54 0FA5 75.35
+9LA4 2VI2 66.47
+AK87 0AK0 9.00
+0MD8 9LA7 21.31
+9NY4 09NJ 1.00
+0CD5 2NK7 27.37
+2ND4 2ND4 5.00
+AF12 0TA2 165.75
+9OR4 0CL4 7.78
+2VG3 32TN 11.97
+09NC 2TE4 15.35
+34MS AA51 72.17
+0NC3 AE-0002 135.32
+0CO5 2WA8 18.53
+09VG 30NM 21.19
+2TS7 2WN3 16.70
+0GA9 0PS8 13.21
+AA01 30IL 65.51
+09TA 0AK7 58.67
+ADV 9NY6 104.73
+0CA1 AHT 302.16
+2WY3 2NY2 33.02
+0O4 30GA 36.38
+2SD9 AA35 34.76
+AD-0001 2SD2 104.45
+AA38 2NY4 76.86
+0NY5 9NA4 27.83
+0ID2 0NJ6 38.47
+0T7 0TA2 6.35
+0CT7 0LL7 10.46
+2PA8 9W9 1.16
+33LS 0NY6 15.00
+9PA2 9WN4 9.38
+32IN 9NE9 7.32
+33ID 2TX3 17.02
+30LL 0CO0 17.77
+AK88 0NJ3 72.33
+9V2 9OR4 15.35
+2PS8 2VA2 8.00
+AK64 2OR3 38.87
+AK42 9WI4 63.75
+AK21 2Y2 60.36
+0GA0 0MS5 7.55
+0ID3 AK98 51.51
+2NJ1 AD-0001 74.61
+2Y1 30XS 14.46
+0TS2 AK57 58.10
+0LA3 0OR9 34.51
+9NC2 0CA1 39.66
+31NJ 2PN3 8.00
+30IL 30VA 10.84
+0CA4 0CD2 17.34
+0OI4 9OI6 6.00
+0PS7 32PA 7.00
+0CL3 9OI9 31.66
+31WI 0O4 36.71
+0ID8 2TX6 14.89
+0C2 0LA0 11.67
+2NY9 34NY 0.00
+2NY8 9WS2 14.21
+2NK8 AA06 74.70
+33KS 9NC5 8.96
+2OK4 AK84 62.09
+0FA5 2Q9 40.48
+2WN7 0KS7 6.14
+0Q6 0OI9 41.74
+0G5 2TN9 15.49
+30NR 0NJ3 10.47
+9TX2 33MT 25.68
+30AL 0FL5 5.23
+0TA4 2TS9 9.00
+30NY 2VA 20.86
+AK61 34PA 70.29
+9TA9 AGNA 259.78
+AF15 0CA2 186.92
+32MD 2Y3 66.03
+0MD9 33AZ 33.57
+AF12 9OK1 164.34
+0CT8 0CT8 8.00
+AK42 9LA4 67.14
+0MS9 2WV2 8.16
+2PN2 9VA9 7.00
+32TX 0Q3 27.34
+9OI6 0FA5 10.07
+0CD2 2VG7 29.39
+2VA5 AEQ 191.82
+9MI5 ADV 110.17
+2WN7 2VA3 13.68
+0AL8 AK60 77.44
+9TS2 31LS 2.00
+09PN 30IL 12.46
+0IA4 0MS4 5.84
+A57 0SD3 32.88
+33TN 2TE4 7.93
+0NM0 AA85 49.16
+2TX5 34CD 8.70
+AK62 31CT 60.88
+0FL7 9TN9 9.87
+2OH6 2PS8 6.55
+AK66 9XS5 51.91
+2NY4 2OK9 15.81
+9XA4 31WA 29.46
+32OH AGGK 251.63
+2NE6 0IN8 19.22
+2TA4 9PA6 23.42
+33NY 0KS2 20.78
+2PN9 9W8 3.00
+31GA 9XS2 7.38
+9WI9 AHT 271.38
+9OK8 34CD 9.25
+0PS5 2PN5 4.00
+2NK3 0MN3 25.70
+31TE 0OI3 18.28
+9XS3 2XA4 9.00
+9PN6 0PS8 0.00
+AD-0001 0AK3 150.26
+AE-0007 2SC4 133.60
+9TX6 2VA4 26.61
+33OK 2SC8 17.43
+0ID0 33CN 5.31
+2PS6 2NY7 3.00
+9XS5 32XA 6.00
+0LA5 2PA0 15.20
+31MA 0S5 47.01
+0MI3 2VA2 7.73
+9LA7 33OI 17.57
+31CO 0ND6 11.98
+32WA 2NC8 41.01
+2Z5 9PA4 71.84
+0MI2 9OK4 17.29
+2VA4 9MO3 13.63
+AGGO 0GA7 248.05
+0MO1 AIP 267.77
+32KS 9LL2 14.05
+2VA7 0IN4 4.89
+0IN8 AA27 74.84
+0II2 AGK 235.90
+0CT7 31MI 12.02
+2PN9 2TN0 17.47
+AK69 31WI 65.28
+9MO0 33MT 21.77
+2PS6 2OH4 2.88
+A79 2WI1 66.75
+9NY2 2RI7 6.30
+2NH6 0ID8 45.79
+9TE9 9OG1 242.12
+0CA2 2OK2 21.22
+9PS0 0SD6 17.10
+09TA AA16 57.35
+0AR0 2Q9 22.91
+0TN4 0OI2 3.00
+32CL 0SD0 23.84
+0KS7 2U0 19.59
+0CO4 0LA3 13.65
+34NH 0AR7 23.44
+0MO5 9TN2 1.56
+33ID 9NJ8 34.85
+0IN8 0IN8 3.00
+AA33 0AK3 2.00
+32NJ 0CL7 40.52
+0NJ1 0CD6 33.85
+AGAT 9MO0 250.66
+9NY6 31XS 27.16
+AA38 0AL5 70.99
+33NR 2OR3 37.55
+32LS 33II 14.61
+0KY1 0OK2 12.43
+0FD2 AGGF 244.22
+0OI1 32GA 9.73
+AK88 2TN3 72.67
+9VA2 30PA 1.00
+34NC 32TS 20.60
+AK19 2OK4 55.09
+31GA 34CD 23.02
+2TN2 9M0 7.16
+0MA2 9TA7 26.55
+AIH 0MA5 215.99
+9XA1 31MI 13.36
+2NC9 0IS3 8.34
+31CT A79 85.03
+0MU5 0IL0 7.49
+2OK4 33PA 24.52
+AIP 0CO0 273.92
+2WA6 30NR 42.64
+0GE0 0NC7 7.45
+9PA5 0OI2 7.83
+AGEV 0FA0 236.28
+30KS AHT 275.70
+9TA2 2WV5 14.86
+AK64 2SD0 52.44
+AK63 32II 71.97
+2UT2 2NK3 40.53
+2XA2 9W3 18.20
+31NY 2U8 36.71
+0II3 0LL3 6.00
+2NK9 0AK7 82.99
+0TE3 0OK7 6.00
+9PS6 AGGO 236.03
+0LL3 2WV2 11.98
+AIH 0Q3 263.63
+0TE3 9PS0 21.85
+AK60 32NJ 80.79
+9PS5 0PA8 0.00
+9MI4 0L4 28.12
+0IA0 9PS3 16.98
+0AK3 AK57 2.00
+2PS5 2OR2 48.39
+AE-0009 9LA4 143.58
+2Y3 34NC 64.74
+9NR9 0MA2 5.20
+9MO3 2Y3 45.15
+2NR4 0PS7 3.19
+30NJ 32TS 20.08
+2Z1 9VA7 60.51
+0IA6 2PN5 18.00
+2Z5 AK31 8.93
+30PN 31XS 13.87
+2TE2 AE-0024 145.79
+0LL2 33IL 9.00
+2SC8 2NY7 7.19
+30NR 0MD4 1.14
+31CO 2ND1 11.52
+AGGE AK35 309.88
+0LS2 9N2 16.37
+2TN3 AA09 66.82
+0PS7 2OR2 42.16
+2U0 2T2 23.38
+2SD8 34ID 14.72
+0CA2 2NH3 51.82
+AK43 0MS9 63.58
+0PN8 31AK 69.61
+33IS 2VI2 61.94
+2WI9 0TA3 17.37
+09II A29 51.32
+A69 09TX 44.30
+2WN3 9N1 13.20
+0LA5 9Z9 67.08
+9OA2 9TX6 13.48
+2PN5 32NE 25.78
+AK64 9XS0 65.28
+32MS 9MI9 12.92
+32LA 2U5 24.92
+31NH 2OR1 49.27
+AGGL 0KS7 269.09
+0GA2 0MD8 3.94
+34AR 2TX4 12.77
+9TA7 09PA 16.36
+0CA2 0MN9 29.18
+AA16 2NY3 83.42
+0LS2 2XA4 10.97
+2OG4 9XA1 27.22
+0LS4 AF15 157.75
+0AK6 AK21 7.19
+9WI6 30NY 14.70
+30LL 2U7 24.97
+AK1 0NE5 46.28
+0KS4 34MA 20.92
+0CD6 33NY 26.31
+9LL2 9M0 7.35
+9NE8 AK90 56.64
+0MI9 0CO5 17.66
+9N1 9N2 9.00
+AK21 AK47 5.57
+34PA 0MN4 19.38
+2NC9 2TN9 11.72
+0NJ2 9LL2 14.38
+AK54 9TA9 63.60
+2NH3 9NJ2 0.00
+2Z5 9MI9 63.22
+33A AK19 70.12
+31XS 2XA7 1.00
+31FD 2OH4 8.16
+31CA 2PN1 40.15
+2T5 9OA8 3.71
+AF12 2WI8 159.95
+0MD7 9PA3 3.00
+0N0 2OH6 5.19
+AK86 AK21 12.24
+32AK 9OA8 74.07
+AK35 AF-0005 216.73
+09IL 2OH4 1.49
+9OK8 32TS 2.23
+2OA4 2NY2 5.68
+0IL0 2TX6 11.85
+9PN6 AK35 72.41
+0FD2 2XA5 19.87
+AGG 31MO 245.87
+30TS 9NA4 12.39
+30NJ 31KS 20.27
+AGGK 2WI9 259.31
+0OH4 AK64 80.06
+AK98 9LA0 89.32
+2Y1 0L4 19.26
+AA01 AGGY 321.04
+0FL9 0MO4 14.57
+0CL4 0MI7 35.78
+0LS5 9MN1 10.34
+2SD2 0O4 27.46
+0NE6 0TA4 7.14
+9MS7 AGGS 252.44
+2U5 9NK4 42.18
+2NY4 32LS 13.65
+2ND2 09TA 15.64
+0MN3 AF12 163.67
+2TA9 32NE 7.34
+2NH6 0LA0 26.69
+9TX4 AF12 161.75
+9TN9 9NJ6 12.52
+2TX6 2NK8 29.73
+AA22 9WN3 59.51
+31NH AK19 80.06
+AK21 2UT2 48.04
+0PA8 0MD7 5.00
+2PS0 9MI8 12.08
+0MU1 AK21 70.26
+0SD4 32MD 19.51
+2XA7 0AR9 8.00
+0OR9 9PN8 47.19
+33TN 09XS 11.78
+34FD 0AL4 4.40
+2TX7 0CT3 21.06
+0II9 2VA2 9.07
+0CT7 0N4 4.00
+9PA6 09PN 3.00
+2NE6 AGGQ 265.93
+9NJ8 9LS9 16.42
+31AK 2W3 26.92
+30W 0MN8 4.05
+2NK9 0GA7 11.52
+AGGU 9W3 244.78
+0MY1 0G5 21.75
+2TS3 9NE8 5.25
+9PS3 2VA1 7.00
+0MI7 9NY1 5.40
+0NA9 2TA3 17.05
+AK26 AK47 16.18
+2NK9 AK61 78.73
+2XA7 AK26 74.65
+AGGY 2PN1 238.19
+0TE8 32GA 14.27
+9NE8 0OR9 25.48
+0GA9 2TE1 14.54
+2U7 0SD3 6.77
+9VA6 9TS6 20.05
+31MA 2PS9 1.00
+9NE9 9PS6 18.91
+0NE5 33CL 18.55
+30TA 0KS4 7.55
+AA85 9NC5 73.01
+2TS2 0D7 23.18
+2VG3 2P5 5.00
+0NJ1 09LL 10.73
+0TS6 0OR7 30.64
+9N1 A68 71.17
+0PS9 9N2 3.00
+2TE2 9LL2 4.51
+9PA3 9MN6 20.86
+AK54 2XA0 60.81
+9PA7 2XA3 22.15
+AA16 31XS 61.49
+AGGK 2NY4 240.85
+0NE1 32OH 21.58
+0IA6 0FD2 21.79
+2NE4 2NE4 6.00
+2TS9 9VA9 20.82
+0TE0 9LA4 5.99
+2NH6 2ND2 29.56
+0CA6 0KY9 33.50
+0MU4 0MN4 3.01
+2SD2 AIP 270.14
+0ID2 2NJ0 39.85
+33FA 0CO9 23.12
+0CL2 2WI1 26.66
+0ID0 2WV6 32.57
+0OR5 32PA 40.73
+2NY9 0NK4 6.00
+2XS5 0GA2 16.08
+AK92 9LA1 61.53
+AGK 9TS6 243.13
+9TX4 2Y1 12.49
+30WA 31FL 42.41
+2TX5 09IS 10.86
+0MO8 9MI5 3.30
+AA09 9MN6 52.94
+2VA1 0SD0 28.67
+0OI9 33OK 10.64
+9WI1 2U0 30.94
+9NC2 AK57 79.06
+9WI4 0TE0 18.61
+2XS4 9PN7 23.59
+0KY1 31MO 6.78
+0IA3 0CO9 17.51
+0KS7 AA02 61.25
+0R9 0L4 14.97
+0NK4 9TX2 21.24
+AIP 9PA2 249.50
+0KS9 31KS 0.00
+2XA0 0KS9 5.00
+0OK5 2PN3 15.70
+AGGL ADC 24.37
+0CL3 AK88 44.28
+2S3 32MS 15.93
+AK47 0KS2 62.94
+9Z9 AGAT 322.02
+AGGY 2TX4 257.24
+0CT8 30AK 79.12
+2VA3 0CA0 39.52
+0NJ3 AA33 74.03
+9MO6 0NC4 13.61
+AK92 2PN9 80.77
+0CO9 33ID 13.44
+AK84 33OI 71.48
+0CD6 9TX6 4.92
+2TX9 0CL1 21.90
+2WN9 9PS6 46.43
+9LA1 AGK 241.71
+2SC4 2NV2 35.66
+0R9 AK91 53.05
+0TN4 0OK5 13.47
+2PS7 31FD 15.57
+2S3 0NE5 12.65
+2ND1 0PA3 26.62
+0N0 A29 44.59
+9Z9 2T7 63.05
+31AK 2SD9 50.15
+31GA 34ID 37.41
+0CA0 33LS 22.48
+9TX9 2WA8 24.31
+0GA9 30PN 10.76
+9MI5 32MD 3.65
+2NJ7 9NC8 6.78
+31KY 9TX2 15.27
+AE-0001 9VA2 128.38
+AK84 9OI9 66.83
+30XS 32OK 8.51
+2PA0 0GA0 10.27
+0KY1 9OR6 37.11
+9MO4 9NY3 18.77
+9WI6 9WA1 26.92
+9V1 AA22 51.75
+0OR9 0NC8 44.98
+2VG8 A69 66.37
+9XS3 9WN3 21.05
+9VA9 30W 8.65
+30NE 0OI3 19.00
+0OK0 AK42 58.81
+31CT AK66 80.34
+AA50 31IN 69.58
+9NC8 9MI3 5.73
+31II 9VA4 1.29
+0MD4 AIH 220.39
+2VG7 9OI6 2.00
+0ID8 09II 29.62
+2NK3 2TX3 25.75
+0CL9 0LS0 23.71
+AA35 9MS7 50.88
+09VG 0LL7 6.28
+2PS5 2VI2 74.27
+9NC2 0IA3 14.34
+0OK2 2SD0 9.23
+33IL 0IN4 1.00
+2W2 0MD4 9.00
+0OH7 2WN7 3.89
+9NY1 0LS6 15.68
+2VA4 9VG9 9.00
+AGGQ 2TS3 261.45
+0CN2 0LS6 31.82
+2VG7 2PN8 0.00
+34MS 2TS2 7.01
+0MU7 31XS 2.08
+AK28 9VG 74.06
+2TA3 31KS 9.16
+33PA A57 62.76
+0MD5 2P2 7.85
+0LL3 30IN 5.34
+0PA3 09XS 21.98
+0IA3 0NV1 25.81
+0TN6 0OH6 5.00
+0AL2 AE-0007 138.74
+32IS 0AK9 61.74
+0TN6 9NE8 18.19
+0TE9 0MT3 26.77
+2ND2 9VA9 21.15
+9PS0 0OH4 2.00
+09XS 2OH7 17.29
+9NJ2 0MO4 22.07
+09LA 0IL0 10.12
+32TX 2NK0 29.46
+0LL3 9VA6 12.95
+0MA2 AA09 74.58
+0MO1 9WN3 8.89
+9VA8 0GA0 5.03
+2WN9 2OR2 3.00
+0TA7 2Y2 18.86
+2TX6 09IN 14.87
+2PN7 0AL2 4.52
+30AK 9OR4 30.90
+0NA9 9OR1 18.03
+2PA4 AK39 79.07
+9TA6 0FD0 10.09
+0N0 0OK2 4.17
+2NY7 AK31 67.56
+34LA 31GA 7.37
+0OK1 AGEV 252.49
+AGAT 9TX0 255.21
+AA27 A79 13.65
+AGGU 0CO5 267.04
+0NE1 0G0 26.24
+9TE7 9OK8 1.30
+30AL 32WI 12.07
+2PA4 09VG 0.16
+0T7 0LS2 4.62
+9OK1 AGGV 256.82
+9MN8 9TN4 15.85
+0KY9 09IL 2.86
+09IS 9MN1 9.31
+31AK 0CO7 48.83
+0C5 0FL2 10.35
+31MD 0II6 15.12
+AGGI A69 309.22
+9NK4 33IS 10.11
+32TS AK85 60.65
+9OK2 2SD5 9.49
+0LS8 0NJ2 18.26
+0MD8 9OH1 10.95
+2PS7 AF-0005 142.14
+0MT3 AF10 184.19
+AGGY AK42 311.32
+AGGI 2NK8 237.07
+0AR7 AK24 63.41
+0AR9 AK42 64.83
+0MT1 AK26 54.78
+2SD9 2TA9 16.85
+AFK 2TE4 179.31
+0MU7 9TS4 10.33
+9PA1 0MD8 4.00
+2TN9 33II 8.08
+AF-0005 0CL2 189.89
+2PN7 2TN0 6.48
+0NA9 2XA4 17.91
+0IL4 0PS5 11.85
+2PN2 9W9 6.97
+0MS4 0OK0 13.89
+0IL4 31OH 4.54
+2U0 0MT7 0.00
+0CL2 9WA7 13.47
+0FL5 0II3 14.04
+0CN2 ADJ 118.91
+0NE5 0LS5 13.58
+2OR3 9TA9 33.46
+0CO9 AE-0007 156.22
+2OA4 AGGY 252.02
+0AK6 0MU5 56.68
+2XA3 33IL 16.26
+0LS5 9MT0 24.74
+2TN0 32OK 3.50
+0FA2 2PN4 14.99
+2U8 9NY4 36.02
+9PN8 0MO4 17.21
+0MS5 2WI1 12.69
+9OR6 2NY3 52.72
+0OR2 2U7 3.77
+9WA4 0C8 34.63
+33WI 0Q4 30.58
+30AK 30NM 55.99
+31AZ 0MS0 24.65
+AGGV 2T7 251.60
+9MO9 32OK 2.23
+9PA7 31CT 2.57
+AK63 32IL 65.64
+34CD 9TX0 17.67
+0LA8 2XA3 2.00
+2WI1 0TN4 9.78
+2OR1 31IN 34.94
+9OA8 32AZ 28.92
+AGNA 2NK3 243.14
+9OR6 34LA 36.89
+0FL6 31FD 2.00
+9MD9 2VA1 1.00
+34LA 2T5 8.64
+0TE9 33IL 14.10
+2PS7 9NY4 5.00
+2W2 09II 12.48
+33PA 0LA0 20.46
+9WA1 33VA 45.13
+9PA6 9NJ8 4.00
+2TA3 9TN9 22.81
+0MD9 AE-0002 127.46
+2XA8 AK72 60.16
+0MD7 9OG1 222.39
+2XS7 9OK8 8.46
+9WA1 32PA 47.25
+9VA7 2TX6 21.53
+AA30 0OI9 69.53
+ABW 0FA2 239.80
+0OR9 9MN8 22.98
+2PS4 9TX9 24.26
+30TS 0LL3 6.61
+09VG 0CA2 37.68
+0LS8 2XA3 0.00
+0CD5 2NR4 28.33
+2XA7 AA27 62.95
+9MN2 0MO1 7.89
+9XS2 09IL 9.76
+0TS6 0KS2 3.85
+0MS2 33KS 5.83
+0MS2 9TX4 6.56
+AA02 A79 13.32
+9Y2 2T5 6.75
+2PS7 AA27 81.71
+0L5 0OK1 15.07
+31AZ 33VA 30.58
+32NJ 2OH8 12.06
+9WI1 32WI 8.00
+09KS 31TE 6.99
+2VG4 0MA5 3.85
+AE-0001 AF09 15.66
+9LA0 2XS5 11.38
+2PN5 0NJ2 6.00
+0TA4 2RI7 27.54
+9WI6 30WA 33.19
+33WI 31CO 23.71
+0MS0 2T5 13.00
+09TX AF15 175.58
+09NC 0TS6 12.38
+9VA4 AK57 71.08
+09VG 0NE0 18.27
+0C2 2VA1 8.94
+AK63 2XA0 55.62
+9TN9 0OH7 9.00
+30W 0LL0 0.00
+0SD4 9MS7 13.21
+2S3 2XS4 11.10
+AEQ 0PS9 191.06
+AA09 AF15 220.65
+0KS4 0MO4 4.00
+0TE0 0KY4 17.13
+9TE7 9OR2 25.78
+A05 0TS6 27.52
+2XS5 34FD 13.56
+9OG1 AIP 22.80
+0PA3 2TN9 15.40
+30AZ 9VA7 34.64
+2VI2 9MT8 38.80
+9WA6 2PN1 40.16
+0NE5 0FD0 21.88
+9NY2 0LS5 21.39
+0G0 ABP 225.23
+2WA6 2PA0 44.02
+2VA1 2T2 13.24
+32WA 32NE 16.61
+0PS5 9MI2 12.19
+9TA1 0AL2 8.83
+33LL 9OK7 7.76
+9OK7 9NY6 19.42
+AHT 09IN 262.88
+2NK9 34NY 5.00
+0GA7 0CO4 19.20
+AK51 2NH5 81.71
+2Z1 0LA5 51.79
+2Y2 0LA5 14.25
+9TS6 2NK0 27.09
+9MO4 0MU1 6.00
+30VA 2NK0 6.46
+0Q6 2WN9 8.44
+30TS AGGS 257.96
+9TN9 9TA7 5.82
+0MU1 0AL4 8.87
+2R3 2OG4 41.48
+0SD4 9PA0 20.57
+AIP 33FD 249.11
+0FA1 9MN6 22.98
+0MT5 9LA1 17.92
+2T5 09XS 20.35
+9TX9 0LL7 21.24
+9MT0 0OH7 27.18
+AK24 0MI7 69.86
+2NY2 0PS1 2.00
+0C8 0LA0 8.47
+0TE0 2V3 11.62
+0MN1 2RI7 24.93
+AF10 09MI 148.51
+2OK3 0GA2 16.57
+AK92 0ID0 42.42
+0NV1 34NH 46.14
+9X9 9NY4 23.71
+2SD5 0MY1 9.62
+0G5 0TS6 19.81
+9TN1 AK25 68.18
+2Y3 0LS4 53.57
+2SD8 0NC4 21.74
+2NK0 0MO2 21.11
+31CT AK69 81.66
+9M0 33OH 6.29
+2TA3 9LA7 9.66
+0LS5 0FA1 5.68
+9XS5 2SC4 20.92
+0NK1 9NY4 1.00
+30KS 9OK8 7.00
+0NY5 AA44 55.75
+9NC8 9OK5 16.73
+2ND1 0MU4 8.11
+2WY3 2PS5 35.80
+0LS4 31MD 16.57
+0MU5 0FA2 10.50
+0MS0 9LA0 9.00
+0PN5 AE-0002 131.81
+09LS 2PA0 18.46
+2WA8 30VA 34.90
+34ID 9OI6 29.68
+0MO2 AK60 68.30
+2NY2 AA38 82.94
+33WI AK19 68.46
+2P5 09II 10.41
+0SD4 AA51 55.27
+2NH3 9WI4 19.64
+0LL5 34CL 33.58
+32WA 2NY8 47.81
+30NE 0MN4 7.53
+9LA1 32TS 10.20
+2XS4 2SD8 7.40
+9PN7 30IN 11.07
+32IS 0MN4 7.15
+33MT AK57 41.44
+0TN4 AK86 68.77
+09IS 0NY6 16.48
+2VA3 0II9 7.99
+0FL8 0LA3 15.46
+AA09 9MN2 59.31
+0C2 0PA8 10.06
+AE-0010 2TS3 155.52
+0NJ3 0SD6 25.37
+0ID3 0CO7 9.92
+2NJ0 0T7 21.91
+0O9 0TN4 40.48
+2TS7 2OR3 22.99
+9V1 0CL2 21.14
+0CA4 9WI9 28.45
+0MD0 9M0 14.43
+0AK7 0NK9 80.98
+33OH 0NK5 9.45
+AK63 2TX4 55.05
+33ID 2NJ1 35.80
+33LL 0KS9 9.77
+0MT7 33FA 40.96
+2PS7 2PA8 1.00
+0TN6 AK28 68.95
+0MS9 34NY 12.68
+0CO4 0OI4 19.90
+9WI3 0MN2 4.35
+2XA4 31FD 9.30
+33NR 0CA2 38.00
+0MD8 AK50 73.82
+32IS AK81 66.15
+2SC4 9MO0 13.39
+9OK8 9TS2 9.33
+0MO5 0LL7 9.00
+AGGK 9OK9 263.48
+9W8 2TA9 26.53
+A57 9OA2 53.16
+0G5 9PS3 19.99
+2W1 33CN 16.91
+9OK7 0C2 12.63
+2Y2 0FA0 24.61
+2SC9 AGGF 243.16
+2VA0 0AZ2 38.20
+9PS5 9NC5 7.07
+30IS AA01 60.25
+0CO5 0OR2 17.99
+2PS7 0NK4 4.00
+A77 0CO0 56.09
+33PA 09KS 16.05
+33PA 2W1 47.01
+0II3 9OR4 36.84
+0MS5 9OK8 10.92
+2OK3 0N0 5.00
+9OR4 AIP 293.86
+2PA0 AK96 80.54
+9V2 0SD3 8.53
+0IA6 0TE0 12.90
+9PA4 9NJ2 1.00
+9LA4 2OI8 15.20
+31TE AK97 57.25
+09OK 0ND6 7.51
+9PS0 31TA 18.00
+0MA5 9MT0 37.87
+2NY8 0TA2 25.76
+0GA9 2Z6 57.89
+2R3 0NC3 82.63
+9TN9 33CL 32.51
+0CA6 2PS4 35.34
+2VI2 0CL3 47.05
+9ND1 0MI9 19.51
+9NY4 0C5 3.37
+0LL7 31MI 0.00
+2PS8 9X9 22.97
+31TA AK54 58.42
+9TX0 9TN2 7.64
+0AK9 2Z6 18.32
+9WN3 0MN3 9.18
+0MN2 0NM0 19.46
+2Y3 9OA8 61.61
+0TN6 0C8 10.99
+0LA7 9OK8 4.80
+0IS2 2W1 35.39
+0NK5 0TE0 30.82
+9NR9 2VG8 7.00
+AF12 9OK5 169.75
+0KY1 0MN2 10.34
+0II6 31TN 1.59
+9LA1 9LL2 6.50
+0PA8 34NH 0.00
+0LL0 2W3 35.84
+9NC1 2NY9 6.82
+AK51 9NA4 54.69
+9OK8 30TS 4.00
+0OR5 0MI9 41.77
+0MY1 0LS6 23.11
+0OK5 0FD0 13.47
+0GA7 0L5 35.49
+0PS8 31NE 19.63
+2XA4 0II9 8.83
+0NC8 0G0 5.62
+0PA3 AA35 65.04
+AK24 AGNA 321.87
+2PN4 AGGE 237.50
+9NY4 2NR4 7.36
+9PS5 2SD0 31.79
+0CA6 34FD 39.32
+2WN9 30AK 32.89
+9PA4 0MA5 8.00
+0CD6 0IL1 16.35
+2NY8 9TS2 18.74
+2TE4 0D7 16.06
+9MT0 30AL 23.45
+0FA5 9VG9 12.30
+0KY1 32OH 9.80
+AF-0005 9Z9 217.85
+2U0 9TX0 25.51
+2OR2 0MI2 37.16
+AA30 09PA 76.84
+2VA7 30AL 7.33
+33CN 0IA8 29.95
+34FD 2SC8 7.00
+2ND2 0MN9 8.36
+0MO4 9WS2 8.31
+0MO2 2TX9 12.17
+9OR2 9NC5 42.93
+09VA 9TA7 13.21
+ADV AK90 179.28
+2NH3 33VA 7.85
+9W8 2PS0 1.00
+09TA AK25 58.32
+0Q6 0CO0 11.70
+30NE AK60 62.98
+0AK9 2SC4 73.17
+2NK8 0TA4 18.92
+9XA4 9WA1 23.25
+32TN 0S5 28.12
+AK25 0L4 41.42
+A79 0CT7 81.92
+0LS0 2TA4 9.56
+2OH8 33NR 3.00
+2WV5 9VA7 4.00
+0NE1 9PS3 26.87
+AE-0004 AF12 12.83
+31MO AF15 164.19
+9PN7 0OH6 7.92
+2WN9 09OK 24.59
+2OA5 0MU5 14.74
+0PA8 0TA9 22.58
+09II 9WA1 38.56
+9MO9 32WA 26.78
+9OK8 9WA7 24.26
+32PA AA27 76.81
+0KY1 0KS4 12.99
+9OI6 2OK2 15.00
+0TN4 33OK 10.48
+AA06 9TX4 55.26
+2W1 AA09 26.97
+31TA AGGI 257.43
+2TN3 9TE5 15.95
+0OR5 0AK3 30.84
+30TA 9TN9 9.66
+31AZ 0MI7 25.73
+33IL 9PA3 16.59
+9PA2 32WA 39.81
+AIH 2ND7 247.50
+2VA5 9Y2 14.85
+9PN7 0NC7 8.53
+0ID3 9VA4 36.30
+0NC3 9VA4 2.00
+31NH AK72 81.47
+0MD9 0MO5 19.58
+AK86 9NC1 78.48
+0LA5 31LS 3.00
+0MY1 9NJ6 40.30
+AGGU 9WI3 254.64
+0FL5 9VA9 5.35
+9MI5 0PN8 9.00
+0ID2 0IA0 19.91
+34MS 2TS7 12.41
+9MO0 2PS7 13.13
+9NE8 9VA9 24.01
+0Q6 AK66 33.16
+9TN9 AE-0004 144.88
+0OK7 2NK3 25.03
+AK91 2WA6 29.40
+9PN7 0MI2 3.76
+0N5 ABP 220.27
+0GE0 AA50 68.51
+34FD 33A 1.42
+0CA4 32TS 22.73
+31AZ 0NK8 32.92
+AGGL 2XA5 263.58
+9MI2 31CA 39.51
+09LA 9TE7 3.97
+09PA 9TN9 11.59
+0OI3 30TA 19.48
+2NR4 31NY 11.37
+9NC5 9TE7 12.69
+0LA3 0R9 6.43
+0IS3 0NY6 17.14
+9PA1 0AL4 14.47
+A29 2PS4 58.41
+AK42 2Z1 19.22
+9PA7 2PS0 8.00
+2NV2 09W 42.68
+9OI6 9PA4 6.06
+0IA4 0CA4 32.71
+9NC8 AA02 77.29
+2OA5 0II2 9.00
+AK24 9OK4 54.85
+ABW ADJ 162.92
+2NH3 0NK9 4.00
+9VA2 AGG 228.30
+0Q4 0CT0 43.48
+2TS9 2U7 26.01
+2WV3 9MO6 15.64
+0CA3 0CL2 4.00
+0KS9 AGNA 261.57
+AK43 0TA3 54.79
+AFR 30KS 251.79
+AE-0010 33PA 129.35
+9MI4 9WA6 38.40
+0AL2 09NE 8.13
+2TA9 0CT0 28.05
+32XA 30IL 12.49
+30IN 2T5 9.00
+0CA3 2NK8 46.60
+0OR0 32OH 39.47
+0CA1 9MN2 28.67
+0O4 2U5 6.50
+2P2 0OI3 9.81
+9WI4 0AK8 61.28
+0NA9 9MI3 16.52
+2WN3 0IS2 4.00
+2NJ1 0CL1 45.92
+A29 ADC 284.33
+09WI 9OR2 34.73
+AE-0007 0CL8 166.62
+0IN4 0OR7 40.50
+2XA5 9TN9 9.99
+2SD0 AA35 36.14
+2NE6 0CL2 13.85
+9WI9 0N5 17.18
+9WA6 2OH6 36.80
+AK08 32KS 53.66
+0MD9 0MD4 8.00
+9OK1 31NH 28.37
+2OK2 AGGI 264.03
+0C8 9TX2 13.82
+0AZ2 AGRC 275.01
+34AR A05 30.03
+0NJ6 0TE4 23.10
+2NH6 32TX 25.24
+0S5 9MN1 21.05
+0AK9 AK54 0.00
+AA11 AK19 1.00
+2NY8 2OK9 21.05
+0KY1 9OH1 6.76
+9PA8 2PA3 0.00
+0MT7 0IA0 21.19
+2SD1 9MI4 10.47
+9TN9 2TE1 14.03
+31MA 2TA9 31.19
+AA02 2NJ1 77.73
+AE-0004 AK08 209.53
+33VA 9TE7 15.18
+9XS2 0LA0 8.00
+2NY3 2XS5 23.13
+2PS8 31LS 22.57
+09TX 0CA4 13.45
+2WV2 9PN1 1.00
+0MN1 33TN 15.93
+0G5 33NY 14.39
+2TE4 31TA 5.00
+2ND4 30NJ 25.65
+0LL5 9Z9 66.57
+33KS 0S5 23.82
+0MT5 0MU5 18.39
+0LA0 AFR 241.94
+9PN2 2XA9 26.29
+0N0 2OR3 33.18
+2S0 30PN 38.91
+0TA2 0LA8 10.42
+0LA5 30AK 67.80
+31KY 31IN 3.00
+0FL6 2PA8 17.40
+AGGO 0FL7 240.71
+AFK 2OI8 171.47
+2NK7 9OK8 22.31
+2OR3 AK72 30.29
+AE-0012 AGGH 108.45
+9OK2 0IN4 7.79
+A79 0OK6 61.71
+0MD9 AK81 77.50
+9LS9 9OK4 5.34
+9MI9 0MI9 7.00
+2OA4 0SD0 16.85
+0IN3 AE-0007 137.31
+2WV2 30NY 8.00
+0LA8 2T5 12.05
+9MO9 0LA8 11.32
+0KS7 9OR1 24.99
+0MS5 AF09 155.82
+AGGQ AK81 314.61
+9OK8 9WA1 20.24
+09TA 9TS2 1.00
+9PN1 AA06 74.17
+0LL7 AK91 63.19
+9PA3 0MD9 5.00
+2PA3 0TS2 19.52
+2NC8 31AK 72.93
+AGG 9WI9 244.53
+32MS 9TE9 3.18
+0LA3 0MI9 14.45
+0ID2 34IS 21.23
+0FL4 9VA8 12.44
+34MS 9TA9 7.74
+09VA 0ID0 31.24
+AK35 0CL1 36.78
+0AL5 0IS2 13.08
+0OI9 2NY9 9.27
+0LS3 ABW 242.37
+0LA7 09IL 16.43
+AGGV 2VA5 243.60
+0NJ2 AGGV 240.13
+9MI9 9X9 12.07
+9WI4 09IL 7.00
+9MN1 AF15 165.83
+AD-0001 0CA3 118.79
+2TA9 2PS6 27.25
+AGGI 2OR0 290.68
+33NR A57 59.58
+AK72 0MA2 84.13
+0R9 9PA7 20.10
+0FL9 0N0 19.61
+AGK 9NY3 228.36
+0OR9 9OA2 33.27
+9OG1 32IN 234.53
+0OR2 09OK 31.19
+0IA8 AK83 57.02
+9WI6 9LL2 9.09
+2OG4 2WI8 26.89
+9PN8 9TX0 24.12
+9PN7 32GA 8.82
+AFK 2PN2 163.59
+9NE9 0MT7 19.34
+0IN8 2WA6 34.97
+AK83 2OR1 30.61
+9MO9 2WY3 14.41
+34PA ABW 227.39
+2SD5 0NA9 3.00
+9WA7 30GA 40.04
+2SD0 0TN9 23.19
+AA35 0MD6 62.43
+0CA3 0NY5 45.17
+0FL4 ADC 235.20
+0TE9 9NE8 14.66
+AE-0012 32II 141.92
+0AZ2 2PS0 39.88
+AK35 30NY 68.43
+9ND1 0CA0 20.63
+AK39 9NJ1 73.26
+AA33 AE-0009 206.46
+0LA3 2T5 10.08
+9PN1 2TS3 23.35
+2SD1 0MO1 0.64
+2TX5 0MU4 7.51
+AIH 0MO4 237.37
+9NA4 AK96 58.28
+31NJ 34NY 4.03
+AA30 2U5 37.37
+2VI2 0MI1 71.84
+AK08 0KY4 65.52
+2NY9 30W 6.38
+2TS9 0KY9 10.33
+0TA3 AK64 64.14
+9TN2 2SC9 10.59
+AFR 0OH4 240.77
+2WI8 AK42 62.92
+32WA AK35 32.41
+2VA4 0CA6 39.37
+0TN6 2VA7 8.10
+0D7 0CT0 11.41
+32AZ 9NY4 29.90
+0MS2 2ND2 20.63
+AK31 0GA2 60.86
+2VG4 9TA2 25.53
+9OK5 9NJ6 26.14
+2S3 0PS5 10.50
+2NK0 32TX 27.46
+2ND2 09NJ 22.94
+AK84 0L4 41.78
+2SD0 2T5 14.20
+9X9 31OH 17.14
+9PA7 0AL5 12.88
+30PA 0NJ1 0.00
+0LL0 AK93 64.57
+2W1 9WS2 28.81
+9WN3 2OK9 15.50
+0OK6 0LS8 2.08
+33OH A29 55.83
+2OA5 0LS5 14.21
+09PA 9V1 17.84
+9OK1 A29 44.56
+0CA1 30VA 40.69
+0Q4 0MO4 29.21
+AE-0001 0ME4 117.67
+0MD0 09TX 27.75
+AFK 2VA5 159.09
+A77 0ID3 43.31
+9TS2 0ID0 26.60
+33CN 32TN 36.52
+0L5 9TX6 11.84
+9WN4 0AK6 62.24
+31NC 30TS 16.10
+9MO6 0PA3 19.62
+32MS 0NE5 18.56
+0CT8 2NK9 6.00
+9MT0 0FL9 27.82
+9WI6 0MN3 8.51
+9OA8 9WN4 5.04
+A05 9WI9 18.46
+2Z1 2NK9 61.42
+9MO3 9TX4 7.50
+0OH6 0FL9 11.54
+2OK7 9MI3 10.26
+AK98 9NC8 96.21
+0MD6 2XA6 26.52
+2NK8 0II9 11.81
+9NJ8 AF10 141.86
+9OK2 2NK0 25.29
+AK54 0NC8 71.32
+2TA9 2TX9 3.00
+0NC8 AGK 232.51
+0CT0 AK88 81.09
+2NH6 AHT 251.84
+0CA1 2PN4 39.82
+0IN8 0OK1 8.42
+0NV1 32XA 17.64
+AK26 9VA6 90.16
+34FA 2VA 22.88
+2ND7 AK85 46.58
+30NM 0MS4 16.14
+2TX4 0FL8 17.83
+0NC7 AF-0005 153.84
+0TE8 32OH 20.18
+0KS7 9PA7 17.79
+9NY1 9XA4 25.23
+9PN2 9WN5 18.72
+30GA 0FL5 2.63
+31NJ 34PA 0.00
+0MN4 0SD6 7.83
+0L5 9WI3 28.98
+2NC9 9XS2 20.34
+AGGQ 9NJ2 236.58
+0MD0 AA01 80.59
+0AK7 AGG 299.86
+0LS4 31NE 8.16
+9OK8 0MD8 16.15
+31II 0FL9 17.12
+9WA1 9VA7 40.59
+31AK 0AR7 62.17
+2NR4 0TS6 16.67
+9MT0 2VA0 24.36
+31II 2NY8 9.11
+0NK5 9VG9 3.00
+AGGQ 2ND2 261.61
+9WA1 2WV2 40.33
+9PS3 AGGO 231.60
+0LA7 0OI9 12.83
+0IA6 34CD 16.23
+2TS2 9NY6 23.90
+2TX5 9V1 10.55
+2VG4 2SD2 20.74
+AGKG 31TE 255.75
+9TS2 2ND3 14.30
+2PS7 0C2 12.63
+AA16 33LL 64.58
+AA02 9PS6 81.35
+9PA5 30TS 19.60
+32NE 2NE6 0.00
+AGG 30IS 238.23
+0IN4 9LA4 12.02
+2Q9 AA02 35.91
+AK54 0IL0 60.20
+0OI3 0Q3 34.86
+0KS9 09PA 19.22
+31NC 34AR 11.53
+9VG9 34LA 17.26
+33MA 0CL8 47.38
+AD-0001 0NE6 103.61
+31GA 2NY7 8.01
+ADV AK60 191.02
+AE-0001 AK93 199.18
+0CN2 09NC 43.84
+32TN 2PN3 7.19
+9WA4 0CT7 51.01
+32WI 0CL2 34.71
+9LA0 33MN 12.34
+0MD5 9NY6 8.00
+0CD5 AFR 258.80
+AA22 0PS5 72.34
+AK88 0Q6 35.43
+9PN7 A29 60.87
+9NJ8 31XS 19.62
+0SD3 0AL8 15.24
+AGG 9MT8 256.97
+2ND1 2U0 15.38
+AA30 0NA9 44.42
+9WA1 2WY3 10.44
+0G0 33MT 32.71
+9PS3 0OK6 18.69
+32TS 32LS 4.39
+0MD6 AK93 72.53
+9PA7 9TA7 14.76
+9N2 0LS0 15.45
+0MD7 AK26 89.98
+0ID7 34MA 50.03
+AA01 9PA0 73.28
+0OI1 0IL1 2.00
+AF12 2SD0 170.65
+AK97 AA50 9.76
+9PA6 33IS 11.52
+0TS6 9MO6 12.83
+2SD8 0MU4 7.32
+0PS8 9LA1 18.52
+2XA2 30NE 12.64
+0MT3 31MA 45.85
+2VA0 9LA7 15.69
+9NJ2 0NJ7 5.00
+2SD8 9NJ1 25.52
+2WN3 9OK4 5.49
+AGK 31AK 298.86
+AA51 2WV6 77.61
+09XS 0IA8 15.46
+0NV1 AE-0011 173.77
+2XA9 2Y2 10.28
+0KS9 09LL 11.56
+2NR4 9TE7 14.02
+0CL7 0ID2 12.32
+2PN8 9MI3 6.95
+9ND1 9WN5 11.39
+0CO5 2WV5 22.18
+9MI9 9VA7 10.54
+33TN AE-0004 140.40
+2XS5 0NJ2 22.28
+2SD8 9OI9 10.23
+31GA 9M0 14.34
+2Z5 33IL 62.90
+9W9 31AZ 25.83
+9OK9 0TE5 4.37
+33A 9PA7 5.46
+2Q9 0LL5 30.03
+0PS9 AGNA 240.47
+ABW 2NV2 270.04
+0SD0 31WA 18.64
+31AR 0II3 5.17
+0OI1 0CA2 38.76
+9TX6 AK19 60.97
+0NA9 33AK 52.71
+0NK8 AGEV 236.53
+9PA3 2NY2 8.00
+9TA9 9WA1 33.00
+2XA5 0NJ2 26.70
+2OK9 0IA8 12.96
+32IN 0ND6 10.27
+0TN6 2SC4 9.18
+0CO9 9VA6 30.46
+AGG AF12 79.95
+33IS 09VA 7.65
+9NE9 9MI2 11.37
+9MT8 30GA 26.18
+9MT8 0CL0 14.35
+AK50 AK54 0.00
+AK98 0FL7 96.69
+2Z1 AK08 13.23
+0AR7 0N4 20.55
+2NC8 AK24 71.51
+33WI 9TA6 12.16
+0MA4 2U8 46.00
+9XA4 0KY4 6.24
+0NJ7 2SD2 25.92
+2TX5 0LS5 3.74
+AK91 0NK8 82.49
+0NE1 AGRC 266.96
+0IA4 2OR1 31.69
+0O9 9LL2 35.62
+0CL3 33CL 9.00
+AK57 2PA8 73.88
+0OH6 0MT1 24.45
+2VA2 9MO0 11.50
+0MI3 0NM7 29.50
+0KS7 9LA1 9.43
+9TE9 0IA0 12.11
+AK64 AK91 8.65
+9PA3 2OH8 8.94
+2OH7 9PA7 4.00
+9LA0 2WA6 35.25
+31MI ADC 238.02
+9NE9 0OH6 11.56
+2VT2 31GA 11.70
+9MO6 0AR0 7.00
+32NJ 09W 0.00
+2T2 33A 2.49
+31MI 2PS9 11.17
+AK35 9WI3 57.04
+2NJ0 A57 62.91
+AE-0012 9PA3 131.36
+AK66 2PN2 79.34
+30NM 2Q9 10.98
+0CL7 9OR2 11.81
+30NY 34CD 25.00
+31LS 2PS9 23.48
+0TE0 9NK4 29.96
+30VA 32XA 22.21
+32OH 0MO2 5.88
+0IS2 0C5 7.00
+2TX4 9Z9 60.59
+2WV3 2TX9 20.67
+0AK6 AK61 8.00
+0O9 34LA 28.65
+32XA AGGF 261.98
+0NJ7 0KY9 10.41
+2OH8 0MO2 3.82
+0OK1 2ND2 17.33
+0LL0 30NY 13.18
+2VA7 9TE5 17.69
+0OK1 AE-0010 153.83
+2OH8 AD-ALV 88.80
+0NK5 0SD6 32.13
+33WI 2OR3 39.03
+2SD9 2Y2 8.00
+9XS0 9ND1 17.55
+AK64 9TA9 71.31
+0N0 0IL4 8.91
+AK81 34FA 75.77
+9PN7 2OK4 15.54
+0TS2 0D7 10.61
+9TA1 0NY6 25.28
+0NC3 2PN1 2.16
+2NJ5 9VA8 6.00
+ADV 33A 110.82
+9TA9 0MN1 9.47
+32TX 0LL2 11.24
+AK39 9NJ6 73.89
+2PA8 0N5 5.00
+9MO3 2V3 9.87
+0MT5 33A 31.71
+31TN 0MD8 15.39
+9PA4 0IA0 20.00
+0PN8 9MN6 17.34
+33AK 09NE 53.71
+2Y2 31KY 9.13
+2VA1 2NY2 9.00
+9OR2 AK72 33.31
+9NR9 34CL 39.27
+ADC A05 263.52
+2SC9 2NC8 9.00
+2T5 AF12 155.45
+AE-0001 0MT1 165.49
+9LA0 AE-0011 144.23
+0AK9 2NJ7 77.38
+09TX 9Y2 19.42
+0LA3 2S0 34.51
+9NJ2 30AZ 35.94
+9NY2 0OH6 2.22
+9LS9 33LL 10.35
+9VG9 0LL3 14.04
+0SD4 09NE 6.00
+0OH4 2VA7 7.81
+0TA4 9NJ1 25.17
+2OK2 0MS0 7.11
+9NY4 0OR2 43.37
+2Z1 0OR7 20.16
+32WA 31TA 24.45
+9OA2 0KS7 13.26
+0MN2 09LL 4.62
+2NC8 2NV2 37.27
+9Y2 0NJ7 23.03
+2NJ7 09LA 17.43
+9WA7 33KS 31.72
+32IS AK42 61.93
+2NJ5 9TN5 13.87
+2NK0 9TN1 19.12
+0TA7 0CA2 10.08
+33KS 9OA2 5.85
+9VA2 2NK0 8.90
+AGGE 9W8 235.05
+2TS6 AGGI 263.22
+0OK6 2SC9 14.55
+AK66 2VA 55.41
+9XA4 0MO2 11.29
+9PN1 0MS5 15.96
+0OI9 0SD2 18.24
+33II 2OI8 7.00
+2PS0 0OR0 51.61
+0LL2 0MN4 5.95
+AGGF 31NJ 236.90
+9OK4 0NJ3 17.78
+0SD3 0FL4 21.03
+0NK8 2TX7 22.31
+2TX4 0TA7 0.01
+33FD 2OG4 37.50
+9LA7 34CL 27.55
+0MU1 0MT7 22.65
+0T7 2PN4 21.05
+0OK0 0TE9 5.28
+ABW 0MD9 231.55
+2PN7 AE-0017 134.90
+2NY3 0IL4 14.92
+2NY2 AEQ 193.51
+30AZ 2PS6 39.64
+AK93 AGGI 319.25
+9OA9 0NC3 9.52
+0AK7 9OI6 72.40
+0AL9 2TA9 10.44
+31CT 2WI9 14.81
+2VA2 9PA2 6.00
+9VA8 0O9 45.59
+2TN2 9LA7 1.87
+AF-0005 9TA7 167.63
+2TN0 33NR 11.56
+AK85 31KS 53.91
+9XS2 09NJ 24.17
+0FL4 32MO 6.41
+0NY6 33IS 10.60
+9NJ2 0CA0 45.18
+2V3 0LS8 9.54
+0NE1 9VA4 20.60
+9PA1 9VA7 4.00
+0LA8 9W3 9.41
+0NM0 0ID0 13.96
+31MO 0GA0 14.38
+9LL2 AA09 60.12
+AD-0001 2TS9 95.30
+34FA 0OK2 18.78
+9NA4 0NJ1 29.01
+2NK3 0CN2 52.45
+0AL5 9MI5 15.76
+2NE5 0LS2 14.39
+0R9 AK24 49.84
+0IL4 0MD6 9.17
+30VA 0GA0 9.00
+2NJ1 AK61 78.07
+32NE 0NJ7 24.99
+34FD 30NR 8.30
+0KY1 2TN9 4.00
+0CA1 2WN7 32.02
+2WV3 9MD9 5.71
+AHT 0MI3 260.83
+32GA 0MI7 11.59
+9M0 0LL7 10.42
+2T5 0OK2 7.53
+9TS2 0MD9 22.09
+0II6 2NC8 3.02
+2NJ0 9WI2 12.12
+AE-0007 0MN9 147.86
+AK92 9PA2 74.59
+0IS3 0TA7 19.28
+34MA 33PA 0.69
+0TA2 AA02 53.25
+31NY 2VT2 8.00
+2VG4 0OK1 14.82
+AK91 34MA 77.18
+9MO3 33XS 5.46
+AIH 09XS 243.56
+2PS8 30XS 30.03
+33WI AEQ 211.23
+AA38 09W 80.41
+0OI2 34ID 28.71
+2PN5 9Y2 13.15
+2WI1 AK88 59.60
+0OR7 0AL4 36.93
+2XA8 0CO7 10.56
+30LL 9LA4 7.10
+0SD0 0TA9 12.17
+34LA 0AL4 6.36
+2OK4 9VG9 14.11
+31NH 9WA4 53.77
+AA01 2SC4 77.07
+2VT2 0GA7 18.20
+AGGL 2WN7 264.27
+AE-0011 0CT7 132.28
+9WN5 9OG1 234.23
+9OK8 0LA8 5.80
+30IS AA38 64.50
+33LL AA33 69.47
+9OK2 2OK9 6.00
+0CT3 32NE 30.30
+ADV AK84 180.64
+0OK1 0AL2 14.65
+9MT8 9MI2 27.03
+0TE3 AGGU 265.31
+33KS 31MO 2.00
+0IL1 0PN8 6.16
+32LA 09LL 14.50
+31MO 0CL0 22.35
+31LS AGGH 250.99
+0MS9 AGGU 255.64
+9VA8 2PS4 5.00
+9PA2 33OI 4.64
+AE-0012 9WI3 148.41
+32NE 2Z6 37.52
+0OR0 2VA3 41.28
+09LL 0TE0 12.82
+0TE3 9NC2 22.08
+33CN 9XS0 18.25
+0MD8 2OK4 21.68
+9TE9 0FD3 9.77
+31TE 2PN9 17.61
+2TA3 0CL8 16.60
+2XA6 32NJ 24.53
+33LS 9VA6 15.78
+30NR 0NK9 7.74
+2Y1 2TN0 5.94
+0PS1 0AL8 15.02
+9NC1 2VG4 3.00
+0CA4 9TE7 25.40
+0C8 2OH4 2.04
+2TS6 34ID 27.97
+34AR 0TA2 10.62
+0PN8 2TS3 20.18
+30NR 0NJ1 9.77
+2NE6 2PN4 22.37
+AD-0001 0TE0 101.48
+AK57 09VA 74.87
+9TS2 AE-0007 148.41
+AK64 0II2 73.86
+2ND2 9WN4 11.95
+0PN8 32AZ 35.20
+AK63 0TE4 65.09
+AA50 9OA2 69.77
+0CO0 09VG 22.22
+0MY1 32FA 31.31
+31TE 0NY6 23.02
+33MT AGKG 274.26
+0TE8 9LA4 7.12
+0MI1 2ND7 13.01
+2TS2 09PA 26.59
+32TX 32CL 29.83
+2OK2 AEQ 221.60
+9LA7 0MS9 6.00
+31CT 2WV5 10.61
+AGGK 2SD2 266.27
+0OK1 9PA6 17.80
+0O9 9MN6 25.41
+32GA 30IS 9.15
+2Y1 AK62 42.05
+2W2 AE-0024 124.92
+0NY5 0NK5 7.00
+0IN4 9WN4 8.69
+2ND4 A77 52.02
+33LL 2ND7 14.82
+9VA9 AK98 99.06
+30WA 33TN 38.12
+AA11 2TE1 61.41
+AK72 9TX4 61.16
+9PN1 0FL6 13.46
+30KS 0NK1 20.76
+9VA4 32MS 10.58
+9OA2 AE-0017 135.42
+34CL 9R5 28.56
+AK45 2RI7 97.81
+0LS8 2XA2 0.00
+9MT0 9MO0 14.84
+0CA0 2VA5 41.84
+2NC9 AK93 72.81
+9W3 0MI2 9.55
+32NJ 32WA 43.09
+0LS8 2Q9 23.11
+2OA5 9OA9 2.00
+0PN8 2VI2 70.06
+0MI1 0MN1 9.63
+2OR2 9NY4 39.81
+0CO7 9WN3 17.38
+0LS4 0FD3 5.10
+9OK2 09W 19.95
+9LA7 31CO 15.95
+0MO4 0MT3 19.77
+0OI1 9XS5 16.84
+9NE8 AGGV 259.80
+AK63 AGGI 315.11
+9NY3 0TS6 23.89
+9TE7 0KS9 10.27
+2WY3 9MS7 25.21
+0AK3 0MS4 71.09
+31KS 33ID 14.68
+2T2 0OH4 1.00
+0N0 2XA9 4.07
+AK63 2NC8 72.29
+31KY 32XA 21.11
+32AZ 0FA0 30.55
+AK97 0LL0 55.22
+2NE5 2RI7 31.79
+0NJ6 34IS 17.24
+30NJ AK25 72.79
+09II 9OA8 2.32
+0CO4 0S5 14.54
+0PS8 33LS 12.90
+9VA8 0TE9 14.95
+AF12 33LL 157.22
+33FA 2OR3 49.62
+9PA3 0MO5 12.79
+0TE9 0MU1 11.01
+30NR 0CT3 10.04
+0FA2 AGGS 239.55
+31CA 0OK1 18.45
+0OI2 9VG9 6.11
+0MD0 2P5 3.00
+09NE 0OI1 12.78
+0OI2 33MA 16.04
+2NK7 0CL1 40.08
+0NV1 30IS 23.32
+0MD4 2WN9 43.00
+34ID AA30 33.76
+0ND6 2PN9 25.28
+2NJ5 2TA9 19.02
+AK62 31NH 61.25
+9PA0 2TX7 20.93
+33IL 0KS4 1.61
+2NK8 0LL7 16.82
+AK26 9XA4 78.70
+AA11 2Z6 19.01
+0L4 9V2 12.39
+0MU5 9WN5 1.43
+AHT A57 313.80
+AF12 AA35 208.73
+0MA4 0MI7 10.29
+0II2 9XS5 17.51
+AGGO AA27 318.34
+0NK8 32IL 15.28
+0PS5 0NK4 8.00
+2TX9 0CL8 18.21
+30KS 9TA1 3.55
+0PA8 2SC9 6.78
+2PS8 AE-0001 130.30
+34FA 0MO5 13.49
+0FL7 9TN2 9.15
+0PS7 AFK 161.94
+2ND2 9PA1 27.83
+0MU7 A77 61.74
+2SD2 9TS2 11.90
+9TE9 9PS5 22.81
+0KY1 2PS7 15.96
+9MO6 AA22 60.84
+AA33 AF09 215.33
+34NH 0TN4 18.04
+AA06 2OH6 67.89
+2VA0 32IN 8.99
+2WN7 9TA9 11.62
+9WI2 AK98 77.50
+AK69 31LS 70.30
+AE-0009 32LA 143.76
+09LS 0NK8 15.90
+0MA4 AGGV 238.16
+32WI 0FL9 20.50
+9NJ6 9X9 23.63
+0FL7 0ND6 26.43
+0MO5 33FD 13.51
+0LL0 30TS 10.17
+9VA2 0MA5 9.86
+2TX4 31KY 21.14
+2PS5 2NC9 5.69
+2OR0 0TA3 20.33
+0CL0 2NY8 40.97
+0MA2 34PA 1.10
+9PA2 2NK3 7.00
+2ND4 AK64 59.51
+0OK6 AA01 62.45
+2U0 0FL5 32.36
+AGEV A79 319.77
+9VA2 9TX2 23.27
+34CL AIP 290.41
+AA85 9MI9 62.51
+2SC8 AE-0010 140.50
+0MS2 34ID 32.86
+2PS7 9WI4 14.26
+9MN8 33FA 20.55
+0AK0 9VA0 76.12
+0CT7 9TX9 25.63
+0AL5 9TS4 7.46
+0MD9 AGG 224.75
+0MN3 2TA4 16.05
+0AL4 9TN5 1.00
+0OH7 AA09 63.41
+0LA0 9NY3 19.00
+9TX2 9VA6 15.24
+9V2 0TN9 19.60
+0LL7 9LA7 12.24
+AA51 2ND3 54.41
+30WA 0NK9 39.48
+31MA 9NJ2 0.00
+2U5 2NY2 44.77
+2TN3 9TA9 16.74
+AK25 AK72 9.00
+2PA4 09NE 22.75
+AEQ 2NJ1 190.25
+2PN1 9OK9 13.14
+2VG7 9XS3 23.15
+32FA 0PN5 17.60
+2TE2 0AL2 8.71
+9TX6 0CD5 6.33
+9OR6 9NJ6 46.81
+2NH6 9PS3 3.00
+2TA4 0AZ2 20.81
+34CL 9TE7 21.78
+2XA2 2WV5 13.98
+0CA2 0TE3 17.61
+9VG AA30 79.85
+9TA6 2PS9 23.01
+0KY1 2VG7 7.88
+0MN1 9OR4 26.44
+2VG8 0OR7 45.05
+0ME4 9NA4 32.65
+2TE2 2TE1 3.00
+0NJ2 9MT0 29.66
+9MO3 0IL1 3.32
+31II 0TA2 16.65
+AK57 AFK 242.04
+2PS7 2OA4 11.75
+0CO7 2PS4 30.71
+0TA9 32GA 15.18
+0LA0 9XA1 4.00
+ADV AGGH 134.55
+2PS9 9MI8 5.28
+9NE8 9TN4 16.41
+2SC8 9TN5 2.10
+9PA2 32MO 18.05
+2XA9 0MS2 9.04
+9NJ1 0GA2 9.42
+09II 0MD9 10.85
+9VA2 2ND7 21.71
+0PS1 0MN0 14.01
+0NJ1 0OK0 20.58
+2OR0 0IL0 32.75
+0NY6 AD-ALV 77.15
+AK26 0L4 50.46
+0NK9 9PA8 1.00
+9MT8 33IL 22.88
+32PA 09NE 15.04
+0MT5 9V1 12.53
+9NC2 AK42 76.10
+0OI3 32OH 3.00
+0FD2 0LA8 8.97
+0MD0 0FA5 13.69
+0IA8 9VA8 16.89
+0MO8 2Z6 52.13
+ADC 9R5 249.61
+30AZ 0KS2 17.29
+0NC3 AA16 77.59
+31XS 09NJ 25.84
+AK39 AF09 213.63
+0CO0 AA85 52.03
+0II2 32MD 7.49
+34MA 31IN 14.28
+2NY8 0LS5 25.31
+0NJ2 30WA 48.09
+9VA6 9MN6 17.85
+31KS 2XA4 1.00
+0ID7 31MI 26.62
+2VA7 2NH5 2.12
+2ND4 32AK 45.51
+2VA1 9M0 14.25
+0MA2 09II 19.24
+0MO8 A69 53.83
+2TX7 34FA 17.41
+0OR7 0CT0 44.87
+31CA 09IL 31.80
+0MI7 9TN4 6.64
+9TS2 09VG 20.74
+2NK4 09XS 27.26
+0G5 31MD 18.89
+2SD9 9VA6 23.05
+0NC4 09NC 2.00
+0FA2 9WN5 13.48
+2PA3 9VA8 9.00
+AE-0009 9MN8 153.44
+0LL0 09VG 11.60
+0IA8 0ID8 28.68
+9XS2 9MO9 3.87
+9XA1 0CO0 13.11
+0AL5 2T2 3.08
+AK81 32MD 75.05
+09IL 32TX 12.17
+0LS0 9TN9 7.69
+2TS2 2NY0 23.73
+2PA8 0L5 37.02
+AGG ADV 117.96
+0MU5 9MI9 8.14
+0MU4 9TA9 14.09
+AK92 0LL7 67.63
+9MN8 0CD2 11.34
+0N0 0LA8 6.25
+0CD2 0SD6 3.13
+0N4 0GA9 7.73
+0MI7 A79 72.74
+0MS0 2XA3 2.46
+0LS0 0OK1 3.28
+0C2 9NJ2 11.19
+0NM0 0KS9 16.13
+AK93 0MA5 80.64
+9OK4 9NJ8 20.78
+AF15 2VA3 147.30
+AGGF AK83 315.95
+0MT3 AGRC 279.61
+0AZ2 9WS2 31.60
+9MI3 0ID2 23.14
+0GA2 A29 58.10
+0TN6 33OI 8.31
+31AR 31NE 11.90
+9OA8 0IA3 8.44
+09KS 0GA7 15.31
+AF09 31NJ 137.51
+0AK9 9TX2 58.84
+9TE5 9VA4 25.16
+30WA 31II 29.08
+32CL 2Q9 6.00
+AK93 2NJ0 82.00
+0AL5 33CN 28.52
+0PN5 0LS0 11.39
+AA30 9NY4 75.44
+32MD 9PN6 0.00
+0S5 31WI 26.83
+ADV ADV 9.00
+9VA8 0CA4 43.59
+0LL2 9M0 9.53
+AE-0002 AK35 200.65
+31XS 2Z1 48.37
+0MD7 9OR4 41.91
+AFR 9PA0 230.35
+AE-0012 9OK5 155.38
+AA44 A57 5.00
+0FA1 2XS7 17.93
+09TX 30GA 13.23
+2WI9 34ID 27.86
+0O4 30NY 41.70
+0ID7 0IA8 24.03
+33AZ 0FL2 30.37
+2PA4 0NC8 4.07
+0NJ3 9R5 29.58
+A79 A69 23.49
+2XS5 2PS4 26.26
+30TA 0NJ3 19.77
+9TN5 9NE9 12.62
+AA02 0SD2 55.37
+2NE4 0OI9 19.35
+2NY2
+0MU4
