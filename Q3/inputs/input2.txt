@@ -1,0 +1,23 @@
+10 10
+ADO Andamooka 
+ACZ Zabol 
+ABX Albury 
+ACH St. Gallen-Altenrhein 
+AAS Apalapsili 
+ABI Abilene Regional Apt 
+ADG Adrian Lenawee County 
+ADF Adiyaman 
+ABB Asaba International 
+AAZ Quetzaltenango 
+AAZ ADG 29.05
+ADO AAZ 232.10
+ACZ ADF 25.01
+ABI ABB 107.53
+ABB ADF 46.78
+ADO ACZ 93.47
+ADG AAS 224.94
+ACH ABX 163.81
+ABI AAS 238.68
+ABX ADG 241.80
+ABX
+ACH

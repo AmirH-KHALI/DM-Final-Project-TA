@@ -1,0 +1,127 @@
+47 77
+AAK Aranuka 
+ACP Maragheh Sahand 
+ACE Lanzarote 
+ABT Al Baha Al-Aqiq 
+ADI Arandis 
+ADZ San Andres Island 
+AAV Surallah Allah Valley 
+ACH St. Gallen-Altenrhein 
+ACA Acapulco 
+ACV Arcata/Eureka 
+ACT Waco 
+ACK Nantucket Memorial 
+AAN Al Ain International 
+ACS Achinsk 
+ACJ Anuradhapura 
+ACD Acandi Alcides Fernandez 
+ADQ Kodiak Apt 
+ADB Izmir 
+ADG Adrian Lenawee County 
+AAP Samarinda Ap Tumenggung 
+ABL Ambler 
+ABI Abilene Regional Apt 
+ADW Camp Springs Joint Base Andrews 
+AAT Altay 
+AAS Apalapsili 
+ABM Bamaga Northern Peninsula 
+AAL Aalborg 
+ABK Kabri Dar 
+ABS Abu Simbel 
+AAJ Awaradam Cajana 
+AAX Araxa 
+ADA Adana 
+ABY Albany Southwest Georgia Regional 
+ABG Abingdon Downs 
+ACX Xingyi 
+AAQ Anapa 
+AAF Apalachicola Regional 
+ABV Abuja 
+AAZ Quetzaltenango 
+ABJ Abidjan 
+ADF Adiyaman 
+AAR Aarhus Tirstrup 
+ADN Andes 
+ABO Aboisso 
+ADK Adak Island 
+ADJ Amman Marka Intl Airport 
+AAB Arrabury 
+AAS ACJ 61.08
+ABV ABY 93.19
+ABO ACP 57.74
+ABJ AAX 49.68
+ABM AAB 14.80
+ABG ACK 224.25
+AAK AAQ 138.47
+ACD ACX 180.01
+ADA ABG 116.97
+ACP AAB 110.50
+ACE ADA 50.54
+ABI ACH 105.28
+ACT ADF 134.84
+AAB ADF 125.13
+ABO ADW 82.86
+ADQ AAQ 190.27
+ABT ABL 203.91
+AAK AAP 54.39
+AAX AAF 66.29
+ADA AAB 121.45
+ABK ACJ 33.21
+ACE ABY 70.64
+ADZ AAS 216.58
+AAF ACJ 163.84
+ADW ACT 20.59
+ABI ADQ 59.58
+ACV AAZ 45.76
+ABO ADG 91.66
+ABK AAF 126.32
+ADZ AAN 139.82
+ABI ACT 3.00
+AAB AAL 159.67
+AAV ACE 141.21
+AAQ AAB 126.07
+AAX AAJ 19.92
+AAN ABT 16.53
+AAL ACK 84.46
+ABK ABL 208.93
+ADG AAZ 28.05
+ABS ACS 71.01
+AAS ACA 235.90
+ADJ AAK 143.27
+ACV ADA 163.44
+AAJ AAB 199.78
+ABM ACE 161.08
+ABT AAN 16.53
+ACD ACE 65.89
+AAK AAT 92.88
+AAR ACS 74.95
+AAR AAB 157.59
+AAN ABL 219.72
+AAR ABM 146.00
+ACD ADB 111.62
+AAV ACT 221.43
+AAR ADZ 106.16
+AAS ADQ 302.19
+AAK AAR 175.41
+ABV AAX 63.29
+ADK AAK 353.08
+ADJ AAF 119.05
+ACS ADA 61.56
+AAR ABI 115.86
+AAB ACS 101.11
+AAJ ABG 194.73
+ADJ ACK 101.46
+AAL AAZ 104.81
+ADB AAJ 87.40
+ABL AAL 171.00
+ACT ACX 204.30
+AAK ADG 265.02
+ACT AAL 113.07
+ADW ACX 186.35
+AAT ACK 161.28
+ABT ADK 219.56
+AAP ADA 90.08
+AAP ADN 190.23
+ADI ADA 59.75
+ABI
+AAK

@@ -1,0 +1,43 @@
+19 21
+ABV Abuja 
+ACM Arica 
+ABR Aberdeen Regional 
+AAA Anaa 
+ACZ Zabol 
+ADH Aldan 
+ACN Ciudad Acuna International 
+ABH Alpha 
+ADL Adelaide 
+ADZ San Andres Island 
+AAL Aalborg 
+ADE Aden International 
+ADM Ardmore Municipal Airport 
+ACO Ascona 
+AAK Aranuka 
+AAH Aachen Merzbrueck 
+AAP Samarinda Ap Tumenggung 
+ACU Achutupo 
+ADK Adak Island 
+AAK ABR 278.80
+ACM AAP 186.04
+AAL AAP 125.81
+AAP ABH 32.48
+ACO AAA 168.84
+ACM ACN 39.01
+ACU ABR 38.30
+AAA AAH 169.31
+ACM ADE 118.77
+ACZ ADH 69.53
+ADH AAH 121.47
+ACZ AAP 62.98
+AAP ADL 42.60
+ACU ABH 225.84
+ACZ ADL 104.43
+ADK AAL 190.57
+AAK AAA 314.63
+ABR ADM 12.24
+ADZ AAP 198.38
+ACO ACZ 50.88
+ABV AAP 110.39
+AAL
+ABH

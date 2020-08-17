@@ -1,0 +1,81 @@
+31 47
+ABV Abuja 
+ADV Addeain 
+ACS Achinsk 
+ADS Dallas Addison Apt 
+ABL Ambler 
+AAK Aranuka 
+AAH Aachen Merzbrueck 
+AAI Arraias 
+ADZ San Andres Island 
+ACD Acandi Alcides Fernandez 
+AAE Annaba Rabah Bitat 
+ADF Adiyaman 
+ADM Ardmore Municipal Airport 
+ACH St. Gallen-Altenrhein 
+ACA Acapulco 
+ADJ Amman Marka Intl Airport 
+ADT Ada Municipal 
+ABX Albury 
+ADL Adelaide 
+AAV Surallah Allah Valley 
+AAC El Arish International 
+AAF Apalachicola Regional 
+ACZ Zabol 
+ACT Waco 
+ACE Lanzarote 
+ABI Abilene Regional Apt 
+AAR Aarhus Tirstrup 
+ABC Albacete Airport 
+AAW Aachen Bf West Bus St 
+ADI Arandis 
+ACX Xingyi 
+ABV ADT 107.08
+AAR AAW 7.15
+ABI ACA 12.65
+ACD ADM 28.46
+ACX ABV 94.01
+ADI ABI 127.11
+ABV ACD 88.56
+ABL ADJ 193.00
+ACZ ACT 157.78
+ACA ACE 91.01
+AAW ACH 2.00
+ACT AAC 131.07
+ADJ ADZ 118.29
+ACD AAV 202.08
+AAR AAE 18.68
+ADL ACE 169.01
+AAC ADS 126.69
+ACA ADM 13.76
+ACA ABI 18.65
+AAH ACZ 61.77
+ABI ADM 5.00
+ACT ADM 4.00
+ACE AAH 29.50
+ACZ ADT 153.25
+ABX ACZ 104.66
+ACX AAV 23.28
+ACD ABC 81.34
+ADS AAH 100.56
+ADT AAI 65.92
+ADF ACX 68.68
+ADI ADF 62.55
+AAH ADM 100.52
+ABC ABL 161.51
+AAK ADI 160.24
+AAE AAR 22.68
+ADL ABL 317.46
+ACT ABL 74.25
+ACT ACZ 157.78
+ACZ AAI 120.07
+AAR ACS 78.95
+ACH ADV 40.70
+AAF ACA 23.62
+ADM ACZ 157.59
+ADT ACX 197.86
+ABI ACE 82.15
+ABL ABX 323.80
+ACT AAW 101.07
+ABC
+AAR

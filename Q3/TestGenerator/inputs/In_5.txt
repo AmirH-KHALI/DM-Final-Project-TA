@@ -1,0 +1,23 @@
+9 11
+ADG Adrian Lenawee County 
+ACT Waco 
+ABT Al Baha Al-Aqiq 
+ADI Arandis 
+ABP Atkamba 
+ABH Alpha 
+ADP Ampara Gal Oya 
+ABK Kabri Dar 
+AAE Annaba Rabah Bitat 
+ABT ABH 110.80
+ADI ABH 132.59
+ACT ABT 138.33
+ADG AAE 91.98
+ABK ABH 109.76
+ABH ADG 237.77
+ABT ACT 138.33
+ACT ABP 236.29
+ABK ABP 93.69
+ABT ADG 122.51
+ADI ADP 68.96
+ABH
+ACT

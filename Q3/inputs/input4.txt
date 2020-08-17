@@ -1,0 +1,28 @@
+12 13
+ABS Abu Simbel 
+ADJ Amman Marka Intl Airport 
+ABD Abadan 
+ABM Bamaga Northern Peninsula 
+ABN Albina 
+ADS Dallas Addison Apt 
+ABC Albacete Airport 
+ABX Albury 
+ACK Nantucket Memorial 
+AAN Al Ain International 
+ABQ Albuquerque 
+ADR Andrews Robert F. Swinnie 
+ABQ ABN 55.28
+ABS ADJ 10.55
+ABM ACK 214.84
+ADS ABQ 9.99
+ABC AAN 60.32
+ADR ABQ 27.09
+ABQ ADS 13.99
+ABC ABQ 99.82
+ABX ABM 20.52
+ABC ABS 37.35
+ABS ADS 129.89
+ABN ABD 105.25
+ABM AAN 97.72
+ABS
+AAN

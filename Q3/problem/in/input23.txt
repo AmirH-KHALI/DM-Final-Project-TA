@@ -1,0 +1,114 @@
+47 64
+ACS Achinsk 
+AAC El Arish International 
+ABJ Abidjan 
+AAV Surallah Allah Valley 
+AAK Aranuka 
+ADF Adiyaman 
+ADN Andes 
+AAE Annaba Rabah Bitat 
+AAT Altay 
+ADJ Amman Marka Intl Airport 
+ACZ Zabol 
+ACR Araracuara 
+ACB Bellaire Antrim County 
+ADY Alldays 
+ABR Aberdeen Regional 
+ADU Ardabil 
+ADO Andamooka 
+AAG Arapoti Avelino Vieira 
+ACE Lanzarote 
+ABO Aboisso 
+AAB Arrabury 
+ACO Ascona 
+ACM Arica 
+ACL Aguaclara 
+ABL Ambler 
+ABT Al Baha Al-Aqiq 
+AAA Anaa 
+ADB Izmir 
+AAR Aarhus Tirstrup 
+ABD Abadan 
+ABE Allentown/Bethl 
+ADD Addis Ababa 
+ABH Alpha 
+ADK Adak Island 
+ABN Albina 
+ABA Abakan 
+ADI Arandis 
+ABV Abuja 
+ADA Adana 
+ABC Albacete Airport 
+ACD Acandi Alcides Fernandez 
+ACU Achutupo 
+ACI Alderney 
+ABS Abu Simbel 
+ABG Abingdon Downs 
+ABX Albury 
+ABY Albany Southwest Georgia Regional 
+ADF ACS 50.30
+AAV AAR 119.61
+ABO ABT 48.22
+ACL ADN 8.00
+ACM ABJ 70.26
+ACL AAC 108.03
+ACR ABC 80.86
+ADN ABA 176.04
+ABA ADK 266.04
+ADD ADY 36.10
+ABT ABY 130.33
+ABN ACO 71.82
+AAR ABH 153.76
+ACO ABS 31.98
+ADI AAK 160.24
+ADI ACZ 70.91
+ADF ACL 112.25
+AAA ADD 181.18
+ACO AAC 29.26
+ACM ADK 119.96
+ABS ABR 132.07
+ACE ADY 61.99
+ABL AAG 141.41
+ACS ADN 172.98
+ACB ACS 174.14
+AAK ADY 147.33
+ADF ABE 110.95
+ACL ABV 79.38
+ABO ADU 65.19
+ABC ABR 99.78
+ABH ACU 229.84
+AAG ADO 188.03
+AAA ABR 82.50
+ACI ADB 33.51
+ABY AAV 205.48
+AAC ADJ 2.00
+ACU ABY 18.93
+ADY ABD 58.38
+ADK ADF 212.58
+ADA ABG 117.97
+ABD ACR 123.54
+ACZ ADU 14.98
+ACO ADF 30.87
+ADO ADN 218.06
+ACU ABX 227.28
+ADU ADA 14.21
+ADY ADI 17.10
+AAK ACD 253.08
+AAT ABR 189.53
+ABG ACS 89.75
+ADJ ABD 7.34
+ACL ABT 119.68
+ACD ACO 88.94
+ABJ ADK 175.90
+ABG ACZ 92.11
+AAB ADK 322.27
+ABJ AAR 51.07
+ABO ABJ 6.00
+ABS ADK 210.34
+ABY ACM 38.88
+ADA ADN 116.49
+AAE ABC 7.90
+ABY ABN 41.82
+ACI ADI 74.13
+ACU
+ACI

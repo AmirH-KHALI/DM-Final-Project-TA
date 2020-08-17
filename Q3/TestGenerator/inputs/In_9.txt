@@ -1,0 +1,62 @@
+24 35
+ABM Bamaga Northern Peninsula 
+ACA Acapulco 
+ADL Adelaide 
+ACB Bellaire Antrim County 
+ADH Aldan 
+ACD Acandi Alcides Fernandez 
+ACR Araracuara 
+ACK Nantucket Memorial 
+AAL Aalborg 
+AAM Mala Mala 
+ABO Aboisso 
+AAF Apalachicola Regional 
+ABA Abakan 
+ADP Ampara Gal Oya 
+ABP Atkamba 
+AAK Aranuka 
+ADQ Kodiak Apt 
+ADT Ada Municipal 
+ADR Andrews Robert F. Swinnie 
+ACZ Zabol 
+ABS Abu Simbel 
+AAY Al Ghaydah 
+AAP Samarinda Ap Tumenggung 
+ABN Albina 
+ADP ADT 177.40
+ADL ADT 246.32
+ABP ACR 214.57
+ADP ADQ 242.49
+ACD ACB 34.31
+ACA ABO 96.21
+AAY ADQ 203.84
+AAY ABN 108.76
+ACB ADL 233.58
+AAF ABA 173.04
+ADH AAY 87.63
+ADR ABP 220.18
+ABO AAM 43.09
+AAK ADL 49.66
+ABM ADR 226.42
+AAK ACB 259.69
+ACK ACB 14.60
+ADP ABM 65.52
+ABN ACZ 119.39
+ABP ACD 213.89
+AAP ADQ 274.94
+ACB ACZ 145.40
+ABO ABM 142.58
+ACD ADP 157.93
+ADT ADL 245.32
+ADT ADH 222.35
+AAK ACA 276.89
+ABO ADR 84.33
+ADT ACD 31.65
+ACK ABO 75.84
+ABS ADH 103.55
+ACD ADR 24.04
+ADR AAF 4.61
+ADH ACB 208.05
+AAL ABO 54.25
+ABO
+ABA

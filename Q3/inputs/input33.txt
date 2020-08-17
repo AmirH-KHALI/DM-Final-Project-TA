@@ -1,0 +1,203 @@
+71 129
+ACH St. Gallen-Altenrhein 
+ABA Abakan 
+AAL Aalborg 
+ADT Ada Municipal 
+ACZ Zabol 
+ABD Abadan 
+AAE Annaba Rabah Bitat 
+ACY Atlantic City International 
+ACU Achutupo 
+ADS Dallas Addison Apt 
+ABH Alpha 
+ABV Abuja 
+ABY Albany Southwest Georgia Regional 
+AAJ Awaradam Cajana 
+AAY Al Ghaydah 
+ABW Abau 
+ACJ Anuradhapura 
+ACD Acandi Alcides Fernandez 
+ABS Abu Simbel 
+ABC Albacete Airport 
+ACI Alderney 
+ABZ Aberdeen (GB) 
+ADI Arandis 
+ABI Abilene Regional Apt 
+AAW Aachen Bf West Bus St 
+AAI Arraias 
+ADD Addis Ababa 
+ABF Abaiang 
+AAC El Arish International 
+ACS Achinsk 
+ACM Arica 
+ABE Allentown/Bethl 
+ABQ Albuquerque 
+AAN Al Ain International 
+AAH Aachen Merzbrueck 
+ADV Addeain 
+ADU Ardabil 
+AAA Anaa 
+AAT Altay 
+ADG Adrian Lenawee County 
+ADR Andrews Robert F. Swinnie 
+ADC Andakombe 
+ADL Adelaide 
+ADQ Kodiak Apt 
+ACR Araracuara 
+ADB Izmir 
+ABR Aberdeen Regional 
+AAK Aranuka 
+ABG Abingdon Downs 
+ABP Atkamba 
+AAO Anaco 
+ADZ San Andres Island 
+ACN Ciudad Acuna International 
+ACC Accra 
+ABL Ambler 
+ACB Bellaire Antrim County 
+AAM Mala Mala 
+ABK Kabri Dar 
+AAD Adado 
+ABO Aboisso 
+ACO Ascona 
+AAX Araxa 
+ADE Aden International 
+ACK Nantucket Memorial 
+ACP Maragheh Sahand 
+ABB Asaba International 
+ADW Camp Springs Joint Base Andrews 
+ACL Aguaclara 
+AAR Aarhus Tirstrup 
+ADF Adiyaman 
+ADX St Andrews Raf Leuchars 
+ABQ ACY 36.34
+AAI ABK 94.28
+ABY AAH 90.42
+ACN ABG 243.78
+ACJ ACU 158.39
+ADR ADU 131.08
+ADT ACK 22.38
+ABE AAH 81.26
+ABZ ACO 17.56
+ABV AAO 71.73
+ABQ ABF 280.77
+ABO AAO 63.39
+ACB ABI 19.18
+AAX ACR 26.73
+ACC ADT 95.82
+AAT ABE 159.68
+ABE ABW 233.83
+ACM ACY 40.68
+ACK ABL 87.52
+ABQ AAN 162.58
+ADR ABD 130.83
+AAT AAN 43.08
+ADQ ADD 199.41
+ADF ACR 118.31
+ADT AAY 151.00
+ABF ACL 248.17
+ACC AAW 48.61
+ABF ABV 167.06
+ADB ADE 31.11
+ADG ADX 80.45
+ACM AAE 83.61
+ABQ ABO 105.56
+ABE ACN 31.04
+ADL ABB 134.13
+ACN ADE 142.06
+ABI ACB 23.18
+ACK AAT 162.28
+ACO AAK 168.16
+ABY ACC 82.94
+ABQ ACC 105.44
+AAK AAO 240.28
+ADQ ABE 82.93
+AAA ACY 87.88
+ABG AAJ 197.73
+ABQ ADV 135.82
+AAI ADU 105.25
+AAN ABD 11.58
+ABP ACL 211.37
+ACR ABV 81.24
+ACM ACZ 134.41
+ACR AAM 102.73
+AAY ADL 99.36
+ACD ADU 132.21
+ACB AAM 134.02
+ADL ADD 105.97
+ABL ADX 152.36
+ACN ADZ 20.62
+ACJ ABA 44.74
+AAH AAY 60.57
+ABW ABB 139.97
+ADG ACH 91.76
+ADF ABE 112.95
+ABY ACB 17.49
+ACM AAT 170.47
+AAN AAR 55.23
+ACJ AAD 30.86
+AAW ACD 95.47
+ABW AAL 151.28
+ADE ADX 68.73
+AAL ACU 98.40
+ACN AAX 72.95
+ABV AAY 40.48
+ABR ADV 124.12
+AAR ADE 54.44
+ACO ACZ 53.88
+ABF AAT 97.88
+ABD ACY 122.14
+ADD ACS 71.12
+ADI ACC 29.85
+ADV ABY 115.14
+ACI AAI 75.95
+ADI AAD 46.58
+ABZ AAR 15.85
+ADG ABS 121.28
+AAX ADE 95.53
+AAI ACO 79.19
+ADX ABE 77.26
+ADX ADV 54.50
+ABY ACS 175.51
+ADX ACD 84.49
+ABS ACM 106.26
+ACI ACU 87.27
+ACZ AAT 32.33
+AAE ABY 92.16
+AAT ADX 87.36
+ACL ABW 222.20
+ABO ACN 96.77
+AAR ACL 93.23
+ACK ACS 156.33
+ADS AAO 42.03
+ABC ABZ 15.26
+ADX ABA 98.29
+ADE ABV 39.96
+AAK AAE 164.83
+ABP AAX 192.54
+AAC ABC 34.56
+AAW ADE 56.39
+AAT AAR 80.94
+ABA ADD 66.06
+ADD ABV 31.54
+AAH ABH 154.95
+AAL ABH 158.82
+ABQ AAR 119.14
+AAA AAJ 92.61
+ABI AAO 37.06
+ACH ABH 150.41
+ABF ABP 32.90
+AAY ADX 64.14
+ACC AAX 48.13
+ACZ ABB 55.26
+AAR ABA 83.81
+ADC ADG 238.96
+AAC ACY 109.74
+ACP ACY 119.73
+ABO AAD 49.84
+ADZ ACO 95.51
+AAJ AAL 85.16
+ACP ABB 52.27
+AAJ ADW 45.00
+AAR
+ABR

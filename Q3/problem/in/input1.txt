@@ -1,0 +1,12 @@
+5 4
+ABD Abadan 
+ACZ Zabol 
+ACP Maragheh Sahand 
+AAH Aachen Merzbrueck 
+AAK Aranuka 
+AAK ACP 136.81
+AAH ACZ 60.77
+ACP ACZ 14.63
+ACZ ABD 17.34
+ABD
+ACP

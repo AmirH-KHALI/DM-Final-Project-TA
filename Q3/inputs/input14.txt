@@ -1,0 +1,76 @@
+32 41
+ABN Albina 
+ABK Kabri Dar 
+ACR Araracuara 
+ABM Bamaga Northern Peninsula 
+ACD Acandi Alcides Fernandez 
+AAR Aarhus Tirstrup 
+ACE Lanzarote 
+ADE Aden International 
+ABW Abau 
+ACH St. Gallen-Altenrhein 
+AAA Anaa 
+ADM Ardmore Municipal Airport 
+AAZ Quetzaltenango 
+AAY Al Ghaydah 
+ACI Alderney 
+AAN Al Ain International 
+ABD Abadan 
+ABY Albany Southwest Georgia Regional 
+ADW Camp Springs Joint Base Andrews 
+ACS Achinsk 
+ADB Izmir 
+ABJ Abidjan 
+AAX Araxa 
+ACV Arcata/Eureka 
+ACA Acapulco 
+ACT Waco 
+ACK Nantucket Memorial 
+ADA Adana 
+ABB Asaba International 
+AAS Apalapsili 
+ABC Albacete Airport 
+AAL Aalborg 
+AAY ABD 18.72
+AAR ADA 35.33
+ACE ACT 86.67
+ACE ACD 62.89
+ABM ABK 95.78
+ACD ACI 89.64
+ABK ACV 173.81
+ABC ACK 71.24
+ACA ADM 16.76
+ABN AAX 25.06
+ACH ACA 113.55
+ACK ABB 87.35
+ACK ABM 218.84
+ACH ACR 98.02
+AAZ AAS 231.53
+AAS ADW 224.30
+ABJ ABB 5.64
+ABW ACK 221.72
+AAL AAX 93.41
+AAA ACS 246.30
+ABC ABY 78.66
+AAX ACD 43.34
+ACK AAZ 32.01
+AAL ABY 92.45
+ACS ACE 105.70
+ABM ACV 271.58
+AAY ADE 7.90
+ABY AAY 140.23
+ACE ADB 39.82
+ACA ABY 17.46
+ADA ABC 35.20
+ACI AAZ 99.86
+ABC ABM 151.71
+ABD ABJ 52.88
+AAR ADM 110.86
+AAR ACD 103.07
+ACI ABK 63.29
+ABW ACV 281.56
+AAL ADM 113.27
+ACS ABM 81.92
+AAN AAY 8.77
+ABW
+ACV

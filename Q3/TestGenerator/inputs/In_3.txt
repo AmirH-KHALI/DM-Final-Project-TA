@@ -1,0 +1,27 @@
+12 12
+ADU Ardabil 
+ADN Andes 
+ADC Andakombe 
+ABR Aberdeen Regional 
+ABY Albany Southwest Georgia Regional 
+ADW Camp Springs Joint Base Andrews 
+ADZ San Andres Island 
+ADS Dallas Addison Apt 
+AAV Surallah Allah Valley 
+ADA Adana 
+AAZ Quetzaltenango 
+ACU Achutupo 
+ABY AAZ 22.21
+ADS ADN 31.42
+ABY ADC 228.18
+ABR ADC 247.78
+ABY ADS 15.72
+ADN ADW 29.16
+ACU ABY 21.93
+ADN AAZ 13.14
+ABR ADU 149.02
+ADW ADA 115.17
+ADZ AAZ 10.07
+ABR AAV 228.59
+ADS
+ABR

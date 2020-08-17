@@ -1,0 +1,100 @@
+AAA -17.3525 -145.51 Anaa
+AAB -26.6911 141.0472 Arrabury
+AAC 31.0733 33.8358 El Arish International
+AAD 6.0961 46.6375 Adado
+AAE 36.8222 7.8092 Annaba Rabah Bitat
+AAF 29.7333 -85.0333 Apalachicola Regional
+AAG -24.1036 -49.79 Arapoti Avelino Vieira
+AAH 50.8231 6.1864 Aachen Merzbrueck
+AAI -12.9167 -46.9333 Arraias
+AAJ 3.9 -55.3667 Awaradam Cajana
+AAK 0.1853 173.6369 Aranuka
+AAL 57.0928 9.8492 Aalborg
+AAM -24.8181 31.5447 Mala Mala
+AAN 24.2617 55.6092 Al Ain International
+AAO 9.4167 -64.4667 Anaco
+AAP -0.3731 117.2508 Samarinda Ap Tumenggung
+AAQ 45.0022 37.3472 Anapa
+AAR 56.3039 10.6194 Aarhus Tirstrup
+AAS -3.9167 139.25 Apalapsili
+AAT 47.7506 88.0858 Altay
+AAU -13.4583 -172.6 Asau
+AAV 6.3333 124.7667 Surallah Allah Valley
+AAW 50.7825 6.0717 Aachen Bf West Bus St
+AAX -19.5633 -46.9603 Araxa
+AAY 16.1936 52.1731 Al Ghaydah
+AAZ 14.8639 -91.5203 Quetzaltenango
+ABA 53.74 91.385 Abakan
+ABB 6.2031 6.6672 Asaba International
+ABC 38.9486 -1.8636 Albacete Airport
+ABD 30.3711 48.2283 Abadan
+ABE 40.6522 -75.4408 Allentown/Bethl
+ABF 1.3817 173.1475 Abaiang
+ABG -17.6667 143.2 Abingdon Downs
+ABH -23.7 146.5833 Alpha
+ABI 32.4114 -99.6819 Abilene Regional Apt
+ABJ 5.2614 -3.9264 Abidjan
+ABK 6.7339 44.2553 Kabri Dar
+ABL 67.1072 -157.8533 Ambler
+ABM -10.9508 142.4594 Bamaga Northern Peninsula
+ABN 5.5167 -54.05 Albina
+ABO 5.4667 -3.2 Aboisso
+ABP -6.0667 141.1 Atkamba
+ABQ 35.0406 -106.6094 Albuquerque
+ABR 45.4536 -98.4256 Aberdeen Regional
+ABS 22.3758 31.6117 Abu Simbel
+ABT 20.2961 41.6342 Al Baha Al-Aqiq
+ABU -9.075 124.9039 Atambua Haliwen
+ABV 9.0067 7.2631 Abuja
+ABW -10.1667 148.7 Abau
+ABX -36.0678 146.9581 Albury
+ABY 31.5356 -84.1944 Albany Southwest Georgia Regional
+ABZ 57.2042 -2.2003 Aberdeen (GB)
+ACA 16.7569 -99.7539 Acapulco
+ACB 44.9833 -85.2028 Bellaire Antrim County
+ACC 5.6053 -0.1667 Accra
+ACD 8.5167 -77.3 Acandi Alcides Fernandez
+ACE 28.9456 -13.6053 Lanzarote
+ACH 47.485 9.5608 St. Gallen-Altenrhein
+ACI 49.7069 -2.2156 Alderney
+ACJ 8.3 80.4267 Anuradhapura
+ACK 41.2531 -70.0603 Nantucket Memorial
+ACL 4.75 -73.0 Aguaclara
+ACM -2.1333 -71.7833 Arica
+ACN 29.3331 -101.0992 Ciudad Acuna International
+ACO 46.1594 8.7667 Ascona
+ACP 37.3481 46.1331 Maragheh Sahand
+ACR -0.6008 -72.3964 Araracuara
+ACS 56.2697 90.5719 Achinsk
+ACT 31.6114 -97.2306 Waco
+ACU 8.4333 -77.9667 Achutupo
+ACV 40.9781 -124.1086 Arcata/Eureka
+ACX 25.0856 104.9594 Xingyi
+ACY 39.4575 -74.5772 Atlantic City International
+ACZ 31.0983 61.5439 Zabol
+ADA 36.9822 35.2803 Adana
+ADB 38.2925 27.1569 Izmir
+ADC -7.15 145.75 Andakombe
+ADD 8.9778 38.7994 Addis Ababa
+ADE 12.8294 45.0289 Aden International
+ADF 37.7314 38.4689 Adiyaman
+ADG 41.9 -84.0333 Adrian Lenawee County
+ADH 58.6028 125.4067 Aldan
+ADI -22.4 15.0 Arandis
+ADJ 31.9728 35.9917 Amman Marka Intl Airport
+ADK 51.8811 -176.6483 Adak Island
+ADL -34.945 138.5306 Adelaide
+ADM 34.3 -97.0167 Ardmore Municipal Airport
+ADN 5.6667 -75.8833 Andes
+ADO -30.4339 137.1372 Andamooka
+ADP 7.3375 81.6258 Ampara Gal Oya
+ADQ 57.75 -152.4939 Kodiak Apt
+ADR 33.45 -79.5667 Andrews Robert F. Swinnie
+ADS 32.9703 -96.8372 Dallas Addison Apt
+ADT 34.8 -96.6667 Ada Municipal
+ADU 38.3256 48.4242 Ardabil
+ADV 11.4022 26.1186 Addeain
+ADW 38.8089 -76.8708 Camp Springs Joint Base Andrews
+ADX 56.3667 -2.8667 St Andrews Raf Leuchars
+ADY -22.6667 29.1 Alldays
+ADZ 12.5836 -81.7111 San Andres Island

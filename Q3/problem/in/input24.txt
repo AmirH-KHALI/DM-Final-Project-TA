@@ -1,0 +1,134 @@
+49 82
+AAD Adado 
+ABE Allentown/Bethl 
+ACB Bellaire Antrim County 
+ACS Achinsk 
+ACY Atlantic City International 
+ADH Aldan 
+ADZ San Andres Island 
+ACE Lanzarote 
+ACZ Zabol 
+ACU Achutupo 
+ACM Arica 
+ACK Nantucket Memorial 
+ADV Addeain 
+ACX Xingyi 
+AAE Annaba Rabah Bitat 
+ABN Albina 
+ADY Alldays 
+AAN Al Ain International 
+ACN Ciudad Acuna International 
+AAG Arapoti Avelino Vieira 
+ADT Ada Municipal 
+ABO Aboisso 
+ADC Andakombe 
+ADK Adak Island 
+ADR Andrews Robert F. Swinnie 
+AAA Anaa 
+ABG Abingdon Downs 
+ABQ Albuquerque 
+AAP Samarinda Ap Tumenggung 
+ABB Asaba International 
+AAM Mala Mala 
+ABY Albany Southwest Georgia Regional 
+ADG Adrian Lenawee County 
+ABR Aberdeen Regional 
+ACT Waco 
+ADU Ardabil 
+ADN Andes 
+AAJ Awaradam Cajana 
+ACH St. Gallen-Altenrhein 
+ABI Abilene Regional Apt 
+ABS Abu Simbel 
+AAZ Quetzaltenango 
+AAH Aachen Merzbrueck 
+ACP Maragheh Sahand 
+AAB Arrabury 
+ABW Abau 
+ADL Adelaide 
+AAW Aachen Bf West Bus St 
+ACJ Anuradhapura 
+ADC ACN 244.53
+ACJ ACP 47.94
+ABG ADR 227.56
+ACJ AAE 81.02
+ACB ABI 14.18
+ADN ADY 112.74
+AAH ADG 90.66
+ACK ADV 96.70
+ACE ABN 46.74
+AAB ACH 148.97
+ADC ADU 106.43
+ABN ABO 48.85
+ABW AAE 147.52
+ABO ACS 101.65
+ADU AAP 76.96
+ACS ACH 77.49
+AAZ ABS 127.36
+ACP AAJ 110.87
+AAD ADY 37.69
+ABW ADH 72.61
+ADG AAZ 26.05
+ABE AAA 89.96
+ACK ADT 30.38
+AAG ADN 36.59
+AAN ABW 100.25
+AAB ADN 217.33
+AAW AAP 117.38
+ABE ADT 25.02
+AAG AAE 85.84
+AAJ ADK 130.43
+ACM ADG 49.71
+ADY ABB 40.56
+ACX ABE 179.07
+ABS ABY 114.17
+ADR ACS 172.66
+ACN ADT 7.04
+AAB ABY 234.65
+ADH ACS 37.91
+AAJ ADV 82.83
+ACN AAG 72.08
+AAZ ADY 128.32
+ADC ADN 218.00
+AAD ACK 120.88
+ACY ABY 12.46
+ABW ACY 224.73
+AAB ACS 92.11
+ACM ABQ 54.94
+ADZ ABS 115.75
+ACH ACK 74.86
+ADN ABE 38.99
+ACJ AAA 227.39
+ABI ACN 7.00
+ABW ACN 247.90
+ADR ABB 88.44
+ACT ACZ 153.78
+AAD ADU 29.28
+ADL ACX 71.78
+ADY ADC 118.68
+ACH ACP 36.95
+ACY ADR 4.81
+AAD AAZ 138.44
+ACM ACZ 134.41
+ADR ABN 36.83
+ADN ACY 28.82
+ACU ADL 217.80
+ABG ACK 218.25
+ADL AAW 156.78
+ACT ABN 51.45
+ADC ABQ 250.86
+ABQ ADR 28.09
+ACN ACZ 162.65
+ADV ADN 103.16
+ABW ACK 227.72
+ADH ACN 224.39
+ABG ACJ 69.93
+ADK ABO 178.55
+AAA ABR 81.50
+ADR ABO 83.33
+ABW ADR 236.40
+ABN ADC 198.20
+ACY ABG 220.14
+AAM ABG 107.88
+AAD
+ABW

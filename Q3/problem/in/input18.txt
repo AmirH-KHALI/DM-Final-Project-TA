@@ -1,0 +1,109 @@
+41 65
+AAI Arraias 
+AAA Anaa 
+AAH Aachen Merzbrueck 
+ABB Asaba International 
+ABD Abadan 
+ABQ Albuquerque 
+ACI Alderney 
+ABZ Aberdeen (GB) 
+ADE Aden International 
+AAV Surallah Allah Valley 
+ACL Aguaclara 
+ADO Andamooka 
+AAW Aachen Bf West Bus St 
+ADC Andakombe 
+ADI Arandis 
+ACH St. Gallen-Altenrhein 
+ADM Ardmore Municipal Airport 
+ABL Ambler 
+ADH Aldan 
+AAZ Quetzaltenango 
+ACT Waco 
+ADT Ada Municipal 
+AAG Arapoti Avelino Vieira 
+ADJ Amman Marka Intl Airport 
+AAU Asau 
+ACC Accra 
+AAB Arrabury 
+ACU Achutupo 
+ACX Xingyi 
+ADX St Andrews Raf Leuchars 
+ACZ Zabol 
+AAY Al Ghaydah 
+ABP Atkamba 
+ABG Abingdon Downs 
+AAP Samarinda Ap Tumenggung 
+AAQ Anapa 
+ABR Aberdeen Regional 
+ABY Albany Southwest Georgia Regional 
+ABF Abaiang 
+AAS Apalapsili 
+AAE Annaba Rabah Bitat 
+AAP ADI 107.60
+ADJ ACC 42.75
+ABZ ADI 78.44
+ABR ABG 247.73
+ABD AAG 109.14
+AAU ABG 314.83
+AAB ABG 13.28
+AAU ADJ 217.48
+AAW ACT 106.07
+AAG ABG 193.10
+AAU AAY 223.72
+ADO AAQ 126.09
+ADC AAS 4.26
+AAQ AAY 31.40
+AAY ADH 81.63
+ABZ ADO 161.61
+ABL ACX 263.15
+ADE ABB 36.93
+ACL ACX 174.12
+ADM AAQ 138.79
+ACZ ADM 161.59
+ACI ACL 84.85
+ACI AAY 64.88
+ADJ AAB 123.33
+ACU AAE 88.35
+ABF AAZ 269.01
+ACT ACC 101.49
+ACU ADH 210.47
+ABG ADJ 120.14
+ABY ABB 90.33
+ABB ADO 133.52
+ADJ AAQ 17.10
+AAS ADC 5.26
+ABZ ACC 47.64
+ADT AAI 65.92
+ACC ACT 95.49
+AAI ABL 136.77
+ABG ABD 102.43
+ACI ABP 149.79
+AAY ADI 54.58
+AAG AAH 89.53
+AAV AAP 10.07
+AAH ADO 155.11
+ACT ADX 94.56
+ABY ABP 223.41
+ADC ACH 144.74
+ABQ ACH 115.83
+AAZ ABZ 96.85
+ADI ABB 33.79
+AAY AAG 111.64
+AAI ADT 65.92
+AAW AAY 55.63
+ADO ABZ 166.61
+ADO ACT 242.44
+ABZ AAG 91.21
+ABF ADJ 135.53
+AAZ AAS 230.53
+AAZ ABP 234.56
+ACH ACI 8.98
+ACU AAW 90.11
+AAZ ADH 219.29
+ACU ABP 218.55
+ACL ABD 123.91
+ABQ ABB 116.89
+ADX AAA 159.57
+ADE
+ACZ

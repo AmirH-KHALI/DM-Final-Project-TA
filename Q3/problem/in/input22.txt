@@ -1,0 +1,130 @@
+48 79
+ADW Camp Springs Joint Base Andrews 
+ADJ Amman Marka Intl Airport 
+ADX St Andrews Raf Leuchars 
+ADO Andamooka 
+ACC Accra 
+ABZ Aberdeen (GB) 
+ACJ Anuradhapura 
+AAX Araxa 
+ABU Atambua Haliwen 
+ACZ Zabol 
+ABR Aberdeen Regional 
+ACU Achutupo 
+ABB Asaba International 
+ABP Atkamba 
+ABT Al Baha Al-Aqiq 
+ADF Adiyaman 
+ADD Addis Ababa 
+AAL Aalborg 
+ABI Abilene Regional Apt 
+ABF Abaiang 
+AAP Samarinda Ap Tumenggung 
+ABO Aboisso 
+ABS Abu Simbel 
+ACK Nantucket Memorial 
+ADP Ampara Gal Oya 
+AAN Al Ain International 
+AAT Altay 
+AAZ Quetzaltenango 
+ACD Acandi Alcides Fernandez 
+ACX Xingyi 
+ACV Arcata/Eureka 
+ACI Alderney 
+ABN Albina 
+ADU Ardabil 
+ADI Arandis 
+ACB Bellaire Antrim County 
+ADT Ada Municipal 
+ACL Aguaclara 
+AAF Apalachicola Regional 
+AAH Aachen Merzbrueck 
+ABH Alpha 
+AAW Aachen Bf West Bus St 
+ADR Andrews Robert F. Swinnie 
+ABC Albacete Airport 
+ABK Kabri Dar 
+AAK Aranuka 
+AAV Surallah Allah Valley 
+AAO Anaco 
+ADX AAW 13.54
+AAT ACU 171.64
+ACJ ABB 73.79
+ABO ADI 36.28
+ABC ACZ 58.89
+ADF ABR 138.11
+AAH ABS 34.15
+ABT ABP 97.90
+AAX ACJ 125.40
+ACJ ADJ 54.35
+ACI AAF 81.19
+AAX AAH 92.20
+ADX ADF 48.34
+AAX ADJ 101.66
+ACZ ABK 28.88
+AAX ACZ 120.75
+ADU ACK 117.52
+ABB ABR 114.18
+ADR ADW 5.00
+ABK AAF 135.32
+ACB ADF 125.88
+ABK ABT 16.81
+AAX ADU 112.58
+AAT ADW 161.20
+ADO ACV 271.83
+ADF AAN 25.80
+ADW ABN 41.36
+ACU ABF 254.21
+ABU ACU 198.62
+ACI ADW 79.45
+AAH AAZ 104.11
+AAL ACU 96.40
+ADT ADJ 131.69
+ACI ADI 75.13
+ABR AAW 105.63
+ADF ABU 99.29
+AAP ADW 199.04
+ADU AAX 109.58
+ADW AAL 92.63
+ADF ABZ 44.09
+ABF ACB 258.00
+ADT ABK 145.69
+ABT ADD 8.67
+ABO ACL 65.80
+ADI AAO 85.60
+ADX ACD 88.49
+ABU ACI 135.05
+ADJ ABC 41.49
+ADX AAK 185.23
+ADJ ABO 48.31
+ABH ACU 226.84
+ABT ABZ 57.30
+AAH ACC 45.66
+AAO AAZ 30.60
+ABU ADX 143.55
+ACD ACX 180.01
+AAV ADP 44.15
+ACU ABP 222.55
+ABR ABP 246.00
+ACZ AAH 59.77
+ACJ AAF 162.84
+AAF ABN 43.32
+ABZ ABN 72.21
+ACU ACB 41.26
+ADD AAP 80.01
+AAZ ABP 230.56
+ABH ADU 114.11
+ADJ ACL 110.34
+ADP ABS 49.23
+ADD ABP 106.40
+ADI ABF 156.93
+ABT AAT 56.96
+AAV ACX 24.28
+ABF ACU 247.21
+AAZ ABI 21.35
+AAK ABK 126.55
+AAH ADJ 33.27
+AAL ADI 80.66
+ACV ACK 58.05
+ABN
+ACD

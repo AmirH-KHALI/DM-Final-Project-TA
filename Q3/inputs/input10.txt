@@ -1,0 +1,67 @@
+25 39
+ACU Achutupo 
+AAC El Arish International 
+ACE Lanzarote 
+ACO Ascona 
+ACB Bellaire Antrim County 
+ADZ San Andres Island 
+ABG Abingdon Downs 
+ACN Ciudad Acuna International 
+AAV Surallah Allah Valley 
+ABO Aboisso 
+ADW Camp Springs Joint Base Andrews 
+ABR Aberdeen Regional 
+ACD Acandi Alcides Fernandez 
+AAH Aachen Merzbrueck 
+ABZ Aberdeen (GB) 
+ABJ Abidjan 
+ADM Ardmore Municipal Airport 
+ABQ Albuquerque 
+ADI Arandis 
+AAW Aachen Bf West Bus St 
+ABB Asaba International 
+ADF Adiyaman 
+ABU Atambua Haliwen 
+ABY Albany Southwest Georgia Regional 
+ADJ Amman Marka Intl Airport 
+ADF ABQ 142.10
+ADW ABY 10.32
+ABY ADW 10.32
+ACD ACE 65.89
+ACU ADZ 2.59
+AAH ACU 96.23
+ADZ ADM 28.57
+ACB ADI 122.75
+ACO ACE 26.23
+AAW ACB 94.46
+ADW ABG 230.20
+ACE AAH 25.50
+ABY ACE 67.64
+ACD ADM 27.46
+AAV ABJ 132.70
+ABQ ABJ 108.91
+ABO AAC 46.03
+AAC ABB 35.83
+AAH ABQ 108.89
+ADJ ADZ 115.29
+ABR ACE 88.41
+ACU ABJ 74.11
+ACD ABZ 93.50
+ACB ABO 90.03
+ACD ADZ 9.00
+ADF ADJ 9.27
+ABY ACO 96.10
+ADM AAW 106.40
+AAH ABG 152.18
+AAV ABY 207.48
+ADF ACO 32.87
+ADI ABG 129.29
+ABJ ABY 79.46
+ADJ ACU 112.36
+ACN ABJ 95.11
+AAW ABY 95.30
+ABZ ABB 52.77
+ACU ABG 218.70
+ADF ABU 98.29
+AAV
+ABG

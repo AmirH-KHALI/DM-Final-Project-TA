@@ -1,0 +1,122 @@
+45 74
+ABY Albany Southwest Georgia Regional 
+ABH Alpha 
+ACS Achinsk 
+ADM Ardmore Municipal Airport 
+ACY Atlantic City International 
+ABT Al Baha Al-Aqiq 
+AAU Asau 
+AAT Altay 
+ABJ Abidjan 
+ABA Abakan 
+ACC Accra 
+ABW Abau 
+ADD Addis Ababa 
+ABV Abuja 
+AAY Al Ghaydah 
+ADS Dallas Addison Apt 
+AAR Aarhus Tirstrup 
+ABD Abadan 
+AAZ Quetzaltenango 
+ACX Xingyi 
+AAK Aranuka 
+ABU Atambua Haliwen 
+ABI Abilene Regional Apt 
+ACZ Zabol 
+AAA Anaa 
+AAG Arapoti Avelino Vieira 
+ADL Adelaide 
+ABX Albury 
+ACV Arcata/Eureka 
+ADV Addeain 
+ABE Allentown/Bethl 
+AAW Aachen Bf West Bus St 
+ACH St. Gallen-Altenrhein 
+ADG Adrian Lenawee County 
+ADB Izmir 
+ABQ Albuquerque 
+ADR Andrews Robert F. Swinnie 
+AAO Anaco 
+ACJ Anuradhapura 
+ACB Bellaire Antrim County 
+AAC El Arish International 
+ACN Ciudad Acuna International 
+ABR Aberdeen Regional 
+ADP Ampara Gal Oya 
+AAP Samarinda Ap Tumenggung 
+AAZ ADM 16.20
+ABT ADG 127.51
+AAY ABA 53.29
+ABT ADV 12.88
+AAA ADV 178.02
+ABU ACV 250.99
+ACN ADP 183.04
+ACX ACV 224.62
+AAY ABH 97.49
+AAG ADD 93.56
+AAC AAG 98.19
+AAU ABT 215.88
+ADD ACJ 36.63
+ACC ABI 98.06
+AAY ACS 58.50
+ABR AAR 111.58
+ABD ADB 24.51
+ACZ AAG 128.27
+ABI ABA 194.25
+AAP AAK 52.39
+AAY ACC 53.40
+AAZ AAW 101.99
+ADP AAY 30.76
+AAA ACV 60.13
+AAO ABW 211.06
+ABX ABY 239.84
+ACJ AAR 80.72
+ABR AAP 223.49
+AAC ACN 131.95
+ACJ ACV 209.13
+AAK ACH 168.76
+ABX ADB 144.00
+AAC ACH 25.30
+ACZ ABJ 74.38
+AAC AAW 31.05
+ABQ ABD 155.91
+AAZ ABI 17.35
+AAZ ADV 119.69
+AAZ ADL 230.38
+ADB ACY 101.74
+AAG ACJ 134.19
+ABD ABI 149.92
+ADR AAR 93.04
+ABD ADS 145.09
+ABA ACB 172.80
+AAK ABA 95.15
+ABA ABE 164.34
+ABI ABH 255.58
+AAC ADB 9.83
+ACX ACN 209.10
+ABU ACX 42.56
+ADR ACZ 137.13
+ABV AAO 70.73
+ADV ADP 53.66
+ACB ADL 232.58
+ABY ADR 1.01
+ADP ABV 69.38
+ABI ADD 135.45
+AAK ABT 135.53
+ADG ADS 12.61
+ACX ADR 182.72
+ABV ABY 91.19
+ABH ADL 13.83
+ABA ABY 179.98
+ABX ABE 231.26
+ACS ACN 189.55
+ABJ AAU 172.71
+ABW AAO 218.06
+ADP ABY 169.58
+ACH AAY 53.87
+ABE ABJ 82.79
+ACJ AAC 46.86
+ABR ADL 254.22
+AAT ABR 189.53
+ABE
+AAA

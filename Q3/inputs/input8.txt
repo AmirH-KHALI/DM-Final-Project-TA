@@ -1,0 +1,39 @@
+16 20
+ABX Albury 
+ABK Kabri Dar 
+ACL Aguaclara 
+AAT Altay 
+ABW Abau 
+ADJ Amman Marka Intl Airport 
+ADH Aldan 
+AAC El Arish International 
+ADB Izmir 
+ABC Albacete Airport 
+ACC Accra 
+ABD Abadan 
+ABO Aboisso 
+ABR Aberdeen Regional 
+ABU Atambua Haliwen 
+ADM Ardmore Municipal Airport 
+ADJ ABK 21.56
+AAT ACL 168.73
+ABU ADH 67.68
+AAC ACL 109.03
+ABX ABR 262.57
+ADH ADM 226.75
+AAC ADH 97.62
+AAT ABX 104.43
+ADJ ABX 131.17
+ACC ADH 133.30
+ABK AAT 60.03
+AAT AAC 60.76
+ABR ABC 98.78
+ADB ABW 134.85
+ABO ABW 152.70
+AAT ABW 87.84
+ADH ABK 99.31
+ADB ABK 33.89
+ABC ABK 55.26
+ACC ABD 58.36
+ABR
+ABX

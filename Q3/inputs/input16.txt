@@ -1,0 +1,80 @@
+34 43
+ADD Addis Ababa 
+AAI Arraias 
+ABL Ambler 
+ACJ Anuradhapura 
+AAV Surallah Allah Valley 
+ADI Arandis 
+ABY Albany Southwest Georgia Regional 
+ADN Andes 
+AAJ Awaradam Cajana 
+ACS Achinsk 
+AAG Arapoti Avelino Vieira 
+ACT Waco 
+ABB Asaba International 
+ADS Dallas Addison Apt 
+AAU Asau 
+AAM Mala Mala 
+ABF Abaiang 
+ADK Adak Island 
+ADX St Andrews Raf Leuchars 
+ABA Abakan 
+ADQ Kodiak Apt 
+ACH St. Gallen-Altenrhein 
+ABO Aboisso 
+ADC Andakombe 
+ACC Accra 
+ACP Maragheh Sahand 
+ABH Alpha 
+AAW Aachen Bf West Bus St 
+ADG Adrian Lenawee County 
+ADH Aldan 
+ADR Andrews Robert F. Swinnie 
+AAL Aalborg 
+ABD Abadan 
+ABE Allentown/Bethl 
+ACH AAG 90.99
+ABE AAM 127.43
+ACT AAU 91.82
+ABB AAV 119.10
+ABY AAV 213.48
+ADD ABF 130.56
+AAL ACJ 83.80
+ACC ADX 50.83
+ADH ADD 99.82
+ABE ADR 3.30
+ABO ABF 173.39
+ACJ ADX 94.17
+ABD ADR 129.83
+ACS ADG 178.20
+ADC ABA 83.63
+AAV ABO 126.97
+AAM AAJ 88.53
+AAV ABY 209.48
+ADI ABY 110.91
+ABL ADI 191.65
+ACT ADG 16.73
+AAI ADD 88.48
+ACC ACT 97.49
+AAV ABB 119.10
+ABH ACH 155.41
+ABF ADD 136.56
+AAL ADK 182.57
+ADG ABB 101.47
+ACT ADH 228.27
+ACS AAW 84.68
+AAJ ADD 93.30
+ACT ABH 249.01
+ADN ADS 30.42
+ABB ACJ 76.79
+ABF AAV 44.63
+ADS ACC 101.47
+ADI ADQ 186.68
+ADQ ACC 157.01
+ADX ADQ 146.63
+ACP ABL 202.15
+ADR ADD 122.87
+AAI AAV 174.78
+ABO ADC 146.48
+AAJ
+ABF

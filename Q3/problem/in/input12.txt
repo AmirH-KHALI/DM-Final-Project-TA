@@ -1,0 +1,78 @@
+30 45
+AAU Asau 
+ADB Izmir 
+ABG Abingdon Downs 
+ABL Ambler 
+ADG Adrian Lenawee County 
+AAV Surallah Allah Valley 
+ABU Atambua Haliwen 
+ACT Waco 
+ABI Abilene Regional Apt 
+ADV Addeain 
+ADT Ada Municipal 
+AAM Mala Mala 
+AAQ Anapa 
+AAW Aachen Bf West Bus St 
+ABV Abuja 
+AAG Arapoti Avelino Vieira 
+ADU Ardabil 
+AAS Apalapsili 
+ABC Albacete Airport 
+ADK Adak Island 
+ADA Adana 
+ADL Adelaide 
+ACH St. Gallen-Altenrhein 
+AAZ Quetzaltenango 
+ABB Asaba International 
+ADR Andrews Robert F. Swinnie 
+ACJ Anuradhapura 
+ADC Andakombe 
+ACY Atlantic City International 
+AAX Araxa 
+ABG ADG 230.91
+ABC ADT 95.89
+ADL ADK 330.92
+ADC ACJ 69.13
+ACJ ABU 51.75
+AAV AAG 178.19
+ABU AAZ 212.74
+ABU ADB 104.62
+AAZ ABC 95.84
+ACJ ADC 66.13
+ADC AAM 110.56
+ACH ADV 34.70
+ABC AAU 173.60
+ACJ AAQ 60.59
+ACH ADU 43.93
+ABG ADV 122.64
+ABI ADR 24.14
+ABV ACJ 73.17
+AAQ ABB 51.46
+ABI ABC 98.04
+ACT ABU 229.83
+AAG ABB 65.08
+ADB ABU 107.62
+ABV ABI 107.48
+ADA AAZ 130.72
+ACT AAS 242.13
+ADU AAM 62.36
+ACT ABV 104.91
+AAS ADR 221.98
+ACY AAM 123.07
+ABC ACJ 90.81
+AAS AAQ 113.04
+ABL ADR 85.22
+ACJ ADR 158.96
+AAU ADG 106.44
+AAW AAZ 101.99
+ADR ABV 94.20
+ACY ADV 103.53
+ADG ADR 6.56
+AAZ ABB 93.57
+ABC ADL 154.65
+ABI ACY 27.07
+AAZ AAS 230.53
+AAZ ADK 90.83
+AAX ABC 70.87
+ADC
+AAM

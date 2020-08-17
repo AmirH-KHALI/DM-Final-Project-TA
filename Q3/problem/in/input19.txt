@@ -1,0 +1,105 @@
+37 65
+ABT Al Baha Al-Aqiq 
+ABW Abau 
+ABG Abingdon Downs 
+ADW Camp Springs Joint Base Andrews 
+AAB Arrabury 
+ADJ Amman Marka Intl Airport 
+ACT Waco 
+ABF Abaiang 
+ACP Maragheh Sahand 
+ADT Ada Municipal 
+ABB Asaba International 
+AAY Al Ghaydah 
+ACV Arcata/Eureka 
+ABA Abakan 
+ADF Adiyaman 
+AAR Aarhus Tirstrup 
+AAQ Anapa 
+ADQ Kodiak Apt 
+ADG Adrian Lenawee County 
+ACR Araracuara 
+ADZ San Andres Island 
+ADR Andrews Robert F. Swinnie 
+ABP Atkamba 
+ADE Aden International 
+ACL Aguaclara 
+ACM Arica 
+ADC Andakombe 
+AAC El Arish International 
+AAP Samarinda Ap Tumenggung 
+AAO Anaco 
+ACA Acapulco 
+ACI Alderney 
+AAJ Awaradam Cajana 
+ABZ Aberdeen (GB) 
+ABC Albacete Airport 
+AAH Aachen Merzbrueck 
+ADB Izmir 
+ABT AAO 101.66
+AAQ ABW 122.27
+ACP ACA 143.33
+ACM ACI 85.76
+ABZ ACI 7.50
+ABB ABT 41.70
+ABB ABG 139.60
+ADC AAH 153.13
+ABF ABW 23.04
+ADZ ACA 17.52
+ADF ADW 110.34
+ACP ADG 131.25
+ADJ ACL 115.34
+ACP ADC 110.10
+ADT ACI 98.62
+ABW ADB 130.85
+ADR ACR 34.80
+ADC ACV 274.12
+ABC ACA 97.37
+ADB ACR 101.88
+ACR AAB 211.03
+ADJ ADZ 115.29
+ACL ABG 220.36
+ADR ACT 18.76
+ADC ACL 215.07
+ACV ABC 125.26
+AAR ACT 109.64
+ADF ABW 120.19
+ADG ABW 241.49
+AAB AAJ 195.78
+ADR ADW 4.00
+ACT AAJ 53.20
+ABG AAB 4.28
+ACT ADQ 58.13
+ACM ADZ 16.75
+AAJ ACR 14.61
+AAH AAB 153.55
+AAJ ACL 16.65
+ACV ABF 295.88
+ACM AAJ 14.49
+AAB ACT 246.31
+ADR ADB 106.83
+ACP AAC 14.81
+ADG ABC 82.22
+ABB AAJ 59.08
+ADE ADG 129.30
+ADQ AAQ 190.27
+ADZ AAR 97.16
+AAJ ADG 42.60
+ABP ADR 227.18
+ACP ADJ 11.48
+ADT ABC 95.89
+ACM AAH 98.25
+ABA ABT 63.95
+ABC ACR 83.86
+ACR ADG 48.07
+ADT AAC 134.56
+ACA AAJ 43.21
+ACR ABC 84.86
+ADC ADT 248.02
+ABA ACM 175.47
+ABB ADE 39.93
+ADE ABF 130.63
+ADF AAP 86.51
+AAY ACL 121.70
+ACV
+ADZ
