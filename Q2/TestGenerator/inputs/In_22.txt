@@ -1,0 +1,2876 @@
+843 2031
+30CL Long Beach Memorial Medical Center Heliport 
+2PA4 Boden Airport 
+2OH5 Childrens Medical Center Heliport 
+0IS3 Cady Aerial RLA Restricted Landing Area 
+2NK1 Gaskin's Hilltop Airport 
+2XA5 Someday Ranch Airport 
+09XS Baptist Medical Center Heliport 
+2S2 Beaver Marsh State Airport 
+9WI9 Carlson Airport 
+0SD7 Porch Ranch Airport 
+9WI8 Fletcher Airport 
+9NJ8 High Meadow Farms Airport 
+0AL9 Wilson Creek Airport 
+9TA5 Charlton-Careflite Heliport 
+09VA Alum Ridge STOLport 
+0OI6 Victor's Landing Airport 
+32IN Roto-Whirl/Ski World Heliport 
+AA12 Dove Island Lodge Seaplane Base 
+2U8 Thomas Creek Airport 
+9TA7 U of Texas Medical Branch Emergency Room Heliport 
+2TX7 Jw Airport 
+0OI1 Autolite Heliport 
+31NE Grimm Farm Airport 
+33OK Myrick Airport 
+9TE7 Flying G H Ranch Airport 
+31A Sugar Valley Airport 
+9TX9 Canon Ranch Airport 
+9NR8 Buie Field 
+2U7 Stanley Airport 
+0MS7 Hale Field 
+34KY Lone Pine Aerodrome 
+34CL Burney Service Center Heliport 
+0NJ8 Port Newark Helistop 
+9OK2 Pawnee Municipal Hospital Heliport 
+2WY3 Haas Airport 
+2OK1 Frost Ranch Airport 
+2TS1 Titus Regional Medical Center Heliport 
+0MU5 Holden Heliport 
+A67 Harlequin Lake Airport 
+0OR3 Long Ranch Airport 
+9Y0 Bowstring Airport 
+9OA5 Buckeye Executive Airport 
+0OK3 Mckinley Ranch Airport 
+0MO1 Flying G Airport 
+0KY3 Tennessee Gas Heliport 
+AA01 West Beaver Seaplane Base 
+9PA9 Lankenau Hospital Heliport 
+9OR7 Fishback Heliport 
+2ND2 Makeeff Airport 
+0Q6 Shingletown Airport 
+0NM7 Negrito Airstrip 
+AE-0007 Al Ghuwaifat Border Post helipad 
+0NJ7 Essex Generating Station Heliport 
+AGAR Ulawa Airport 
+9PA7 Keystone Airport 
+0CT3 N B G H Heliport 
+2OK9 Pata Skyhaven Airport 
+0MA5 Brockton Usar Center Heliport 
+32WI Dalonia Airport 
+0TE5 Santa Maria Ranch Airport 
+30W Sweetwater Bay Seaplane Base 
+2WI7 Hecklers' Strip 
+30NE Nebraskaland Aviation Airport 
+AA11 Misty Lake Seaplane Base 
+30FL Columbia Putnam Community Hospital Heliport 
+0CL0 Yosemite Hidden Lake Ranch Airport 
+AK30 Strawberry Point Airport 
+0S2 Stockton Municipal Airport 
+0AK5 Young Creek Airport 
+0CO9 Van Treese Airport 
+2OI8 K & D Airways Airport 
+0CL7 Good Samaritan Hospital Heliport 
+0NA5 Sorlie Airport 
+32TE Granite Shoals/ Bob Sylvester Airpark 
+AK05 Breeden Airport 
+9TS4 Ladue Ranch Heliport 
+2NC9 Scotland Memorial Heliport 
+0FL5 Lake Conway South Seaplane Base 
+0TS8 Flying 'K' Ranch Ultralightport 
+2XS2 Indio-Faith Airport 
+0FA1 Ott's Landing Airport 
+0OK4 Rock Creek Farm Airport 
+9WA5 Mid-Valley Hospital Ems Heliport 
+0MS2 Morgan Field 
+9WI5 Tamarack Airport 
+AK39 South Gasline Airport 
+0MS9 Shenandoah Valley Farms Airport 
+0FL8 Gary Gale Seaplane Base 
+0R9 Plainville Airpark 
+0NV1 Summerlin Medical Center Heliport 
+30IS Aero Lake Estates Airport 
+0FA5 Briley Farm Seaplane Base 
+AK82 Campbell BLM Heliport 
+AA09 Busch Creek Airport 
+AE-0002 Burj al Arab Resort Helipad 
+9PA3 Meadow Strip Ultralightport 
+2TE4 Frels Airport 
+0CL8 Tera Ultralightport 
+9WI4 Faken Airport 
+0FD4 Cloverleaf Farms Ii Inc. Heliport 
+AK19 Carl's Landing Airport 
+2S0 Twisp Municipal Airport 
+9OK3 Flying Eagle Estates Airport 
+9MS9 Beets Airport 
+34NE Evans Ranch Airport 
+AE-0011 Palm Jumeirah Heliport 
+0AK8 Pollux Heliport 
+2VA9 Airlie Airport 
+0LS7 Morgan Field 
+33MO Leaming Field 
+32KS Wilkens Airport 
+2NE5 Fiese Airstrip 
+2NK7 Walton Airport 
+9V3 Harrison Skyranch Airport 
+33SC Triad Carolinas Hospital Heliport 
+0S5 Nez Perce Municipal Airport 
+AGGT Santa Ana Airport 
+2OR0 Nielsen Airport 
+2Q5 Parker Carson Airport 
+0PS4 Old Orchard Airport 
+31KS Mills Field 
+30FA Florida Hospital Lake Placid Heliport 
+2SC2 South Carolina Pipeline Heliport 
+2NK9 Old Orchard Airpark 
+0NC5 Nash General Hospital Heliport 
+2UT4 Heber Valley Hospital Heliport 
+0OK1 Mckey Airport 
+AK08 Thomas Strip 
+0MD1 Taylor Field 
+9PN9 Perin Heliport 
+2ND0 Kraft Airport 
+9TE1 M-I Drilling Fluids Company Heliport 
+9PA0 Lance Airport 
+33C Jablonski Airport 
+33MT Kruger Heliport 
+0J8 Flying Ten Airport 
+9TA6 Buccaneer Shore Facility Heliport 
+0AA6 Big Salmon Heliport 
+31GA Wgcl-Tv Heliport 
+0MD7 The Aspen Institute Heliport 
+0NE4 Franklin County Memorial Hospital Heliport 
+9NC6 Sandy Run Acres Airport 
+32AR Stuttgart Memorial Hospital Heliport 
+AE-0009 Delma Hospital Helipad 
+9NE1 El-Co Airport 
+31D Inter County Airport 
+34PN Fox Field 
+9VA2 Inova Alexandria Hospital Heliport 
+0MI6 Young's Airport 
+AGGF Fera/Maringe Airport 
+0P1 Van Pak Airport 
+0GA2 Airnautique, Inc. Airport 
+2TA5 Port O'Connor Base (Ehi) Heliport 
+0FL1 Thompson Airfield 
+0CO7 Century Helicopters Heliport 
+9OK4 Vo-Tech Heliport 
+0LS4 Buller's Airstrip 
+9V2 Trenton Municipal Airport 
+0IL3 Flying B Ranch Airport 
+2VG5 Breeden Company Heliport 
+0LS0 Theriot Field 
+AGGP Parasi Airport 
+AK77 All West Airport 
+0FD6 Fulton Seaplane Base 
+9NE7 Bay Field 
+2Y0 Primghar Airport 
+9PN6 Baratta Heliport 
+2PN1 Malco Airport 
+9TA8 Taylor Ranch Airport 
+2TS6 Eagle's Nest Estates Airport 
+2OI7 Worthington Industries Heliport 
+0CO1 Dave's Airport 
+0SD4 Brookview Manor Heliport 
+09NJ Stonebridge Farm Helistop 
+AK62 Naukati Bay Seaplane Base 
+9TN1 Versailles Aerodrome 
+9S3 Lakeside State Airport 
+9NR7 Triple F Airpark 
+33CN Platform Hillhouse Heliport 
+33NE Orr Ranch Airport 
+32TN Southern Tennessee Medical Center Heliport 
+9OK8 Central Park Helistop 
+0P2 Shoestring Aviation Airfield 
+9N7 Farmers Pride Airport 
+AA02 Horseshoe Lake Seaplane Base 
+0TA7 Alta Vista Ranch Airport 
+31LS Helicopter Management Heliport 
+0PA1 Phoenix Technologies Heliport 
+9WA9 Naval Submarine Base Bangor Heliport 
+0OK8 Cade's Airport 
+9MO1 Missouri Baptist Hospital Heliport 
+34LS Coastal Ridge Airpark 
+0CL9 Sce San Jacinto Valley Service Center Heliport 
+09NR Dakota Air Ranch Airport 
+32NE Mc Ginn Ranch Airport 
+AK37 Point Mackenzie Heliport 
+0MD8 Security Ford Heliport 
+2WA2 Quartermaster Harbor Seaplane Base 
+AE-0003 Dubai Skydive 
+0LA9 Rebel Field 
+9XS3 Macy Ranch Airport 
+0CD9 Swedish S.W. Medical Heliport 
+0MT7 Pinehurst Ranch Airport 
+0IA5 Moore Private Airport 
+AGGC Choiseul Bay Airport 
+0PS1 Mc Crory Stores Heliport 
+2NH5 Pilgrim's Home Airfield 
+2RI7 Malbone Estate Heliport 
+9MI1 Custer Main Heliport 
+32PA Yost Personal Use Airport 
+9PS3 Doylestown Heliport 
+9PA4 S & C 8th & Market Helistop 
+AK94 Alascom/Coastal Lena Point Heliport 
+9SD7 Beaman Airport 
+9TS3 Simaron Ranch Airport 
+30OK Lobo Field 
+0NK8 Rocky Reef Farm Airport 
+0AR1 Hooterville South Airport 
+30OH Bahl Helistop 
+2TX8 Eagle's Landing Airport 
+33TA Lake Bonanza Airport 
+0LL4 Flaherty Field 
+34TA Jsi Airport 
+9OR9 Wallace Heliport 
+34OI Snoddy Air Strip 
+9LA7 Air Logistics; Amelia Base Heliport 
+32CO Braun Airport 
+0AA7 Kalifonsky Meadows Airport 
+0OH1 Cirino Heliport 
+2NK5 NCH Heliport 
+31WA Mary Bridge Heliport 
+AA06 Sixmile Lake Airport 
+0MO9 Emerson Heliport 
+2NH3 Scott Heliport 
+AE-0014 Ghantoot Racing & Polo Club Helipad 
+32XS Cedar Circle Heliport 
+AGGY Yandina Airport 
+9OK5 Diamond C Ranch Airport 
+2NK2 Cove Neck Heliport 
+0OR5 East Oregon Cattle Co Airport 
+2WI8 Davies Airport 
+9R7 Camp Bullis Heliport 
+30LS Rotorcraft Heliport 
+2NH9 Brookside Heliport 
+2OH2 Merritt Airport 
+0PA7 Linvill Airport 
+AK80 American Creek Airport 
+32GA Sebastian Cove Airport 
+9OK6 Community Hospital Lakeview Heliport 
+0MO4 Bert Walter Berkowitz Heliport 
+33IA Orange City Hospital Heliport 
+2OH6 Smith Field Airport 
+09TS Pitcock Rosillos Mountain Ranch Airport 
+31IN Timber House Airport 
+AK44 Talkeetna Village Strip 
+30NJ Hillside Farm Heliport 
+A51 Costin Airport 
+9PS8 Manor Landing Airport 
+2PS7 Merck Sharp & Dohme Heliport 
+0II9 Winters Airport 
+33TX Tgp 1 Heliport 
+2TN0 Hospital Wing Heliport 
+0Q4 Selma Airport 
+2WV5 Willow Bend Airport 
+0NK4 Medical Center Heliport 
+2XS0 Columbia Valley Regional Heliport 
+32LA A B Dock Services Heliport 
+30OR Bero Field 
+2T2 Percival Springs Airport 
+34NC Carolinas Medical Center Heliport 
+9OA9 Bender Airport 
+2WA6 Rice Ranch Airport 
+AK83 Gannon's Landing Airport 
+AEE Adareil Airport 
+31IS Mason District Hospital Heliport 
+0TS0 Flower Mound Airport 
+2XS4 Skida Patch Airport 
+2XS3 Glad Oaks Airport 
+0AR5 Rgnl Medical Center Heliport 
+0AR2 Mission Field-Marotti Memorial Airport 
+0LL6 Gord Airport 
+AK12 Flying Crown Airport 
+32CN Pacific Bell-2300 Imperial Hwy Heliport 
+0TA6 Arco Ingleside Shorebase Heliport 
+9PN2 Childrens Hospital Of Philadelphia Heliport 
+9NE8 Brosius Field 
+30TX Burg Lake Aero Airport 
+AA27 Otp Heliport 
+9WN9 Coloma Municipal Airport 
+30TA Tri-Modal Air Park 
+0IA0 Knoxville Area Community Hospital Heliport 
+2OK0 Burford Corp. Airport 
+0TN8 Erlanger Medical Center Heliport 
+9WI1 Black Otter Airport 
+2OK4 Ragwing Acres Airport 
+33KS Buena Terra Airport 
+0FL9 Mc Daniel Ranch Inc. Airport 
+2NY7 Towner Farm Airport 
+AK07 Dog Fish Bay Airport 
+0OK2 Parkview Hospital Heliport 
+AGGU Marau Airport 
+2NE6 Coppersmith Airport 
+AE-0005 Kempinski Emirates Palace Twin Heliport 
+9OH6 Weaver Airport 
+33OR Crow-Mag Airport 
+0L4 Lida Junction Airport 
+2VI2 Redoubt View Seaplane Base 
+30WI Chambers Island Airport 
+9VA6 Louise Obici Memorial Hospital Heliport 
+AA35 35 Mile Lodge Heliport 
+9MD9 G W Farm Airport 
+9MN0 Carey Lake Seaplane Base 
+09N Airhaven Airport 
+0IL0 Hamilton Memorial Hospital Heliport 
+2OK2 Twin Lakes Airport 
+0TE0 Robertson Ranch Airport 
+09VG Augusta Medical Center Heliport 
+AK79 Jolly Field 
+AEI Algeciras Heliport 
+0KY2 Mgt Station 2105 Heliport 
+2OH1 Magruder Memorial Heliport 
+09MA Kallander Field 
+AK18 Camp Point Airport 
+AF13 Sheber Too Landing Zone Airport 
+0AR3 Taylor's Air Strip 
+9LA0 Air Logistics (Belle Chasse) Heliport 
+2OR6 Lockhart Airport 
+0OI9 Hidden Quarry Airport 
+ABE RAF Calveley 
+2TA4 Mario's Flying Pizza Airport 
+0TN2 Village Airport 
+30PN Pittsburgh Children'S Hospital Heliport 
+2TA7 Era Helicopters Sabine Base Heliport 
+0CA6 Emory Ranch Airport 
+0PN8 Shriver Airport 
+9VA4 Franwood Farms Inc. Airport 
+0TA4 Erco Field 
+2TN3 Oak Ridge Heliport 
+2NC6 Flying M Airport 
+9PA1 Carbondale-Clifford Airport 
+0FL6 Stanchester Airport 
+33FD R O Ranch STOLport 
+0NJ3 Mount Holly Heliport 
+2W2 Clearview Airpark 
+9OH8 Ferrell Airport 
+AK74 Kodiak Emergency/Spruce Cape Heliport 
+9U1 Wilsall Airport 
+AA05 Shelby Strip 
+0CT5 St Francis Hospital Heliport 
+9PA5 Solt Field 
+0AL0 Huntsville Field 
+2TA9 A M I G O For Christ Airport 
+0T7 Kittyhawk Airport 
+0PA2 Haunstein Ultralightport 
+2TA0 Darmar Medical Emergency Heliport 
+9W9 Clio Crop Care Airport 
+34IL G. Bray Airport 
+30FD City of Fort Lauderdale Heliport 
+0AZ5 Castle Well Airport 
+2XS9 Uvalde County Hospital Authority Heliport 
+9PN1 Seitz Field 
+2TE9 Cuero Community Hospital Heliport 
+2TS2 Shofner Farms Airport 
+AK26 Solomon State Field 
+0GA6 Sunset Strip 
+33OH Sunset Strip 
+0CL6 Bohunk's Airpark 
+0OK6 Ellis/Harvey Airport 
+A61 Tuntutuliak Airport 
+9TS8 Dallas Rehabilitation Institute Heliport 
+ABW Abau Airport 
+0IS9 Bernardin Heliport 
+31MO Hannah Airport 
+0CD2 Foxx Valley Airport 
+9WI6 Kitty Hawk Estates Airport 
+9SD8 Oakleaf Airport 
+0PS5 Used Parts Heliport 
+0OK5 Chappell Airport 
+0NC7 Lindsay Airport 
+2Y3 Yakutat Seaplane Base 
+9TS6 Goodlett Field 
+30CA Indian Valley Hospital Heliport 
+31OR Heli-Jet Heliport 
+9TS5 Wilford Hall Medical Center Heliport 
+9N1 Vansant Airport 
+9OH5 Miami Valley Heliport 
+AK47 Shawn Field 
+0ID3 Coyote Run Airport 
+09LL Pine Hill Airport 
+0OR8 Sutton on Rogue Airport 
+0CD3 Branch's Heliport 
+AK09 Wingsong Estates Airport 
+0FD5 Breezy Knoll Airport 
+AK52 Moen's Ranch Airport 
+2WA3 Stuart Island West Airport 
+AGKG Kaghau Airport 
+0NK0 Berdick Field 
+9PN5 Franklin Heliport 
+9TE4 Tanner's Airport 
+0IA8 Hannen Airport 
+0IL2 Griffin Airport 
+32OR Pine Hollow Airport 
+2OI6 Park Medical Center Heliport 
+33WI St Mary's Hospital Heliport 
+2SD1 Mc Kennan Hospital Heliport 
+9NE3 Davis Ranch Airport 
+9OR5 Portland Adventist Medical Center Heliport 
+0N6 Albanna Aviation Airport 
+0IN8 Roto-Whirl/Vantage Heliport 
+2NY8 Benbyre Farm Heliport 
+2OH7 Jbr Airport 
+0OH4 Upper Valley Medical Center Heliport 
+31IL Tamms Correctional Center Heliport 
+9TE3 Thorp Airport 
+AK71 Lonely Air Station 
+2OH0 Bohannan Airport 
+0MT1 Williams Field 
+09IN Gordon Airport 
+0CD5 Pinon Canyon Airport 
+AA38 Nikaitchuq Operations Center Heliport 
+9WI2 Flying Dollar Ranch Airport 
+33ID Ozzy's Airport 
+34MA Crowhurst Heliport 
+2ND4 Trinity Medical Center Heliport 
+34MS Colle Field 
+0PS0 Frederick Airpark 
+9NC9 Meylor Field 
+2NY4 Byron Airpark 
+0NE0 Merrihew Airport 
+2PA3 Reed Airport 
+0NC8 Flying S Ranch Airport 
+2VA5 Rosegill Farm Airstrip 
+9OI4 Quail Lakes Heliport 
+9XA1 ESD 100 Training Field Heliport 
+9OI3 Johns Landing Airport 
+9WA0 Boeing Plant 2 Heliport 
+2VA2 Melville Airstrip 
+2PN7 Brennan Personal Use Airport 
+ABP Atkamba Airport 
+0CN1 Fiorini Ranch Airport 
+AA03 Central Pad Heliport 
+0TS4 Ullrich Airport 
+2OR9 World Trade Center Heliport 
+0ID7 Z X Ranch Airport 
+AE-0024 Yasat Higher Airport 
+9VG Campbell Field 
+9LS9 4B Ranch Airport 
+0C9 Coach & Paddock Heliport 
+9TX7 Hitex Private Airport 
+0AK7 Bradley Lake Hydroelectri Project Airstrip 
+AA76 Timber Trails Airport 
+AF10 Or\u00c5\u00abzg\u00c4\u0081n Airport 
+9OK7 Cimarron Strip 
+AGGR Rennell/Tingoa Airport 
+2WN8 Oshkosh Sky Ranch Airport 
+9TE6 Rocky Creek Ranch Airport 
+AF14 Tapa Airport 
+2U5 Shearer US Forest Service Airport 
+09MI Michigan National Guard Headquarters Heliport 
+AGRC Ringi Cove Airport 
+2WN4 Mcfaul Airport 
+0KY1 Arnemann Farms Airport 
+34NH Stone Song Heliport 
+0GA8 Paso Fino Farm Airport 
+31NY Troop E Heliport 
+9OI6 Nesta Airport 
+0IN5 Byrne Field 
+AK54 Stro's Airport 
+A05 Dixie US Forest Service Airport 
+2SD9 Tc Field 
+0FD9 Joy Farms Airport 
+30AR Phalanx Airport 
+2TE0 Eagle Air Park 
+AK40 Nixon Fork Mine Airport 
+2NK6 Bertrand Chaffee Hospital Heliport 
+32VA Old South Aerodrome 
+0AR8 Howard Memorial Hospital Heliport 
+33NJ Centra State Medical Center Heliport 
+AK25 Piper Landing Airport 
+0PA3 Robbins Farm Airport 
+33NC Pettigrew Moore Aerodrome 
+0LA5 Conoco Inc Heliport 
+AK34 Kashwitna Lake Seaplane Base 
+0FL2 Alligator Drink Seaplane Base 
+0LL7 Valley West Hospital Heliport 
+2OI3 Railway Stop Heliport 
+0MN6 Matson Field 
+0ND7 Saville Private Airport 
+0OR6 Rome Service Airport 
+9NY8 Thomson Industries Inc Heliport 
+2WN5 Murmuring Springs Airport 
+2OA5 Fl-Airfield 
+9NJ7 Rca Sommerville Heliport 
+0II7 Frost Field 
+2R3 Island Lake Seaplane Base 
+0AK9 Falcon Lake Strip 
+33PA Sutliff Private Airport 
+0NE2 Merry Airport 
+2ND7 Johnson Airport 
+AK35 Buffalo Row Heliport 
+0OR7 Marr Field 
+0MN1 Brinkman Airport 
+0MO8 Sloan's Airport 
+AK13 Chena Hot Springs Airport 
+AK63 Pat-Mar Strip 
+0C1 Triple R Airport 
+2SD4 Nicolaisen Airport 
+0MS3 Baptist Memorial Hospital-North Ms Heliport 
+9WA4 Piper Canyon Airport 
+9VA0 Bath Alum Airport 
+AK17 Glacierview Strip 
+9OA6 Burr Oak Lodge Heliport 
+2NY5 Strong Memorial Hospital Heliport 
+0B7 Warren-Sugarbush Airport 
+0IN4 Air Park Field 
+0TN4 Physicians Medical Regional Center Heliport 
+9XS5 Kitten Farm Private Airport 
+2TX0 Blue Sky Airfield 
+2WN6 Cunningham Airport 
+0NJ5 Fla-Net Airport 
+0TA2 Smith Farms Airport 
+AK81 Amook Bay Seaplane Base 
+32NC Hall Field 
+2WA8 Kramer Ranch Airport 
+0AK2 Yentna Bend Strip 
+9OI9 Riverside Methodist Hospital Heliport 
+9NJ5 Stallone Airport 
+AIP Ailinglaplap Airok Airport 
+30F Lakeview Airport 
+2TE1 Republic Helicopters Heliport 
+0GE4 Pecan Patch Airstrip 
+0GA9 Roberta Industrial Park Airport 
+2OG2 Erickson Air-Crane Whetstone Heliport 
+0ND6 Schumacher Strip 
+0NY0 Bennetts Airport 
+09II Gibbons Field 
+0AL4 Dekalb Regional Medical Center Heliport 
+9TN6 Performance Helicopters Heliport 
+0TE8 Texas World Speedway Helistop Nr 1 Heliport 
+9NC8 Eagles Landing Airport 
+0OI0 Foltz Heliport 
+9TA0 Aero Heliport 
+9OA2 Hueston Woods Lodge Heliport 
+AF-0004 Dostmohammadkhan Kalay Airport 
+2PN4 Quemahening Flightpark Ultralightport 
+0NJ0 Atlantic City Medical Center Heliport 
+2XA7 Tailwheel Airport 
+2TX6 Everitt Airport 
+2TS8 Bailey Airport 
+0TN3 Park West Heliport 
+2UT3 Fort Ranch Airport 
+0MD9 Calvert Memorial Hospital Heliport 
+AGEV Geva Airport 
+0MU1 Sunderland Airport 
+0IS6 Dongola Heliport 
+0TN6 Riner Farm Airport 
+9NJ9 Ash Personal Heliport 
+9PN7 Veit Airport 
+2NR4 Apex Healthplex Heliport 
+30ID Mason Airport 
+2Z2 Eureka Creek Airport 
+2WA0 Pcfd Nr 26 Heliport 
+2OA4 Victory Field 
+0NY5 State Police Troop D Heliport 
+2VA3 Merlin Aerodrome 
+9XS4 Mc Keon Aviation Airport 
+9MI8 Jott Heliport 
+2NY0 Catskill Valley Airpark 
+33CO Melby Ranch Airstrip 
+2NJ5 Sanduff Farms Landing Field 
+AGGK Ngorangora Airport 
+2NV3 Vista Del Monte Lot 55 Heliport 
+33CL Oak Country Ranch Airport 
+9NE4 Johnston Field 
+AE-0018 Ghantoot Hotel 3 Helipad 
+AK41 Greg'n Sage Airport 
+31OH Au Heliport 
+0MI4 Lesterson-Dempsey Airstrip 
+9PA6 State Police Area Six Heliport 
+9MN1 Troll Farm Airport 
+AA33 Gus Landing 
+0AL6 D.W. Mcmillian Memorial Hospital Heliport 
+0AZ7 Sunstate Heliport 
+A88 Gunsight Mountain Airport 
+2TA3 Triangle Ranch Private Airport 
+31LL Seeman Airport 
+30MN Albert Lea Medical Center Heliport 
+33TN Bradley Memorial Hospital Heliport 
+0PN5 Nichols Airport 
+0MU0 Eagle Field 
+0IN2 The Lazy K Airport 
+9OR1 Shaniko Ranch Airport 
+0PS8 Bayfront Garage Heliport 
+AK01 Alaska Airpark 
+33LS Our Lady of Lourdes Heart Hospital Heliport 
+9OA7 Jenkins Airport 
+2PA8 Shulls Airport 
+33OI Soaring Horse Airport 
+A13 Bold Airport 
+0N4 Chandelle Airport 
+9PS6 Siepsers Eye Port Heliport 
+2WN2 Gaffney Airport 
+0C8 Cushing Field Ltd Airport 
+0AL5 Flomaton Airport 
+AA14 Toolik Heliport 
+2NJ2 Sportland Pier Heliport 
+9XS9 Rancho Verde Airport 
+33AZ Yolo Ranch Airport 
+0NY1 Russell Field 
+9NJ1 Bound Brook Nr 1 Heliport 
+AK73 McGahan Industrial Airpark 
+32TX Hinson Airport 
+0NK3 Seven Gullies Airport 
+2PA9 Wilson Heliport 
+0LS8 Lonesome Dove Airfield 
+31CA Baldwin Base Heliport 
+9V1 Springview Municipal Airport 
+AE-0025 Sila Hospitals Helipad 
+0LS2 Evergreen Fourchon Heliport 
+AE-0022 Al Mushrif Palace Helipad 
+0LL3 Koenig Airport 
+AK84 Scooter's Landing Strip 
+0GA7 Hickory Level Airfield 
+9TE8 Shell Pelican Island Heliport 
+9TX5 Camp Bullis Als (Cals) Airport 
+0PA6 Hostetler Airport 
+0OH7 Apple Airport 
+31KY Wild Blue Airport 
+2WI9 Bulldog Ranch Airport 
+AK20 CD-3 Airstrip 
+0MD0 Baltimore Washington Medical Center Heliport 
+09ME Perrotti Skyranch Airfield 
+0C7 Grandpas' Farm Mendota Airport 
+32KY St Elizabeth Medical Center South Heliport 
+31FD Florida State Hospital Heliport 
+AK46 Abi Airport 
+2OI9 Comprix Heliport 
+2P5 Holly City Heliport 
+0PS3 Carsonville Airport 
+0IA4 Sharar Field 
+0SD6 Oasis Ranch Airport 
+32PN Black Rock Airport 
+9PS4 Pheasant Run Heliport 
+9MI3 Amway Downtown Heliport 
+0IN7 Roto-Whirl/Holiday Heliport 
+AK57 Long Lake Seaplane Base 
+0IS8 Blessing Hospital At 11th St Heliport 
+2XS1 Harris Ranch Airport 
+0AK3 Parker Lake Airport 
+32AZ Scottsdale Healthcare Thompson Peak Hosp Heliport 
+A57 Alsek River Airport 
+0CA9 Blech Ranch Airport 
+0TE6 Gorman Airport 
+9MO5 Wakefield Wings Airport 
+0OK7 Shattuck Hospital Heliport 
+0O0 San Luis Reservoir Seaplane Base 
+33PN Skepton Heliport 
+0CT9 Hartford Hospital Heliport 
+0MO3 Arvin Ranch Airport 
+9LA4 Texaco Heliport 
+09NC William Irving Lewis Airport 
+AEK Aseki Airport 
+AE-0004 Sheikh Sultan Bin Khalifa bin Zayed Al Nahyan palace Heliport Complex 
+9Z7 Kvichak /Diamond J/ Airport 
+9ND8 Hinkle Airport 
+0KS7 Mono Aircraft Airport 
+31MI Rentz Ultralight Airport 
+0FD2 Dolphin Stadium Heliport 
+0TA0 Mainland Regional Health Care System Heliport 
+9TX4 Flying H Ranch Airport 
+2TS9 DPS-Tyler Heliport 
+09WI Parkway Farm Strip 
+0NJ1 Berkeley Township Police Heliport 
+34AR Woodbridge Field 
+0II3 Miller Strip 
+2OR2 Pioneer Memorial Hospital Heliport 
+2TX4 Lewis Ranch Airport 
+2NH6 Speedway Northside Heliport 
+30KS Tyler Airport 
+9TX2 Bennetts Airport 
+31TX Scott Airport 
+9W3 Simpson Airport 
+34NY Hendershot Airport 
+0IA7 Cromwell Heliport 
+0ID6 Steele Memorial Heliport 
+0MD4 Pond View Private Airport 
+0SD3 Bledsoe Ranch Airport 
+0MT2 Big Sandy Medical Center Heliport 
+0NC2 Moore Regional Hospital Heliport 
+9NY4 Kennedy Airfield 
+9NJ4 Robert Wood Johnson Hospital Heliport 
+0TA3 Tate Ranch Airport 
+31OK Siegfried Point Heliport 
+34OH Arend Airport 
+0CO3 Greggs Nr 1 Airport 
+0GE5 Mountain Airpark 
+9WY0 Sheridan Memorial Hospital Heliport 
+AIH Aiambak Airport 
+0N0 Roosterville Airport 
+0NC1 Bearwallow Farm Airport 
+09NY Spring Lake Fire Department Heliport 
+34ND Plath Farms Airport 
+2TE6 Burris Ranch Airport 
+2SD0 Paradise Valley Airport 
+31TE Tenneco Lab Helistop 
+9MO6 Ivy Bend Airport 
+9LL3 John R Reed Airport 
+2WN3 Curns Airport 
+AF08 Kotubkhel Airport 
+0ID9 Corral Creek Airport 
+9NK4 Greig Farm Airport 
+0LA4 North Caddo Medical Center Heliport 
+9TX8 Infomart Heliport 
+0GE9 Pegasus Ranch Airport 
+9ND1 Elliott Farms Airport 
+AF-0003 Charikar Airport 
+2WI4 Plows & Props Airport 
+9NC1 Stanley Memorial Hospital Heliport 
+0LA3 Belcher Airpatch Airport 
+9TA9 Delta Mechanical Inc Heliport 
+0MT6 Hanson Airport 
+30AL Med Flight 2 Heliport 
+2PA7 Egolf Airport 
+2WI5 Blair Lake Airport 
+0TA9 Houston Oil & Minerals Port Bolivar Nr 2 Heliport 
+0MD6 Walters Airport 
+AK88 Eagle Nest Airport 
+34KS St Joseph Heliport 
+AGGJ Avu Avu Airport 
+AA07 Saddleback Island Heliport 
+31CO Montrose Memorial Hospital Heliport 
+AGAT Uru Harbour Airport 
+A70 Dangerous River Airport 
+2OK Alaska Regional Hospital Heliport 
+AF06 Khvej Ghar North Airport 
+0PN4 Kitner Airport 
+31VA Aberdeen Field 
+9LA1 Turkey Creek Lake Airport 
+2TX3 La Fonda Ranch Airport 
+33CT Irish Hills Farms Airport 
+2VG4 Deer Run Heliport 
+AF07 Khvej Ghar South Airport 
+30XS Farwell Spraying Service, Inc Airport 
+2VG8 Folly Neck Airport 
+9MN3 Barnesville Municipal Airport 
+AK14 Turinsky Airstrip 
+9OR8 Wooldridge Agstrip Airport 
+0NE6 Frager Field 
+2OR1 Big Muddy Ranch Airport 
+0ID8 Pinnacle Airport 
+0KY7 Clinton-Hickman County Airport 
+0GE1 Crystal Lake Airpark 
+31NJ Atlantic City Medical Center-Mainland Division Heliport 
+0CN2 Sutter Butte Dusters Airport 
+AK49 Taylor Airport 
+34FL Ellis Agricultural Field 
+0FA0 Doral Resort & Country Club Heliport 
+AK28 Chena Marina Airport 
+9OI1 Dice's Personal Heliport 
+34OK Double Bar S Ranches Airport 
+9MO9 Eagle Lodge Airport 
+34IS Jim Wehrli Memorial Airport 
+0GA4 Paradise Falls Airport 
+0IL6 Kishwaukee Community Hospital Heliport 
+0NC9 Maria Parham Health DLP Affiliate Heliport 
+0L5 Goldfield Airport 
+34CA Fiddyment Field 
+AL-0002 Aeroporti i Korrotic\u00c3\u00abs s\u00c3\u00ab Ul\u00c3\u00abt 
+2WI3 Milwaukee County Medical Complex Heliport 
+0OR0 Providence Hospital Heliport 
+09MO Hogue Farm Airport 
+9PN8 Malinchak Private Airport 
+2ND3 Casslindan Airport 
+AF12 Sarhawdza Landing Zone Airport 
+2VG6 Rychlk Heliport 
+0MA6 Wbz Heliport 
+9OA4 Gilmer Airport 
+2S5 Waterville Airport 
+31CT Quiet Corner Heliport 
+A69 Tanis Mesa Airport 
+9Z3 Kodiak /Lilly Lake/ Seaplane Base 
+0ND0 Gilbertson Field 
+2TE3 Weems Farm Airport 
+0TN9 East Tennessee Children's Hospital Heliport 
+9NY9 Poughkeepsie Main Plant Heliport 
+9N2 Philadelphia Seaplane Base 
+2PN5 Baker-Sell Airport 
+0AL7 Gadsden Regl Medical Center Heliport 
+9Y5 Sky Harbor Seaplane Base 
+A43 Taku Harbor Seaplane Base 
+32FL Meyer Heliport 
+2UT2 High Meadow Ranch Airport 
+AGGO Mono Airport 
+AGKW Kwailabesi Airport 
+9XS2 Beaver Creek Airport 
+2TE8 Wagner-Braxdale Airport 
+32IS Baker Airport 
+2PS5 Rosini Residence Heliport 
+9MS7 Martin Heliport Area 
+0OI4 Salt Box Airport 
+0CT7 Bridgeport Hospital Heliport 
+2SD8 Bixler Ridge Airport 
+AGGL Santa Cruz/Graciosa Bay/Luova Airport 
+AK56 Tikchik Lodge Seaplane Base 
+0OR4 Round Butte Heliport 
+0KY6 Tennessee Gas Heliport 
+0NY7 Murphys Landing Strip 
+0CO6 Flying M & M Ranch Airport 
+AGGN Nusatupe Airport 
+AE-0001 Batha Airport 
+9NC0 Raleigh East Airport 
+0LS9 Huenefeld Airport 
+2TS7 Jamak Fabrication Heliport 
+0MU8 Prince STOLport 
+AK69 Long Lake Airport 
+32MI William Beaumont Hospital Heliport 
+2PN9 Sun Company-Radnor Heliport 
+0II2 Creighton Airport 
+0NY3 Kermizian Airport 
+2OA2 Mackie's Airport 
+2PS9 Albert Einstein Medical Center Heliport 
+9WN4 Rag Wing Airport 
+30CO Coyote Creek Ranch Airport 
+9TX3 Horan Airport 
+32MS Browns Landing 
+0OI2 Unger Field 
+0TE2 Bell Helicopter Hurst Heliport 
+0AR7 Yancopin Airport 
+AE-0023 Al Forsan Helipad 
+2WN9 Hillcrest Airport 
+9LL8 Refreshment Services Inc Heliport 
+0IS2 Evanston/Glenbrook Heliport 
+0FD0 The 2A Ranch Airport 
+9OK0 Governor's Mansion Heliport 
+9OG1 Barrigada Readiness Center Heliport 
+9TS1 One O'Connor Plaza-Tower Heliport 
+AA85 Walby Lake Seaplane Base 
+9OR4 King's Airport 
+0FD3 Dugger Field 
+31TN Crockett Hospital Heliport 
+2ND9 Brekhus Field 
+2S3 Archer Memorial Field 
+2XA3 North Cypress Medical Center Heliport 
+09MI 0OR6
+0NY3 0GA6
+2XS3 0AR7
+9TA5 9OG1
+2S3 2OI9
+33TX 9NE7
+0CL7 AF07
+34IL 2NK5
+34IS 32CN
+34MA 9R7
+9TA6 9OK0
+0CA6 2NE5
+0IL2 0GA4
+9Z7 0CO7
+0TS4 9PS4
+33NC 0IL6
+AK18 0MD8
+0AR7 9MS7
+2OR6 34ND
+0FA0 0NJ5
+34LS 9LL8
+34MS 2UT2
+30FD 0MO3
+AA01 9MS7
+0J8 0NE4
+AK46 0GA2
+AE-0024 31KS
+9MO9 0NC9
+AK40 0LA3
+AK44 30CL
+AGGF 2WA6
+0NE2 9Z3
+34CA 31NE
+2TX0 AF-0003
+9MN1 0L4
+2NK9 AA05
+2NK2 0II7
+32GA 2TA4
+31CO 32AZ
+9MI8 9OG1
+30FA 9NK4
+0MO1 2NK2
+0GE1 31TE
+0ID3 AK56
+9OK6 30FL
+2OR1 32NE
+2W2 9OK3
+2NR4 9XS4
+0CO1 0NY7
+0FD6 AGGC
+0NE4 0CL7
+0LL6 0OR4
+0CL0 AL-0002
+0IN7 AGGF
+9OA7 9NJ8
+AK56 0ND6
+AE-0005 AE-0025
+9Z3 0TE2
+0ID8 2NJ2
+0FD2 0MD6
+0IN5 2U7
+AA06 2WA2
+2WV5 0NY5
+9PA6 2VG4
+AGRC A51
+2WN2 9MO9
+30XS 0TS4
+9WA5 0OH1
+0NC2 9OR1
+2NH6 ABE
+2OI8 0CD9
+AGRC A43
+0CL9 2WI4
+0IN4 2T2
+2P5 9TA8
+32KY A51
+30OH 9N7
+A05 2TX0
+33KS 2OK9
+AE-0002 2OR9
+9OI1 09MO
+0LS9 0IA7
+31A 0AA7
+AEE 33CO
+30AR 32IS
+9OK6 33TN
+0CO9 9OH6
+2NH9 AGGF
+0IN2 30OK
+33IA 9XS4
+0IL2 0AL4
+9VA0 2PA4
+0NM7 34NE
+9OI3 0CD2
+AK40 0IN7
+2OH2 0TN8
+0NY5 9V1
+2WI3 2TS7
+2WA2 A51
+0GA8 9LL3
+2U8 AK56
+32VA 0PS8
+0NM7 AE-0005
+30MN 2OH7
+34NE 9XS9
+0NJ0 2Z2
+0FL1 2XS1
+AK34 2ND3
+30OK 9TE4
+9NE7 0IA4
+32IN AK54
+0CL0 AK63
+2NJ5 0MN6
+0FL9 0CT5
+0KY3 31NY
+0GE4 0AK8
+0ND6 9XS9
+AA11 0FD9
+AE-0003 0NJ3
+AE-0018 0C7
+2VI2 30F
+0KY1 0FL9
+31TX 9U1
+30F 33OI
+0OI2 AGGK
+33AZ 0PA7
+34NH 34ND
+AA33 0CL0
+0T7 2VG5
+A57 0PA3
+0IN7 0IN2
+0MD9 9VA2
+0ID9 0PS0
+AK18 0TA3
+0C9 AGGC
+AA76 31KY
+0NE4 33SC
+9MS9 0NY0
+0AR7 30PN
+ABP 9SD8
+0NY0 2TE0
+9MD9 30CA
+9PA6 0NA5
+0NJ1 9LA0
+9OI6 09IN
+0MT1 0PA6
+0OI9 9OR9
+2TE4 AA14
+2VA3 A88
+0NK4 0AR8
+2TS8 09WI
+0MD1 2OR9
+9Z7 0OR6
+AA85 9Y5
+0FL1 9TX5
+0CO9 34NH
+2NK6 0LL6
+0NE6 AK34
+0CN2 0IS6
+0GE1 2Y3
+9NC8 9PN9
+0NM7 9MS7
+9NC0 0FA0
+32LA 2OA4
+ABP 2OK
+0GA6 2WI9
+2XS9 32WI
+2VA5 AK30
+9TX8 2NE5
+33PN 9MS9
+2NE5 34NE
+9PS4 0IS3
+AA85 2TX4
+0TE5 2OH1
+9TA5 AK84
+2OK 0OR5
+31KS 0TS0
+AGGJ 0OI4
+9OR7 AGGL
+0MU5 9WI6
+AK37 0LS4
+33AZ 2NH6
+9VA4 30OK
+2TN3 2OI7
+9TS6 A13
+AA07 9NE4
+31OR 9OK7
+AK74 0IA7
+2OI7 9TA9
+9NY8 0PA6
+2S3 0TA2
+34IS 2XA5
+2NR4 AK73
+0MS7 0FD9
+32VA 31IN
+33WI A05
+0AR3 32FL
+AA76 0ID7
+2UT3 AK19
+0CA6 0MD9
+0FL2 2VA9
+9OH8 2NE5
+2TE0 0MT7
+AEE 0AL6
+AE-0001 33MT
+0AL9 2XA7
+9NK4 AGGP
+0C9 AE-0002
+9TS8 AF06
+0PA3 0GA2
+0C8 2TA4
+AE-0005 34IL
+2WI5 2TA9
+9TX4 31GA
+09MO 9OI9
+32TE 2U5
+AGEV 0NC8
+0MN1 2NJ2
+0MT2 2SD8
+9TE6 34KY
+0SD4 2ND0
+09NR 0PS5
+0GE5 33OI
+0AL9 0TE2
+0CO9 AGEV
+AA14 0NJ5
+2OK4 0AR8
+9VA4 AK09
+0GA9 2S2
+0OK6 AEK
+9LA1 2OR2
+30AR 0MU8
+9OR5 2SD8
+0NC5 33TX
+31CT 2NH3
+9MN0 2S0
+2OA2 30OK
+2WI3 0TS0
+AK56 A57
+9XS2 0TN3
+0II7 9WA5
+0TA2 0R9
+2Y3 9OI9
+AK56 2TA0
+0ID9 9LS9
+0MS9 9MN3
+AEK 9OR8
+0CL8 34OK
+AK44 9OH8
+9TS4 33PA
+2OA5 9U1
+9V2 34NH
+9NY8 0AR2
+2TN3 2ND2
+33CL 0II7
+0CL0 2TE6
+AGRC 2TA4
+AGGF 30F
+0L5 0ND6
+9NY9 9Y5
+0TS8 9WY0
+0TS8 2RI7
+2OH2 0MI4
+0NK8 2NE6
+AGGP 33CT
+0MD0 0NK0
+2OR6 AGAR
+32OR 9NC0
+9OR7 0PA2
+AK46 0NY3
+31CO AK52
+0FD5 0MI6
+2VA3 0GA2
+33CN 0NC7
+AK54 0FD3
+0LS9 0AR3
+9WI9 32NC
+2TE0 0NJ7
+ABP 09NJ
+2WI3 2P5
+AGGK AE-0004
+9TA5 A57
+0NY3 2UT3
+9WI4 9OG1
+31OK 33TN
+0CL0 2PN1
+AA85 0II7
+AE-0004 9LA4
+0CN1 0FL5
+0TA3 2VG6
+2TE9 0PS3
+0IA7 0CO6
+0NJ8 0MS3
+0OR4 AE-0014
+9W9 AA76
+0L5 0FL2
+AK63 0TN6
+AK88 0S5
+9U1 0MD0
+9Z3 09LL
+2TX0 0PS8
+2NC9 9TE1
+AK81 0NY3
+0CT7 32MS
+9WI2 AA03
+0OI1 0CN1
+2PS7 AGGF
+2WY3 0TE2
+2PA3 0OK7
+2NJ2 33NE
+0TN8 0NY7
+2PA8 0CD9
+0MD8 AA12
+0CL7 33CN
+33CT 09ME
+31MO 0GE9
+33CL 31TX
+0OI4 AGGY
+0MS2 9PS4
+AGGN 0AR5
+0FA1 2OA4
+0MU1 AE-0009
+32OR AF10
+2PN5 33ID
+32FL 9PA9
+9XS3 0CT5
+0KY7 9NE8
+AK79 0OH1
+0MU1 A05
+31IS 9PA7
+9VG 2SD0
+9TX3 30CO
+2Y0 9Z3
+2XS0 9WI9
+AF14 2PA8
+2XA5 0NC9
+0KY2 0II3
+9NE3 AK46
+2P5 2OI7
+2PN4 AE-0002
+9NJ7 0R9
+0MS7 0TE6
+9TX3 0C7
+9NJ4 2VA3
+9MD9 2VA5
+0TS0 2WI5
+30ID 2Q5
+31NJ 0AR7
+0OR4 0CD5
+AK41 9TE7
+AA12 AF12
+0GE5 2OR2
+31KY 34NY
+AK35 AGKW
+9MO5 32IS
+0ND6 9OK2
+30OK A61
+9OK8 9OR8
+9PN6 AA27
+AK94 2TE0
+9PN9 2VI2
+A61 0OK7
+34NE 9S3
+AK08 0NE0
+0PA7 30MN
+2TE8 31KY
+2WY3 34KS
+0MO4 0CN2
+9OI1 0OI2
+34CL 0PA1
+AA38 0CD5
+0Q4 AK09
+33OR 0SD6
+0AA6 0MD9
+9VA4 2WA3
+9N2 0CL7
+AK62 9PS6
+09VG AGGP
+32FL 2OA4
+9WI5 0NE4
+32CO 0L5
+32TN 2U8
+2RI7 2OG2
+33IA 2OK
+0CL8 AA12
+2PA8 9NR7
+AA85 AA35
+0II2 0MS2
+0PA1 0AR8
+AK71 33C
+0NC8 30W
+9V3 AGGR
+AA38 2Y3
+0LA9 2NC9
+0PA1 34PN
+9OI4 2WA2
+0FL8 9SD8
+AK28 0GA2
+AF13 2TA0
+31TX 2OH7
+2WN2 AGGU
+AK52 9V2
+0OR8 34CA
+AGGO 0OI1
+9OI9 0OI2
+AK37 0IA4
+2TS8 33IA
+0KY2 0IS8
+9LA0 9TA6
+32KY 32KY
+0LL6 0MS3
+2VG8 2WN6
+9NC1 AA03
+0OI6 33NE
+9OI3 9OK6
+0AR1 9TS4
+0IA7 2TX6
+AGGR 9OI1
+9XA1 AIP
+2XA5 0AK3
+9OI9 0MT6
+30LS AK47
+0IS9 AEI
+AL-0002 34NY
+0MT1 AEK
+9TX4 0IS6
+0LL4 2SD1
+AK56 34CL
+0LL6 0FD5
+9LA4 30LS
+33WI 0LS4
+AGGT 2OH1
+32LA 2R3
+33SC 2WN6
+0AL6 0PA6
+30FL 30F
+0MS3 2TE4
+34NE 9WA0
+0IN4 2OI9
+34IL 09NC
+AIH 9WA0
+2Q5 AGGK
+0PA7 33CL
+ABP 2VA5
+34NC AGGP
+9PA1 AGKG
+AK13 2Q5
+0ID9 2TE9
+32AR 9PN8
+2NY7 9OH8
+AK37 9WI8
+2NC9 9PS3
+2OI3 2OK4
+33AZ 9PS8
+0CO3 9OH5
+9OK2 31A
+2NE5 2PN9
+9NE3 0N6
+9MN3 2NY7
+AK09 2U7
+AGGN 0ND0
+9NE1 9PS6
+2TX6 0CO3
+0OK7 9MS7
+2SD0 0AL5
+2OH2 33AZ
+0CL8 9Z7
+AK77 0FD5
+AK20 9NJ9
+9PS4 9W9
+0AK3 32TX
+AGGR 0NE0
+AE-0024 0OR6
+2NJ5 09NR
+0ID9 0AK8
+2OK1 AF14
+09LL 31D
+0O0 0FA1
+30W 2NK5
+0N4 34AR
+0MU5 32IS
+31MO 2NK9
+2T2 2WA6
+AGGT 9MN0
+2WV5 AK46
+32TE A67
+34MA 2OR1
+0NC1 2TS2
+33OR 34OI
+0LL4 AGKG
+9OR1 0C9
+9PN1 AE-0002
+AA12 A69
+AK14 2PS7
+9PN1 2OR1
+AK18 32AZ
+09WI 9S3
+0LL6 31IL
+9WI1 9WI1
+0MU8 0OI0
+9WA0 2WI8
+AF13 AK54
+0OI6 2OH7
+0AL6 33MT
+0TA6 32CN
+9N7 2XS3
+0AR3 33TN
+34MS 0AZ5
+9WI9 0OK1
+2TE8 09VG
+9PA3 0MU0
+0IA0 2R3
+0NE2 2NH6
+30PN 0Q6
+0AL9 30XS
+34CA 32KS
+AGGN 0ID3
+2OR0 0KY2
+0NV1 0IS6
+31VA 0AL4
+32MI 9Y5
+0FA1 0PA7
+0CN2 AK47
+9VA4 AA38
+31WA 2NR4
+31IS 9NC1
+0TE5 34PN
+31CT 9OK0
+0R9 32TN
+9TS5 2NK2
+AK40 0MI4
+0MD1 AGAT
+0NC1 0FD4
+30FD 09ME
+0TA2 2XS3
+AE-0022 30CO
+9NC8 0AK5
+9TE4 9OR1
+34OI 0OK5
+A61 0MO9
+0IL0 0FL5
+32CO 2VI2
+0Q4 9OK4
+34KY 0TS4
+0TE0 0MD7
+2W2 0OR6
+9OK6 09NR
+2WA6 2R3
+2OK2 0CN2
+9LL3 2OI7
+2OA5 32PN
+0NE6 0IN7
+0ND7 9PA0
+0IS2 9OR5
+AK88 AK05
+2ND7 2OA4
+AA38 0OI0
+32NC 2NK7
+AA33 31FD
+34IS 9TS5
+31D 2U8
+0GA7 9TA7
+2VG6 0TS8
+AK52 0CN1
+0TA3 32MI
+0AL9 2NJ5
+0CL8 9XA1
+2WA8 A43
+0MS9 2XS0
+0NE2 34KY
+9R7 9OG1
+33AZ 9TA8
+0N6 0MA5
+0MT7 0P1
+2SD9 AA03
+0IL2 0S5
+9PA5 32TE
+33CN 0GA4
+AK63 0NE2
+30ID 2OH5
+A51 0MO8
+9PS3 30FD
+AK56 0NC2
+2S5 0FA1
+2PA3 34FL
+0TA2 2SD9
+0FD9 2OH1
+2NY4 0FD5
+0ID6 0IL6
+33SC 0PS4
+0MS2 0IL6
+0MI6 AE-0024
+0MS2 AK74
+2PN7 0NJ5
+2U8 0LA3
+AK81 0GE4
+0LA9 30FA
+2TE0 2S5
+0NK4 2PN4
+32TE 0ND0
+AA27 0NV1
+9Y5 9OK8
+0OI9 AE-0007
+AGGT 2XS2
+2PN5 0AZ7
+2VA3 9Y0
+31OH 0MS3
+9TA0 9OA7
+0MI4 0ND7
+31NY 2PN9
+0ID6 34OK
+0N6 2VI2
+32KY 9WI6
+2U8 0GA7
+9VA6 AA35
+AK35 0TA9
+0NE6 0TN9
+9PN2 2SD4
+0NK3 2NY5
+AE-0003 32MI
+AF08 30CA
+9TA7 9OK6
+0CD3 9VA6
+0AL5 9XS4
+0LS2 A57
+0MA6 09ME
+AGGP 0TE2
+0FA0 2TX3
+0FL6 0FL6
+2NY7 2Z2
+9NC0 AIP
+9TN1 AE-0001
+32IS 2WV5
+2TS6 0NJ3
+34NH 0N0
+34CL 2TA3
+0ID8 0PS5
+2WI3 AL-0002
+AK37 2U8
+A88 AGGU
+9LA4 9PA9
+9TE8 AF14
+34OK AGGT
+A51 2OR0
+9WI4 31VA
+31FD 0FL5
+2NY5 2OH0
+2OK2 30IS
+09NY 0OR6
+2OH1 9MD9
+9OI1 0FD5
+0NC1 9OA9
+AA07 0PS4
+9TE6 AA01
+0CN1 AE-0025
+31TX 2TE3
+31IL 9N2
+9OA2 09NC
+AE-0005 0OK3
+34MS 2NH3
+0TE0 0MD0
+9OK0 0ND6
+0PS8 0LA3
+0IA7 AF13
+0AL4 30IS
+AE-0005 9N1
+0P1 AK08
+AIP 30OR
+2WV5 9TS6
+0CO3 9MI3
+AGGN 9XA1
+0IS2 9PS8
+09XS 9V3
+AGAR 2OI8
+2OI8 0FL8
+30CA 2TX6
+9XS4 32CN
+0LS2 2PA4
+0IS3 2OK1
+30PN 0OH7
+0GA7 9PS3
+0NJ0 0II9
+0MI4 9OA6
+0FA1 0CT9
+AK39 9MO1
+9LL3 0CO6
+A70 2PA4
+34ND 2SD8
+9NJ5 33CL
+AK46 AEK
+0FL9 9NJ1
+2XS4 9S3
+0CO1 0CO6
+2UT4 AGGT
+30WI 31FD
+34OI 0OR0
+A05 2NY4
+0OK6 2S5
+0FL6 0NV1
+0MD0 AL-0002
+2NH5 0TE2
+AF14 A88
+34NE 9PN5
+AF06 0FA0
+0NJ0 9PA0
+2NK6 0TE6
+9WI4 2SD8
+34ND AK05
+0GE5 31OK
+0LS8 2OA5
+9OR1 9PA0
+33CN 31NY
+AK40 AK56
+0OH4 0MN1
+9Y0 32AR
+0L4 0LS2
+0AR7 0NE6
+AE-0022 2UT3
+2RI7 0MS2
+0OR3 9TX9
+AE-0024 0PA7
+09LL 0IN5
+31D AE-0014
+9TX5 0PS5
+2WA2 2S0
+2OH1 30IS
+0MD8 32LA
+9LA7 0TN6
+2WN8 34IS
+33IA 0FA5
+0TN8 2OR9
+2OA4 2OK9
+0CO9 2OH5
+34OI AL-0002
+AK57 9OR5
+0ID3 2TE1
+30OK 9NJ1
+0IA7 AGRC
+0LA5 33AZ
+0AL5 32VA
+0AZ5 2TN3
+9PS4 2OA5
+9MS7 31TX
+AK13 32NE
+2NC9 9NK4
+9NE3 9NC6
+0AK9 33TX
+2NK5 9TE8
+0OK6 9PS4
+2ND4 9OA4
+0SD3 0NJ3
+30WI 2NE5
+9OG1 30W
+34FL 9NJ9
+9OK5 2UT4
+33OR 0IL3
+2OH1 0NE4
+2TX3 2TE4
+9PN2 AIP
+2NY5 0NE4
+2TN3 0OR7
+0GA6 0TS8
+0NJ3 0TS4
+9ND1 AGAR
+0MD6 A13
+34KY 0CT9
+0FD0 2WI5
+AA05 0LS4
+32FL 0PA1
+30MN AK82
+2TE4 A70
+0CN1 34NE
+AA12 AK20
+34FL 9OH8
+0IL0 34NC
+2XS0 0AZ5
+0LA9 31KY
+9N7 AK46
+34OH 0LS2
+A05 0IN5
+AGGF 9NE3
+0NJ0 AA14
+A61 2OH6
+2Q5 2VG6
+0CD5 AF07
+9MO9 0NK0
+33CT 0NC7
+0GE9 0CL7
+2TN3 9VA4
+33TA 9OH8
+31CA 9LA0
+AK69 A61
+0P2 32LA
+2PA9 0SD6
+9TE6 9TX9
+AE-0025 0CN2
+0AK7 0OR3
+2VA2 0LA3
+2WA2 9NE1
+9XS9 0IA8
+2TE1 2VI2
+0CO1 31TN
+2TS9 0II3
+2ND7 AEK
+9PN9 9MI8
+0SD7 9TA6
+0OH1 AL-0002
+9MO9 2OI9
+2TN0 0AL6
+0CL0 9OI1
+9TE4 09NR
+0NC2 9TA6
+2PS9 0LS0
+0AL6 0FD6
+2TS7 33CO
+32IS 0FD2
+34MA 9NJ9
+2NH6 2TA5
+0MI6 9NC9
+33CO 9OK5
+2VG5 0OI6
+09N 0CT7
+2XS1 AK47
+31OH 0MU8
+9WA4 0OK7
+9TS3 0NC1
+2WN4 AEE
+9TX7 9OK6
+30OH 2RI7
+0CT9 0GE1
+0ND7 0OK7
+2SD1 AF-0004
+09N 9PS6
+9PN6 0MN6
+AK83 0TA4
+0OI2 AK34
+9TN6 0MD9
+0AK9 2WA0
+AK14 0P2
+30CA 9TX8
+AK44 31MO
+09VA 9WI9
+0LS2 9NE7
+0NK4 0ID6
+AGGO 32TE
+32IS AK84
+9NC9 9OR5
+0FL9 2ND3
+0N4 9WN4
+2Y0 9NC1
+0MU0 0TN2
+2ND3 ABW
+0OK3 2OA4
+0OI1 A61
+0CA6 2OR6
+9OI6 0AK3
+2S3 0GA2
+9Y0 AK49
+0IA0 0FD9
+31TN 9LA4
+AGGK AGGU
+0CO9 09MO
+2ND9 2OK4
+9MN1 9V3
+9VA0 33CN
+2TS6 0FL8
+2OK0 2SD9
+9WA9 2U5
+2WN3 09VG
+9TE3 2ND4
+AGGK AIH
+0PN8 2VI2
+32AR 9NR8
+0TN8 09N
+AK25 31D
+AK84 0MU5
+0IA7 0OR4
+2PS7 2ND9
+2PA9 0NK8
+AA14 9TS3
+AA35 9OK7
+0NK3 2TS2
+AGRC 9TS5
+31NE 0AK3
+0AR7 2PS5
+9WY0 9NE8
+34IL 2UT2
+33PA 0PA2
+2TE8 AK57
+0NE6 9WI6
+0NK8 32GA
+0CO1 2NV3
+0IL3 9MO5
+2TX6 9S3
+0MD9 2TA9
+2XA5 0AL6
+ABW 9NJ1
+AGGF 0LS2
+0LL3 0N4
+2OR0 0TA3
+AGGN 2NH5
+2WI9 34CL
+AIP 0MD4
+2WI8 A67
+0FA5 2OH2
+0NC8 0FL1
+9TX3 AEI
+31TN 0NY1
+9MO1 9MN1
+33OK 2ND3
+0CL8 2XA7
+AE-0001 0MN1
+ABP 0GA7
+AF06 31MI
+2NV3 2WI4
+0AK2 9PA7
+0CO6 0KY6
+2S5 2TE3
+9W3 9OI9
+9NY4 AA11
+AA35 32CN
+0S2 AK28
+30LS 2U7
+0TA6 2SC2
+0IA5 0OK7
+31OR 09MA
+0LS4 0NE6
+A05 9VA4
+32IS 9OI6
+2WV5 2NK6
+2OK 9MD9
+0AK9 AIP
+0Q4 9Y5
+AK83 9OH5
+0MT1 33TA
+32VA 0NK3
+0GE9 09N
+0PN4 0MN1
+2NH9 AK37
+9OR4 9PA7
+9NJ8 0GE5
+AA38 0IN7
+0OH1 0OR4
+0IA0 9NJ7
+AEE 2TA5
+2NJ2 32PN
+9TN1 0TE5
+0AR1 AE-0025
+0SD4 9WY0
+0II3 0Q4
+AGGO 2WA2
+2ND2 0NE0
+0MD6 09NC
+0CD9 9OA2
+0NJ3 31FD
+AK52 0P2
+0TN4 9OA5
+30CL 0TE0
+2PS9 0ND7
+0AL6 32TX
+30FD 2WN9
+0TA0 0IS6
+34CA 9TA0
+34OI 33TX
+0IN4 09MO
+9OA4 2TS9
+2TE4 2TX4
+2VI2 AK79
+09MO 32GA
+2OH0 AE-0022
+0OK6 AK49
+9PA5 2NJ5
+0CD3 2OI8
+9TX9 32AR
+0FL1 0TN3
+33TA 9MI3
+30NJ 33NE
+0C7 2ND0
+2VA3 9NE3
+0P2 31OK
+9TE3 AGGC
+AE-0007 9OH5
+0MA6 2OK2
+2TA3 0PS4
+0MU8 2OG2
+0MA5 9OR7
+09NY 2XS9
+32CN 9WY0
+33CL 31LS
+0NV1 0PS0
+0GA6 2P5
+0CT9 2U5
+30MN 34NY
+AK35 AK05
+0CO9 33PN
+2NY8 AK79
+AGGC 0NY3
+9TX5 AK69
+33CO 30FA
+AA06 0LS7
+9NY9 AK09
+0OR0 0GA7
+0CD9 0TA0
+34MA 0OR6
+0TA2 0ID8
+9TA0 0PS4
+2PA3 A69
+2S2 2ND7
+9OA2 31OR
+AIP 2TX4
+30NJ 9TX8
+0OR5 0NM7
+9VA4 2WN9
+AK62 0MD8
+9LL3 0FD0
+AK52 0CL0
+0NC7 30AR
+0PS4 AGGR
+30NJ 33NJ
+2NK7 0LA4
+0C8 0CA6
+2NV3 2OH0
+AK80 0TN6
+31TN 2ND0
+AK18 0MD6
+9MI1 0KY6
+2TS7 2TA3
+AK56 9TX7
+2TE0 2OI9
+0MO9 2TS9
+9TS1 0MS3
+2NE5 33TX
+AK14 9OK8
+2PN5 9LA4
+9PA6 0MD1
+9MO6 9MI1
+0KY1 34IS
+0N0 2S0
+AGAT 2PN1
+0LA5 2SD1
+9PN5 2XS3
+0CO6 9NJ7
+9NE8 0MD6
+9TX7 33CT
+0TN4 2Y3
+0AL0 33OH
+AE-0007 34FL
+AK94 0AK8
+2ND7 9NY9
+AE-0018 0GA8
+09VG 2WI9
+9OK5 AK39
+33C 2NV3
+34MA 0MT1
+31VA 9NR8
+0CL7 30TX
+0FL1 2WN8
+9OA2 34IL
+0SD6 0CD5
+9OI6 30MN
+AK08 2OH6
+0NA5 AA01
+34AR 0ND6
+9TX4 0IA8
+0AL0 0AR5
+0PN8 0CL8
+33NE 0C9
+0LS7 0GE4
+2OG2 30AR
+AK07 0IS2
+30IS 9MI8
+0FL6 0GE5
+33MO 2SD4
+0OK4 0ID3
+AE-0014 9PA6
+9WI5 9SD8
+2Y0 AK77
+AEE 0IA7
+0NE0 2WA6
+9MO6 9NK4
+09LL 0AR2
+9WI1 0AL4
+0AZ7 0S5
+9OK8 2XS9
+34IS A13
+9WI8 33MO
+2OK2 9NJ9
+2ND0 0IL0
+9PA0 2OK4
+0TA0 31FD
+9NJ7 31A
+9MS9 2TS1
+AE-0011 A05
+2OA5 0IN8
+2TX7 9OH6
+0ND0 0GA6
+2XS2 0MN6
+0II2 9TS4
+9OK0 0IA0
+9LL8 0IL3
+9NK4 AK35
+31NE AK82
+2ND7 0GE9
+9OK8 2WY3
+AGKG 0FA0
+0OR0 0CD5
+32AR 32OR
+32MS 0PS8
+2VG4 0OK5
+0MT2 0NV1
+32FL 0AZ5
+9OA7 0IN5
+2TS6 0MS2
+9WI9 0CD3
+0LL4 0NJ8
+31GA 33CO
+0LA5 0CO1
+0NA5 ABP
+30FA AK49
+AK47 9OR7
+9WI8 2TE9
+0TA2 0AR2
+0OH7 0CA6
+2RI7 0MS7
+9VA4 0TN9
+0ID6 2SD0
+2WI7 9PA3
+0CT9 2WI8
+0PS8 0PS1
+9Z3 0LS0
+AGGP 9OH8
+0MU0 9NY9
+9TE7 AK25
+9OR5 AA35
+9OR5 2ND2
+31KY 2OA5
+0FD4 9PS3
+0LL7 34CA
+34FL 2WI3
+09NC 0OI9
+2XS3 2OA4
+0KS7 2OI8
+0TA7 2SD0
+9WY0 0OI9
+2PS7 AF-0003
+AF10 9TX8
+0PS3 9OH8
+9N2 0IA4
+2OR2 AK09
+0NC2 2XS0
+9TX3 9V2
+0NE4 9PS4
+09VG 0AK5
+31CA 33LS
+9TA5 0IN8
+2TX7 0OK5
+AK69 2TX4
+34LS 0GE1
+30IS AGGL
+2PS9 30CA
+0CN1 9PN7
+2VG6 0TE5
+32GA 9OH5
+9NR8 0OK6
+0IL3 2TA9
+AK69 0LS4
+32IN 2XA5
+2U5 9OK0
+0CA9 2WN6
+AK12 0CO9
+31OR 9V1
+AGRC AA11
+9WI6 0OK3
+AK56 0FD9
+0GE4 0MI6
+0AL0 0NK4
+34CA 9WI8
+33NJ 33PN
+0CA9 30PN
+33CL AK41
+0ID7 2TE3
+32GA 9XS9
+2OH1 0AK2
+33C 2Y3
+0CL0 A51
+32TN AK17
+9Y5 9XA1
+0MD6 0NJ3
+AGGP 30W
+9NE3 0NE0
+2XS3 2TS6
+2NH3 AK01
+0MS3 0PA6
+9MO5 0ND7
+30TA AE-0018
+9OG1 0NE6
+2P5 AK69
+AE-0002 0AR8
+2TX4 AK80
+0IA4 34IS
+0IA8 9PA5
+AK44 9VA0
+0MD8 33TA
+2NY8 2Y0
+9OI9 30NE
+AK63 2TE9
+0FD4 9VA0
+AK84 31GA
+AA01 9VA6
+A51 9PN5
+9MS9 AGGJ
+AK01 0PA3
+9SD7 30MN
+2TA4 9OK7
+AGGJ 9SD8
+2TS9 2PA8
+0IS9 2WA6
+0NJ3 0FD0
+0TE5 9OI6
+0MT7 9U1
+0CL7 AGGK
+2TS6 9TN6
+30OH 0OI2
+2TA4 0FD6
+AA01 9NC9
+34OI 0KS7
+0MT7 0LL4
+0B7 0FL8
+0NE6 AK52
+32TX 9PA3
+0TE5 9XS2
+9PN8 AK82
+0GE1 0NM7
+0LA9 A51
+09TS 2PS5
+2TX4 AK30
+9PA9 2U8
+09MA 0N4
+0MO8 0TA6
+9LA1 2VA3
+9LL8 0FD9
+30LS AEI
+2S0 AGGO
+0OK8 A88
+33KS 0KY3
+AF14 0IL3
+AA02 AK63
+2PA8 0TE6
+31NY AK19
+33CL 2ND2
+9PS8 9OR7
+9OI3 09VG
+2OA5 32KS
+2XS1 0L4
+2TX7 0LL3
+2PA9 31IL
+2XS4 0TA2
+AK49 9OK2
+31NE 34FL
+0LS2 2OI3
+31CA 33MO
+2NK6 30NE
+0IS2 9XS2
+2TA3 0AR8
+0C1 9TE3
+34NC 31WA
+2NV3 AK14
+0CD2 9TX3
+31TN ABP
+0FA5 32VA
+31LS 0CO7
+9OI4 9TE3
+0AZ5 2XA7
+0MI6 9WA9
+9NC1 AE-0024
+33MT 2VA5
+AK83 9TA5
+0CN1 0C7
+0NJ1 2NH5
+AK34 0OR6
+AGRC 0II2
+9N7 A51
+9MS9 0CA6
+33CL 0TN3
+2TE6 9OR7
+30IS 9Z3
+30F 0CA9
+0LS0 2SD4
+0OH4 AL-0002
+9MI8 0CO6
+9PA0 2XS4
+34AR 31IL
+0C8 2UT3
+9WI4 2VI2
+09MO 32AZ
+9PS6 2TE9
+30WI 0PN5
+A43 9MO9
+0GE4 2NY7
+0FA0 AK39
+0KY3 0MA5
+9OI4 AK83
+2VA3 30FL
+AK73 9MI1
+30AL 0GE4
+0C9 2OK1
+0CD3 9TX8
+0IL6 0IN2
+0FA1 AF-0003
+AK37 2WN9
+0NJ1 0II9
+34FL A57
+2OR1 AK69
+31TX 9VG
+9MN3 2TA4
+33C AGAR
+0NK0 33OI
+9OH5 2XS1
+0IA5 AE-0004
+AE-0001 9TA5
+34MS 31CT
+0GA4 31IL
+9ND8 AK14
+2TX0 0SD6
+2TE6 2OI9
+0TN2 AK13
+AK01 9Z3
+0Q4 2XS2
+0AZ5 2TX8
+0CD3 9PN8
+0AL7 0TN8
+32MI 2TX6
+0OR8 0AR8
+0NJ8 AGGR
+9PN1 9VA0
+9TX5 AK54
+2OR2 2PN9
+AK13 09NJ
+31MO 9NC0
+0AK8 0MI6
+9OK6 9OA6
+33WI AA35
+AF14 2ND9
+2TS9 AK20
+0IS6 2SD9
+2NY5 AF07
+AK82 AF08
+9NY8 9XS2
+34IS 9OI3
+0J8 0GA8
+9OR5 0OI9
+2NK5 AE-0025
+0TS4 2TS2
+2PN9 32FL
+2ND2 2XA5
+2OR0 0MA5
+2ND3 9OA7
+0AL6 34NE
+0NY3 0ID3
+0AR5 0TA7
+2XS1 9LA1
+2TS1 0TN2
+AGGF AK39
+2SD9 2WN3
+2OK2 9TX8
+2WA8 9TS1
+AE-0007 9TE6
+31KY 0OR3
+30IS 33MO
+0S2 31OR
+0CN2 2T2
+AE-0024 33SC
+9VG 0TN6
+AK46 0AK8
+0PS3 30TX
+0CT9 AK41
+0GE5 0TE5
+AGKW 30XS
+9MI3 0MO1
+AK25 2UT4
+0OR7 0MS3
+31MO 2VG5
+A88 2XA7
+2PN1 9OK5
+9TA6 0NY3
+9WA5 0FD0
+30WI 0CA9
+0OH1 2VG8
+9OA4 0TA9
+ABE AA01
+09VG 0NC8
+0GE1 0SD6
+0AL0 0NE6
+09N 31TX
+32IN 2OG2
+0NC7 9Y5
+33MO 9S3
+AK52 9TX5
+0NE0 AK79
+AF-0004 0CT5
+9WA9 AA09
+9Y5 A69
+34ND 0OH1
+9XS4 9WA9
+0OI6 34TA
+0MD6 0AL5
+0C9 AK25
+0AK7 9PA4
+32WI 0FD5
+9TX7 AK79
+0NC8 9PA3
+32CN AEE
+9V2 0ID8
+31LS 9XS5
+2TS2 2XS1
+A57 AF13
+0J8 9TX5
+2XA7 0CD2
+0AK2 AA38
+AK62 0GA2
+2PA9 AK80
+AL-0002 09NY
+2TA5 31TN
+33LS 31OK
+AGKG 0Q6
+9TE3 30OK
+AK05 2OH2
+34NH AK56
+9LL3 2SC2
+AK07 0LA3
+2WI5 2TS2
+9OR5 2OA2
+2OR0 0LS0
+0PS5 0B7
+9WA4 30AL
+AGGT AK28
+9NE3 AK13
+0LA9 AF13
+AK41 0LA9
+09MA 9ND8
+2OA2 2OH5
+0FL8 0GA7
+0FL9 34KS
+2WN8 2NH6
+2PA9 9NE1
+0N4 9TX8
+9OR7 0FA0
+AK84 0AR2
+31MO 2WI9
+2NV3 9TX3
+09TS AGAR
+9NJ4 0CT9
+2WN5 33NC
+31D 9OA9
+09NR 0LA5
+AK25 AF12
+0IL2 9WI2
+0LL4 2NK7
+9OH6 2VI2
+0CO1 9MO9
+0NC1 0FA0
+AE-0002 2OH7
+0TS8 9OG1
+0AR3 9VA6
+9OR5 0OR5
+0TA4 9WA5
+AGGO 33CO
+9VA2 AGGP
+AK18 0CT9
+ABP 0OI6
+2NY5 0PN8
+9OA7 9NC1
+AGGT 0TA6
+9TS5 0AA6
+AA35 0MO1
+2VA5 9TS6
+32NC 0NC9
+9MN0 0NY7
+9WI1 2XA5
+0MD0 0LA4
+0AZ5 9TE7
+2WA6 0FL2
+A88 0NJ5
+32AZ 0OK5
+9PS3 2OI6
+AGEV 2SD9
+2TA3 9OI3
+0MD4 0MD9
+0PA2 AK69
+2PN5 9TX4
+09VG 9PS4
+33LS AGGO
+9PA0 9PA9
+0NC8 AE-0002
+33MO 2NE5
+AF07 30NE
+0TA6 0LS2
+0TS8 0IS3
+2OK0 0MD1
+2NK7 0KY3
+0CA9 9WN9
+2VG4 2WA2
+AK77 9NJ9
+0MD6 2TX0
+9PN2 31TX
+0AK8 0NK4
+2PS5 0FD3
+0GA7 0PS0
+2TE9 2OK4
+30OH 33MO
+2WN8 0OK4
+0CL0 2SD0
+2OI3 AE-0011
+AF08 9TA8
+2RI7 30IS
+2WA6 0P1
+32NE 31IL
+0OI6 2XS3
+9TN6 9OK5
+AK74 2WI8
+09XS 0MT2
+2PS7 2WA0
+9PS3 34OI
+0AR7 2WN8
+0TN9 30W
+0IN7 0TA4
+AK13 0CL0
+0OI0 AA76
+9TS6 33PA
+AE-0001 2TE1
+AK52 0TA6
+32KY 33FD
+33IA 0C8
+30LS 34NE
+9NJ5 0ND7
+0CD5 0FD2
+33FD 0PA7
+9NC9 AA12
+0TE0 0PN5
+9TA6 2SD9
+0PS0 33MT
+0LL7 9NJ9
+9VA0 34KS
+9LA1 AF-0004
+0CL8 AA09
+33C 9OK3
+9PS3 31MO
+33TA 33LS
+2S2 2PA4
+2OH1 0MD7
+0NK4 0O0
+9MI3 09N
+2TN3 2SD8
+2NV3 0IN4
+9MN3 AGGJ
+2NK6 33IA
+0CL6 AIH
+AGAT 0PN8
+9MI3 9TS3
+0OK2 9MD9
+0NY1 09LL
+9TX5 2TE6
+2NV3 0OH7
+ABW 2NV3
+2PS9 34OI
+34OH AE-0004
+9NC6 2VA3
+0GE9 9NE1
+2TX7 09NR
+2TE4 9W3
+0NJ5 0ID8
+AK52 9TS4
+32AZ 9WI6
+9Z3 2SD1
+A67 2PA9
+33OH 33NJ
+0MD4 09II
+0MD1 A61
+9XS5 9WI2
+AGGP 2U7
+34ND 33OR
+0AK9 AA07
+2PS5 ABE
+2OH5 9PS8
+2ND9 30AL
+AK82 31OR
+AK20 09NC
+2PA7 0OR8
+2S5 9PN7
+AA07 9OR7
+33TX 32CN
+2XA3 31CT
+0OI2 2U5
+0IS8 2OA5
+A70 AEI
+2TE0 0LL6
+9WN4 2XS3
+9NY9 0MT6
+9MS7 30CA
+2OH5 2Q5
+34MS AGEV
+2VG4 0CL6
+9TS4 9OA5
+2NE6 2PA4
+AA38 AEK
+2TX0 A88
+2OA4 2OK
+0N6 AEI
+2OI9 9MS7
+2TE3 9VA0
+2XA7 34PN
+2NH6 2PN9
+09IN AK28
+2NY4 2U7
+9NC9 31NE
+0NK8 9TA9
+9OK8 9OI9
+0AL5 9XA1
+0MU1 9WA0
+0OK6 AK52
+2OR0 0IN7
+0FA5 9OR9
+9MS9 0FD2
+2XS1 2TS8
+0MT7 0FD5
+31LS 33PN
+2PA8 9PA1
+9U1 0LA9
+0C8 34KY
+31CA 0IL2
+0CO1 31LS
+32VA AK37
+2TA9 9PA5
+9N1 9WI6
+0LA4 31KS
+9TS4 34OI
+2S5 AK39
+0L4 0AR1
+0FD5 31VA
+0S5 9Y5
+0FL8 9WN4
+30AL 9PA1
+0AA6 2TX6
+2S0 AK56
+AK44 0B7
+33ID 33SC
+AGGO AGGK
+0OH1 AA85
+AGKW 2OR0
+30AR 0MD6
+32LA AK47
+0AL6 33CT
+32IN 32GA
+33MO 0FL9
+0AK8 32PA
+9OI4 0CL9
+31TN 9OK2
+0IS2 9NJ8
+9N7 09II
+33LS 33KS
+0FA5 0C1
+9WI4 2NH3
+AEE 2SD9
+0CA6 9PA0
+2VA2 0ID9
+AGGJ 0NC8
+0OI9 AK20
+AK49 9NE4
+0MD4 0CA6
+9OK2 0NC5
+2NC9 AEE
+33TN 0FD6
+9OG1 30FL
+9Y5 0OR0
+2WN2 0CA6
+AK20 09ME
+33OK A70
+0MU8 0IL0
+0GE9 09NR
+2XS0 AGGO
+0LA9 2TE6
+0OR6 0AR8
+9PA5 9MI1
+2UT3 2OH5
+A05 0PA7
+09N 9OR5
+09VG 33TX
+A51 9NK4
+AK44 0ND0
+0FL6 2OI8
+0PN5 32TE
+32CO 9LA4
+0CO9 0IS6
+2WY3 34AR
+0PS5 AK71
+2TA4 0FD4
+31TE 31MO
+34ND 33OI
+9TS4 2TE9
+9MI8 9MO5
+0CD9 2VI2
+9TN1 2SD0
+0IL0 9LA0
+0AR3 2NR4
+AGGO 2XA7
+AE-0007 0CD9
+30TX AK35
+0J8 34MS
+2OK0 0N6
+9N1 9LA1
+9LA0 33PN
+0IL2 9MI1
+2TE8 9PS4
+9TX9 0IL0
+2TA4 0PS3
+31GA 0TN8
+0OK2 2SC2
+9LA1 9S3
+0AR5 AA35
+9MO9 2OH0
+0GA9 0Q6
+31NJ 0KY6
+AF12 AK71
+0NJ1 0C1
+2OI6 0PS0
+9WN4 AE-0024
+31GA 0SD4
+9NC9 2NE5
+9PA1 0N0
+2SD1 2TS8
+9Z3 9MI1
+2WN8 9PA7
+2S2 31TX
+9LL3 0NY3
+31MI AEI
+0MU1 0NM7
+AK14 AA33
+30LS 2ND4
+31CT 0AR2
+9TX7 AGGK
+0LA4 2OK9
+9Y0 AK07
+9MN1 0CA6
+AGAR 2Z2
+AGKG 0LS8
+9N1 0ND0
+33C 0MT6
+31NE 33CO
+0GA2 0CO3
+9NC1 9TX9
+9LA1 0ID6
+AGGN 2PS5
+2TN0 AA12
+9PS3 AK63
+2TA9 0PS4
+ABW 9ND8
+0OR0 2NY4
+0CL7 AGKW
+2NV3 0AR8
+9NE1 2VG6
+9PA4 0LS9
+0IN5 2OI9
+0CN2 34NE
+2WN4 AE-0023
+0CL9 AK28
+0OK2 AK80
+34OH 9OK7
+32VA 30KS
+0FD6 9TX3
+0TA9 AK74
+30F 2TS6
+0II9 AA02
+AF07 AGGP
+2OA2 0AZ5
+30TX 0LA4
+9OH6 34MA
+9PA5 AA01
+9LA7 30CO
+2S3 30NE
+9NJ4 9PS4
+0IS6 2Q5
+32KS 31IS
+AE-0004 9WN9
+AF-0003 AF08
+2XS0 0NJ0
+9LL8 0II3
+2OR2 9PA9
+0NE6 2PN7
+2SD9 34OH
+30AL A51
+AGGY 0TA9
+0LS9 0S5
+9OK3 AK74
+34ND 0FL8
+0KY2 9WN9
+0PA6 34CA
+9OK3 9OR5
+9NE7 AK83
+AGGJ 2TX6
+2NH5 9OI3
+32IN 0OR5
+9PS3 9MO6
+2XS0 0CT9
+09VG 9LA4
+2ND4 0AR7
+9TA6 0PS0
+2OA4 33NJ
+9NE4 AA03
+AK37 0GA6
+2TN0 2TE8
+33NE 0MN6
+2OH5 9NC1
+AE-0018 0FL9
+0CT7 0MO9
+0TA4 0FD5
+2S5 9LS9
+9TE6 AE-0024
+AE-0003 AF10
+0OI6 0PS0
+0MD7 0FL1
+2W2 0TN9
+AF06 A88
+2XA7 AK83
+09MA 0AL0
+2WI9 2TX3
+9OA4 9TE4
+0AZ5 30NE
+0OI4 2OI7
+2XS0 9WA4
+2OA5 9PA5
+0NC8 2OA5
+9PS6 34CL
+33NC 9OI1
+AGGL 34KS
+AF08 9NE1
+31CA 0TN3
+2OK1 9LL3
+0AL9 31LS
+33MT AE-0023
+2ND4 09LL
+9TN6 0LS9
+0CT5 2NV3
+0PS8 9XS4
+2NV3 AE-0018
+0NY1 34OK
+0ID8 0NJ8
+0MO4 2TE4
+0AK5 AA76
+2U5 AA85
+0OI0 A05
+0NJ3 0T7
+2OI3 33C
+33PA 9TE7
+9WI4 0NY5
+9TN6 2TA4
+AE-0011 9V1
+32IN 9OH6
+33OK 2WI3
+9TE6 0PA1
+9PA3 0OR3
+AK83 0IN7
+31TE 0SD3
+0GA9 9NE3
+9VA4 0MD7
+9PA4 0NJ1
+30OR 0C9
+2NH6 AGGY
+2SD0 9TX9
+AK44 0AK7
+9TE7 9NR7
+AE-0024 AGEV
+0TA7 32AR
+0MO4 0IL6
+2TS9 0KY2
+0MT1 2OI6
+34IS 9NC1
+0NC1 2NC9
+31NY 2TS9
+2OG2 0NK0
+2VA2 9OH6
+0ND6 0B7
+2UT4 2R3
+09II 0NC5
+2NK6 0PA1
+0AK8 AE-0002
+0LS9 AK81
+AK26 9V1
+0NC2 0GA8
+9PS6 32IN
+9PA1 9VA4
+0MD8 0TE0
+9Z7 0TA9
+0PA3 AK47
+2NV3 2PN9
+AK39 9MI1
+33CL 2NK1
+9NJ8 33NE
+9OH8 0MN1
+9TA6 32LA
+32NC 0MS2
+31OH 0AK9
+9Y5 33NE
+0FA0 AK88
+2WI7 AK54
+0FL8 2TA9
+0PA2 0FA0
+9VA2 30FL
+9PS6 AK81
+0TA4 0NY0
+0NA5 AF07
+0OR0 AGGY
+0LS0 2TS1
+0CO1 AK39
+9S3 0N0
+31NY 9WA4
+2WN4 0MD0
+A67 2TX6
+31OH 31MO
+31CA 9NE1
+9NR7 0ND6
+AK20 AK71
+2NH3 30AR
+2WI5 2VA9
+AF-0003 2OR1
+0TN4 9WI2
+2ND3 9NE8
+ABW 0NM7
+2OH0 9N1
+0ID3 9TX3
+9OA6 0PA1
+2VI2 0ND6
+AK01 9WA0
+0SD6 31CT
+AIH 2WN2
+2U5 0NE0
+0NY1 AK82
+0GA6 AGKW
+AA38 0CO1
+A05 AK88
+9TX8 30NJ
+0AK5 9PA4
+0PN4 2OK2
+0MD8 32WI
+0OH4 2ND4
+33TN AA38
+0NY7 34FL
+9PS8 33OR
+AGEV 0ID6
+34NE 0OR5
+2WI8 0IA8
+30AR 2U5
+0IA7 0KY1
+0SD3 0AL4
+9NC6 A61
+0NC5 2ND2
+9NE8 2PS7
+9PN7 34ND
+2P5 2TE9
+0CO6 30CL
+0R9 2TS6
+AGGL 2NK2
+2VA5 9PN8
+9TN1 31CO
+2OR2 0MD1
+2WN2 2TA9
+2UT2 AF10
+2NV3 AK82
+32TE 0OK2
+0FD0 0PS3
+9XS4 2U5
+0LA9 9TX8
+9PS6 32LA
+9MO6 9NJ5
+2TX8 0N0
+0LA5 32NE
+34NE 0MA5
+0FL5 0AA6
+AE-0014 0Q4
+2WI8 2OK2
+2TX8 0CD3
+2UT4 0ND6
+0IN5 0IS6
+A57 9TX2
+2PN7 0TN3
+0AR2 9TA6
+9NJ9 0TA2
+9XA1 AGAT
+0FL8 0OK1
+0AK2 0AR3
+09XS 32OR
+09ME AF10
+2RI7 9WI5
+9MO5 9NE4
+0CL8 0FL9
+0TA2 AF14
+2NK1 0AK2
+AE-0011 9N2
+2PN5 2OK2
+0PS1 09NY
+0AK2 0IL0
+0OR7 9WI8
+2OH2 2OA2
+9LA0 0MI4
+2WA0 0PN5
+2WN2 0GA6
+0ID9 9TX2
+0LL7 0NJ7
+0T7 0SD7
+9MI8 2WN3
+2NC9 0OR3
+0FA0 0FD3
+2NH5 33TA
+0MI4 0NK4
+0IA0 0TE5
+9MO6 2OI8
+09MO 0GE4
+0OK8 AGEV
+0AZ7 0IN7
+34ND 2TE9
+AA11 0LA4
+2VG8 2NC9
+9VA6 9OK0
+0CD3 34NH
+9VA4 9XS9
+09MO 0FA5
+0AK5 A69
+34IL 0FL8
+AGAR 0ID6
+2WI9 0TN8
+AGGF 9OA9
+31OH 2NY4
+0MS3

@@ -1,0 +1,1526 @@
+Bledsoe Ranch Airport 2
+Shearer US Forest Service Airport 3
+Flying U Airport 3
+R & S Buzzard Airport 2
+West Hackberry Heliport 3
+Sutton on Rogue Airport 3
+Charlton-Careflite Heliport 2
+Irish Hills Farms Airport 2
+Johnson Airport 2
+Wilbourn Ranch Airport 2
+Matson Airport 2
+Moore Regional Hospital Heliport 2
+Malco Airport 2
+Smith Farms Airport 2
+AGH Heliport 3
+McIntosh Airport 2
+Worthington Industries Heliport 3
+Melville Airstrip 2
+Kellie Mann Airfield 3
+Red Berry Heliport 2
+State Police Area Six Heliport 2
+Melby Ranch Airstrip 2
+Sorlie Airport 2
+RAF Castletown 2
+Gwaunaru'u Airport 2
+El Daein Airport 3
+Corral Creek Airport 2
+Flying Oaks Airport 2
+Air Logistics; Amelia Base Heliport 2
+Aero Heliport 2
+Bladen Lakes State Forest Tactical Landing Zone Heliport 3
+Ngorangora Airport 2
+Anchor River Airpark 3
+Bollweg Farm Airport 3
+Bluegrass Heliport 3
+Philadelphia Seaplane Base 2
+Piper Landing Airport 2
+Arizona Heart Hospital Heliport 2
+Simons Airport 2
+Newport Woods Airport 2
+Sunset Strip 3
+Brothers Aviation Airport 3
+Tc Field 2
+Fort Ranch Airport 3
+Clearview Airpark 3
+Franz Ranch Airport 2
+Maud Road Strip Airport 3
+El Caballero Airport 3
+Planeacres Airport 3
+Don's Landing Field 3
+Paul's Seaplane Base 2
+Eagle Field 3
+Willow Seaplane Base 3
+Chena Marina Airport 3
+Ridgewood Air Airport 2
+Krey Field Airport 2
+Security Ford Heliport 1
+M-I Drilling Fluids Company Heliport 2
+Blessing Hospital At 11th St Heliport 2
+Walter Airport 3
+Cornerstone Chemical Company Helistop 2
+Skypoint Estates Airport 3
+Taylor Field 3
+Bayou Meadows Airport 2
+Runner Landing Area Airport 2
+Andakombe Airport 3
+Stier Airstrip 3
+Kimp Airport 2
+Hitex Private Airport 2
+Flying Crown Airport 2
+Morgan Field 3
+Rancho Verde Airport 2
+Dog Fish Bay Airport 3
+Meyer Heliport 2
+Tamms Correctional Center Heliport 2
+Robert Wood Johnson Hospital Heliport 3
+4B Ranch Airport 3
+Clio Crop Care Airport 3
+Encelewski Lake Seaplane Base 3
+Winters Airport 3
+Amook Bay Seaplane Base 2
+NH HMC Heliport 2
+Airlie Airport 2
+Yas Marina Heliport 2
+Bates Airpark 2
+RAF Calveley 3
+Summerlin Medical Center Heliport 2
+Baskin Airport 2
+Gravco STOLport 2
+Trollman's Field 2
+Berkshire Medical Center Heliport 3
+Ibm King St Heliport 3
+River Bend Airport 3
+Wilford Hall Medical Center Heliport 3
+Afore Airstrip 2
+Parrish Airport 2
+Weelborg Airport 2
+Colle Field 2
+Wild Blue Airport 2
+Lesterson-Dempsey Airstrip 2
+Houston Heliport 2
+Bernardin Heliport 2
+Community Hospital Lakeview Heliport 2
+Parker Lake Airport 2
+LBJ Ranch Airport 3
+Elliott Field 2
+Smh Heliport 2
+Freeman Creek Airport 2
+Ullrich Airport 3
+Ez Lope Ranch Airport 3
+Entrance Island Seaplane Base 3
+Hilltop Lakes Airport 3
+Long Lake Seaplane Base 2
+Naval Submarine Base Bangor Heliport 2
+Vansant Airport 2
+Alum Ridge STOLport 2
+Kittyhawk Airport 3
+Owensville Ambulance District Heliport 2
+Dehdadi Airport 2
+Westchester Resco Heliport 2
+Raco 1 Heliport 2
+Jacobsen Lake Seaplane Base 3
+Arend Airport 2
+Nixon Fork Mine Airport 2
+Merrihew Airport 2
+Big Salmon Heliport 3
+Ellis/Harvey Airport 2
+Elmendorf Hospital Heliport 3
+Fox Field 2
+Cloverleaf Farms Ii Inc. Heliport 3
+Dakota Clinic Heliport 2
+Essex Generating Station Heliport 2
+Argyle Downs Airport 2
+Shingletown Airport 2
+Swift Creek Airport 3
+Roosterville Airport 2
+Martin Heliport Area 1
+Blech Ranch Airport 2
+Dollar General Heliport 2
+Nielsen Airport 2
+Old South Aerodrome 2
+Our Community Hospital Heliport 2
+Monger Airport 2
+Haunstein Ultralightport 2
+Mgt Station 2105 Heliport 2
+Annandale Ranch Airport 2
+Lodi Lakeland Airport 2
+Vo-Tech Heliport 2
+Washington County Hospital Heliport 2
+Jack W. Watson Airport 2
+Glad Oaks Airport 2
+Hospital Wing Heliport 2
+Egolf Airport 2
+Heavens Gate Ranch Airport 1
+Brosius Field 3
+Alexanders-Paramus Heliport 2
+Medos Lake Delton Seaplane Base 2
+Pinehurst Ranch Airport 2
+Gilmer Airport 3
+Flaherty Field 2
+South Fork Ranch Airport 2
+Clay County Hospital Heliport 2
+Mid-Valley Hospital Ems Heliport 3
+Peasley Field 3
+Gaskin's Hilltop Airport 3
+Kalt Ranch Airport 3
+Sharon Hospital Heliport 2
+Parasi Airport 2
+Paso Fino Farm Airport 3
+Canon Ranch Airport 2
+ESD 100 Training Field Heliport 2
+Good Samaritan Hospital Heliport 2
+Someday Ranch Airport 3
+Red Birds Airyard Airport 3
+Triple R Airport 3
+Burris Ranch Airport 3
+Bradley Memorial Hospital Heliport 2
+Old Town Ems Heliport 3
+Point Mac Airport 2
+Beaver Marsh State Airport 2
+D & G Farms Airport 2
+Eureka Creek Airport 2
+Double Bar S Ranches Airport 2
+Busboom RLA Restricted Landing Area 2
+Hartford Hospital Heliport 3
+Hale Field 2
+210 Investors Heliport 2
+Mid-Hudson Helicopter Service Heliport 3
+Ecko Field 2
+Bennetts Airport 3
+Hannibal Regional Hospital Heliport 2
+Sege Airport 2
+Parker Carson Airport 3
+Jebel Ali Seaplane Base 3
+Old Plains Airport 3
+Mcfaul Airport 3
+Sonoma Skypark Airport 2
+Bristol-Myers Squibb Company Heliport 2
+Kraft Airport 3
+Virginia Beach General Hospital Heliport 3
+Summer Hill Farm Airport 3
+Comprix Heliport 2
+Lapeer Flyer Airport 3
+Bodmer Airport 3
+Lone Hawk Airport 2
+Indio-Faith Airport 2
+Northwest Waterbird Seaplane Base 2
+Textron/Everett Heliport 3
+Pinnacle Airport 2
+Skyline Airpark 3
+Cimarron Strip 2
+Rotorcraft Heliport 2
+Sebastian Cove Airport 2
+Bowman Airstrip 2
+Sarhawdza Landing Zone Airport 2
+Eagle Field 2
+Wayne West Heliport 3
+Khvej Ghar North Airport 2
+Circle R Ranch Airport 2
+Antique Aerodrome 2
+Ringi Cove Airport 3
+Moen's Ranch Airport 3
+Oregon Health Sciences University Emerg Heliport 2
+Bulldog Ranch Airport 2
+Lance Airport 2
+Jsi Airport 3
+Shulls Airport 2
+Costin Airport 2
+Alderman Airport 3
+Brekhus Field 2
+K & D Airways Airport 3
+Hepp Airport 2
+Veit Airport 3
+Miller Strip 2
+Hunter Creek Airport 3
+Black Otter Airport 2
+Frederick Airpark 3
+Kagua Airport 3
+Goerger Airport 2
+Air Jordan Airport 2
+Hanel Field 2
+Charikar Airport 3
+Spy Island Drill-Site Heliport 3
+Univ of Tennessee Medical Center Heliport 3
+Adareil Airport 3
+Mario's Flying Pizza Airport 3
+Womack Plantation Airport 2
+Kropf Airport 2
+Baptist Memorial Hospital Heliport 3
+Sled Heliport 3
+Beaver Creek Airport 2
+Yentna Bend Strip 2
+Sonoma Valley Airport 2
+Piano Ranch Airport 2
+Rosini Residence Heliport 2
+Black Rock Airport 2
+Atlantic City Medical Center Heliport 3
+Gaston Steam Plant Heliport 3
+Albanna Aviation Airport 2
+Hamilton County Sheriff's Patrol Heliport 2
+Angoram Airport 2
+Walters Airport 2
+Shoemaker-Shelby Forest Airport 2
+Hahn Sky Ranch Airport 2
+Troop E Heliport 3
+Four Star Heliport 3
+Meadow Creek Usfs Airport 3
+Adado Airport 2
+Rinehart Airport 2
+Tri-Modal Air Park 2
+Andorra la Vella Heliport 3
+Hawkeye Airport 3
+Chandelle Airport 2
+Point Mcintyre Airport 2
+Hongyuan Airport 3
+Harris County Courthouse Heliport 2
+Rusby Field 2
+Island Lake Seaplane Base 2
+Jackson Parish Hospital Heliport 2
+Tailwheel Airport 3
+Wilber Municipal Airport 2
+Carl's Landing Airport 2
+Camp Bullis Heliport 2
+Missouri Baptist Hospital Heliport 3
+Ward Ranch Airport 2
+Nash General Hospital Heliport 3
+Weidel/Private/ Airport 3
+Kodiak /Lilly Lake/ Seaplane Base 2
+Boehm's Field 3
+Lookout Mountain Airport 3
+Shriver Airport 3
+Baraga Airport 3
+Diamond C Ranch Airport 2
+Alsek River Airport 2
+Wolverton's Field 2
+Norris Airstrip 3
+Louise Obici Memorial Hospital Heliport 3
+Perrotti Skyranch Airfield 3
+Pat-Mar Strip 2
+Corning Municipal Airport 2
+Shofner Farms Airport 3
+Sunstate Heliport 2
+Twin Acres Airport 2
+Swedish American Heliport 3
+Flying Dollar Ranch Airport 2
+Ward Field 3
+De Witt Property Airport 3
+Twin Lakes Airport 2
+Dufour Airport 3
+Spring Brook Airport 3
+N B G H Heliport 3
+Frager Field 2
+Christian Hospital Northeast Heliport 2
+Stuttgart Memorial Hospital Heliport 3
+Phillips Airport 3
+Lakeside State Airport 3
+Meadowlark Airport 2
+Hospital Pad Heliport 2
+Plows & Props Airport 3
+Glen Oaks Heliport 2
+Sawmill Creek Resort Heliport 2
+Sky Lakes Medical Center Heliport 3
+Green's Strip 3
+Twin Hills Airport 2
+C. R. Acres Airport 3
+Chena River Seaplane Base 2
+Glacier Heli Tours Heliport 2
+Casslindan Airport 2
+Wallace Heliport 2
+Atlantic City Medical Center-Mainland Division Heliport 3
+Stock Farm Heliport 3
+Sun Company-Radnor Heliport 2
+New York State Police Heliport 2
+Lawing Airport 3
+Jiles Field 3
+Swanson Airport 3
+Pale Morning Dun Ranch Airport 3
+Clay County Hospital Heliport 2
+Catskill Valley Airpark 2
+Toyota of Dallas Inc Heliport 3
+Sweet Home Airport 2
+The Sandbox Airport 2
+Transportation Research Center of Ohio Airport 3
+Dyer Airport 3
+Galloway Airport 2
+Tate Ranch Airport 3
+Peil/Juliar Seaplane Base 3
+McGahan Industrial Airpark 3
+Wiley's Seaplane Base 3
+Geva Airport 2
+Skid Marks Airport 3
+Innsbrook Pavilion Heliport 2
+Schumacher Strip 3
+SSM Health St. Mary's Hospital-Jansville Heliport 2
+Audubon County Memorial Hospital Heliport 3
+Gadsden Regl Medical Center Heliport 2
+Clinton-Hickman County Airport 2
+San Luis Reservoir Seaplane Base 2
+Elk Park Ranch Airport 2
+Jablonski Airport 2
+Hinson Airport 3
+Burg Lake Aero Airport 2
+Situk Airport 2
+Sportsman Airpark 3
+Boeing Seal Beach (Rooftop) Heliport 2
+Flying G Airport 2
+Dalonia Airport 2
+Darmar Medical Emergency Heliport 1
+Horan Airport 3
+Newman Airport 3
+Paul Personal Use Airport 2
+Bailey Airport 3
+Ayresouth Airport 2
+Snoddy Air Strip 2
+Tyler Airport 3
+Kramer Ranch Airport 2
+Stone Song Heliport 3
+Perin Heliport 2
+Taylor Airport 2
+Wayne Delp Airport 3
+Diamond E Ranch Heliport 3
+Birchwater Airport 3
+Oakleaf Airport 3
+False Island Seaplane Base 3
+Hall Airport 2
+Lleia Kyle O'Meara Heliport 2
+Bar S Ranch Airport 3
+Quemahening Flightpark Ultralightport 3
+Lone Pine Aerodrome 1
+Coye Field 3
+Seven Gables Airport 3
+Albert Lea Medical Center Heliport 3
+Williams Airpark 2
+Camp Point Airport 2
+Stuart Island West Airport 2
+Griffin Airport 3
+Bound Brook Nr 1 Heliport 2
+Reeder Airport 3
+Arvin Ranch Airport 2
+Troll Farm Airport 2
+Flying S Ranch Airport 2
+Mono Aircraft Airport 3
+Chuck's Airport 3
+Haar Airport 2
+Kodiak Emergency/Spruce Cape Heliport 2
+Flying Bucket Ranch Airport 2
+Ballymere Heliport 1
+Columbia Putnam Community Hospital Heliport 3
+Crocker Airport 2
+Knoxville Area Community Hospital Heliport 2
+Merck Sharp & Dohme Heliport 2
+Plainville Airpark 2
+Control Dynamics Heliport 2
+Trinity Medical Center Heliport 2
+Refreshment Services Inc Heliport 3
+Faken Airport 2
+Santa Ana Airport 2
+Wakefield Wings Airport 2
+Crowhurst Heliport 2
+Brandywyne Farms Airport 2
+Bearwallow Farm Airport 2
+Burj al Arab Resort Helipad 3
+Ghantoot Hotel 3 Helipad 2
+Turinsky Airstrip 2
+Omh Heliport 3
+Meadow Strip Ultralightport 2
+Boyd's Turf Airport 2
+Dalrymple's Airport 2
+Kotubkhel Airport 2
+Krutmeier Airport 2
+Isley Airport 3
+Mason Airway Airport 2
+Dix Field 3
+Gila River Memorial Airport 2
+Brandywine Hospital Heliport 2
+Burr Oak Lodge Heliport 3
+Baptist Medical Center Heliport 2
+Pecan Patch Airstrip 3
+Barnesville Municipal Airport 2
+Autolite Heliport 2
+Zangger Vintage Airpark 3
+Percival Springs Airport 3
+Hoffman Private Airport 2
+Dave's Airport 3
+Kermizian Airport 2
+Weichert Headquarters Heliport 3
+Great Lakes Airport 2
+The 2A Ranch Airport 2
+Lapraka Heliport 2
+Henry Ford Hospital Heliport 2
+Ghantoot Hotel 1 Helipad 3
+Sutter Butte Dusters Airport 3
+Nicolaisen Airport 3
+All-State Equipment Co. Heliport 2
+Franwood Farms Inc. Airport 2
+Cobb General Hospital Heliport 2
+Presbyterian Intercommunity Hospital Heliport 2
+Kendrigan Airport 2
+Old Orchard Airport 2
+Foxx Valley Airport 3
+Spear Memorial Hospital Heliport 2
+Fiese Airstrip 2
+Providence Hospital Heliport 2
+Oak Country Ranch Airport 2
+Grass Roots STOLport 2
+Mehrhoff Field 3
+Bozeman Deaconess Hospital Heliport 3
+Golden Tulip Al Jazira Helipad 2
+Running M Ranch Airport 2
+Fera/Maringe Airport 3
+Point Mackenzie Heliport 3
+Fairview Riverside Medical Center Heliport 2
+Laurel Hill Farms Airport 2
+Kennedy Airfield 2
+Dixie US Forest Service Airport 2
+Merritt Airport 3
+Kukudu Airport 2
+Fl-Airfield 2
+Ballalae Airport 3
+Stephan Lake Lodge Airport 3
+Rising Sun Airport 3
+Flying B Ranch Airport 2
+W Johnson Field 2
+Coulee Community Hospital Heliport 2
+Michigan National Guard Headquarters Heliport 3
+Dresser Industries/Magcobar/ Heliport 2
+Sce San Jacinto Valley Service Center Heliport 3
+Lincoln Municipal Airport 3
+Reverse 5 Bar M Airport 2
+Landmark Plaza Heliport 2
+Phoenix Technologies Heliport 3
+Flying H Ranch Airport 3
+Sky Ranch Airport 3
+Zettlemoyer Airport 3
+Sunset Strip 3
+Emerson Heliport 2
+Fisher Airport 2
+Eagle's Nest Estates Airport 3
+Mary Bridge Heliport 3
+Sharar Field 3
+Shattuck Hospital Heliport 3
+Jugtown Mountain Airport 3
+Crazy Horse Heliport 2
+Nayak Airport 2
+Halka Nurseries Airport 2
+Bound Brook Nr 2 Heliport 2
+Goodnight's Airport 2
+Salt Box Airport 2
+Wilder/Natwick LLC Airport 2
+Atkamba Airport 2
+Slaughter Airport 2
+Bero Field 2
+Yolo Ranch Airport 2
+Dakota Air Ranch Airport 3
+Van Pak Airport 3
+Century Helicopters Heliport 3
+Johns Landing Airport 2
+Houston Oil & Minerals Port Bolivar Nr 2 Heliport 2
+Amchitka Army Airfield 3
+Wayne Memorial Hospital Inc. Heliport 2
+Evanston/Glenbrook Heliport 3
+A M I G O For Christ Airport 2
+Apple Airport 1
+Cyanamid-Hannibal Heliport 2
+Boswell Bay Airport 2
+Winchester Medical Center Heliport 3
+South Gasline Airport 2
+Bixler Ridge Airport 2
+High Meadow Ranch Airport 3
+Ray Smith Farm Airport 1
+State Police Troop D Heliport 2
+Trahan Ultralightport 2
+Eagle's Landing Airport 3
+Rennell/Tingoa Airport 2
+Lonely Air Station 3
+Pioneer Memorial Hospital Heliport 2
+Lakeview Airport 2
+Flyers Airpark 2
+Lewis Air Service Airport 2
+Harman Airport 2
+Matson Field 3
+Mc Daniel Ranch Inc. Airport 1
+North Buffalo Suburban Airport 3
+Victory Airport 3
+Timber Trails Airport 3
+Saginaw Seaplane Base 2
+Air Park North 2
+Primghar Airport 3
+Childrens Hospital Of Philadelphia Heliport 2
+Forever Florida Airport 2
+Schoharie Creek Airport 3
+Jw Airport 2
+Physicians Medical Regional Center Heliport 3
+Big Sandy Medical Center Heliport 3
+Jenkins Field 2
+Kumor Airport 3
+Buena Terra Airport 3
+Fly-N-Ski Airport 3
+Sheber Too Landing Zone Airport 2
+Yankee Creek 2 Airport 2
+Gord Airport 3
+Crystal Airport 2
+Bennetts Airport 2
+One O'Connor Plaza-Tower Heliport 2
+Skepton Heliport 3
+St Francis Hospital Heliport 3
+Texas World Speedway Helistop Nr 2 Heliport 3
+Coppersmith Airport 2
+Black Spruce Airport 2
+Strawberry Point Airport 2
+Solomon State Field 2
+Baldwin Base Heliport 2
+Hidden Quarry Airport 3
+Exxon Heliport 3
+Eagle Air Park 2
+Flying G H Ranch Airport 2
+Scooter's Landing Strip 2
+Harlequin Lake Airport 3
+Blue Sky Airfield 3
+Schumacher Heliport 0
+Hanson Airport 2
+Hawarden Municipal Airport 2
+Pata Skyhaven Airport 2
+Lambs Field 3
+Scotland Memorial Heliport 2
+Hedley Airport 2
+Hinkle Airport 3
+The Old Commonwealth Aerodrome 2
+Hecklers' Strip 3
+Robbins Farm Airport 3
+Baker-Sell Airport 2
+Crusader Heliport 2
+Braun Airport 3
+Ott's Landing Airport 2
+Shenandoah Valley Farms Airport 2
+Marian Heliport 2
+El Para\u00c3\u00adso Airport 2
+Philadelphia Gliderport 2
+Tamarack Airport 3
+Scottsdale Healthcare Thompson Peak Hosp Heliport 3
+Brinkman Airport 3
+Eagle Lodge Airport 2
+Era Helicopters Sabine Base Heliport 3
+St Elizabeth Medical Center South Heliport 3
+Utter Field 2
+Boden Airport 3
+Busch Creek Airport 3
+Wbz Heliport 2
+El Rancho Airport 3
+Topton Air Estates Airport 3
+Johnson's Heliport 3
+Erlanger Medical Center Heliport 2
+Riner Farm Airport 2
+Carey Lake Seaplane Base 2
+Republic Helicopters Heliport 3
+Scott Heliport 3
+Freeport Sulphur Heliport 3
+Joy Farms Airport 3
+Era Helicopters Fourchon Helibase Heliport 3
+Cunningham Airport 2
+St Joseph Hospital West Heliport 2
+Oshkosh Sky Ranch Airport 3
+Selma Airport 3
+Indian Valley Hospital Heliport 3
+U of Texas Medical Branch Emergency Room Heliport 3
+Russell Field 2
+Salty Fare Landng Seaplane Base 2
+Fort Bidwell Airport 2
+Franklin County Memorial Hospital Heliport 2
+Nana Airport 1
+Sack-O-Grande Acroport Airport 2
+Dolphin Stadium Heliport 3
+Wagner-Braxdale Airport 2
+Sw Police Station Nr 4 Heliport 3
+Fort Jensen Airport 3
+Manor Landing Airport 3
+Moose Run Airstrip 3
+Foard County Airport 3
+Kvichak /Diamond J/ Airport 2
+Port-O-John Airport 2
+Double H Ranch Airport 3
+Cig 816 Heliport 3
+Moore Airpark 3
+Twin Lake Airport 3
+Mountain Airpark 3
+West Virginia State Police Heliport 3
+Seagate Heliport 3
+Munda Airport 2
+Bender Airport 2
+Lonesome Dove Airfield 2
+Porch Ranch Airport 2
+Kalifonsky Meadows Airport 2
+Sullivan Lake State Airport 2
+Holden Heliport 2
+Burney Service Center Heliport 2
+Dubai Skydive 2
+Odessa Memorial Hospital Ems Heliport 2
+Owen Air Park 3
+Levelock Airport 2
+The Lazy K Airport 3
+Trenton Municipal Airport 2
+Mount Holly Heliport 1
+Pcfd Nr 26 Heliport 2
+Makeeff Airport 3
+Plath Farms Airport 1
+Air Evac 53 Heliport 3
+Cushing Field Ltd Airport 1
+Jbr Airport 2
+Foxcatcher Farm Heliport 2
+Abbeville Municipal Airport 3
+Kayutah Lake Airport 2
+Placid Heliport 2
+Merry Airport 3
+Theriot Field 2
+Beach Ranch Airport 2
+Lafferty Field 3
+South Capitol Street Heliport 2
+Batha Airport 3
+Aero Lake Estates Airport 2
+Linvill Airport 2
+Ladue Ranch Heliport 2
+Portland Adventist Medical Center Heliport 3
+Aeroporti i Mifoit 3
+Reid Hospital Heliport 2
+East Alsek River Airport 2
+Campbell BLM Heliport 2
+Park West Heliport 2
+Bob's Flying Service Inc Airport 3
+Alaska Airpark 2
+Kwailabesi Airport 2
+Wilkens Airport 3
+Stone Airstrip 2
+Kahoka Municipal Airport 2
+Shelby Strip 2
+Khvej Ghar South Airport 2
+Aeroporti i Korrotic\u00c3\u00abs s\u00c3\u00ab Ul\u00c3\u00abt 2
+Merill L Harris Field 2
+Buddy Harmel Airport 2
+Ferrell Airport 2
+Hueston Woods Lodge Heliport 3
+Arnemann Farms Airport 3
+RNAS/RAF Calshot 3
+Palm Jumeirah Heliport 2
+Malbone Estate Heliport 2
+Butte Municipal Airport 2
+Kruger Heliport 2
+Farwell Spraying Service, Inc Airport 3
+Airhaven Airport 3
+Chenoweth Airport 3
+Sky Ranch At Pioneer Peak Airport 3
+Rogers Airport 3
+Cub Haven Airport 2
+Doral Resort & Country Club Heliport 2
+Canadian Lakes Airport 2
+Baublitz Commercial Airport 2
+Viking Heliport 3
+Peddie School Heliport 2
+Prince STOLport 3
+Byrne Field 2
+OSF St Luke Medical Center Heliport 2
+Ethyl Corp Heliport 2
+Lockhart Airport 2
+Steele Memorial Heliport 2
+Jenkins Airport 2
+Brookview Manor Heliport 2
+Seton Medical Center H-4 Heliport 3
+Slate Hill Heliport 3
+Chimera Aerodrome 3
+Air Logistics (Fourchon) Heliport 2
+Victory Field 2
+Stockton Municipal Airport 3
+Southern Tennessee Medical Center Heliport 1
+Saint Luke's Hospital Heliport 2
+Apex Healthplex Heliport 3
+Loyola University Medical Center Heliport 3
+Simaron Ranch Airport 2
+The Red River Airport 1
+Fletcher Airport 3
+Benson Airstrip 3
+Paradise Valley Airport 2
+Seven Gullies Airport 2
+Mason General Hospital Heliport 3
+U of Texas Medical Branch Ewing Hall Heliport 3
+Uff-Da Airport 2
+Eva Creek Airport 2
+Clinch Valley Medical Center Heliport 2
+Saville Private Airport 3
+Buck Creek Airport 3
+George Harms Const Heliport 2
+Jott Heliport 3
+Shirley Lake Airport 3
+Berry Airport 2
+Shell Pelican Island Heliport 3
+Kenyon Heliport 3
+Winner's Landing Seaplane Base 3
+Deldot Helistop 2
+S & S Avion Ranch Airport 2
+Mc Kennan Hospital Heliport 2
+Gordon Airport 2
+Tanis Mesa Airport 3
+Qara Tepa Heliport 2
+Ellis Agricultural Field 2
+Robertson Ranch Airport 3
+Choiseul Bay Airport 2
+Gila Compressor Station Airport 2
+Christiansen Lake Seaplane Base 3
+Ramata Airport 2
+Hendershot Airport 3
+Village Airport 3
+Athens Regional Medical Center Heliport 3
+Lake Conway South Seaplane Base 2
+Dawson Farms Airport 2
+Willow Creek Airport 3
+Pyramid Ranch Airport 2
+Saint Thomas Midtown Hospital Heliport 3
+Swift Private Airport 2
+Riverside Methodist Hospital Heliport 3
+Candle 2 Airport 3
+Sugar Valley Airport 2
+Dice's Personal Heliport 2
+Al Mushrif Palace Helipad 2
+Gorman Airport 2
+Pacific Bell-2300 Imperial Hwy Heliport 3
+Roberts Airport 2
+Hales Landing Airport 2
+Grimm Farm Airport 2
+Coyote Run Airport 2
+Eagles Landing Airport 2
+El-Co Airport 2
+Airnautique, Inc. Airport 2
+Merlin Aerodrome 3
+Huenefeld Airport 3
+Rca Sommerville Heliport 2
+Reading Hospital Heliport 3
+Sheikh Sultan Bin Khalifa bin Zayed Al Nahyan palace Heliport Complex 2
+Voyager Village Airstrip 3
+Thomas Creek Airport 3
+Ami National Park Medical Center Heliport 2
+Colorado Plains Medical Center Heliport 3
+Berlin Field LLC 2
+Bronson Methodist Hospital Heliport 3
+Dangel Airport 2
+Skelton Airport 2
+Sweetwater Bay Seaplane Base 3
+CD-3 Airstrip 2
+Dostmohammadkhan Kalay Airport 2
+Rychlk Heliport 2
+Buchholz Farm Airport 3
+Jerseyville Aviation Inc Airport 2
+Horseshoe Lake Seaplane Base 2
+Round Butte Heliport 2
+Juhnke Airport 3
+Walby Lake Seaplane Base 3
+Fla-Net Airport 3
+Algeciras Heliport 3
+Erickson Air-Crane Whetstone Heliport 3
+Wings Field 3
+Sunderland Airport 3
+Keller Airport 2
+Windy P Ridge Airport 2
+Conoco Inc Heliport 2
+West Chester Hospital Heliport 3
+Shullsburg Airport 2
+Young Creek Airport 2
+Ralph M Sharpe Airport 3
+Bold Airport 3
+Chignik Lake Airport 2
+Rall Field 2
+Dugger Field 3
+Bohannan Airport 3
+Taylor Ranch Airport 3
+Fletcher Airport 3
+Burk Personal Use Airport 3
+Sugar Springs Airpark 3
+Twin Lakes Airport 3
+Strang Airpark 3
+Grand Marais/Cook County Seaplane Base 1
+Waterville Airport 3
+Hundley Residence Heliport 2
+Happy Bottom Airport 3
+Rock Creek Farm Airport 3
+Six Mile Volunteer Fire Department Heliport 3
+Carsonville Airport 2
+Lenling Airport 2
+Sky Airport 3
+St Anthony Regional Hospital Heliport 2
+Sixmile Lake Airport 3
+Townley Farms Airport 3
+Yandina Airport 2
+Belcher Airpatch Airport 2
+Emergency Room At Magnolia Heliport 2
+Vista Del Monte Lot 55 Heliport 2
+Forest Field 2
+Heli-Jet Heliport 2
+Danbury Hospital Heliport 2
+Pine Hollow Airport 2
+Stanley Airport 3
+Fox Fire Airport 2
+Naukati Bay Seaplane Base 2
+Davies Airport 2
+Boston Medical Center Hospital Heliport 2
+Flying Eagle Estates Airport 2
+Victor's Landing Airport 3
+Lakloey Air Park 2
+Jamak Fabrication Heliport 3
+Kallander Field 3
+Wyeth-Ayerst Nr Heliport 3
+Brennan Personal Use Airport 2
+Bonanza Hills Airport 2
+Milwaukee County Medical Complex Heliport 2
+Wcpx Tv-6 Heliport 3
+Honiara International Airport 2
+Pete's Water Landing Seaplane Base 3
+Lawlor-Justus Airport 1
+Mendenhall Airstrip 2
+Medical Center Hospital Heliport 2
+Toy Box Airport 3
+Rosegill Farm Airstrip 3
+Providence Medical Center Heliport 2
+Trio Estates Airport 2
+Rose Field 2
+Baptist Memorial Hospital-North Ms Heliport 2
+Goodlett Field 2
+Vitek Field 2
+Holy Family Hospital Heliport 2
+Dooley Airport 2
+Touchet Valley Airport 2
+Eagle Nest Airport 2
+Misty Lake Seaplane Base 2
+Mustang Field 2
+Columbia Valley Regional Heliport 3
+East Tennessee Children's Hospital Heliport 2
+Lankenau Hospital Heliport 2
+Tikchik Lodge Seaplane Base 3
+Brazil Clay County Airport 3
+Phalanx Airport 2
+Tigerbird Field 3
+Murmuring Springs Airport 3
+Cove Neck Heliport 2
+Greater Laurel Beltsville Hospital Heliport 2
+Medical Center Heliport 3
+Chena Hot Springs Airport 2
+De Vere Field 2
+Shawn Field 2
+Cade's Airport 2
+Greig Farm Airport 3
+Van Camp's Heliport 2
+Everitt Airport 3
+Koenig Airport 2
+Northside Airpark 3
+Gibb Ranch Airport 3
+Macy Ranch Airport 3
+Springview Municipal Airport 2
+The Atrium Heliport 2
+Texaco Heliport 2
+Park Medical Center Heliport 2
+Sullivan Airport 3
+Bert Walter Berkowitz Heliport 3
+Uvalde County Hospital Authority Heliport 3
+Young's Airport 2
+Taylor's Air Strip 2
+Norris Airport 3
+Maria Parham Health DLP Affiliate Heliport 3
+Rentz Ultralight Airport 3
+Myers Field Airstrip 3
+Mathna Airport 2
+Parking Lot Heliport 2
+Melrose Landing Seaplane Base 2
+Drake Airport 3
+Aiambak Airport 3
+Zakuoma Airport 1
+Emory Ranch Airport 3
+Weaver Airport 2
+Tanner's Airport 2
+Oooguruk Island Heliport 3
+John Scharff Airport 2
+Upperville Airport 2
+Bahl Helistop 3
+Bellona/Anua Airport 2
+Avu Avu Airport 3
+Aseki Airport 3
+Curns Airport 2
+Cuero Community Hospital Heliport 3
+Ozarks Community Hospital Heliport 2
+Pine Mountain Aero Heliport 2
+Tulaghi Heliport 2
+Rebel Field 2
+Wilsall Airport 2
+Barlett Regional Hospital Heliport 3
+Wanigela Airport 2
+Jewell Airport 2
+Caesar Creek Soaring Club Gliderport 3
+Mainland Regional Health Care System Heliport 3
+Federal Reserve Bank Heliport 3
+Parknavy Airport 3
+Reh Heliport 3
+Rocky Creek Ranch Airport 3
+Woodland Park Hospital Heliport 2
+Crippen Creek Farm Airport 2
+Morgan Field 2
+Yakutat Seaplane Base 3
+Custer Main Heliport 2
+Zokaites Heliport 2
+Tera Ultralightport 2
+Seamans Field 2
+Al Ghuwaifat Customs Post helipad 3
+Pettigrew Moore Aerodrome 2
+Carbondale-Clifford Airport 3
+Summit Medical Center Heliport 2
+Mc Donald Airport 3
+Hilltop Airport 2
+Coach & Paddock Heliport 2
+Askey Field 2
+Swedish S.W. Medical Heliport 2
+Pheasant Run Heliport 1
+R O Ranch STOLport 2
+Corydon Airport 2
+Norman Kurrass Contractor Heliport 2
+Breeden Company Heliport 2
+Bartletts Airport 3
+Flying Acres Airport 2
+Nugget Bench Airport 2
+Chandler Airport 3
+Louis A. Johnson Va Medical Center Heliport 2
+Ontong Java Atoll Airstrip 2
+Jolly Field 2
+Upper Valley Medical Center Heliport 3
+Lag's Landing Heliport 3
+Flying Ten Airport 2
+Drillmore Acres Airport 3
+Toolik Heliport 2
+Frost Ranch Airport 3
+Graves Landing Strip 2
+Unsicker Airport 3
+Foley Machinery Heliport 3
+Sunset Strip Airpark 2
+Wolf Ridge Airport 2
+Carolinas Medical Center Heliport 2
+Don Babin-Private Airport 2
+Ghantoot Racing & Polo Club Helipad 2
+Prairie Lakes West Heliport 3
+Z X Ranch Airport 3
+West Beaver Seaplane Base 3
+Fulton Seaplane Base 3
+Harrison Skyranch Airport 3
+Geisinger Community Medical Center Nap Heliport 2
+All West Airport 2
+Roberta Industrial Park Airport 2
+Twisp Municipal Airport 2
+Matzie Airport 2
+Flying A Ranch Airport 2
+Buller's Airstrip 3
+Pawnee Municipal Hospital Heliport 2
+Chappell Airport 2
+Russell Paradise Airport 3
+Vashon Municipal Airport 3
+Carson Heliport 2
+Deer Run Heliport 2
+Lmn 120 Airport 2
+C.C.A. Heliport 3
+Janssen Airport 2
+Sitka Seaplane Base 2
+Flying M & M Ranch Airport 2
+Governor's Mansion Heliport 2
+Delta Mechanical Inc Heliport 2
+Rockford Municipal Airport 2
+Cromwell Heliport 3
+S J M Landing Heliport 2
+Tennessee Gas Heliport 2
+Quail Lakes Heliport 2
+Old Orchard Airpark 2
+Joe D Lewis Airport 2
+Suavanao Airport 2
+Hall Field 2
+Bay Field 3
+Air Logistics (Belle Chasse) Heliport 3
+Keystone Airport 3
+Oceana Palm Jumeirah Helipad 2
+Bohunk's Airpark 3
+Resort Airport 3
+Sandy Run Acres Airport 3
+Pittsburgh Children'S Hospital Heliport 2
+Ziggy's Airport 2
+Kauffman Heliport 2
+Dog Leg Airport 3
+Orange City Hospital Heliport 3
+Hillside Farm Heliport 2
+Massachusetts General Hospital Heliport 2
+Bear Creek 1 Airport 2
+Reforestation Services Heliport 3
+Worth Airport 2
+William Irving Lewis Airport 2
+Air Park Field 3
+Barakoma Airport 3
+Khost International Airport (U.C.) 3
+Crockett Hospital Heliport 3
+Helmand Airport 3
+Soaring Horse Airport 3
+35 Mile Lodge Heliport 3
+Ash Personal Heliport 2
+Yosemite Hidden Lake Ranch Airport 2
+Valley Hospital, Wasilla Heliport 2
+S & C 8th & Market Helistop 2
+Erco Field 2
+Waltz Airport 3
+Castle Well Airport 2
+Greg'n Sage Airport 2
+Browns Landing 3
+Murk's Strip 3
+Ragwing Acres Airport 2
+Windham Hospital Heliport 2
+Urschel Ranch Airport 2
+Hilltop Airport 3
+Skida Patch Airport 3
+Nesta Airport 2
+William Beaumont Hospital Heliport 2
+Shump Airport 2
+Strong Memorial Hospital Heliport 2
+Goodson Honda Heliport 2
+Triad Carolinas Hospital Heliport 3
+Greggs Nr 1 Airport 3
+Myska Field 3
+Jim Wehrli Memorial Airport 3
+Waldorf Astoria Dubai Palm Jumeirah Helipad 3
+Harris Ranch Airport 3
+City of Fort Lauderdale Heliport 2
+Sportland Pier Heliport 2
+Whiskey Lake Seaplane Base 2
+JL Bar Ranch 3
+Berdick Field 3
+Mc Keon Aviation Airport 3
+Tims Ford Seaplane Base 3
+Johnson Airport 3
+Hilltop Ranch Airport 3
+Baptist Hospital East Heliport 3
+Simpson Airport 3
+Valley Forge Bicentennial Heliport 2
+Frels Airport 2
+Franklin Field 2
+Kitty Hawk Estates Airport 2
+Pine Hill Airport 2
+Baker Airport 2
+Middletown Heliport 3
+World Trade Center Heliport 2
+Lindsay Airport 3
+Walton Airport 2
+Martin Airport 2
+Childrens Medical Center Heliport 2
+Thomson Industries Inc Heliport 3
+Buie Field 2
+Salerno Airport 2
+Smokey Mtn Ranch Airport 3
+Williams Field 3
+Leaming Field 3
+Dubai Festival City Helipad 2
+Brewer Airport 2
+Jersey Tpke New Brunswick Helistop 2
+Weller Canyon Airport 2
+J V Ranch Airport 2
+St Joseph Heliport 3
+Tapa Airport 2
+Sutton's Field 2
+Florida Hospital Lake Placid Heliport 2
+Halls Flying Ranch Airport 3
+Wenskoski Field 2
+Flying N Ranch Airport 3
+Winn Parish Medical Center Heliport 2
+Snider Field 3
+Soggy Bottom Airport 3
+Howard Memorial Hospital Heliport 3
+Sheridan Memorial Hospital Heliport 3
+Johnson Lake Airport 2
+Redoubt View Seaplane Base 2
+Ambatolhy Airport 3
+Haas Airport 3
+Thorn Health Center Heliport 2
+Burleson County Hospital Heliport 3
+The Landing Airport 2
+Albert Einstein Medical Center Heliport 2
+Camp Chippewa Airport 3
+Orr Ranch Airport 2
+Bath Alum Airport 3
+Delma Hospital Helipad 2
+Healthalliance Hospital-Leominster Heliport 3
+Franklin Heliport 3
+Bayonne Golf Club Heliport 3
+Fiddyment Field 2
+Benbyre Farm Heliport 2
+Puget Sound Plaza Heliport 2
+Central Park Helistop 3
+Cottonwood Airport 2
+Kondavattavana Tank Seaplane Base 2
+Recreation Corporation Airport 2
+Point Thomson Sea Ice Airstrip 2
+Tuntutuliak Airport 3
+Wgcl-Tv Heliport 3
+Oak Ridge Heliport 2
+Horne Properties Heliport 2
+Tofte Airport 3
+Nusatupe Airport 2
+Pond View Private Airport 3
+Il Dept of Corrections/Lawrence County Heliport 3
+Ivy Bend Airport 2
+Bigger (Stol) STOLport 2
+Lutz Airport 3
+Squier Landing Airport 3
+AK-10 Airstrip 3
+Albritton Airport 3
+Lake Bay Gall Airport 3
+Bar Flying E Airport 3
+Exempla Good Samaritan Heliport 3
+Hooterville South Airport 3
+Houston Police Command Station Heliport 2
+Seeman Airport 2
+Eureka Springs Hospital Heliport 2
+Gary Gale Seaplane Base 2
+Leinsing Heliport 2
+Breeden Airport 2
+Catfish Point Airport 2
+Fitzgibbon Hospital Heliport 2
+Santa Cruz/Graciosa Bay/Luova Airport 3
+Susquehanna Heliport 3
+Yancopin Airport 2
+Fortman Heliport 2
+Coffman Airport 3
+Lazy G Bar Ranch Airport 2
+Seitz Field 2
+Lodi Airport 2
+Ozzy's Airport 3
+Pegasus Ranch Airport 3
+King's Airport 3
+Pitcock Rosillos Mountain Ranch Airport 2
+Spring Lake Airport 2
+Quiet Corner Heliport 3
+La Fonda Ranch Airport 3
+Santa Maria Ranch Airport 3
+Minuteman Strip 3
+Chambers Island Airport 2
+Kaufield Airport 2
+Caribbean Constr Main Office Heliport 3
+Ulawa Airport 3
+Merillat Airport 3
+Shoestring Aviation Airfield 2
+Glacierview Strip 3
+Nichols Airport 3
+Valley Flying Crown Airport 3
+Mason Airport 3
+Howell Airport 2
+Wake Medical Center Heliport 3
+Mills Field 2
+Memmi Airport 2
+Or\u00c5\u00abzg\u00c4\u0081n Airport 2
+Lake Bonanza Airport 2
+Mc Crory Stores Heliport 2
+Lewis Ranch Airport 2
+Foreman Field 3
+Nikaitchuq Operations Center Heliport 3
+Kelleys Airport 3
+Buccaneer Shore Facility Heliport 2
+Red Beard Dusting Service Airport 2
+J T Willie Airport 3
+Au Heliport 3
+Mc Ginn Ranch Airport 3
+A B Dock Services Heliport 2
+Solt Field 3
+Westerlind Airport 3
+Peterson Seaplane Base 3
+Grandpas' Farm Mendota Airport 2
+Taylor Field 2
+Crawford Airport 3
+Evans Ranch Airport 3
+Army Reserve Heliport 3
+Good Samaritan Hospital Heliport 3
+Big Muddy Ranch Airport 2
+Turkey Creek Lake Airport 2
+Venice Base Heliport & Seaplane Base 3
+Bayes Airport 2
+Stevens Strip 3
+Yasat Higher Airport 2
+Whitestone Airport 2
+Dongola Heliport 2
+Christus Spohn Hospital Memorial Heliport 2
+Reids Landing Airport 2
+Rolling Plains Hospital Heliport 2
+Platform Hillhouse Heliport 3
+Long Ranch Airport 3
+Nushagak Airport 2
+Saddleback Island Heliport 3
+Wingsong Estates Airport 2
+Kishwaukee Community Hospital Heliport 2
+Swamp Smith Airport 2
+Abi Airport 2
+Aiome Airport 2
+Hendershots Heliport 2
+Falin Landing Strip 3
+Dobie's Airport 2
+Titus Regional Medical Center Heliport 3
+Hudson River Landing Airport 3
+Our Lady of Lourdes Heart Hospital Heliport 3
+Gannon's Landing Airport 2
+Thomas Jefferson University Hospital Heliport 2
+Gibbons Field 2
+Alligator Drink Seaplane Base 2
+American Creek Airport 2
+Dekalb Regional Medical Center Heliport 2
+Holly City Heliport 3
+Jakes Bar Airport 2
+Baltimore Washington Medical Center Heliport 3
+G. Bray Airport 2
+Gaston Airport 2
+Marr Field 2
+Stanchester Airport 3
+Mid-Columbia Medical Center Heliport 3
+Alaska Heliworx Heliport 2
+Mercy Air-Pahrump Heliport 3
+Gezik Seaplane Base 2
+Rothera Point Airport 2
+Centra State Medical Center Heliport 2
+Geo-Seis Helicopters Heliport 1
+Fishback Heliport 2
+Hart Airport 2
+Paradise Falls Airport 2
+Sunset Strip 3
+Six Flags Great Adventure Heliport 3
+Rag Wing Airport 2
+Baptist Memorial Hospital Heliport 2
+Marshall Field 2
+Winifred Airport 3
+Westwind Farm Airport 2
+Cambron Field 2
+Cirino Heliport 1
+Courtney Plummer Airport 3
+Delta Daves Airport 3
+Willow Bend Airport 2
+Taylor Mountain Airport 2
+Parkway Farm Strip 3
+Hall Airport 2
+St Mary's Hospital Heliport 2
+Bell Helicopter Hurst Heliport 3
+W S Lee & Sons Inc Heliport 3
+Barron Municipal Airport 2
+Oasis Ranch Airport 3
+Avera Heart Hospital of South Dakota Heliport 2
+Fairview West Airport 2
+Trinity Medical Center West Heliport 2
+Van Treese Airport 2
+Nez Perce Municipal Airport 3
+Wabana Seaplane Base 3
+NCH Heliport 3
+Edmond Airport 2
+Norm's Field 2
+Ferros Ranch-Aero Airport 2
+Burford Corp. Airport 2
+Tommy's Airpark 3
+Shaniko Ranch Airport 2
+Denali Airport 2
+Huntsville Field 3
+Bertrand Chaffee Hospital Heliport 2
+Aberdeen Field 3
+Lower Hay Lake Seaplane Base 3
+Myrick Airport 2
+Arrowhead Point Airport 2
+Panhandle Helicopter Llc Heliport 3
+Westport Heliport 2
+Pepper Port Airport 2
+Helicopter Management Heliport 2
+Buckeye Executive Airport 3
+Davis Ranch Airport 3
+Central Pad Heliport 3
+Kitten Farm Private Airport 3
+Market Garden Airport 3
+Mackie's Airport 3
+Ar Horqin Airport 3
+Pearce Field 2
+Hogue Farm Airport 3
+Spring Lake Fire Department Heliport 2
+Barrigada Readiness Center Heliport 3
+Sila Hospitals Helipad 2
+Wilson Creek Airport 3
+Smith Field Airport 2
+Raleigh East Airport 2
+Huey P Long Regional Medical Center Heliport 2
+Roto-Whirl/Vantage Heliport 2
+Blue Ridge Flightpark Airport 2
+Herendeen Bay Airport 3
+Cross Triangle Ranch Airport 2
+Poughkeepsie Main Plant Heliport 2
+Providence Hospital Heliport 3
+Gunsight Mountain Airport 3
+Jucapa Farms Airport 2
+West Feliciana Sheriff's Office Heliport 3
+Gilbertson Field 2
+Yost Personal Use Airport 3
+Al Forsan Helipad 3
+Performance Helicopters Heliport 3
+Jackson Heliport 3
+Bayfront Garage Heliport 3
+Bender's Airport 3
+Kitner Airport 2
+Pilgrim's Home Airfield 3
+D.W. Mcmillian Memorial Hospital Heliport 2
+Thompson Airfield 2
+Sentara Williamsburg Regional Medical Center Heliport 3
+Glen Fed Heliport 3
+Mckinley Ranch Airport 2
+Western Sky Airport 2
+Roto-Whirl/Ski World Heliport 2
+Valley Hospital - Palmer Heliport 3
+St Joseph's Hospital Heliport 3
+Metro Heli-Pad Heliport 3
+Folly Neck Airport 2
+G W Farm Airport 3
+Beggs Ranch Airport 3
+Johnston Field 2
+Elliott Farms Airport 3
+Used Parts Heliport 2
+Connor'S Lake Landing 3
+Marau Airport 3
+The Fort Heliport 2
+Breezy Knoll Airport 3
+Lobo Field 3
+Railway Stop Heliport 2
+Fiorini Ranch Airport 2
+Flying Joseph Ranch Airport 3
+Cam\u00c3\u00ad Heliport 2
+Savanna Army Depot Helipad 2
+Frost Field 2
+Van Buren County Memorial Hospital Heliport 1
+Uru Harbour Airport 2
+The Johns Hopkins Hospital Heliport 2
+Harper's Fly-In Ranch Airport 3
+Ada Airport 3
+Valley West Hospital Heliport 2
+Sheriff's Courthouse Heliport 2
+Urbana Area Medical Heliport 3
+Meylor Field 2
+Timber House Airport 2
+Lakeview Airport 3
+Piper Canyon Airport 2
+Westfield Memorial Hospital Heliport 3
+Sky Harbor Seaplane Base 2
+Brookwood Medical Center Heliport 3
+Kings Airport 3
+Siepsers Eye Port Heliport 2
+Stonebridge Farm Helistop 2
+Grouse Ridge Airport 2
+Evergreen Venice Heliport 3
+Wilson Heliport 2
+Village of Tamms Heliport 3
+Wgal-Tv Heliport 3
+Reed Airport 2
+Flying M Airport 2
+Ajrestan Airport 2
+Ultralight International Ultralightport 2
+High View Too Heliport 2
+Weems Farm Airport 2
+Spring Valley Hospital Heliport 2
+Rotelle Heliport 2
+Ghantoot Hotel 2 Helipad 3
+Seldovia Seaplane Base 3
+Branch's Heliport 2
+Short-N-Ruff Airport 2
+Cartwheel Airport 3
+Flying 'K' Ranch Ultralightport 2
+Hostetler Airport 2
+Versailles Aerodrome 2
+Doylestown Heliport 2
+Doctors Memorial Hospital #2 Heliport 2
+Chilton Memorial Hospital Heliport 2
+Speedway Northside Heliport 2
+Ragtime Aerodrome 3
+Farmers Pride Airport 3
+Drew Medical Center Heliport 2
+Calvert Memorial Hospital Heliport 2
+Lost River 2 Airport 2
+Alta Vista Ranch Airport 3
+Kaghau Airport 2
+Rocky Reef Farm Airport 2
+Creighton Airport 2
+Florida State Hospital Heliport 3
+Falcon Lake Strip 2
+Triangle Ranch Private Airport 2
+Gaffney Airport 2
+Herbst Heliport 3
+Black Butte Ranch Airport 2
+Ferrell Ranch Airport 2
+Strawberry Acres Airport 3
+Roto-Whirl/Holiday Heliport 2
+Pollux Heliport 3
+Triple H Heliport 2
+Miami Valley Heliport 3
+Wipline Seaplane Base 2
+Murphys Landing Strip 2
+Unger Field 3
+Heber Valley Hospital Heliport 2
+Cedar Creek Airport 3
+Eagle Lodge-Lafayette Hill Heliport 2
+Dangerous River Airport 2
+Mc Kenna Airport 2
+Carpenter Airport 2
+Dobbs Ranch Airport 2
+Rice Ranch Airport 2
+Southampton Memorial Hospital Heliport 2
+Fry Airport 2
+Camp Bullis Als (Cals) Airport 2
+Richards Airport 3
+Parkview Hospital Heliport 2
+Port Newark Helistop 2
+Folkerts Airport 3
+Roseland Airport 3
+Coyote Creek Ranch Airport 3
+Aero Lake Farm Airport 2
+Cedar Circle Heliport 3
+Buzz Field 3
+Inter County Airport 2
+King Ranch Airport 3
+Smith Prairie Airport 3
+Towner Farm Airport 2
+Augusta Medical Center Heliport 2
+Blair Lake Airport 3
+Crystal Lake Airpark 1
+Bradley Lake Hydroelectri Project Airstrip 2
+Adams County Regional Medical Center Heliport 3
+Prowers Medical Center Heliport 2
+Wooldridge Agstrip Airport 2
+UPMC Susquehanna Sunbury Heliport 2
+Hunt Airport 2
+Jett Airpark 3
+Buffalo Row Heliport 2
+John R Reed Airport 3
+Beets Airport 2
+Sloan's Airport 1
+Alascom/Coastal Lena Point Heliport 2
+Long Lake Airport 2
+Tennessee Gas Heliport 3
+Foster Ranch Airport 2
+Jefferson Health Bucks County Campus Heliport 1
+Dallas Rehabilitation Institute Heliport 2
+Shepherd Farm Airport 3
+Cone Airport 2
+Hickory Level Airfield 3
+Fry Field 2
+Ely Bloomenson Community Hospital Heliport 3
+Moore Private Airport 2
+Watonwan Memorial Hospital Heliport 3
+Scotts Airport 2
+Team Levine Heliport 2
+Crested Butte Airpark 3
+Columbus Municipal Airport 1
+Hannen Airport 2
+Big Canoe Heliport 3
+Coastal Ridge Airpark 2
+Briley Farm Seaplane Base 3
+Hillcrest Airport 2
+Bradbury-Rolf Memorial Heliport 3
+Warren-Sugarbush Airport 3
+Burke Heliport 3
+Cole Landing Area Airport 3
+Adin Airport 2
+Kearney Construction Heliport 3
+El Coyote Ranch Airport 3
+Anheuser/Busch Inc Heliport 2
+Mckey Airport 2
+Kramer Airport 2
+Flyers Field 3
+Negrito Airstrip 3
