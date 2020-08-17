@@ -1,0 +1,26 @@
+12 13
+ADW Camp Springs Joint Base Andrews 
+AAF Apalachicola Regional 
+AAV Surallah Allah Valley 
+AAQ Anapa 
+ACC Accra 
+ADF Adiyaman 
+ABO Aboisso 
+ADE Aden International 
+ADP Ampara Gal Oya 
+AAA Anaa 
+ADR Andrews Robert F. Swinnie 
+ABV Abuja 
+ADW ACC
+ADF ACC
+ADF ADP
+AAF AAV
+AAA ABV
+ACC ADW
+ADF AAF
+ACC ADE
+ADR ABV
+ABV ADE
+AAF ACC
+ADP ABV
+ADE AAQ

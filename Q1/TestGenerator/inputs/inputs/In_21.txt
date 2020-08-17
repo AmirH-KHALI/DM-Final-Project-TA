@@ -1,0 +1,27 @@
+22 4
+ABX Albury 
+ABW Abau 
+ABU Atambua Haliwen 
+ACJ Anuradhapura 
+ABZ Aberdeen (GB) 
+ADI Arandis 
+ABH Alpha 
+ADF Adiyaman 
+ACC Accra 
+ADT Ada Municipal 
+ADB Izmir 
+AAU Asau 
+ABT Al Baha Al-Aqiq 
+ABC Albacete Airport 
+ACH St. Gallen-Altenrhein 
+ABJ Abidjan 
+ADY Alldays 
+ABP Atkamba 
+ACD Acandi Alcides Fernandez 
+ACS Achinsk 
+ACN Ciudad Acuna International 
+AAS Apalapsili 
+ADT ABP
+ABJ ACJ
+ABC ABX
+ABC ABU

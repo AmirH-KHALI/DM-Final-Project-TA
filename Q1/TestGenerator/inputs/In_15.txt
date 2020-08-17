@@ -1,0 +1,44 @@
+18 25
+ADY Alldays 
+ABU Atambua Haliwen 
+ADW Camp Springs Joint Base Andrews 
+AAR Aarhus Tirstrup 
+ABC Albacete Airport 
+ACS Achinsk 
+ABV Abuja 
+ABZ Aberdeen (GB) 
+ADO Andamooka 
+ADN Andes 
+ABQ Albuquerque 
+ABI Abilene Regional Apt 
+ADV Addeain 
+ACD Acandi Alcides Fernandez 
+ACO Ascona 
+ABW Abau 
+ADT Ada Municipal 
+ACX Xingyi 
+ABQ ADO
+ABI ACX
+ABZ ACS
+ADW AAR
+ACS ABU
+ABZ ABV
+ABI ADV
+ACS ACX
+AAR ABW
+ADV ADN
+ABI ABQ
+ABQ ADV
+ADO ACX
+ABU ABV
+ACX ABU
+ADO ABV
+ADO ADN
+ABI ABC
+ABV AAR
+ADW ABI
+ACX AAR
+ACS ABZ
+ABW ADV
+ADY ADW
+ADT ADW

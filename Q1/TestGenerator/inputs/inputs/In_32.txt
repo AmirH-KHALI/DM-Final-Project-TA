@@ -1,0 +1,94 @@
+34 59
+AAC El Arish International 
+ACA Acapulco 
+ABL Ambler 
+ABH Alpha 
+ABD Abadan 
+ACC Accra 
+ADP Ampara Gal Oya 
+ADD Addis Ababa 
+AAJ Awaradam Cajana 
+ACN Ciudad Acuna International 
+AAI Arraias 
+ABO Aboisso 
+ACB Bellaire Antrim County 
+ABR Aberdeen Regional 
+AAT Altay 
+ABU Atambua Haliwen 
+ACV Arcata/Eureka 
+AAL Aalborg 
+ABE Allentown/Bethl 
+ABP Atkamba 
+ACZ Zabol 
+ACX Xingyi 
+ADV Addeain 
+AAO Anaco 
+ADA Adana 
+ABK Kabri Dar 
+AAN Al Ain International 
+ADF Adiyaman 
+ABG Abingdon Downs 
+ACK Nantucket Memorial 
+ADI Arandis 
+ADG Adrian Lenawee County 
+ACS Achinsk 
+ADX St Andrews Raf Leuchars 
+ACC ADA
+ACS AAL
+ACC ABK
+ABK ADV
+ADP ADI
+ACX ACB
+AAN ACZ
+ABD AAI
+AAT ABH
+ABD ADF
+ABH ADP
+ABG AAJ
+ABL ADD
+ABP ADX
+ADG ADI
+AAJ AAC
+AAN ACK
+AAI ABD
+ABP ABR
+AAL ADP
+ADX ABD
+ACX AAT
+ADD ADV
+ABE ACA
+ABG ABP
+ABR ADF
+ABP ADF
+AAT ACS
+ABU AAT
+ABG ADG
+ACV ACN
+ACN ACA
+ABH ACK
+ADI ACA
+ACS ADX
+ACX ADF
+ABO ACN
+ADA ABH
+ADG ABH
+ABP ACC
+ABU ABL
+ACX ADX
+ACB AAT
+ACV AAJ
+ABL ABH
+ABD ABP
+ABO AAN
+ACX ACN
+ADG ABP
+ACK ABR
+AAL ADI
+AAC ACX
+ABG ADI
+ACB ABG
+ABG ACN
+ABG ADX
+AAJ ADG
+ACA ACC
+ADV AAC

@@ -1,0 +1,81 @@
+39 41
+AAY Al Ghaydah 
+ABB Asaba International 
+ADM Ardmore Municipal Airport 
+AAZ Quetzaltenango 
+AAX Araxa 
+ADT Ada Municipal 
+ABJ Abidjan 
+ADL Adelaide 
+ABA Abakan 
+ADE Aden International 
+AAH Aachen Merzbrueck 
+AAM Mala Mala 
+ABD Abadan 
+ABW Abau 
+ADW Camp Springs Joint Base Andrews 
+ABX Albury 
+AAF Apalachicola Regional 
+ABO Aboisso 
+AAI Arraias 
+AAU Asau 
+AAC El Arish International 
+ACO Ascona 
+ACI Alderney 
+ADD Addis Ababa 
+ADU Ardabil 
+AAE Annaba Rabah Bitat 
+ABC Albacete Airport 
+AAN Al Ain International 
+ADJ Amman Marka Intl Airport 
+ACH St. Gallen-Altenrhein 
+AAS Apalapsili 
+ADR Andrews Robert F. Swinnie 
+ABI Abilene Regional Apt 
+ABE Allentown/Bethl 
+ADQ Kodiak Apt 
+AAD Adado 
+ADV Addeain 
+AAT Altay 
+AAA Anaa 
+ADL AAU
+AAH AAF
+ABC ACO
+ADQ AAY
+AAE AAA
+ACO ABI
+AAE AAI
+ADW AAF
+ADM AAC
+ABC ADM
+ADE ADT
+AAU ADD
+ABJ AAM
+AAU AAT
+AAX AAS
+ADV ABX
+ABI ABJ
+ADM ABC
+ADD ADE
+ADU ADJ
+AAD AAE
+AAH AAC
+ACI ABD
+ACH ABI
+ABJ AAD
+ADV AAN
+ABC AAF
+ADU AAC
+AAC ADD
+AAT ADL
+ABW ADT
+ACH AAH
+AAD ABE
+ADW ACO
+AAI ADW
+AAU AAX
+AAX ABC
+ABW ACH
+ABC ABB
+AAZ ABI
+ADD AAD

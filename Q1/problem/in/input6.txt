@@ -1,0 +1,39 @@
+11 27
+ACD Acandi Alcides Fernandez 
+AAL Aalborg 
+ACK Nantucket Memorial 
+ADY Alldays 
+AAT Altay 
+AAW Aachen Bf West Bus St 
+ACB Bellaire Antrim County 
+ABZ Aberdeen (GB) 
+ADO Andamooka 
+AAX Araxa 
+ACO Ascona 
+AAT ADO
+AAT AAX
+ABZ AAT
+AAX AAT
+ACK AAL
+ACK ACO
+AAW AAL
+ABZ ACK
+AAT ACD
+ABZ ADO
+ACB ACK
+AAX ADY
+ACD ACO
+ABZ AAL
+ADY AAW
+AAW ABZ
+ADO ABZ
+ADO ACO
+ACB ADY
+ACO ADY
+ACK ADO
+AAL ACB
+AAW ADO
+ACD ADO
+ACK AAT
+AAW ACD
+AAL ADY

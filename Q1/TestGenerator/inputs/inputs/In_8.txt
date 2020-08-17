@@ -1,0 +1,51 @@
+10 40
+AAW Aachen Bf West Bus St 
+ABR Aberdeen Regional 
+ABB Asaba International 
+ACN Ciudad Acuna International 
+ABM Bamaga Northern Peninsula 
+ADQ Kodiak Apt 
+AAA Anaa 
+ACE Lanzarote 
+ABI Abilene Regional Apt 
+ABK Kabri Dar 
+ACE ABI
+AAW ACN
+AAA ADQ
+ABR ACN
+AAA ABB
+AAW ADQ
+ACE ABK
+ABM AAA
+ADQ AAA
+AAW AAA
+ABR ACE
+ABB ABK
+ABK ABB
+ACN ABR
+ABM AAW
+ACN ACE
+ABM ABB
+ABK ACE
+ABM ABI
+ADQ ACE
+ABB ABR
+ABI AAA
+AAA ABK
+ABI ACE
+ABK AAW
+ACN ABI
+ABR AAW
+ABK ABR
+ABK ACN
+ABB ADQ
+ACN AAA
+ABI ABK
+ADQ ABK
+ACE ADQ
+ABK ABI
+AAA ACE
+ABK ADQ
+AAW ABB
+ABB ABI
+ACE ACN

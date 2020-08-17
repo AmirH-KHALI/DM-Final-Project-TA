@@ -1,0 +1,69 @@
+36 32
+AAD Adado 
+ADZ San Andres Island 
+ACR Araracuara 
+ACE Lanzarote 
+ABV Abuja 
+ADQ Kodiak Apt 
+AAV Surallah Allah Valley 
+AAB Arrabury 
+AAF Apalachicola Regional 
+ABC Albacete Airport 
+ABE Allentown/Bethl 
+ABY Albany Southwest Georgia Regional 
+ABH Alpha 
+ABJ Abidjan 
+ACV Arcata/Eureka 
+AAQ Anapa 
+ABZ Aberdeen (GB) 
+ACJ Anuradhapura 
+AAS Apalapsili 
+AAY Al Ghaydah 
+ADP Ampara Gal Oya 
+ACU Achutupo 
+ABI Abilene Regional Apt 
+ADW Camp Springs Joint Base Andrews 
+AAR Aarhus Tirstrup 
+ACL Aguaclara 
+AAE Annaba Rabah Bitat 
+ACI Alderney 
+ADM Ardmore Municipal Airport 
+ABT Al Baha Al-Aqiq 
+ACO Ascona 
+ABB Asaba International 
+AAG Arapoti Avelino Vieira 
+AAI Arraias 
+ABS Abu Simbel 
+AAP Samarinda Ap Tumenggung 
+AAR ADW
+AAS AAV
+ACR ACU
+ABV ACE
+ACU AAV
+AAF ACO
+AAR AAG
+ACE AAY
+AAR ABT
+ACR ABV
+AAE ABB
+ABJ AAG
+AAV ACL
+ABZ ACL
+AAV ABE
+AAI AAS
+ABC AAD
+ACL ABJ
+ABB ADP
+ABC ADM
+ACO ABE
+ABH AAB
+ACV ABS
+ACV AAE
+ADQ ADP
+ABJ ADW
+ABE ACJ
+AAV ADW
+ADM ABS
+ADM AAS
+ABS AAQ
+ADZ AAF
