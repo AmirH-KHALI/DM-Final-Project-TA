@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CityResource>
+  <Cities>
+    <City>
+      <CityCode>AAA</CityCode>
+      <CountryCode>PF</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Anaa</Name>
+      </Names>
+      <UtcOffset>-10:00</UtcOffset>
+      <TimeZoneId>Pacific/Tahiti</TimeZoneId>
+      <Airports>
+        <AirportCode>AAA</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAB</CityCode>
+      <CountryCode>AU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Arrabury</Name>
+      </Names>
+      <UtcOffset>+10:00</UtcOffset>
+      <TimeZoneId>Australia/Brisbane</TimeZoneId>
+      <Airports>
+        <AirportCode>AAB</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAC</CityCode>
+      <CountryCode>EG</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">El Arish</Name>
+      </Names>
+      <UtcOffset>+02:00</UtcOffset>
+      <TimeZoneId>Africa/Cairo</TimeZoneId>
+      <Airports>
+        <AirportCode>AAC</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAD</CityCode>
+      <CountryCode>SO</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Adado</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Africa/Mogadishu</TimeZoneId>
+      <Airports>
+        <AirportCode>AAD</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAE</CityCode>
+      <CountryCode>DZ</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Annaba</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Africa/Algiers</TimeZoneId>
+      <Airports>
+        <AirportCode>AAE</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAF</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Apalachicola</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>AAF</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAG</CityCode>
+      <CountryCode>BR</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Arapoti</Name>
+      </Names>
+      <UtcOffset>-03:00</UtcOffset>
+      <TimeZoneId>America/Araguaina</TimeZoneId>
+      <Airports>
+        <AirportCode>AAG</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAH</CityCode>
+      <CountryCode>DE</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aachen</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Europe/Berlin</TimeZoneId>
+      <Airports>
+        <AirportCode>AAH</AirportCode>
+        <AirportCode>AAW</AirportCode>
+        <AirportCode>XHJ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAI</CityCode>
+      <CountryCode>BR</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Arraias</Name>
+      </Names>
+      <UtcOffset>-03:00</UtcOffset>
+      <TimeZoneId>America/Araguaina</TimeZoneId>
+      <Airports>
+        <AirportCode>AAI</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAJ</CityCode>
+      <CountryCode>SR</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Awaradam</Name>
+      </Names>
+      <UtcOffset>-03:00</UtcOffset>
+      <TimeZoneId>America/Paramaribo</TimeZoneId>
+      <Airports>
+        <AirportCode>AAJ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAK</CityCode>
+      <CountryCode>KI</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aranuka</Name>
+      </Names>
+      <UtcOffset>+12:00</UtcOffset>
+      <TimeZoneId>Pacific/Tarawa</TimeZoneId>
+      <Airports>
+        <AirportCode>AAK</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAL</CityCode>
+      <CountryCode>DK</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aalborg</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Europe/Copenhagen</TimeZoneId>
+      <Airports>
+        <AirportCode>AAL</AirportCode>
+        <AirportCode>ZTG</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAM</CityCode>
+      <CountryCode>ZA</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Mala Mala</Name>
+      </Names>
+      <UtcOffset>+02:00</UtcOffset>
+      <TimeZoneId>Africa/Johannesburg</TimeZoneId>
+      <Airports>
+        <AirportCode>AAM</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAN</CityCode>
+      <CountryCode>AE</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Al Ain</Name>
+      </Names>
+      <UtcOffset>+04:00</UtcOffset>
+      <TimeZoneId>Asia/Dubai</TimeZoneId>
+      <Airports>
+        <AirportCode>AAN</AirportCode>
+        <AirportCode>ZVH</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAO</CityCode>
+      <CountryCode>VE</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Anaco</Name>
+      </Names>
+      <UtcOffset>-04:00</UtcOffset>
+      <TimeZoneId>America/Caracas</TimeZoneId>
+      <Airports>
+        <AirportCode>AAO</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAP</CityCode>
+      <CountryCode>ID</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Samarinda</Name>
+      </Names>
+      <UtcOffset>+08:00</UtcOffset>
+      <TimeZoneId>Asia/Makassar</TimeZoneId>
+    </City>
+    <City>
+      <CityCode>AAQ</CityCode>
+      <CountryCode>RU</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Anapa</Name>
+        <Name LanguageCode="CS">Anapa</Name>
+        <Name LanguageCode="DE">Anapa</Name>
+        <Name LanguageCode="EL">Ανάπα</Name>
+        <Name LanguageCode="EN">Anapa</Name>
+        <Name LanguageCode="ES">Anapa</Name>
+        <Name LanguageCode="FR">Anapa</Name>
+        <Name LanguageCode="HU">Anapa</Name>
+        <Name LanguageCode="IT">Anapa</Name>
+        <Name LanguageCode="RO">Anapa</Name>
+        <Name LanguageCode="SV">Anapa</Name>
+        <Name LanguageCode="TR">Anapa</Name>
+        <Name LanguageCode="UK">Anapa</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Europe/Moscow</TimeZoneId>
+      <Airports>
+        <AirportCode>AAQ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAR</CityCode>
+      <CountryCode>DK</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aarhus</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Europe/Copenhagen</TimeZoneId>
+      <Airports>
+        <AirportCode>AAR</AirportCode>
+        <AirportCode>ZBU</AirportCode>
+        <AirportCode>ZID</AirportCode>
+        <AirportCode>ZJH</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAS</CityCode>
+      <CountryCode>ID</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Apalapsili</Name>
+      </Names>
+      <UtcOffset>+09:00</UtcOffset>
+      <TimeZoneId>Asia/Jayapura</TimeZoneId>
+      <Airports>
+        <AirportCode>AAS</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAT</CityCode>
+      <CountryCode>CN</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Altay</Name>
+      </Names>
+      <UtcOffset>+08:00</UtcOffset>
+      <TimeZoneId>Asia/Shanghai</TimeZoneId>
+      <Airports>
+        <AirportCode>AAT</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAU</CityCode>
+      <CountryCode>WS</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Asau</Name>
+      </Names>
+      <UtcOffset>+13:00</UtcOffset>
+      <TimeZoneId>Pacific/Apia</TimeZoneId>
+      <Airports>
+        <AirportCode>AAU</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAV</CityCode>
+      <CountryCode>PH</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Surallah</Name>
+      </Names>
+      <UtcOffset>+08:00</UtcOffset>
+      <TimeZoneId>Asia/Manila</TimeZoneId>
+      <Airports>
+        <AirportCode>AAV</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAW</CityCode>
+      <CountryCode>PK</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abbottabad</Name>
+      </Names>
+      <UtcOffset>+05:00</UtcOffset>
+      <TimeZoneId>Asia/Karachi</TimeZoneId>
+    </City>
+    <City>
+      <CityCode>AAX</CityCode>
+      <CountryCode>BR</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Araxa</Name>
+        <Name LanguageCode="CS">Araxa</Name>
+        <Name LanguageCode="DE">Araxa</Name>
+        <Name LanguageCode="EL">Αραξά</Name>
+        <Name LanguageCode="EN">Araxa</Name>
+        <Name LanguageCode="ES">Araxa</Name>
+        <Name LanguageCode="FR">Araxa</Name>
+        <Name LanguageCode="HU">Araxa</Name>
+        <Name LanguageCode="IT">Araxa</Name>
+        <Name LanguageCode="RO">Araxa</Name>
+        <Name LanguageCode="SV">Araxa</Name>
+        <Name LanguageCode="TR">Araxa</Name>
+        <Name LanguageCode="UK">Araxa</Name>
+      </Names>
+      <UtcOffset>-03:00</UtcOffset>
+      <TimeZoneId>America/Araguaina</TimeZoneId>
+      <Airports>
+        <AirportCode>AAX</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAY</CityCode>
+      <CountryCode>YE</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Al Ghaydah</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Asia/Aden</TimeZoneId>
+      <Airports>
+        <AirportCode>AAY</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AAZ</CityCode>
+      <CountryCode>GT</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Quetzaltenango</Name>
+      </Names>
+      <UtcOffset>-06:00</UtcOffset>
+      <TimeZoneId>America/Guatemala</TimeZoneId>
+      <Airports>
+        <AirportCode>AAZ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABA</CityCode>
+      <CountryCode>RU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abakan</Name>
+      </Names>
+      <UtcOffset>+07:00</UtcOffset>
+      <TimeZoneId>Asia/Krasnoyarsk</TimeZoneId>
+      <Airports>
+        <AirportCode>ABA</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABB</CityCode>
+      <CountryCode>NG</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Asaba</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Africa/Lagos</TimeZoneId>
+      <Airports>
+        <AirportCode>ABB</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABC</CityCode>
+      <CountryCode>ES</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Albacete</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Europe/Madrid</TimeZoneId>
+      <Airports>
+        <AirportCode>ABC</AirportCode>
+        <AirportCode>EEM</AirportCode>
+        <AirportCode>XJJ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABD</CityCode>
+      <CountryCode>IR</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abadan</Name>
+      </Names>
+      <UtcOffset>+03:30</UtcOffset>
+      <TimeZoneId>Asia/Tehran</TimeZoneId>
+      <Airports>
+        <AirportCode>ABD</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABE</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Allentown/Bethlehem/Easton</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>ABE</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABF</CityCode>
+      <CountryCode>KI</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abaiang</Name>
+      </Names>
+      <UtcOffset>+12:00</UtcOffset>
+      <TimeZoneId>Pacific/Tarawa</TimeZoneId>
+      <Airports>
+        <AirportCode>ABF</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABG</CityCode>
+      <CountryCode>AU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abingdon Downs</Name>
+      </Names>
+      <UtcOffset>+10:00</UtcOffset>
+      <TimeZoneId>Australia/Brisbane</TimeZoneId>
+      <Airports>
+        <AirportCode>ABG</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABH</CityCode>
+      <CountryCode>AU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Alpha</Name>
+      </Names>
+      <UtcOffset>+10:00</UtcOffset>
+      <TimeZoneId>Australia/Brisbane</TimeZoneId>
+      <Airports>
+        <AirportCode>ABH</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABI</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abilene</Name>
+      </Names>
+      <UtcOffset>-06:00</UtcOffset>
+      <TimeZoneId>America/Chicago</TimeZoneId>
+      <Airports>
+        <AirportCode>ABI</AirportCode>
+        <AirportCode>DYS</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABJ</CityCode>
+      <CountryCode>CI</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abidjan</Name>
+      </Names>
+      <UtcOffset>+00:00</UtcOffset>
+      <TimeZoneId>Africa/Abidjan</TimeZoneId>
+      <Airports>
+        <AirportCode>ABJ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABK</CityCode>
+      <CountryCode>ET</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Kebri Dehar</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Africa/Addis_Ababa</TimeZoneId>
+      <Airports>
+        <AirportCode>ABK</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABL</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Ambler</Name>
+      </Names>
+      <UtcOffset>-09:00</UtcOffset>
+      <TimeZoneId>America/Anchorage</TimeZoneId>
+      <Airports>
+        <AirportCode>ABL</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABM</CityCode>
+      <CountryCode>AU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Bamaga</Name>
+      </Names>
+      <UtcOffset>+10:00</UtcOffset>
+      <TimeZoneId>Australia/Brisbane</TimeZoneId>
+      <Airports>
+        <AirportCode>ABM</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABN</CityCode>
+      <CountryCode>SR</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Albina</Name>
+      </Names>
+      <UtcOffset>-03:00</UtcOffset>
+      <TimeZoneId>America/Paramaribo</TimeZoneId>
+      <Airports>
+        <AirportCode>ABN</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABO</CityCode>
+      <CountryCode>CI</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aboisso</Name>
+      </Names>
+      <UtcOffset>+00:00</UtcOffset>
+      <TimeZoneId>Africa/Abidjan</TimeZoneId>
+      <Airports>
+        <AirportCode>ABO</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABP</CityCode>
+      <CountryCode>PG</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Atkamba</Name>
+      </Names>
+      <UtcOffset>+10:00</UtcOffset>
+      <TimeZoneId>Pacific/Port_Moresby</TimeZoneId>
+      <Airports>
+        <AirportCode>ABP</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABQ</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="DE">Albuquerque</Name>
+        <Name LanguageCode="EL">Αλμπουκέρκι</Name>
+        <Name LanguageCode="EN">Albuquerque</Name>
+        <Name LanguageCode="ES">Albuquerque</Name>
+        <Name LanguageCode="FR">Albuquerque</Name>
+        <Name LanguageCode="IT">Albuquerque</Name>
+        <Name LanguageCode="JA">アルバカーキ</Name>
+        <Name LanguageCode="KO">앨버커키</Name>
+        <Name LanguageCode="PL">Albuquerque</Name>
+        <Name LanguageCode="PT">Albuquerque</Name>
+        <Name LanguageCode="RU">Альбукерке</Name>
+        <Name LanguageCode="TR">Albuquerque</Name>
+        <Name LanguageCode="ZH">阿爾伯克基</Name>
+      </Names>
+      <UtcOffset>-07:00</UtcOffset>
+      <TimeZoneId>America/Denver</TimeZoneId>
+      <Airports>
+        <AirportCode>ABQ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABR</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aberdeen</Name>
+      </Names>
+      <UtcOffset>-06:00</UtcOffset>
+      <TimeZoneId>America/Chicago</TimeZoneId>
+      <Airports>
+        <AirportCode>ABR</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABS</CityCode>
+      <CountryCode>EG</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abu Simbel</Name>
+      </Names>
+      <UtcOffset>+02:00</UtcOffset>
+      <TimeZoneId>Africa/Cairo</TimeZoneId>
+      <Airports>
+        <AirportCode>ABS</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABT</CityCode>
+      <CountryCode>SA</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Al Baha</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Asia/Riyadh</TimeZoneId>
+      <Airports>
+        <AirportCode>ABT</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABU</CityCode>
+      <CountryCode>ID</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Atambua</Name>
+      </Names>
+      <UtcOffset>+08:00</UtcOffset>
+      <TimeZoneId>Asia/Makassar</TimeZoneId>
+      <Airports>
+        <AirportCode>ABU</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABV</CityCode>
+      <CountryCode>NG</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abuja</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Africa/Lagos</TimeZoneId>
+      <Airports>
+        <AirportCode>ABV</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABW</CityCode>
+      <CountryCode>PG</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abau</Name>
+      </Names>
+      <UtcOffset>+10:00</UtcOffset>
+      <TimeZoneId>Pacific/Port_Moresby</TimeZoneId>
+      <Airports>
+        <AirportCode>ABW</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABX</CityCode>
+      <CountryCode>AU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Albury</Name>
+      </Names>
+      <UtcOffset>+10:00</UtcOffset>
+      <TimeZoneId>Australia/Sydney</TimeZoneId>
+      <Airports>
+        <AirportCode>ABX</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABY</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="DE">Albany</Name>
+        <Name LanguageCode="EL">Άλμπανι</Name>
+        <Name LanguageCode="EN">Albany</Name>
+        <Name LanguageCode="ES">Albany</Name>
+        <Name LanguageCode="FR">Albany</Name>
+        <Name LanguageCode="IT">Albany</Name>
+        <Name LanguageCode="TR">Albany</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>ABY</AirportCode>
+        <AirportCode>NAB</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ABZ</CityCode>
+      <CountryCode>GB</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Aberdeen</Name>
+        <Name LanguageCode="CS">Aberdeen</Name>
+        <Name LanguageCode="DE">Aberdeen</Name>
+        <Name LanguageCode="EL">Αμπερντίν</Name>
+        <Name LanguageCode="EN">Aberdeen</Name>
+        <Name LanguageCode="ES">Aberdeen</Name>
+        <Name LanguageCode="FR">Aberdeen</Name>
+        <Name LanguageCode="HU">Aberdeen</Name>
+        <Name LanguageCode="IT">Aberdeen</Name>
+        <Name LanguageCode="JA">アバディーン</Name>
+        <Name LanguageCode="KO">애버딘</Name>
+        <Name LanguageCode="PL">Aberdeen</Name>
+        <Name LanguageCode="PT">Aberdeen</Name>
+        <Name LanguageCode="RO">Aberdeen</Name>
+        <Name LanguageCode="RU">Абердин</Name>
+        <Name LanguageCode="SV">Aberdeen</Name>
+        <Name LanguageCode="TR">Aberdeen</Name>
+        <Name LanguageCode="UK">Aberdeen</Name>
+        <Name LanguageCode="ZH">亞伯丁</Name>
+      </Names>
+      <UtcOffset>+00:00</UtcOffset>
+      <TimeZoneId>Europe/London</TimeZoneId>
+      <Airports>
+        <AirportCode>ABZ</AirportCode>
+        <AirportCode>ZXA</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACA</CityCode>
+      <CountryCode>MX</CountryCode>
+      <Names>
+        <Name LanguageCode="DE">Acapulco</Name>
+        <Name LanguageCode="EL">Ακαπούλκο</Name>
+        <Name LanguageCode="EN">Acapulco</Name>
+        <Name LanguageCode="ES">Acapulco</Name>
+        <Name LanguageCode="FR">Acapulco</Name>
+        <Name LanguageCode="IT">Acapulco</Name>
+        <Name LanguageCode="JA">アカプルコ</Name>
+        <Name LanguageCode="KO">아카풀코</Name>
+        <Name LanguageCode="PL">Acapulco</Name>
+        <Name LanguageCode="PT">Acapulco</Name>
+        <Name LanguageCode="RU">Акапулько</Name>
+        <Name LanguageCode="TR">Acapulco</Name>
+        <Name LanguageCode="ZH">阿卡普爾科</Name>
+      </Names>
+      <UtcOffset>-06:00</UtcOffset>
+      <TimeZoneId>America/Mexico_City</TimeZoneId>
+      <Airports>
+        <AirportCode>ACA</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACB</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Bellaire</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>ACB</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACC</CityCode>
+      <CountryCode>GH</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Accra</Name>
+        <Name LanguageCode="CS">Accra</Name>
+        <Name LanguageCode="DE">Accra</Name>
+        <Name LanguageCode="EL">Άκκρα</Name>
+        <Name LanguageCode="EN">Accra</Name>
+        <Name LanguageCode="ES">Accra</Name>
+        <Name LanguageCode="FR">Accra</Name>
+        <Name LanguageCode="HU">Accra</Name>
+        <Name LanguageCode="IT">Accra</Name>
+        <Name LanguageCode="JA">アクラ</Name>
+        <Name LanguageCode="KO">아크라</Name>
+        <Name LanguageCode="PL">Akra</Name>
+        <Name LanguageCode="PT">Acra</Name>
+        <Name LanguageCode="RO">Accra</Name>
+        <Name LanguageCode="RU">Аккра</Name>
+        <Name LanguageCode="SV">Accra</Name>
+        <Name LanguageCode="TR">Akra</Name>
+        <Name LanguageCode="UK">Accra</Name>
+        <Name LanguageCode="ZH">阿克拉</Name>
+      </Names>
+      <UtcOffset>+00:00</UtcOffset>
+      <TimeZoneId>Africa/Accra</TimeZoneId>
+      <Airports>
+        <AirportCode>ACC</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACD</CityCode>
+      <CountryCode>CO</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Acandi</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/Bogota</TimeZoneId>
+      <Airports>
+        <AirportCode>ACD</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACE</CityCode>
+      <CountryCode>ES</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Лансароте</Name>
+        <Name LanguageCode="CS">Lanzarote</Name>
+        <Name LanguageCode="DE">Lanzarote</Name>
+        <Name LanguageCode="EL">Λανζαρότε</Name>
+        <Name LanguageCode="EN">Lanzarote</Name>
+        <Name LanguageCode="ES">Lanzarote</Name>
+        <Name LanguageCode="FR">Lanzarote</Name>
+        <Name LanguageCode="HU">Lanzarote</Name>
+        <Name LanguageCode="IT">Lanzarote</Name>
+        <Name LanguageCode="JA">ランザローテ</Name>
+        <Name LanguageCode="KO">란자로테</Name>
+        <Name LanguageCode="PL">Lanzarote</Name>
+        <Name LanguageCode="PT">Lanzarote</Name>
+        <Name LanguageCode="RO">Lanzarote</Name>
+        <Name LanguageCode="RU">Лансароте</Name>
+        <Name LanguageCode="SV">Lanzarote</Name>
+        <Name LanguageCode="TR">Lanzarote</Name>
+        <Name LanguageCode="UK">Лансароте</Name>
+        <Name LanguageCode="ZH">蘭薩羅特</Name>
+      </Names>
+      <UtcOffset>+00:00</UtcOffset>
+      <TimeZoneId>Atlantic/Canary</TimeZoneId>
+      <Airports>
+        <AirportCode>ACE</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACH</CityCode>
+      <CountryCode>CH</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Алтенрайн</Name>
+        <Name LanguageCode="CS">Altenrhein</Name>
+        <Name LanguageCode="DE">Altenrhein</Name>
+        <Name LanguageCode="EL">Αλτενρχάιν</Name>
+        <Name LanguageCode="EN">Altenrhein</Name>
+        <Name LanguageCode="ES">Altenrhein</Name>
+        <Name LanguageCode="FR">Altenrhein</Name>
+        <Name LanguageCode="HU">Altenrhein</Name>
+        <Name LanguageCode="IT">Altenrhein</Name>
+        <Name LanguageCode="RO">Altenrhein</Name>
+        <Name LanguageCode="SV">Altenrhein</Name>
+        <Name LanguageCode="TR">Altenrhein</Name>
+        <Name LanguageCode="UK">Альтенрейн</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Europe/Zurich</TimeZoneId>
+      <Airports>
+        <AirportCode>ACH</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACI</CityCode>
+      <CountryCode>GB</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Alderney</Name>
+      </Names>
+      <UtcOffset>+00:00</UtcOffset>
+      <TimeZoneId>Europe/London</TimeZoneId>
+      <Airports>
+        <AirportCode>ACI</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACJ</CityCode>
+      <CountryCode>LK</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Anuradhapura</Name>
+      </Names>
+      <UtcOffset>+05:30</UtcOffset>
+      <TimeZoneId>Asia/Colombo</TimeZoneId>
+      <Airports>
+        <AirportCode>ACJ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACK</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Nantucket</Name>
+        <Name LanguageCode="CS">Nantucket</Name>
+        <Name LanguageCode="DE">Nantucket</Name>
+        <Name LanguageCode="EL">Ναντάκετ</Name>
+        <Name LanguageCode="EN">Nantucket</Name>
+        <Name LanguageCode="ES">Nantucket</Name>
+        <Name LanguageCode="FR">Nantucket</Name>
+        <Name LanguageCode="HU">Nantucket</Name>
+        <Name LanguageCode="IT">Nantucket</Name>
+        <Name LanguageCode="RO">Nantucket</Name>
+        <Name LanguageCode="SV">Nantucket</Name>
+        <Name LanguageCode="TR">Nantucket</Name>
+        <Name LanguageCode="UK">Nantucket</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>ACK</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACL</CityCode>
+      <CountryCode>CO</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aguaclara</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/Bogota</TimeZoneId>
+      <Airports>
+        <AirportCode>ACL</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACM</CityCode>
+      <CountryCode>CO</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Arica</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/Bogota</TimeZoneId>
+      <Airports>
+        <AirportCode>ACM</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACN</CityCode>
+      <CountryCode>MX</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Ciudad Acuna</Name>
+      </Names>
+      <UtcOffset>-06:00</UtcOffset>
+      <TimeZoneId>America/Matamoros</TimeZoneId>
+      <Airports>
+        <AirportCode>ACN</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACO</CityCode>
+      <CountryCode>CH</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Ascona</Name>
+      </Names>
+      <UtcOffset>+01:00</UtcOffset>
+      <TimeZoneId>Europe/Zurich</TimeZoneId>
+      <Airports>
+        <AirportCode>ACO</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACP</CityCode>
+      <CountryCode>IR</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Maragheh</Name>
+      </Names>
+      <UtcOffset>+03:30</UtcOffset>
+      <TimeZoneId>Asia/Tehran</TimeZoneId>
+      <Airports>
+        <AirportCode>ACP</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACR</CityCode>
+      <CountryCode>CO</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Araracuara</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/Bogota</TimeZoneId>
+      <Airports>
+        <AirportCode>ACR</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACS</CityCode>
+      <CountryCode>RU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Achinsk</Name>
+      </Names>
+      <UtcOffset>+07:00</UtcOffset>
+      <TimeZoneId>Asia/Krasnoyarsk</TimeZoneId>
+      <Airports>
+        <AirportCode>ACS</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACT</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="DE">Waco</Name>
+        <Name LanguageCode="EL">Γουάκο</Name>
+        <Name LanguageCode="EN">Waco</Name>
+        <Name LanguageCode="ES">Waco</Name>
+        <Name LanguageCode="FR">Waco</Name>
+        <Name LanguageCode="IT">Waco</Name>
+        <Name LanguageCode="TR">Waco</Name>
+      </Names>
+      <UtcOffset>-06:00</UtcOffset>
+      <TimeZoneId>America/Chicago</TimeZoneId>
+      <Airports>
+        <AirportCode>ACT</AirportCode>
+        <AirportCode>CNW</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACU</CityCode>
+      <CountryCode>PA</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Achutupo</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/Panama</TimeZoneId>
+      <Airports>
+        <AirportCode>ACU</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACV</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Arcata/Eureka</Name>
+        <Name LanguageCode="CS">Arcata/Eureka</Name>
+        <Name LanguageCode="DE">Arcata/Eureka</Name>
+        <Name LanguageCode="EL">Αρκάτα/Γιουρίκα</Name>
+        <Name LanguageCode="EN">Arcata/Eureka</Name>
+        <Name LanguageCode="ES">Arcata/Eureka</Name>
+        <Name LanguageCode="FR">Arcata/Eureka</Name>
+        <Name LanguageCode="HU">Arcata/Eureka</Name>
+        <Name LanguageCode="IT">Arcata/Eureka</Name>
+        <Name LanguageCode="RO">Arcata/Eureka</Name>
+        <Name LanguageCode="SV">Arcata/Eureka</Name>
+        <Name LanguageCode="TR">Arcata/Eureka</Name>
+        <Name LanguageCode="UK">Arcata/Eureka</Name>
+      </Names>
+      <UtcOffset>-08:00</UtcOffset>
+      <TimeZoneId>America/Los_Angeles</TimeZoneId>
+      <Airports>
+        <AirportCode>ACV</AirportCode>
+        <AirportCode>EKA</AirportCode>
+        <AirportCode>NLN</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACX</CityCode>
+      <CountryCode>CN</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Xingyi</Name>
+      </Names>
+      <UtcOffset>+08:00</UtcOffset>
+      <TimeZoneId>Asia/Shanghai</TimeZoneId>
+      <Airports>
+        <AirportCode>ACX</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACY</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Atlantic City</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>ACY</AirportCode>
+        <AirportCode>AIY</AirportCode>
+        <AirportCode>JSL</AirportCode>
+        <AirportCode>ZRA</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ACZ</CityCode>
+      <CountryCode>IR</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Zabol</Name>
+      </Names>
+      <UtcOffset>+03:30</UtcOffset>
+      <TimeZoneId>Asia/Tehran</TimeZoneId>
+      <Airports>
+        <AirportCode>ACZ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADA</CityCode>
+      <CountryCode>TR</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Adana</Name>
+        <Name LanguageCode="CS">Adana</Name>
+        <Name LanguageCode="DE">Adana</Name>
+        <Name LanguageCode="EL">Άδανα</Name>
+        <Name LanguageCode="EN">Adana</Name>
+        <Name LanguageCode="ES">Adana</Name>
+        <Name LanguageCode="FR">Adana</Name>
+        <Name LanguageCode="HU">Adana</Name>
+        <Name LanguageCode="IT">Adana</Name>
+        <Name LanguageCode="JA">アダナ</Name>
+        <Name LanguageCode="KO">아다나</Name>
+        <Name LanguageCode="PL">Adana</Name>
+        <Name LanguageCode="PT">Adana</Name>
+        <Name LanguageCode="RO">Adana</Name>
+        <Name LanguageCode="RU">Адана</Name>
+        <Name LanguageCode="SV">Adana</Name>
+        <Name LanguageCode="TR">Adana</Name>
+        <Name LanguageCode="UK">Adana</Name>
+        <Name LanguageCode="ZH">阿達納</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Europe/Istanbul</TimeZoneId>
+      <Airports>
+        <AirportCode>ADA</AirportCode>
+        <AirportCode>UAB</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADC</CityCode>
+      <CountryCode>PG</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Andakombe</Name>
+      </Names>
+      <UtcOffset>+10:00</UtcOffset>
+      <TimeZoneId>Pacific/Port_Moresby</TimeZoneId>
+      <Airports>
+        <AirportCode>ADC</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADD</CityCode>
+      <CountryCode>ET</CountryCode>
+      <Names>
+        <Name LanguageCode="DE">Addis Ababa</Name>
+        <Name LanguageCode="EL">Αντίς Αμπέμπα</Name>
+        <Name LanguageCode="EN">Addis Ababa</Name>
+        <Name LanguageCode="ES">Addis Abeba</Name>
+        <Name LanguageCode="FR">Addis Abeba</Name>
+        <Name LanguageCode="IT">Addis Abeba</Name>
+        <Name LanguageCode="JA">アジスアベバ</Name>
+        <Name LanguageCode="KO">아디스아바바</Name>
+        <Name LanguageCode="PL">Adis Abeba</Name>
+        <Name LanguageCode="PT">Addis Abeba</Name>
+        <Name LanguageCode="RU">Аддис-Абеба</Name>
+        <Name LanguageCode="TR">Addis Ababa</Name>
+        <Name LanguageCode="ZH">亞的斯亞貝巴</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Africa/Addis_Ababa</TimeZoneId>
+      <Airports>
+        <AirportCode>ADD</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADE</CityCode>
+      <CountryCode>YE</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aden</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Asia/Aden</TimeZoneId>
+      <Airports>
+        <AirportCode>ADE</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADF</CityCode>
+      <CountryCode>TR</CountryCode>
+      <Names>
+        <Name LanguageCode="EL">Αντιγιαμάν</Name>
+        <Name LanguageCode="EN">Adiyaman</Name>
+        <Name LanguageCode="TR">Adıyaman</Name>
+      </Names>
+      <UtcOffset>+03:00</UtcOffset>
+      <TimeZoneId>Europe/Istanbul</TimeZoneId>
+      <Airports>
+        <AirportCode>ADF</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADG</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Adrian</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>ADG</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADH</CityCode>
+      <CountryCode>RU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aldan</Name>
+      </Names>
+      <UtcOffset>+09:00</UtcOffset>
+      <TimeZoneId>Asia/Yakutsk</TimeZoneId>
+      <Airports>
+        <AirportCode>ADH</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADI</CityCode>
+      <CountryCode>NA</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Arandis</Name>
+      </Names>
+      <UtcOffset>+02:00</UtcOffset>
+      <TimeZoneId>Africa/Windhoek</TimeZoneId>
+      <Airports>
+        <AirportCode>ADI</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADK</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Adak Island</Name>
+        <Name LanguageCode="CS">Adak Island</Name>
+        <Name LanguageCode="DE">Adak Island</Name>
+        <Name LanguageCode="EL">Νήσος Αντάκ</Name>
+        <Name LanguageCode="EN">Adak Island</Name>
+        <Name LanguageCode="ES">Adak Island</Name>
+        <Name LanguageCode="FR">Adak Island</Name>
+        <Name LanguageCode="HU">Adak Island</Name>
+        <Name LanguageCode="IT">Adak Island</Name>
+        <Name LanguageCode="RO">Adak Island</Name>
+        <Name LanguageCode="SV">Adak Island</Name>
+        <Name LanguageCode="TR">Adak Island</Name>
+        <Name LanguageCode="UK">Adak Island</Name>
+      </Names>
+      <UtcOffset>-10:00</UtcOffset>
+      <TimeZoneId>America/Adak</TimeZoneId>
+      <Airports>
+        <AirportCode>ADK</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADL</CityCode>
+      <CountryCode>AU</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">Adelaide</Name>
+        <Name LanguageCode="CS">Adelaide</Name>
+        <Name LanguageCode="DE">Adelaide</Name>
+        <Name LanguageCode="EL">Αδελαΐδα</Name>
+        <Name LanguageCode="EN">Adelaide</Name>
+        <Name LanguageCode="ES">Adelaida</Name>
+        <Name LanguageCode="FR">Adélaïde</Name>
+        <Name LanguageCode="HU">Adelaide</Name>
+        <Name LanguageCode="IT">Adelaide</Name>
+        <Name LanguageCode="JA">アデレード</Name>
+        <Name LanguageCode="KO">애들레이드</Name>
+        <Name LanguageCode="PL">Adelaida</Name>
+        <Name LanguageCode="PT">Adelaide</Name>
+        <Name LanguageCode="RO">Adelaide</Name>
+        <Name LanguageCode="RU">Аделаида</Name>
+        <Name LanguageCode="SV">Adelaide</Name>
+        <Name LanguageCode="TR">Adelaide</Name>
+        <Name LanguageCode="UK">Adelaide</Name>
+        <Name LanguageCode="ZH">阿德萊德</Name>
+      </Names>
+      <UtcOffset>+09:30</UtcOffset>
+      <TimeZoneId>Australia/Adelaide</TimeZoneId>
+      <Airports>
+        <AirportCode>ADL</AirportCode>
+        <AirportCode>XHX</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADM</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Ardmore</Name>
+      </Names>
+      <UtcOffset>-06:00</UtcOffset>
+      <TimeZoneId>America/Chicago</TimeZoneId>
+      <Airports>
+        <AirportCode>ADM</AirportCode>
+        <AirportCode>AHD</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADN</CityCode>
+      <CountryCode>CO</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Andes</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/Bogota</TimeZoneId>
+      <Airports>
+        <AirportCode>ADN</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADO</CityCode>
+      <CountryCode>AU</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Andamooka</Name>
+      </Names>
+      <UtcOffset>+09:30</UtcOffset>
+      <TimeZoneId>Australia/Adelaide</TimeZoneId>
+      <Airports>
+        <AirportCode>ADO</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADP</CityCode>
+      <CountryCode>LK</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Ampara</Name>
+      </Names>
+      <UtcOffset>+05:30</UtcOffset>
+      <TimeZoneId>Asia/Colombo</TimeZoneId>
+      <Airports>
+        <AirportCode>ADP</AirportCode>
+        <AirportCode>AFK</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADQ</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="DE">Kodiak</Name>
+        <Name LanguageCode="EL">Κόντιακ</Name>
+        <Name LanguageCode="EN">Kodiak</Name>
+        <Name LanguageCode="ES">Kodiak</Name>
+        <Name LanguageCode="FR">Kodiak</Name>
+        <Name LanguageCode="IT">Kodiak</Name>
+        <Name LanguageCode="TR">Kodiak</Name>
+      </Names>
+      <UtcOffset>-09:00</UtcOffset>
+      <TimeZoneId>America/Anchorage</TimeZoneId>
+      <Airports>
+        <AirportCode>ADQ</AirportCode>
+        <AirportCode>KDK</AirportCode>
+        <AirportCode>WDY</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADR</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Andrews</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>ADR</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADT</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Ada</Name>
+      </Names>
+      <UtcOffset>-06:00</UtcOffset>
+      <TimeZoneId>America/Chicago</TimeZoneId>
+      <Airports>
+        <AirportCode>ADT</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADU</CityCode>
+      <CountryCode>IR</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Ardabil</Name>
+      </Names>
+      <UtcOffset>+03:30</UtcOffset>
+      <TimeZoneId>Asia/Tehran</TimeZoneId>
+      <Airports>
+        <AirportCode>ADU</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADV</CityCode>
+      <CountryCode>SD</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Addeain</Name>
+      </Names>
+      <UtcOffset>+02:00</UtcOffset>
+      <TimeZoneId>Europe/London</TimeZoneId>
+      <Airports>
+        <AirportCode>ADV</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADW</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Camp Springs</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/New_York</TimeZoneId>
+      <Airports>
+        <AirportCode>ADW</AirportCode>
+        <AirportCode>NSF</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADX</CityCode>
+      <CountryCode>GB</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">St Andrews</Name>
+      </Names>
+      <UtcOffset>+00:00</UtcOffset>
+      <TimeZoneId>Europe/London</TimeZoneId>
+      <Airports>
+        <AirportCode>ADX</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADY</CityCode>
+      <CountryCode>ZA</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Alldays</Name>
+      </Names>
+      <UtcOffset>+02:00</UtcOffset>
+      <TimeZoneId>Africa/Johannesburg</TimeZoneId>
+      <Airports>
+        <AirportCode>ADY</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>ADZ</CityCode>
+      <CountryCode>CO</CountryCode>
+      <Names>
+        <Name LanguageCode="BG">San Andres Island</Name>
+        <Name LanguageCode="CS">San Andres Island</Name>
+        <Name LanguageCode="DE">San Andres Island</Name>
+        <Name LanguageCode="EL">Σαν Αντρές Άιλαντ</Name>
+        <Name LanguageCode="EN">San Andres Island</Name>
+        <Name LanguageCode="ES">Isla de San Andrés</Name>
+        <Name LanguageCode="FR">San Andrès</Name>
+        <Name LanguageCode="HU">San Andres Island</Name>
+        <Name LanguageCode="IT">Isola di San Andres</Name>
+        <Name LanguageCode="KO">산 안드레 섬</Name>
+        <Name LanguageCode="PL">Wyspa San Andres</Name>
+        <Name LanguageCode="PT">Ilha de Santo Andrés</Name>
+        <Name LanguageCode="RO">San Andres Island</Name>
+        <Name LanguageCode="RU">Сан-Андреас</Name>
+        <Name LanguageCode="SV">San Andres Island</Name>
+        <Name LanguageCode="TR">San Andres Island</Name>
+        <Name LanguageCode="UK">San Andres Island</Name>
+        <Name LanguageCode="ZH">聖安德烈斯島</Name>
+      </Names>
+      <UtcOffset>-05:00</UtcOffset>
+      <TimeZoneId>America/Bogota</TimeZoneId>
+      <Airports>
+        <AirportCode>ADZ</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AEA</CityCode>
+      <CountryCode>KI</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Abemama</Name>
+      </Names>
+      <UtcOffset>+12:00</UtcOffset>
+      <TimeZoneId>Pacific/Tarawa</TimeZoneId>
+      <Airports>
+        <AirportCode>AEA</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AEB</CityCode>
+      <CountryCode>CN</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Baise</Name>
+      </Names>
+      <UtcOffset>+08:00</UtcOffset>
+      <TimeZoneId>Asia/Shanghai</TimeZoneId>
+      <Airports>
+        <AirportCode>AEB</AirportCode>
+      </Airports>
+    </City>
+    <City>
+      <CityCode>AED</CityCode>
+      <CountryCode>US</CountryCode>
+      <Names>
+        <Name LanguageCode="EN">Aleneva</Name>
+      </Names>
+      <UtcOffset>-09:00</UtcOffset>
+      <TimeZoneId>America/Anchorage</TimeZoneId>
+      <Airports>
+        <AirportCode>AED</AirportCode>
+      </Airports>
+    </City>
+  </Cities>
+  <Meta Version="1.0.0">
+    <Link Rel="self" Href="https://api.lufthansa.com/v1/mds-references/cities/?limit=1000&amp;offset=0"/>
+    <Link Rel="next" Href="https://api.lufthansa.com/v1/mds-references/cities/?limit=100&amp;offset=100"/>
+    <Link Rel="last" Href="https://api.lufthansa.com/v1/mds-references/cities/?limit=100&amp;offset=10600"/>
+    <Link Rel="related" Href="https://api.lufthansa.com/v1/mds-references/airports/{airportCode}"/>
+    <Link Rel="related" Href="https://api.lufthansa.com/v1/mds-references/countries/{countryCode}"/>
+    <TotalCount>10670</TotalCount>
+  </Meta>
+</CityResource>
